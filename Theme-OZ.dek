@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="14881" Quantity="1" Sideboard="false" Name="Hanna, Ship's Navigator" />
+  <Cards CatID="37628" Quantity="1" Sideboard="false" Name="Karn, Silver Golem" />
+  <Cards CatID="17751" Quantity="1" Sideboard="false" Name="Jareth, Leonine Titan" />
+  <Cards CatID="59834" Quantity="1" Sideboard="false" Name="Wild-Field Scarecrow" />
+  <Cards CatID="29531" Quantity="1" Sideboard="false" Name="Pili-Pala" />
+  <Cards CatID="31532" Quantity="1" Sideboard="false" Name="Mind Stone" />
+  <Cards CatID="38130" Quantity="1" Sideboard="false" Name="Golem's Heart" />
+  <Cards CatID="53624" Quantity="1" Sideboard="false" Name="Scrapyard Mongrel" />
+  <Cards CatID="18539" Quantity="1" Sideboard="false" Name="Primoc Escapee" />
+  <Cards CatID="26780" Quantity="1" Sideboard="false" Name="Heartwood Storyteller" />
+  <Cards CatID="15169" Quantity="1" Sideboard="false" Name="Magnigoth Treefolk" />
+  <Cards CatID="28317" Quantity="1" Sideboard="false" Name="Treefolk Harbinger" />
+  <Cards CatID="29733" Quantity="1" Sideboard="false" Name="Mistmeadow Witch" />
+  <Cards CatID="28671" Quantity="1" Sideboard="false" Name="Kithkin Healer" />
+  <Cards CatID="28211" Quantity="1" Sideboard="false" Name="Kithkin Harbinger" />
+  <Cards CatID="28353" Quantity="1" Sideboard="false" Name="Galepowder Mage" />
+  <Cards CatID="30056" Quantity="1" Sideboard="false" Name="Kithkin Spellduster" />
+  <Cards CatID="36580" Quantity="1" Sideboard="false" Name="Narcolepsy" />
+  <Cards CatID="57905" Quantity="1" Sideboard="false" Name="Send to Sleep" />
+  <Cards CatID="45298" Quantity="1" Sideboard="false" Name="Sleep" />
+  <Cards CatID="12085" Quantity="1" Sideboard="false" Name="Carpet of Flowers" />
+  <Cards CatID="36460" Quantity="1" Sideboard="false" Name="Momentous Fall" />
+  <Cards CatID="32669" Quantity="1" Sideboard="false" Name="Liliana Vess" />
+  <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
+  <Cards CatID="61262" Quantity="1" Sideboard="false" Name="Tamiyo, Field Researcher" />
+  <Cards CatID="60082" Quantity="1" Sideboard="false" Name="Tamiyo's Journal" />
+  <Cards CatID="58160" Quantity="1" Sideboard="false" Name="Kytheon's Irregulars" />
+  <Cards CatID="58125" Quantity="1" Sideboard="false" Name="Sigil of Valor" />
+  <Cards CatID="19778" Quantity="1" Sideboard="false" Name="Leonin Elder" />
+  <Cards CatID="19817" Quantity="1" Sideboard="false" Name="Leonin Abunas" />
+  <Cards CatID="53480" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="33472" Quantity="1" Sideboard="false" Name="Desert Twister" />
+  <Cards CatID="20806" Quantity="1" Sideboard="false" Name="Tornado Elemental" />
+  <Cards CatID="40472" Quantity="1" Sideboard="false" Name="Savage Twister" />
+  <Cards CatID="62339" Quantity="1" Sideboard="false" Name="Prismatic Geoscope" />
+  <Cards CatID="25793" Quantity="1" Sideboard="false" Name="Prismatic Lens" />
+  <Cards CatID="58775" Quantity="1" Sideboard="false" Name="Brilliant Spectrum" />
+  <Cards CatID="58573" Quantity="1" Sideboard="false" Name="Bring to Light" />
+  <Cards CatID="60370" Quantity="1" Sideboard="false" Name="Accursed Witch" />
+  <Cards CatID="57265" Quantity="1" Sideboard="false" Name="Darksteel Axe" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="34788" Quantity="1" Sideboard="false" Name="Quest for the Holy Relic" />
+  <Cards CatID="38437" Quantity="1" Sideboard="false" Name="Etched Champion" />
+  <Cards CatID="39862" Quantity="1" Sideboard="false" Name="Dispatch" />
+  <Cards CatID="31311" Quantity="1" Sideboard="false" Name="Naya Panorama" />
+  <Cards CatID="23360" Quantity="1" Sideboard="false" Name="Voyager Staff" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="62079" Quantity="1" Sideboard="false" Name="Perpetual Timepiece" />
+  <Cards CatID="34390" Quantity="1" Sideboard="false" Name="Journey to Nowhere" />
+  <Cards CatID="57400" Quantity="1" Sideboard="false" Name="Otherworldly Journey" />
+  <Cards CatID="29966" Quantity="1" Sideboard="false" Name="Unmake" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="22142" Quantity="1" Sideboard="false" Name="Curtain of Light" />
+  <Cards CatID="21409" Quantity="1" Sideboard="false" Name="Isamaru, Hound of Konda" />
+  <Cards CatID="32845" Quantity="1" Sideboard="false" Name="Jackal Familiar" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="31313" Quantity="1" Sideboard="false" Name="Jund Panorama" />
+  <Cards CatID="44850" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
+  <Cards CatID="51354" Quantity="1" Sideboard="false" Name="Opal Palace" />
+  <Cards CatID="30915" Quantity="1" Sideboard="false" Name="Bant Panorama" />
+  <Cards CatID="25809" Quantity="1" Sideboard="false" Name="Chromatic Star" />
+  <Cards CatID="19891" Quantity="1" Sideboard="false" Name="Chromatic Sphere" />
+  <Cards CatID="61228" Quantity="1" Sideboard="false" Name="Hanweir Battlements" />
+  <Cards CatID="61220" Quantity="1" Sideboard="false" Name="Hanweir Garrison" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="31321" Quantity="1" Sideboard="false" Name="Grixis Panorama" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="12303" Quantity="1" Sideboard="false" Name="Gaea's Bounty" />
+  <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="28011" Quantity="1" Sideboard="false" Name="Rainbow Vale" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="50978" Quantity="1" Sideboard="false" Name="Esper Panorama" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="53214" Quantity="1" Sideboard="false" Name="Selvala, Explorer Returned" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="50968" Quantity="1" Sideboard="false" Name="Arcane Sanctum" />
+  <Cards CatID="34834" Quantity="1" Sideboard="false" Name="Kabira Crossroads" />
+  <Cards CatID="54166" Quantity="1" Sideboard="false" Name="Nomad Outpost" />
+  <Cards CatID="54160" Quantity="1" Sideboard="false" Name="Sandsteppe Citadel" />
+  <Cards CatID="31015" Quantity="1" Sideboard="false" Name="Seaside Citadel" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="53478" Quantity="4" Sideboard="false" Name="Forest" />
+  <Cards CatID="53484" Quantity="3" Sideboard="false" Name="Plains" />
+  <Cards CatID="53482" Quantity="2" Sideboard="false" Name="Island" />
+  <Cards CatID="53486" Quantity="2" Sideboard="false" Name="Swamp" />
+  <Cards CatID="18746" Quantity="1" Sideboard="true" Name="Karona, False God" />
+</Deck>

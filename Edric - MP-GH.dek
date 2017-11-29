@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="44119" Quantity="1" Sideboard="false" Name="Alchemist's Refuge" />
+  <Cards CatID="17835" Quantity="1" Sideboard="false" Name="Blatant Thievery" />
+  <Cards CatID="34770" Quantity="1" Sideboard="false" Name="Rite of Replication" />
+  <Cards CatID="10185" Quantity="1" Sideboard="false" Name="Awakening" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="26345" Quantity="1" Sideboard="false" Name="Braids, Conjurer Adept" />
+  <Cards CatID="7671" Quantity="1" Sideboard="false" Name="Prosperity" />
+  <Cards CatID="52118" Quantity="1" Sideboard="false" Name="Dictate of Kruphix" />
+  <Cards CatID="21711" Quantity="1" Sideboard="false" Name="Shizuko, Caller of Autumn" />
+  <Cards CatID="16433" Quantity="1" Sideboard="false" Name="Deserted Temple" />
+  <Cards CatID="9807" Quantity="1" Sideboard="false" Name="Eladamri's Vineyard" />
+  <Cards CatID="26872" Quantity="1" Sideboard="false" Name="Magus of the Vineyard" />
+  <Cards CatID="53482" Quantity="3" Sideboard="false" Name="Island" />
+  <Cards CatID="28691" Quantity="1" Sideboard="false" Name="Forced Fruition" />
+  <Cards CatID="50952" Quantity="2" Sideboard="false" Name="Island" />
+  <Cards CatID="21077" Quantity="1" Sideboard="false" Name="Heartbeat of Spring" />
+  <Cards CatID="26780" Quantity="1" Sideboard="false" Name="Heartwood Storyteller" />
+  <Cards CatID="20195" Quantity="1" Sideboard="false" Name="Temporal Cascade" />
+  <Cards CatID="42670" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
+  <Cards CatID="13483" Quantity="1" Sideboard="false" Name="Game Preserve" />
+  <Cards CatID="13153" Quantity="1" Sideboard="false" Name="Horn of Plenty" />
+  <Cards CatID="51146" Quantity="2" Sideboard="false" Name="Island" />
+  <Cards CatID="51170" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="13407" Quantity="1" Sideboard="false" Name="Indentured Djinn" />
+  <Cards CatID="51198" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="42560" Quantity="1" Sideboard="false" Name="Laboratory Maniac" />
+  <Cards CatID="25525" Quantity="1" Sideboard="false" Name="Paradox Haze" />
+  <Cards CatID="22791" Quantity="1" Sideboard="false" Name="Hunted Wumpus" />
+  <Cards CatID="21385" Quantity="1" Sideboard="false" Name="Minamo, School at Water's Edge" />
+  <Cards CatID="51364" Quantity="1" Sideboard="false" Name="Diviner Spirit" />
+  <Cards CatID="15706" Quantity="1" Sideboard="false" Name="Nature's Resurgence" />
+  <Cards CatID="16527" Quantity="1" Sideboard="false" Name="New Frontiers" />
+  <Cards CatID="9435" Quantity="1" Sideboard="false" Name="Noble Benefactor" />
+  <Cards CatID="24047" Quantity="1" Sideboard="false" Name="Novijen, Heart of Progress" />
+  <Cards CatID="23322" Quantity="1" Sideboard="false" Name="Mnemonic Nexus" />
+  <Cards CatID="22567" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="53478" Quantity="2" Sideboard="false" Name="Forest" />
+  <Cards CatID="40500" Quantity="3" Sideboard="false" Name="Forest" />
+  <Cards CatID="40532" Quantity="3" Sideboard="false" Name="Forest" />
+  <Cards CatID="40564" Quantity="2" Sideboard="false" Name="Forest" />
+  <Cards CatID="40738" Quantity="2" Sideboard="false" Name="Forest" />
+  <Cards CatID="31929" Quantity="1" Sideboard="false" Name="Font of Mythos" />
+  <Cards CatID="51440" Quantity="1" Sideboard="false" Name="Skyscribing" />
+  <Cards CatID="23380" Quantity="1" Sideboard="false" Name="Spectral Searchlight" />
+  <Cards CatID="31431" Quantity="1" Sideboard="false" Name="Eternal Witness" />
+  <Cards CatID="16859" Quantity="1" Sideboard="false" Name="Unifying Theory" />
+  <Cards CatID="27168" Quantity="1" Sideboard="false" Name="Upwelling" />
+  <Cards CatID="13299" Quantity="1" Sideboard="false" Name="Vernal Equinox" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="51494" Quantity="1" Sideboard="false" Name="Vision Skeins" />
+  <Cards CatID="39575" Quantity="1" Sideboard="false" Name="Blue Sun's Zenith" />
+  <Cards CatID="45496" Quantity="1" Sideboard="false" Name="Archaeomancer" />
+  <Cards CatID="16931" Quantity="1" Sideboard="false" Name="Words of Wisdom" />
+  <Cards CatID="57676" Quantity="1" Sideboard="false" Name="Yavimaya Coast" />
+  <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" />
+  <Cards CatID="26728" Quantity="1" Sideboard="false" Name="Rites of Flourishing" />
+  <Cards CatID="22741" Quantity="1" Sideboard="false" Name="Seedborn Muse" />
+  <Cards CatID="57476" Quantity="1" Sideboard="false" Name="Simic Growth Chamber" />
+  <Cards CatID="24015" Quantity="1" Sideboard="false" Name="Simic Signet" />
+  <Cards CatID="37454" Quantity="1" Sideboard="false" Name="Temple Bell" />
+  <Cards CatID="9397" Quantity="1" Sideboard="false" Name="Veteran Explorer" />
+  <Cards CatID="56896" Quantity="1" Sideboard="false" Name="Oath of Druids" />
+  <Cards CatID="18205" Quantity="1" Sideboard="false" Name="Weird Harvest" />
+  <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="60042" Quantity="1" Sideboard="false" Name="Woodland Stream" />
+  <Cards CatID="61432" Quantity="1" Sideboard="false" Name="Permeating Mass" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="30770" Quantity="1" Sideboard="false" Name="Personal Tutor" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="60332" Quantity="1" Sideboard="false" Name="Traverse the Ulvenwald" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="41127" Quantity="1" Sideboard="false" Name="Rampant Growth" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="40523" Quantity="1" Sideboard="false" Name="Spawnwrithe" />
+  <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
+  <Cards CatID="61118" Quantity="1" Sideboard="false" Name="Mind's Dilation" />
+  <Cards CatID="47689" Quantity="1" Sideboard="false" Name="Unexpected Results" />
+  <Cards CatID="39397" Quantity="1" Sideboard="false" Name="Viridian Corrupter" />
+  <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" />
+  <Cards CatID="35629" Quantity="1" Sideboard="false" Name="Terastodon" />
+  <Cards CatID="26453" Quantity="1" Sideboard="false" Name="Pongify" />
+  <Cards CatID="10028" Quantity="1" Sideboard="false" Name="Winter's Grasp" />
+  <Cards CatID="60863" Quantity="1" Sideboard="false" Name="Thornwood Falls" />
+  <Cards CatID="52677" Quantity="1" Sideboard="false" Name="Skyshroud Forest" />
+  <Cards CatID="48378" Quantity="1" Sideboard="false" Name="Simic Guildgate" />
+  <Cards CatID="51408" Quantity="1" Sideboard="false" Name="Primal Vigor" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="61775" Quantity="1" Sideboard="false" Name="Rashmi, Eternities Crafter" />
+  <Cards CatID="52975" Quantity="1" Sideboard="true" Name="Edric, Spymaster of Trest" />
+</Deck>

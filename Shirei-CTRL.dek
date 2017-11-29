@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="39722" Quantity="1" Sideboard="false" Name="Life's Finale" />
+  <Cards CatID="20848" Quantity="1" Sideboard="false" Name="Beacon of Unrest" />
+  <Cards CatID="37969" Quantity="1" Sideboard="false" Name="Perilous Myr" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="39770" Quantity="1" Sideboard="false" Name="Vault Skirge" />
+  <Cards CatID="34592" Quantity="1" Sideboard="false" Name="Crypt of Agadeem" />
+  <Cards CatID="37492" Quantity="1" Sideboard="false" Name="Viscera Seer" />
+  <Cards CatID="31578" Quantity="1" Sideboard="false" Name="Terrain Generator" />
+  <Cards CatID="43150" Quantity="1" Sideboard="false" Name="Dread Return" />
+  <Cards CatID="57042" Quantity="1" Sideboard="false" Name="Profane Command" />
+  <Cards CatID="19119" Quantity="1" Sideboard="false" Name="Ambition's Cost" />
+  <Cards CatID="51619" Quantity="1" Sideboard="false" Name="Asphyxiate" />
+  <Cards CatID="19457" Quantity="1" Sideboard="false" Name="Diabolic Tutor" />
+  <Cards CatID="21251" Quantity="1" Sideboard="false" Name="Kiku, Night's Flower" />
+  <Cards CatID="36264" Quantity="1" Sideboard="false" Name="Carrion Feeder" />
+  <Cards CatID="31532" Quantity="1" Sideboard="false" Name="Mind Stone" />
+  <Cards CatID="23254" Quantity="1" Sideboard="false" Name="Infectious Host" />
+  <Cards CatID="40551" Quantity="1" Sideboard="false" Name="Armillary Sphere" />
+  <Cards CatID="49585" Quantity="1" Sideboard="false" Name="Darksteel Ingot" />
+  <Cards CatID="32076" Quantity="1" Sideboard="false" Name="Overeager Apprentice" />
+  <Cards CatID="26371" Quantity="1" Sideboard="false" Name="Magus of the Coffers" />
+  <Cards CatID="20289" Quantity="1" Sideboard="false" Name="Whispersilk Cloak" />
+  <Cards CatID="29023" Quantity="1" Sideboard="false" Name="Cloak and Dagger" />
+  <Cards CatID="34774" Quantity="1" Sideboard="false" Name="Sadistic Sacrament" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="22713" Quantity="1" Sideboard="false" Name="Festering Goblin" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="43389" Quantity="1" Sideboard="false" Name="Increasing Ambition" />
+  <Cards CatID="43106" Quantity="1" Sideboard="false" Name="Diabolic Servitude" />
+  <Cards CatID="20155" Quantity="1" Sideboard="false" Name="Barter in Blood" />
+  <Cards CatID="20816" Quantity="1" Sideboard="false" Name="Night's Whisper" />
+  <Cards CatID="53296" Quantity="1" Sideboard="false" Name="Sign in Blood" />
+  <Cards CatID="29413" Quantity="1" Sideboard="false" Name="Dusk Urchins" />
+  <Cards CatID="53378" Quantity="1" Sideboard="false" Name="Black Cat" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="53396" Quantity="12" Sideboard="false" Name="Swamp" />
+  <Cards CatID="29611" Quantity="1" Sideboard="false" Name="Beseech the Queen" />
+  <Cards CatID="12585" Quantity="1" Sideboard="false" Name="Unearth" />
+  <Cards CatID="53107" Quantity="1" Sideboard="false" Name="Hymn to Tourach" />
+  <Cards CatID="53486" Quantity="11" Sideboard="false" Name="Swamp" />
+  <Cards CatID="22965" Quantity="1" Sideboard="false" Name="Hell's Caretaker" />
+  <Cards CatID="48029" Quantity="1" Sideboard="false" Name="Ancient Craving" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="19709" Quantity="1" Sideboard="false" Name="Consume Spirit" />
+  <Cards CatID="45652" Quantity="1" Sideboard="false" Name="Mutilate" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="31471" Quantity="1" Sideboard="false" Name="Cabal Coffers" />
+  <Cards CatID="23919" Quantity="1" Sideboard="false" Name="Plagued Rusalka" />
+  <Cards CatID="9483" Quantity="1" Sideboard="false" Name="Blood Pet" />
+  <Cards CatID="21447" Quantity="1" Sideboard="false" Name="Nezumi Bone-Reader" />
+  <Cards CatID="19733" Quantity="1" Sideboard="false" Name="Bottle Gnomes" />
+  <Cards CatID="40539" Quantity="1" Sideboard="false" Name="Attrition" />
+  <Cards CatID="51158" Quantity="1" Sideboard="false" Name="Disciple of Griselbrand" />
+  <Cards CatID="10463" Quantity="1" Sideboard="false" Name="Mindless Automaton" />
+  <Cards CatID="19655" Quantity="1" Sideboard="false" Name="Fallen Angel" />
+  <Cards CatID="37550" Quantity="1" Sideboard="false" Name="Triskelion" />
+  <Cards CatID="40776" Quantity="1" Sideboard="false" Name="Triskelavus" />
+  <Cards CatID="31143" Quantity="1" Sideboard="false" Name="Deathgreeter" />
+  <Cards CatID="19453" Quantity="1" Sideboard="false" Name="Maggot Carrier" />
+  <Cards CatID="27308" Quantity="1" Sideboard="false" Name="Ravenous Rats" />
+  <Cards CatID="33154" Quantity="1" Sideboard="false" Name="Abyssal Gatekeeper" />
+  <Cards CatID="25763" Quantity="1" Sideboard="false" Name="Nether Traitor" />
+  <Cards CatID="12641" Quantity="1" Sideboard="false" Name="Bone Shredder" />
+  <Cards CatID="26493" Quantity="1" Sideboard="false" Name="Big Game Hunter" />
+  <Cards CatID="28397" Quantity="1" Sideboard="false" Name="Marsh Flitter" />
+  <Cards CatID="31059" Quantity="1" Sideboard="false" Name="Scavenger Drake" />
+  <Cards CatID="51286" Quantity="1" Sideboard="false" Name="Decree of Pain" />
+  <Cards CatID="40682" Quantity="1" Sideboard="false" Name="Barren Moor" />
+  <Cards CatID="53774" Quantity="1" Sideboard="false" Name="Darksteel Citadel" />
+  <Cards CatID="44398" Quantity="1" Sideboard="false" Name="Leechridden Swamp" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="20019" Quantity="1" Sideboard="false" Name="Vault of Whispers" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="40705" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="46743" Quantity="1" Sideboard="false" Name="Grave Betrayal" />
+  <Cards CatID="21613" Quantity="1" Sideboard="true" Name="Shirei, Shizo's Caretaker" />
+</Deck>

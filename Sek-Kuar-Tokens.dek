@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="58401" Quantity="1" Sideboard="false" Name="Zulaport Cutthroat" />
+  <Cards CatID="37861" Quantity="1" Sideboard="false" Name="Wurmcoil Engine" />
+  <Cards CatID="27114" Quantity="1" Sideboard="false" Name="Squee, Goblin Nabob" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="39884" Quantity="1" Sideboard="false" Name="Beast Within" />
+  <Cards CatID="30558" Quantity="4" Sideboard="false" Name="Snow-Covered Mountain" />
+  <Cards CatID="38293" Quantity="1" Sideboard="false" Name="Blackcleave Cliffs" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="39796" Quantity="1" Sideboard="false" Name="Birthing Pod" />
+  <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="61849" Quantity="1" Sideboard="false" Name="Blooming Marsh" />
+  <Cards CatID="49585" Quantity="1" Sideboard="false" Name="Darksteel Ingot" />
+  <Cards CatID="32402" Quantity="1" Sideboard="false" Name="Deathbringer Thoctar" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="52260" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
+  <Cards CatID="58273" Quantity="1" Sideboard="false" Name="Ruinous Path" />
+  <Cards CatID="19577" Quantity="1" Sideboard="false" Name="Phyrexian Arena" />
+  <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="26702" Quantity="1" Sideboard="false" Name="Graven Cairns" />
+  <Cards CatID="19093" Quantity="1" Sideboard="false" Name="Fecundity" />
+  <Cards CatID="61667" Quantity="1" Sideboard="false" Name="Demon of Dark Schemes" />
+  <Cards CatID="36192" Quantity="1" Sideboard="false" Name="Murderous Redcap" />
+  <Cards CatID="59894" Quantity="1" Sideboard="false" Name="Game Trail" />
+  <Cards CatID="15988" Quantity="1" Sideboard="false" Name="Wood Elves" />
+  <Cards CatID="50830" Quantity="1" Sideboard="false" Name="Goblin Bombardment" />
+  <Cards CatID="60080" Quantity="1" Sideboard="false" Name="Foreboding Ruins" />
+  <Cards CatID="31431" Quantity="1" Sideboard="false" Name="Eternal Witness" />
+  <Cards CatID="22877" Quantity="1" Sideboard="false" Name="Greater Good" />
+  <Cards CatID="31333" Quantity="1" Sideboard="false" Name="Mycoloth" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="46781" Quantity="1" Sideboard="false" Name="Jarad's Orders" />
+  <Cards CatID="31471" Quantity="1" Sideboard="false" Name="Cabal Coffers" />
+  <Cards CatID="38301" Quantity="1" Sideboard="false" Name="Copperline Gorge" />
+  <Cards CatID="43291" Quantity="1" Sideboard="false" Name="Mikaeus, the Unhallowed" />
+  <Cards CatID="37410" Quantity="1" Sideboard="false" Name="Mitotic Slime" />
+  <Cards CatID="30961" Quantity="1" Sideboard="false" Name="Obelisk of Jund" />
+  <Cards CatID="47841" Quantity="1" Sideboard="false" Name="Ogre Slumlord" />
+  <Cards CatID="29589" Quantity="1" Sideboard="false" Name="Woodfall Primus" />
+  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="43150" Quantity="1" Sideboard="false" Name="Dread Return" />
+  <Cards CatID="19121" Quantity="1" Sideboard="false" Name="Phyrexian Plaguelord" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="50312" Quantity="1" Sideboard="false" Name="Purphoros, God of the Forge" />
+  <Cards CatID="48328" Quantity="1" Sideboard="false" Name="Putrefy" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="41325" Quantity="1" Sideboard="false" Name="Reassembling Skeleton" />
+  <Cards CatID="54344" Quantity="1" Sideboard="false" Name="Retribution of the Ancients" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="32553" Quantity="1" Sideboard="false" Name="Dragon Broodmother" />
+  <Cards CatID="41385" Quantity="1" Sideboard="false" Name="Rune-Scarred Demon" />
+  <Cards CatID="21097" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="30945" Quantity="1" Sideboard="false" Name="Savage Lands" />
+  <Cards CatID="59227" Quantity="1" Sideboard="false" Name="Mazirek, Kraul Death Priest" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="56038" Quantity="1" Sideboard="false" Name="Sidisi, Undead Vizier" />
+  <Cards CatID="20551" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
+  <Cards CatID="24635" Quantity="4" Sideboard="false" Name="Snow-Covered Forest" />
+  <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
+  <Cards CatID="24735" Quantity="4" Sideboard="false" Name="Snow-Covered Swamp" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="54340" Quantity="1" Sideboard="false" Name="Grim Haruspex" />
+  <Cards CatID="43153" Quantity="1" Sideboard="false" Name="Strangleroot Geist" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="50266" Quantity="1" Sideboard="false" Name="Temple of Abandon" />
+  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="32234" Quantity="1" Sideboard="false" Name="Terminate" />
+  <Cards CatID="52889" Quantity="1" Sideboard="false" Name="Yavimaya Elder" />
+  <Cards CatID="43189" Quantity="1" Sideboard="false" Name="Tragic Slip" />
+  <Cards CatID="53606" Quantity="1" Sideboard="false" Name="Reclamation Sage" />
+  <Cards CatID="60841" Quantity="1" Sideboard="false" Name="Victimize" />
+  <Cards CatID="31117" Quantity="1" Sideboard="false" Name="Vicious Shadows" />
+  <Cards CatID="37492" Quantity="1" Sideboard="false" Name="Viscera Seer" />
+  <Cards CatID="43421" Quantity="1" Sideboard="false" Name="Vorapede" />
+  <Cards CatID="43873" Quantity="1" Sideboard="false" Name="Harvester of Souls" />
+  <Cards CatID="42660" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="43142" Quantity="1" Sideboard="false" Name="Animate Dead" />
+  <Cards CatID="43457" Quantity="1" Sideboard="false" Name="Young Wolf" />
+  <Cards CatID="60126" Quantity="1" Sideboard="false" Name="Second Harvest" />
+  <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
+  <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
+  <Cards CatID="51320" Quantity="1" Sideboard="true" Name="Sek'Kuar, Deathkeeper" />
+</Deck>

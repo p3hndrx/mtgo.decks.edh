@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="64692" Quantity="1" Sideboard="false" Name="Neheb, the Eternal" />
+  <Cards CatID="63844" Quantity="1" Sideboard="false" Name="Bloodrage Brawler" />
+  <Cards CatID="63852" Quantity="1" Sideboard="false" Name="Combat Celebrant" />
+  <Cards CatID="63890" Quantity="1" Sideboard="false" Name="Nef-Crop Entangler" />
+  <Cards CatID="49103" Quantity="1" Sideboard="false" Name="Ogre Battledriver" />
+  <Cards CatID="51827" Quantity="1" Sideboard="false" Name="Archetype of Aggression" />
+  <Cards CatID="43281" Quantity="1" Sideboard="false" Name="Markov Blademaster" />
+  <Cards CatID="44033" Quantity="1" Sideboard="false" Name="Zealous Conscripts" />
+  <Cards CatID="36439" Quantity="1" Sideboard="false" Name="Kargan Dragonlord" />
+  <Cards CatID="21196" Quantity="1" Sideboard="false" Name="Godo, Bandit Warlord" />
+  <Cards CatID="55974" Quantity="1" Sideboard="false" Name="Lightning Berserker" />
+  <Cards CatID="56210" Quantity="1" Sideboard="false" Name="Kolaghan Forerunners" />
+  <Cards CatID="56294" Quantity="1" Sideboard="false" Name="Berserkers' Onslaught" />
+  <Cards CatID="10529" Quantity="1" Sideboard="false" Name="Raging Goblin" />
+  <Cards CatID="44201" Quantity="1" Sideboard="false" Name="Lightning Mauler" />
+  <Cards CatID="50182" Quantity="1" Sideboard="false" Name="Minotaur Skullcleaver" />
+  <Cards CatID="61404" Quantity="1" Sideboard="false" Name="Insatiable Gorgers" />
+  <Cards CatID="61410" Quantity="1" Sideboard="false" Name="Furyblade Vampire" />
+  <Cards CatID="55478" Quantity="1" Sideboard="false" Name="Goblin Heelcutter" />
+  <Cards CatID="21237" Quantity="1" Sideboard="false" Name="Akki Lavarunner" />
+  <Cards CatID="37483" Quantity="1" Sideboard="false" Name="Cyclops Gladiator" />
+  <Cards CatID="64664" Quantity="1" Sideboard="false" Name="Earthshaker Khenra" />
+  <Cards CatID="55612" Quantity="1" Sideboard="false" Name="Flamerush Rider" />
+  <Cards CatID="45240" Quantity="1" Sideboard="false" Name="Hamletback Goliath" />
+  <Cards CatID="63864" Quantity="1" Sideboard="false" Name="Flameblade Adept" />
+  <Cards CatID="28279" Quantity="1" Sideboard="false" Name="Inner-Flame Igniter" />
+  <Cards CatID="53510" Quantity="1" Sideboard="false" Name="Paragon of Fierce Defiance" />
+  <Cards CatID="59175" Quantity="1" Sideboard="false" Name="Warchief Giant" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="35661" Quantity="1" Sideboard="false" Name="Kazuul, Tyrant of the Cliffs" />
+  <Cards CatID="12393" Quantity="1" Sideboard="false" Name="Smoldering Crater" />
+  <Cards CatID="64660" Quantity="1" Sideboard="false" Name="Crash Through" />
+  <Cards CatID="59273" Quantity="1" Sideboard="false" Name="Reckless Bushwhacker" />
+  <Cards CatID="55348" Quantity="1" Sideboard="false" Name="Dragonrage" />
+  <Cards CatID="34388" Quantity="1" Sideboard="false" Name="Goblin Bushwhacker" />
+  <Cards CatID="12865" Quantity="1" Sideboard="false" Name="Trumpet Blast" />
+  <Cards CatID="60647" Quantity="1" Sideboard="false" Name="Orcish Oriflamme" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="29242" Quantity="1" Sideboard="false" Name="Shared Animosity" />
+  <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="65506" Quantity="1" Sideboard="false" Name="Pillar of Origins" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
+  <Cards CatID="62565" Quantity="1" Sideboard="false" Name="Metallic Mimic" />
+  <Cards CatID="59590" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="41577" Quantity="1" Sideboard="false" Name="Adaptive Automaton" />
+  <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="53650" Quantity="1" Sideboard="false" Name="Obelisk of Urd" />
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="38522" Quantity="1" Sideboard="false" Name="Gauntlet of Might" />
+  <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="35142" Quantity="1" Sideboard="false" Name="Valakut, the Molten Pinnacle" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="15790" Quantity="1" Sideboard="false" Name="Relentless Assault" />
+  <Cards CatID="23865" Quantity="1" Sideboard="false" Name="Shattering Spree" />
+  <Cards CatID="46405" Quantity="1" Sideboard="false" Name="Vandalblast" />
+  <Cards CatID="64650" Quantity="1" Sideboard="false" Name="Abrade" />
+  <Cards CatID="20227" Quantity="1" Sideboard="false" Name="Loxodon Warhammer" />
+  <Cards CatID="23042" Quantity="1" Sideboard="false" Name="Smash" />
+  <Cards CatID="64120" Quantity="1" Sideboard="false" Name="Hazoret's Monument" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="30648" Quantity="1" Sideboard="false" Name="Balduvian Trading Post" />
+  <Cards CatID="7523" Quantity="1" Sideboard="false" Name="Dormant Volcano" />
+  <Cards CatID="30558" Quantity="10" Sideboard="false" Name="Snow-Covered Mountain" />
+  <Cards CatID="53480" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53370" Quantity="8" Sideboard="false" Name="Mountain" />
+  <Cards CatID="29221" Quantity="1" Sideboard="false" Name="Obsidian Battle-Axe" />
+  <Cards CatID="24523" Quantity="1" Sideboard="true" Name="Lovisa Coldeyes" />
+</Deck>

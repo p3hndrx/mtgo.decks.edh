@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="30927" Quantity="1" Sideboard="false" Name="Elspeth, Knight-Errant" />
+  <Cards CatID="39539" Quantity="1" Sideboard="false" Name="Hero of Bladehold" />
+  <Cards CatID="55990" Quantity="1" Sideboard="false" Name="Secure the Wastes" />
+  <Cards CatID="39573" Quantity="1" Sideboard="false" Name="White Sun's Zenith" />
+  <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
+  <Cards CatID="62345" Quantity="1" Sideboard="false" Name="Goblin Spymaster" />
+  <Cards CatID="61220" Quantity="1" Sideboard="false" Name="Hanweir Garrison" />
+  <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
+  <Cards CatID="40523" Quantity="1" Sideboard="false" Name="Spawnwrithe" />
+  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
+  <Cards CatID="32834" Quantity="1" Sideboard="false" Name="Master of the Wild Hunt" />
+  <Cards CatID="9289" Quantity="1" Sideboard="false" Name="Liege of the Hollows" />
+  <Cards CatID="57144" Quantity="1" Sideboard="false" Name="Ant Queen" />
+  <Cards CatID="31333" Quantity="1" Sideboard="false" Name="Mycoloth" />
+  <Cards CatID="17063" Quantity="1" Sideboard="false" Name="Parallel Evolution" />
+  <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
+  <Cards CatID="40660" Quantity="1" Sideboard="false" Name="Hornet Queen" />
+  <Cards CatID="44696" Quantity="1" Sideboard="false" Name="Living Hive" />
+  <Cards CatID="54410" Quantity="1" Sideboard="false" Name="Hooded Hydra" />
+  <Cards CatID="32553" Quantity="1" Sideboard="false" Name="Dragon Broodmother" />
+  <Cards CatID="59085" Quantity="1" Sideboard="false" Name="Dragonlair Spider" />
+  <Cards CatID="23833" Quantity="1" Sideboard="false" Name="Ulasht, the Hate Seed" />
+  <Cards CatID="29535" Quantity="1" Sideboard="false" Name="Rhys the Redeemed" />
+  <Cards CatID="14575" Quantity="1" Sideboard="false" Name="Aura Mutation" />
+  <Cards CatID="46553" Quantity="1" Sideboard="false" Name="Trostani, Selesnya's Voice" />
+  <Cards CatID="48285" Quantity="1" Sideboard="false" Name="Emmara Tandris" />
+  <Cards CatID="23957" Quantity="1" Sideboard="false" Name="Hazezon Tamar" />
+  <Cards CatID="45372" Quantity="1" Sideboard="false" Name="Fervor" />
+  <Cards CatID="39738" Quantity="1" Sideboard="false" Name="Urabrask the Hidden" />
+  <Cards CatID="51396" Quantity="1" Sideboard="false" Name="Tempt with Discovery" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="34556" Quantity="1" Sideboard="false" Name="Khalni Heart Expedition" />
+  <Cards CatID="40709" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="25405" Quantity="1" Sideboard="false" Name="Search for Tomorrow" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="52889" Quantity="1" Sideboard="false" Name="Yavimaya Elder" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="14577" Quantity="1" Sideboard="false" Name="Artifact Mutation" />
+  <Cards CatID="49507" Quantity="1" Sideboard="false" Name="Sporemound" />
+  <Cards CatID="58561" Quantity="1" Sideboard="false" Name="Retreat to Emeria" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="50266" Quantity="1" Sideboard="false" Name="Temple of Abandon" />
+  <Cards CatID="51565" Quantity="1" Sideboard="false" Name="Temple of Plenty" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="53478" Quantity="11" Sideboard="false" Name="Forest" />
+  <Cards CatID="53480" Quantity="6" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53484" Quantity="6" Sideboard="false" Name="Plains" />
+  <Cards CatID="31131" Quantity="1" Sideboard="false" Name="Jungle Shrine" />
+  <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
+  <Cards CatID="15241" Quantity="1" Sideboard="false" Name="Rith's Grove" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="53312" Quantity="1" Sideboard="false" Name="Restock" />
+  <Cards CatID="52977" Quantity="1" Sideboard="false" Name="Chaos Warp" />
+  <Cards CatID="17763" Quantity="1" Sideboard="false" Name="Oblation" />
+  <Cards CatID="50305" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
+  <Cards CatID="37406" Quantity="1" Sideboard="false" Name="Sun Titan" />
+  <Cards CatID="34546" Quantity="1" Sideboard="false" Name="Lotus Cobra" />
+  <Cards CatID="50316" Quantity="1" Sideboard="false" Name="Xenagos, the Reveler" />
+  <Cards CatID="50246" Quantity="1" Sideboard="false" Name="Akroan Hoplite" />
+  <Cards CatID="47743" Quantity="1" Sideboard="false" Name="Aurelia, the Warleader" />
+  <Cards CatID="18101" Quantity="1" Sideboard="false" Name="Aggravated Assault" />
+  <Cards CatID="15790" Quantity="1" Sideboard="false" Name="Relentless Assault" />
+  <Cards CatID="58949" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
+  <Cards CatID="63606" Quantity="1" Sideboard="false" Name="Anointed Procession" />
+  <Cards CatID="60126" Quantity="1" Sideboard="false" Name="Second Harvest" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="64772" Quantity="1" Sideboard="false" Name="Samut, the Tested" />
+  <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
+  <Cards CatID="62325" Quantity="1" Sideboard="true" Name="Tana, the Bloodsower" />
+  <Cards CatID="62321" Quantity="1" Sideboard="true" Name="Sidar Kondo of Jamuraa" />
+</Deck>

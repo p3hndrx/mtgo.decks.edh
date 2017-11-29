@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="10689" Quantity="1" Sideboard="false" Name="Oath of Lieges" />
+  <Cards CatID="57632" Quantity="1" Sideboard="false" Name="Knight of the White Orchid" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="55256" Quantity="1" Sideboard="false" Name="Wayfarer's Bauble" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="58509" Quantity="1" Sideboard="false" Name="Pilgrim's Eye" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="55187" Quantity="1" Sideboard="false" Name="Myriad Landscape" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="9761" Quantity="1" Sideboard="false" Name="Pearl Medallion" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="21411" Quantity="1" Sideboard="false" Name="Untaidake, the Cloud Keeper" />
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
+  <Cards CatID="30222" Quantity="1" Sideboard="false" Name="Endless Horizons" />
+  <Cards CatID="58663" Quantity="1" Sideboard="false" Name="Emeria Shepherd" />
+  <Cards CatID="53484" Quantity="12" Sideboard="false" Name="Plains" />
+  <Cards CatID="53390" Quantity="13" Sideboard="false" Name="Plains" />
+  <Cards CatID="53384" Quantity="4" Sideboard="false" Name="Plains" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="54843" Quantity="1" Sideboard="false" Name="Dreamstone Hedron" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="21573" Quantity="1" Sideboard="false" Name="Long-Forgotten Gohei" />
+  <Cards CatID="22186" Quantity="1" Sideboard="false" Name="Pure Intentions" />
+  <Cards CatID="22062" Quantity="1" Sideboard="false" Name="Spiritual Visit" />
+  <Cards CatID="57400" Quantity="1" Sideboard="false" Name="Otherworldly Journey" />
+  <Cards CatID="22120" Quantity="1" Sideboard="false" Name="Nikko-Onna" />
+  <Cards CatID="21825" Quantity="1" Sideboard="false" Name="Terashi's Grasp" />
+  <Cards CatID="21771" Quantity="1" Sideboard="false" Name="Waxmane Baku" />
+  <Cards CatID="21661" Quantity="1" Sideboard="false" Name="Faithful Squire" />
+  <Cards CatID="22118" Quantity="1" Sideboard="false" Name="Celestial Kirin" />
+  <Cards CatID="57403" Quantity="1" Sideboard="false" Name="Hikari, Twilight Guardian" />
+  <Cards CatID="21479" Quantity="1" Sideboard="false" Name="Blessed Breath" />
+  <Cards CatID="21773" Quantity="1" Sideboard="false" Name="Shining Shoal" />
+  <Cards CatID="55978" Quantity="1" Sideboard="false" Name="Anafenza, Kin-Tree Spirit" />
+  <Cards CatID="46387" Quantity="1" Sideboard="false" Name="Phantom General" />
+  <Cards CatID="60078" Quantity="1" Sideboard="false" Name="Drogskol Cavalry" />
+  <Cards CatID="61102" Quantity="1" Sideboard="false" Name="Selfless Spirit" />
+  <Cards CatID="25923" Quantity="1" Sideboard="false" Name="Celestial Crusader" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="21889" Quantity="1" Sideboard="false" Name="Hokori, Dust Drinker" />
+  <Cards CatID="50140" Quantity="1" Sideboard="false" Name="Hopeful Eidolon" />
+  <Cards CatID="21033" Quantity="1" Sideboard="false" Name="Kami of Ancient Law" />
+  <Cards CatID="21615" Quantity="1" Sideboard="false" Name="Kami of the Honored Dead" />
+  <Cards CatID="21037" Quantity="1" Sideboard="false" Name="Kami of the Palace Fields" />
+  <Cards CatID="48998" Quantity="1" Sideboard="false" Name="Kataki, War's Wage" />
+  <Cards CatID="46283" Quantity="1" Sideboard="false" Name="Keening Apparition" />
+  <Cards CatID="21970" Quantity="1" Sideboard="false" Name="Kiyomaro, First to Stand" />
+  <Cards CatID="23927" Quantity="1" Sideboard="false" Name="Martyred Rusalka" />
+  <Cards CatID="21215" Quantity="1" Sideboard="false" Name="Myojin of Cleansing Fire" />
+  <Cards CatID="43263" Quantity="1" Sideboard="false" Name="Niblis of the Mist" />
+  <Cards CatID="43241" Quantity="1" Sideboard="false" Name="Niblis of the Urn" />
+  <Cards CatID="26788" Quantity="1" Sideboard="false" Name="Spirit en-Dal" />
+  <Cards CatID="27540" Quantity="1" Sideboard="false" Name="Windborn Muse" />
+  <Cards CatID="23588" Quantity="1" Sideboard="false" Name="Twilight Drover" />
+  <Cards CatID="12601" Quantity="1" Sideboard="false" Name="Karmic Guide" />
+  <Cards CatID="42526" Quantity="1" Sideboard="false" Name="Angel of Flight Alabaster" />
+  <Cards CatID="48027" Quantity="1" Sideboard="false" Name="Field of Souls" />
+  <Cards CatID="51661" Quantity="1" Sideboard="false" Name="Ghostblade Eidolon" />
+  <Cards CatID="28145" Quantity="1" Sideboard="false" Name="Thunder Spirit" />
+  <Cards CatID="21201" Quantity="1" Sideboard="false" Name="Yosei, the Morning Star" />
+  <Cards CatID="63606" Quantity="1" Sideboard="false" Name="Anointed Procession" />
+  <Cards CatID="59089" Quantity="1" Sideboard="false" Name="Basalt Monolith" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="53161" Quantity="1" Sideboard="false" Name="Mana Vault" />
+  <Cards CatID="52941" Quantity="1" Sideboard="false" Name="Mana Crypt" />
+  <Cards CatID="36855" Quantity="1" Sideboard="false" Name="Land Tax" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="21635" Quantity="1" Sideboard="true" Name="Oyobi, Who Split the Heavens" />
+</Deck>

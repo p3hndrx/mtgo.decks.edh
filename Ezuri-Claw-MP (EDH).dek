@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="21535" Quantity="1" Sideboard="false" Name="Azusa, Lost but Seeking" />
+  <Cards CatID="53482" Quantity="13" Sideboard="false" Name="Island" />
+  <Cards CatID="44285" Quantity="1" Sideboard="false" Name="Champion of Lambholt" />
+  <Cards CatID="53478" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="29305" Quantity="1" Sideboard="false" Name="Devoted Druid" />
+  <Cards CatID="49499" Quantity="1" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="53109" Quantity="1" Sideboard="false" Name="Sylvan Library" />
+  <Cards CatID="47771" Quantity="1" Sideboard="false" Name="Fathom Mage" />
+  <Cards CatID="48786" Quantity="1" Sideboard="false" Name="Glen Elendra Archmage" />
+  <Cards CatID="36408" Quantity="1" Sideboard="false" Name="Joraga Treespeaker" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="47935" Quantity="1" Sideboard="false" Name="Master Biomancer" />
+  <Cards CatID="59158" Quantity="1" Sideboard="false" Name="Skullwinder" />
+  <Cards CatID="47767" Quantity="1" Sideboard="false" Name="Prime Speaker Zegana" />
+  <Cards CatID="53606" Quantity="1" Sideboard="false" Name="Reclamation Sage" />
+  <Cards CatID="29110" Quantity="1" Sideboard="false" Name="Sage of Fables" />
+  <Cards CatID="47689" Quantity="1" Sideboard="false" Name="Unexpected Results" />
+  <Cards CatID="22741" Quantity="1" Sideboard="false" Name="Seedborn Muse" />
+  <Cards CatID="36121" Quantity="1" Sideboard="false" Name="Priest of Titania" />
+  <Cards CatID="38079" Quantity="1" Sideboard="false" Name="Thrummingbird" />
+  <Cards CatID="48902" Quantity="1" Sideboard="false" Name="Trygon Predator" />
+  <Cards CatID="47703" Quantity="1" Sideboard="false" Name="Zameck Guildmage" />
+  <Cards CatID="10463" Quantity="1" Sideboard="false" Name="Mindless Automaton" />
+  <Cards CatID="12547" Quantity="1" Sideboard="false" Name="Crop Rotation" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="23312" Quantity="1" Sideboard="false" Name="Muddle the Mixture" />
+  <Cards CatID="51926" Quantity="1" Sideboard="false" Name="Kiora's Follower" />
+  <Cards CatID="50440" Quantity="1" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="39581" Quantity="1" Sideboard="false" Name="Green Sun's Zenith" />
+  <Cards CatID="40026" Quantity="1" Sideboard="false" Name="Triumph of the Hordes" />
+  <Cards CatID="39796" Quantity="1" Sideboard="false" Name="Birthing Pod" />
+  <Cards CatID="23486" Quantity="1" Sideboard="false" Name="Cloudstone Curio" />
+  <Cards CatID="20007" Quantity="1" Sideboard="false" Name="Crystal Shard" />
+  <Cards CatID="53106" Quantity="1" Sideboard="false" Name="Fyndhorn Elves" />
+  <Cards CatID="9823" Quantity="1" Sideboard="false" Name="Earthcraft" />
+  <Cards CatID="22877" Quantity="1" Sideboard="false" Name="Greater Good" />
+  <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
+  <Cards CatID="40518" Quantity="1" Sideboard="false" Name="Fertilid" />
+  <Cards CatID="31431" Quantity="1" Sideboard="false" Name="Eternal Witness" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="12473" Quantity="1" Sideboard="false" Name="Deranged Hermit" />
+  <Cards CatID="30120" Quantity="1" Sideboard="false" Name="Cold-Eyed Selkie" />
+  <Cards CatID="42670" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
+  <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="57676" Quantity="1" Sideboard="false" Name="Yavimaya Coast" />
+  <Cards CatID="57476" Quantity="1" Sideboard="false" Name="Simic Growth Chamber" />
+  <Cards CatID="47445" Quantity="1" Sideboard="false" Name="Gyre Sage" />
+  <Cards CatID="58529" Quantity="1" Sideboard="false" Name="Lumbering Falls" />
+  <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" />
+  <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="52677" Quantity="1" Sideboard="false" Name="Skyshroud Forest" />
+  <Cards CatID="48378" Quantity="1" Sideboard="false" Name="Simic Guildgate" />
+  <Cards CatID="28707" Quantity="1" Sideboard="false" Name="Shelldock Isle" />
+  <Cards CatID="60042" Quantity="1" Sideboard="false" Name="Woodland Stream" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="31333" Quantity="1" Sideboard="false" Name="Mycoloth" />
+  <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
+  <Cards CatID="26453" Quantity="1" Sideboard="false" Name="Pongify" />
+  <Cards CatID="47809" Quantity="1" Sideboard="false" Name="Rapid Hybridization" />
+  <Cards CatID="40523" Quantity="1" Sideboard="false" Name="Spawnwrithe" />
+  <Cards CatID="59201" Quantity="1" Sideboard="false" Name="Arachnogenesis" />
+  <Cards CatID="39884" Quantity="1" Sideboard="false" Name="Beast Within" />
+  <Cards CatID="40594" Quantity="1" Sideboard="false" Name="Awakening Zone" />
+  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
+  <Cards CatID="16515" Quantity="1" Sideboard="false" Name="Squirrel Nest" />
+  <Cards CatID="56850" Quantity="1" Sideboard="false" Name="Spike Breeder" />
+  <Cards CatID="40660" Quantity="1" Sideboard="false" Name="Hornet Queen" />
+  <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
+  <Cards CatID="52170" Quantity="1" Sideboard="false" Name="Hydra Broodmaster" />
+  <Cards CatID="30042" Quantity="1" Sideboard="false" Name="Gilder Bairn" />
+  <Cards CatID="48276" Quantity="1" Sideboard="false" Name="Vorel of the Hull Clade" />
+  <Cards CatID="39910" Quantity="1" Sideboard="false" Name="Tezzeret's Gambit" />
+  <Cards CatID="38091" Quantity="1" Sideboard="false" Name="Inexorable Tide" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="59143" Quantity="1" Sideboard="true" Name="Ezuri, Claw of Progress" />
+</Deck>

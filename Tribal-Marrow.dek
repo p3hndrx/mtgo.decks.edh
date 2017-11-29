@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="45136" Quantity="1" Sideboard="false" Name="Ink-Eyes, Servant of Oni" />
+  <Cards CatID="37564" Quantity="25" Sideboard="false" Name="Relentless Rats" />
+  <Cards CatID="46737" Quantity="1" Sideboard="false" Name="Pack Rat" />
+  <Cards CatID="21211" Quantity="1" Sideboard="false" Name="Nezumi Graverobber" />
+  <Cards CatID="21447" Quantity="1" Sideboard="false" Name="Nezumi Bone-Reader" />
+  <Cards CatID="31471" Quantity="1" Sideboard="false" Name="Cabal Coffers" />
+  <Cards CatID="26371" Quantity="1" Sideboard="false" Name="Magus of the Coffers" />
+  <Cards CatID="36424" Quantity="1" Sideboard="false" Name="Nirkana Revenant" />
+  <Cards CatID="47753" Quantity="1" Sideboard="false" Name="Crypt Ghast" />
+  <Cards CatID="18223" Quantity="1" Sideboard="false" Name="Cryptic Gateway" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="29222" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="26131" Quantity="1" Sideboard="false" Name="Conspiracy" />
+  <Cards CatID="53650" Quantity="1" Sideboard="false" Name="Obelisk of Urd" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="43291" Quantity="1" Sideboard="false" Name="Mikaeus, the Unhallowed" />
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="40086" Quantity="1" Sideboard="false" Name="Sheoldred, Whispering One" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="61388" Quantity="1" Sideboard="false" Name="Murder" />
+  <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
+  <Cards CatID="37492" Quantity="1" Sideboard="false" Name="Viscera Seer" />
+  <Cards CatID="19575" Quantity="1" Sideboard="false" Name="Grave Pact" />
+  <Cards CatID="53562" Quantity="1" Sideboard="false" Name="Ob Nixilis, Unshackled" />
+  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="50910" Quantity="1" Sideboard="false" Name="Phyrexian Reclamation" />
+  <Cards CatID="12585" Quantity="1" Sideboard="false" Name="Unearth" />
+  <Cards CatID="43142" Quantity="1" Sideboard="false" Name="Animate Dead" />
+  <Cards CatID="38285" Quantity="1" Sideboard="false" Name="Nim Deathmantle" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="53486" Quantity="10" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53396" Quantity="10" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53376" Quantity="10" Sideboard="false" Name="Swamp" />
+  <Cards CatID="49465" Quantity="1" Sideboard="false" Name="Rise of the Dark Realms" />
+  <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
+  <Cards CatID="19577" Quantity="1" Sideboard="false" Name="Phyrexian Arena" />
+  <Cards CatID="24811" Quantity="1" Sideboard="false" Name="Thrumming Stone" />
+  <Cards CatID="62677" Quantity="1" Sideboard="false" Name="Secret Salvage" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="20977" Quantity="1" Sideboard="true" Name="Marrow-Gnawer" />
+</Deck>

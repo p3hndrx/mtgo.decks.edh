@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="49403" Quantity="1" Sideboard="false" Name="Angelic Accord" />
+  <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
+  <Cards CatID="23889" Quantity="1" Sideboard="false" Name="Sword of the Paruns" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="53181" Quantity="1" Sideboard="false" Name="Council's Judgment" />
+  <Cards CatID="27629" Quantity="1" Sideboard="false" Name="Doubling Cube" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="9807" Quantity="1" Sideboard="false" Name="Eladamri's Vineyard" />
+  <Cards CatID="18205" Quantity="1" Sideboard="false" Name="Weird Harvest" />
+  <Cards CatID="19615" Quantity="1" Sideboard="false" Name="Elfhame Palace" />
+  <Cards CatID="14423" Quantity="1" Sideboard="false" Name="Fight or Flight" />
+  <Cards CatID="31929" Quantity="1" Sideboard="false" Name="Font of Mythos" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="59842" Quantity="1" Sideboard="false" Name="Fortified Village" />
+  <Cards CatID="13483" Quantity="1" Sideboard="false" Name="Game Preserve" />
+  <Cards CatID="47931" Quantity="1" Sideboard="false" Name="Giant Adephage" />
+  <Cards CatID="34580" Quantity="1" Sideboard="false" Name="Graypelt Refuge" />
+  <Cards CatID="58639" Quantity="1" Sideboard="false" Name="Greenwarden of Murasa" />
+  <Cards CatID="58128" Quantity="1" Sideboard="false" Name="Hangarback Walker" />
+  <Cards CatID="21077" Quantity="1" Sideboard="false" Name="Heartbeat of Spring" />
+  <Cards CatID="26780" Quantity="1" Sideboard="false" Name="Heartwood Storyteller" />
+  <Cards CatID="54410" Quantity="1" Sideboard="false" Name="Hooded Hydra" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="37406" Quantity="1" Sideboard="false" Name="Sun Titan" />
+  <Cards CatID="50878" Quantity="1" Sideboard="false" Name="Serra Avatar" />
+  <Cards CatID="20944" Quantity="1" Sideboard="false" Name="Lantern of Insight" />
+  <Cards CatID="9289" Quantity="1" Sideboard="false" Name="Liege of the Hollows" />
+  <Cards CatID="40731" Quantity="1" Sideboard="false" Name="Selesnya Sanctuary" />
+  <Cards CatID="34816" Quantity="1" Sideboard="false" Name="Luminarch Ascension" />
+  <Cards CatID="26872" Quantity="1" Sideboard="false" Name="Magus of the Vineyard" />
+  <Cards CatID="29497" Quantity="1" Sideboard="false" Name="Mana Reflection" />
+  <Cards CatID="58088" Quantity="1" Sideboard="false" Name="Managorger Hydra" />
+  <Cards CatID="22741" Quantity="1" Sideboard="false" Name="Seedborn Muse" />
+  <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
+  <Cards CatID="31333" Quantity="1" Sideboard="false" Name="Mycoloth" />
+  <Cards CatID="16527" Quantity="1" Sideboard="false" Name="New Frontiers" />
+  <Cards CatID="26728" Quantity="1" Sideboard="false" Name="Rites of Flourishing" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="23326" Quantity="1" Sideboard="false" Name="Recollect" />
+  <Cards CatID="53484" Quantity="9" Sideboard="false" Name="Plains" />
+  <Cards CatID="62531" Quantity="1" Sideboard="false" Name="Candelabra of Tawnos" />
+  <Cards CatID="45424" Quantity="1" Sideboard="false" Name="Primordial Hydra" />
+  <Cards CatID="38299" Quantity="1" Sideboard="false" Name="Razorverge Thicket" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="53083" Quantity="1" Sideboard="false" Name="Regrowth" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="29535" Quantity="1" Sideboard="false" Name="Rhys the Redeemed" />
+  <Cards CatID="42236" Quantity="1" Sideboard="false" Name="Omnath, Locus of Mana" />
+  <Cards CatID="25425" Quantity="1" Sideboard="false" Name="Saltcrusted Steppe" />
+  <Cards CatID="7707" Quantity="1" Sideboard="false" Name="Sands of Time" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="21711" Quantity="1" Sideboard="false" Name="Shizuko, Caller of Autumn" />
+  <Cards CatID="64156" Quantity="1" Sideboard="false" Name="Scattered Groves" />
+  <Cards CatID="35679" Quantity="1" Sideboard="false" Name="Stirring Wildwood" />
+  <Cards CatID="39573" Quantity="1" Sideboard="false" Name="White Sun's Zenith" />
+  <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="22567" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="37454" Quantity="1" Sideboard="false" Name="Temple Bell" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="51565" Quantity="1" Sideboard="false" Name="Temple of Plenty" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="14901" Quantity="1" Sideboard="false" Name="Thicket Elemental" />
+  <Cards CatID="58301" Quantity="1" Sideboard="false" Name="Ulamog, the Ceaseless Hunger" />
+  <Cards CatID="18806" Quantity="1" Sideboard="false" Name="Forgotten Ancient" />
+  <Cards CatID="38419" Quantity="1" Sideboard="false" Name="Venser's Journal" />
+  <Cards CatID="53478" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="58631" Quantity="1" Sideboard="false" Name="Void Winnower" />
+  <Cards CatID="39792" Quantity="1" Sideboard="false" Name="Vorinclex, Voice of Hunger" />
+  <Cards CatID="57312" Quantity="1" Sideboard="false" Name="Elesh Norn, Grand Cenobite" />
+  <Cards CatID="35755" Quantity="1" Sideboard="false" Name="Wolfbriar Elemental" />
+  <Cards CatID="58086" Quantity="1" Sideboard="false" Name="Woodland Bellower" />
+  <Cards CatID="54472" Quantity="1" Sideboard="false" Name="Blossoming Sands" />
+  <Cards CatID="38189" Quantity="1" Sideboard="false" Name="Genesis Wave" />
+  <Cards CatID="40663" Quantity="1" Sideboard="false" Name="Collective Voyage" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="29639" Quantity="1" Sideboard="false" Name="Umbral Mantle" />
+  <Cards CatID="25505" Quantity="1" Sideboard="false" Name="Squall Line" />
+  <Cards CatID="53214" Quantity="1" Sideboard="true" Name="Selvala, Explorer Returned" />
+</Deck>

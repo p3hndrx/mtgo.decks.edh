@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="37861" Quantity="1" Sideboard="false" Name="Wurmcoil Engine" />
+  <Cards CatID="38782" Quantity="1" Sideboard="false" Name="Urza's Power Plant" />
+  <Cards CatID="59089" Quantity="1" Sideboard="false" Name="Basalt Monolith" />
+  <Cards CatID="64142" Quantity="1" Sideboard="false" Name="Cascading Cataracts" />
+  <Cards CatID="43092" Quantity="1" Sideboard="false" Name="Crystal Vein" />
+  <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="45692" Quantity="1" Sideboard="false" Name="Clock of Omens" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="38351" Quantity="1" Sideboard="false" Name="Contagion Engine" />
+  <Cards CatID="27627" Quantity="1" Sideboard="false" Name="Crucible of Worlds" />
+  <Cards CatID="53774" Quantity="1" Sideboard="false" Name="Darksteel Citadel" />
+  <Cards CatID="49587" Quantity="1" Sideboard="false" Name="Darksteel Forge" />
+  <Cards CatID="39357" Quantity="1" Sideboard="false" Name="Darksteel Plate" />
+  <Cards CatID="64154" Quantity="1" Sideboard="false" Name="Painted Bluffs" />
+  <Cards CatID="27629" Quantity="1" Sideboard="false" Name="Doubling Cube" />
+  <Cards CatID="19601" Quantity="1" Sideboard="false" Name="Urza's Mine" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="35681" Quantity="1" Sideboard="false" Name="Everflowing Chalice" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="45696" Quantity="1" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="59323" Quantity="4" Sideboard="false" Name="Wastes" />
+  <Cards CatID="22935" Quantity="1" Sideboard="false" Name="Fellwar Stone" />
+  <Cards CatID="58150" Quantity="1" Sideboard="false" Name="Foundry of the Consuls" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="42294" Quantity="1" Sideboard="false" Name="Ghost Quarter" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="61807" Quantity="1" Sideboard="false" Name="Metalwork Colossus" />
+  <Cards CatID="58128" Quantity="1" Sideboard="false" Name="Hangarback Walker" />
+  <Cards CatID="31915" Quantity="1" Sideboard="false" Name="Ancient Ziggurat" />
+  <Cards CatID="59043" Quantity="1" Sideboard="false" Name="Homeward Path" />
+  <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
+  <Cards CatID="62899" Quantity="1" Sideboard="false" Name="Scrap Trawler" />
+  <Cards CatID="62909" Quantity="1" Sideboard="false" Name="Spire of Industry" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="50918" Quantity="1" Sideboard="false" Name="Springjack Pasture" />
+  <Cards CatID="38435" Quantity="1" Sideboard="false" Name="Kuldotha Forgemaster" />
+  <Cards CatID="19763" Quantity="1" Sideboard="false" Name="Lodestone Myr" />
+  <Cards CatID="38327" Quantity="1" Sideboard="false" Name="Lux Cannon" />
+  <Cards CatID="58148" Quantity="1" Sideboard="false" Name="Mage-Ring Network" />
+  <Cards CatID="20059" Quantity="1" Sideboard="false" Name="Sculpting Steel" />
+  <Cards CatID="53161" Quantity="1" Sideboard="false" Name="Mana Vault" />
+  <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
+  <Cards CatID="51136" Quantity="1" Sideboard="false" Name="Pristine Talisman" />
+  <Cards CatID="22210" Quantity="1" Sideboard="false" Name="Miren, the Moaning Well" />
+  <Cards CatID="15187" Quantity="1" Sideboard="false" Name="Terminal Moraine" />
+  <Cards CatID="38419" Quantity="1" Sideboard="false" Name="Venser's Journal" />
+  <Cards CatID="38307" Quantity="1" Sideboard="false" Name="Myr Battlesphere" />
+  <Cards CatID="38455" Quantity="1" Sideboard="false" Name="Myr Galvanizer" />
+  <Cards CatID="33036" Quantity="1" Sideboard="false" Name="Platinum Angel" />
+  <Cards CatID="37318" Quantity="1" Sideboard="false" Name="Mystifying Maze" />
+  <Cards CatID="38349" Quantity="1" Sideboard="false" Name="Palladium Myr" />
+  <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
+  <Cards CatID="37723" Quantity="1" Sideboard="false" Name="Pentavus" />
+  <Cards CatID="53163" Quantity="1" Sideboard="false" Name="Mishra's Workshop" />
+  <Cards CatID="39419" Quantity="1" Sideboard="false" Name="Plague Myr" />
+  <Cards CatID="62917" Quantity="1" Sideboard="false" Name="Planar Bridge" />
+  <Cards CatID="19813" Quantity="1" Sideboard="false" Name="Myr Retriever" />
+  <Cards CatID="38433" Quantity="1" Sideboard="false" Name="Platinum Emperion" />
+  <Cards CatID="62561" Quantity="1" Sideboard="false" Name="Walking Ballista" />
+  <Cards CatID="31532" Quantity="1" Sideboard="false" Name="Mind Stone" />
+  <Cards CatID="38237" Quantity="1" Sideboard="false" Name="Prototype Portal" />
+  <Cards CatID="20794" Quantity="1" Sideboard="false" Name="Mycosynth Golem" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="57738" Quantity="1" Sideboard="false" Name="Rogue's Passage" />
+  <Cards CatID="14709" Quantity="1" Sideboard="false" Name="Archaeological Dig" />
+  <Cards CatID="52941" Quantity="1" Sideboard="false" Name="Mana Crypt" />
+  <Cards CatID="21045" Quantity="1" Sideboard="false" Name="Sensei's Divining Top" />
+  <Cards CatID="20585" Quantity="1" Sideboard="false" Name="Mycosynth Lattice" />
+  <Cards CatID="39507" Quantity="1" Sideboard="false" Name="Shimmer Myr" />
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="64892" Quantity="1" Sideboard="false" Name="Survivors' Encampment" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="39557" Quantity="1" Sideboard="false" Name="Spine of Ish Sah" />
+  <Cards CatID="57200" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" />
+  <Cards CatID="38161" Quantity="1" Sideboard="false" Name="Steel Hellkite" />
+  <Cards CatID="52853" Quantity="1" Sideboard="false" Name="Strip Mine" />
+  <Cards CatID="61795" Quantity="1" Sideboard="false" Name="Skysovereign, Consul Flagship" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="47805" Quantity="1" Sideboard="false" Name="Thespian's Stage" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="34597" Quantity="1" Sideboard="false" Name="Explorer's Scope" />
+  <Cards CatID="39872" Quantity="1" Sideboard="false" Name="Unwinding Clock" />
+  <Cards CatID="54843" Quantity="1" Sideboard="false" Name="Dreamstone Hedron" />
+  <Cards CatID="22779" Quantity="1" Sideboard="false" Name="Urza's Tower" />
+  <Cards CatID="19751" Quantity="1" Sideboard="false" Name="Blinkmoth Urn" />
+  <Cards CatID="20325" Quantity="1" Sideboard="false" Name="Voltaic Construct" />
+  <Cards CatID="37308" Quantity="1" Sideboard="false" Name="Voltaic Key" />
+  <Cards CatID="59922" Quantity="1" Sideboard="false" Name="Warped Landscape" />
+  <Cards CatID="59605" Quantity="2" Sideboard="false" Name="Wastes" />
+  <Cards CatID="60791" Quantity="1" Sideboard="false" Name="Winter Orb" />
+  <Cards CatID="57202" Quantity="1" Sideboard="false" Name="All Is Dust" />
+  <Cards CatID="62341" Quantity="1" Sideboard="false" Name="Ash Barrens" />
+  <Cards CatID="61825" Quantity="1" Sideboard="false" Name="Sequestered Stash" />
+  <Cards CatID="53946" Quantity="1" Sideboard="false" Name="Tomb of the Spirit Dragon" />
+  <Cards CatID="37628" Quantity="1" Sideboard="true" Name="Karn, Silver Golem" />
+</Deck>

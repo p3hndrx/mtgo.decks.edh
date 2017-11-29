@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="62905" Quantity="1" Sideboard="false" Name="Peacewalker Colossus" />
+  <Cards CatID="62039" Quantity="1" Sideboard="false" Name="Veteran Motorist" />
+  <Cards CatID="61981" Quantity="1" Sideboard="false" Name="Start Your Engines" />
+  <Cards CatID="62741" Quantity="1" Sideboard="false" Name="Siege Modification" />
+  <Cards CatID="62601" Quantity="1" Sideboard="false" Name="Aerial Modification" />
+  <Cards CatID="26908" Quantity="1" Sideboard="false" Name="Emblem of the Warmind" />
+  <Cards CatID="61603" Quantity="1" Sideboard="false" Name="Gearshift Ace" />
+  <Cards CatID="62603" Quantity="1" Sideboard="false" Name="Sram, Senior Edificer" />
+  <Cards CatID="62579" Quantity="1" Sideboard="false" Name="Caught in the Brights" />
+  <Cards CatID="61795" Quantity="1" Sideboard="false" Name="Skysovereign, Consul Flagship" />
+  <Cards CatID="62887" Quantity="1" Sideboard="false" Name="Aethersphere Harvester" />
+  <Cards CatID="62045" Quantity="1" Sideboard="false" Name="Cultivator's Caravan" />
+  <Cards CatID="62071" Quantity="1" Sideboard="false" Name="Fleetwheel Cruiser" />
+  <Cards CatID="62903" Quantity="1" Sideboard="false" Name="Daredevil Dragster" />
+  <Cards CatID="61811" Quantity="1" Sideboard="false" Name="Ovalchase Dragster" />
+  <Cards CatID="62885" Quantity="1" Sideboard="false" Name="Untethered Express" />
+  <Cards CatID="62859" Quantity="1" Sideboard="false" Name="Mobile Garrison" />
+  <Cards CatID="9323" Quantity="1" Sideboard="false" Name="Dwarven Thaumaturgist" />
+  <Cards CatID="16661" Quantity="1" Sideboard="false" Name="Mine Layer" />
+  <Cards CatID="61879" Quantity="1" Sideboard="false" Name="Toolcraft Exemplar" />
+  <Cards CatID="61889" Quantity="1" Sideboard="false" Name="Aerial Responder" />
+  <Cards CatID="40528" Quantity="1" Sideboard="false" Name="Duergar Hedge-Mage" />
+  <Cards CatID="18041" Quantity="1" Sideboard="false" Name="Dwarven Blastminer" />
+  <Cards CatID="17526" Quantity="1" Sideboard="false" Name="Dwarven Driller" />
+  <Cards CatID="6923" Quantity="1" Sideboard="false" Name="Dwarven Miner" />
+  <Cards CatID="16248" Quantity="1" Sideboard="false" Name="Dwarven Patrol" />
+  <Cards CatID="16693" Quantity="1" Sideboard="false" Name="Dwarven Recruiter" />
+  <Cards CatID="61621" Quantity="1" Sideboard="false" Name="Fairgrounds Warden" />
+  <Cards CatID="62825" Quantity="1" Sideboard="false" Name="Renegade Wheelsmith" />
+  <Cards CatID="62587" Quantity="1" Sideboard="false" Name="Restoration Specialist" />
+  <Cards CatID="16667" Quantity="1" Sideboard="false" Name="Whipkeeper" />
+  <Cards CatID="62571" Quantity="1" Sideboard="false" Name="Bastion Enforcer" />
+  <Cards CatID="9195" Quantity="1" Sideboard="false" Name="Dwarven Berserker" />
+  <Cards CatID="7529" Quantity="1" Sideboard="false" Name="Dwarven Vigilantes" />
+  <Cards CatID="61781" Quantity="1" Sideboard="false" Name="Aradara Express" />
+  <Cards CatID="17540" Quantity="1" Sideboard="false" Name="Dwarven Bloodboiler" />
+  <Cards CatID="52016" Quantity="1" Sideboard="false" Name="Iroas, God of Victory" />
+  <Cards CatID="61807" Quantity="1" Sideboard="false" Name="Metalwork Colossus" />
+  <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
+  <Cards CatID="18101" Quantity="1" Sideboard="false" Name="Aggravated Assault" />
+  <Cards CatID="49587" Quantity="1" Sideboard="false" Name="Darksteel Forge" />
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="39862" Quantity="1" Sideboard="false" Name="Dispatch" />
+  <Cards CatID="38203" Quantity="1" Sideboard="false" Name="Galvanic Blast" />
+  <Cards CatID="47929" Quantity="1" Sideboard="false" Name="Hellkite Tyrant" />
+  <Cards CatID="39519" Quantity="1" Sideboard="false" Name="Hellkite Igniter" />
+  <Cards CatID="39893" Quantity="1" Sideboard="false" Name="Jor Kadeen, the Prevailer" />
+  <Cards CatID="61983" Quantity="1" Sideboard="false" Name="Welding Sparks" />
+  <Cards CatID="38365" Quantity="1" Sideboard="false" Name="Molten Psyche" />
+  <Cards CatID="13425" Quantity="1" Sideboard="false" Name="Fountain Watch" />
+  <Cards CatID="59878" Quantity="1" Sideboard="false" Name="Declaration in Stone" />
+  <Cards CatID="34390" Quantity="1" Sideboard="false" Name="Journey to Nowhere" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="59361" Quantity="1" Sideboard="false" Name="Chandra, Flamecaller" />
+  <Cards CatID="19813" Quantity="1" Sideboard="false" Name="Myr Retriever" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="38103" Quantity="1" Sideboard="false" Name="Tempered Steel" />
+  <Cards CatID="45372" Quantity="1" Sideboard="false" Name="Fervor" />
+  <Cards CatID="50410" Quantity="1" Sideboard="false" Name="Hammer of Purphoros" />
+  <Cards CatID="27939" Quantity="1" Sideboard="false" Name="Winds of Change" />
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" />
+  <Cards CatID="25637" Quantity="1" Sideboard="false" Name="Wheel of Fate" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="42654" Quantity="1" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="57426" Quantity="1" Sideboard="false" Name="Boros Garrison" />
+  <Cards CatID="48382" Quantity="1" Sideboard="false" Name="Boros Guildgate" />
+  <Cards CatID="57670" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
+  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="59257" Quantity="1" Sideboard="false" Name="Needle Spires" />
+  <Cards CatID="20021" Quantity="1" Sideboard="false" Name="Great Furnace" />
+  <Cards CatID="53484" Quantity="11" Sideboard="false" Name="Plains" />
+  <Cards CatID="53480" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53370" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="62029" Quantity="1" Sideboard="true" Name="Depala, Pilot Exemplar" />
+</Deck>

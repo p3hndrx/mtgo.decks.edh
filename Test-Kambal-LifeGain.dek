@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="51264" Quantity="1" Sideboard="false" Name="Vizkopa Guildmage" />
+  <Cards CatID="51024" Quantity="1" Sideboard="false" Name="Sanguine Bond" />
+  <Cards CatID="53648" Quantity="1" Sideboard="false" Name="Wall of Limbs" />
+  <Cards CatID="53334" Quantity="1" Sideboard="false" Name="Ajani's Pridemate" />
+  <Cards CatID="61877" Quantity="1" Sideboard="false" Name="Authority of the Consuls" />
+  <Cards CatID="10625" Quantity="1" Sideboard="false" Name="Soul Warden" />
+  <Cards CatID="36462" Quantity="1" Sideboard="false" Name="Soul's Attendant" />
+  <Cards CatID="31143" Quantity="1" Sideboard="false" Name="Deathgreeter" />
+  <Cards CatID="48476" Quantity="1" Sideboard="false" Name="Tithe Drinker" />
+  <Cards CatID="58401" Quantity="1" Sideboard="false" Name="Zulaport Cutthroat" />
+  <Cards CatID="39473" Quantity="1" Sideboard="false" Name="Flensermite" />
+  <Cards CatID="61086" Quantity="1" Sideboard="false" Name="Lone Rider" />
+  <Cards CatID="49403" Quantity="1" Sideboard="false" Name="Angelic Accord" />
+  <Cards CatID="65014" Quantity="1" Sideboard="false" Name="Ashes of the Abhorrent" />
+  <Cards CatID="60396" Quantity="1" Sideboard="false" Name="Pious Evangel" />
+  <Cards CatID="44105" Quantity="1" Sideboard="false" Name="Blood Artist" />
+  <Cards CatID="49395" Quantity="1" Sideboard="false" Name="Archangel of Thune" />
+  <Cards CatID="40670" Quantity="1" Sideboard="false" Name="Righteous Cause" />
+  <Cards CatID="39766" Quantity="1" Sideboard="false" Name="Suture Priest" />
+  <Cards CatID="39535" Quantity="1" Sideboard="false" Name="Sangromancer" />
+  <Cards CatID="40619" Quantity="1" Sideboard="false" Name="Shattered Angel" />
+  <Cards CatID="34822" Quantity="1" Sideboard="false" Name="Bloodchief Ascension" />
+  <Cards CatID="23863" Quantity="1" Sideboard="false" Name="Souls of the Faultless" />
+  <Cards CatID="16096" Quantity="1" Sideboard="false" Name="Soul Link" />
+  <Cards CatID="55896" Quantity="1" Sideboard="false" Name="Sunscorch Regent" />
+  <Cards CatID="65078" Quantity="1" Sideboard="false" Name="Sanguine Sacrament" />
+  <Cards CatID="45562" Quantity="1" Sideboard="false" Name="Rhox Faithmender" />
+  <Cards CatID="41263" Quantity="1" Sideboard="false" Name="Sorin Markov" />
+  <Cards CatID="54258" Quantity="1" Sideboard="false" Name="Sorin, Solemn Visitor" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="51064" Quantity="1" Sideboard="false" Name="Survival Cache" />
+  <Cards CatID="21825" Quantity="1" Sideboard="false" Name="Terashi's Grasp" />
+  <Cards CatID="37138" Quantity="1" Sideboard="false" Name="Ajani Goldmane" />
+  <Cards CatID="36804" Quantity="1" Sideboard="false" Name="Consuming Vapors" />
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="42438" Quantity="1" Sideboard="false" Name="Falkenrath Noble" />
+  <Cards CatID="16132" Quantity="1" Sideboard="false" Name="Gerrard Capashen" />
+  <Cards CatID="64496" Quantity="1" Sideboard="false" Name="Crested Sunmare" />
+  <Cards CatID="61266" Quantity="1" Sideboard="false" Name="Campaign of Vengeance" />
+  <Cards CatID="21859" Quantity="1" Sideboard="false" Name="Patron of the Kitsune" />
+  <Cards CatID="59990" Quantity="1" Sideboard="false" Name="Sorin, Grim Nemesis" />
+  <Cards CatID="61959" Quantity="1" Sideboard="false" Name="Noxious Gearhulk" />
+  <Cards CatID="21069" Quantity="1" Sideboard="false" Name="Kokusho, the Evening Star" />
+  <Cards CatID="51242" Quantity="1" Sideboard="false" Name="Death Grasp" />
+  <Cards CatID="48424" Quantity="1" Sideboard="false" Name="Debt to the Deathless" />
+  <Cards CatID="62327" Quantity="1" Sideboard="false" Name="Tymna the Weaver" />
+  <Cards CatID="51366" Quantity="1" Sideboard="false" Name="Toxic Deluge" />
+  <Cards CatID="65482" Quantity="1" Sideboard="false" Name="Vona, Butcher of Magan" />
+  <Cards CatID="61805" Quantity="1" Sideboard="false" Name="Aetherflux Reservoir" />
+  <Cards CatID="52861" Quantity="1" Sideboard="false" Name="Necropotence" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="36855" Quantity="1" Sideboard="false" Name="Land Tax" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="59878" Quantity="1" Sideboard="false" Name="Declaration in Stone" />
+  <Cards CatID="59584" Quantity="1" Sideboard="false" Name="Ayli, Eternal Pilgrim" />
+  <Cards CatID="29966" Quantity="1" Sideboard="false" Name="Unmake" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="42786" Quantity="1" Sideboard="false" Name="Bloodgift Demon" />
+  <Cards CatID="51452" Quantity="1" Sideboard="false" Name="Well of Lost Dreams" />
+  <Cards CatID="23805" Quantity="1" Sideboard="false" Name="Debtors' Knell" />
+  <Cards CatID="39964" Quantity="1" Sideboard="false" Name="Norn's Annex" />
+  <Cards CatID="31471" Quantity="1" Sideboard="false" Name="Cabal Coffers" />
+  <Cards CatID="48091" Quantity="1" Sideboard="false" Name="Tainted Field" />
+  <Cards CatID="57668" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="52673" Quantity="1" Sideboard="false" Name="Salt Flats" />
+  <Cards CatID="61859" Quantity="1" Sideboard="false" Name="Concealed Courtyard" />
+  <Cards CatID="42652" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
+  <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="43485" Quantity="1" Sideboard="false" Name="Vault of the Archangel" />
+  <Cards CatID="59750" Quantity="1" Sideboard="false" Name="Forsaken Sanctuary" />
+  <Cards CatID="57456" Quantity="1" Sideboard="false" Name="Orzhov Basilica" />
+  <Cards CatID="23825" Quantity="1" Sideboard="false" Name="Orzhova, the Church of Deals" />
+  <Cards CatID="51282" Quantity="1" Sideboard="false" Name="Orzhov Guildgate" />
+  <Cards CatID="40748" Quantity="1" Sideboard="false" Name="Orzhov Signet" />
+  <Cards CatID="53484" Quantity="10" Sideboard="false" Name="Plains" />
+  <Cards CatID="53486" Quantity="10" Sideboard="false" Name="Swamp" />
+  <Cards CatID="44049" Quantity="1" Sideboard="false" Name="Exquisite Blood" />
+  <Cards CatID="62037" Quantity="1" Sideboard="true" Name="Kambal, Consul of Allocation" />
+</Deck>

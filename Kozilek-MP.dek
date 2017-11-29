@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53774" Quantity="1" Sideboard="false" Name="Darksteel Citadel" />
+  <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="22210" Quantity="1" Sideboard="false" Name="Miren, the Moaning Well" />
+  <Cards CatID="58509" Quantity="1" Sideboard="false" Name="Pilgrim's Eye" />
+  <Cards CatID="21411" Quantity="1" Sideboard="false" Name="Untaidake, the Cloud Keeper" />
+  <Cards CatID="55256" Quantity="1" Sideboard="false" Name="Wayfarer's Bauble" />
+  <Cards CatID="27629" Quantity="1" Sideboard="false" Name="Doubling Cube" />
+  <Cards CatID="35589" Quantity="1" Sideboard="false" Name="Tectonic Edge" />
+  <Cards CatID="59089" Quantity="1" Sideboard="false" Name="Basalt Monolith" />
+  <Cards CatID="43092" Quantity="1" Sideboard="false" Name="Crystal Vein" />
+  <Cards CatID="46783" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
+  <Cards CatID="53946" Quantity="1" Sideboard="false" Name="Tomb of the Spirit Dragon" />
+  <Cards CatID="31578" Quantity="1" Sideboard="false" Name="Terrain Generator" />
+  <Cards CatID="50918" Quantity="1" Sideboard="false" Name="Springjack Pasture" />
+  <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
+  <Cards CatID="39557" Quantity="1" Sideboard="false" Name="Spine of Ish Sah" />
+  <Cards CatID="53708" Quantity="1" Sideboard="false" Name="Radiant Fountain" />
+  <Cards CatID="51104" Quantity="1" Sideboard="false" Name="Myr Battlesphere" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="19751" Quantity="1" Sideboard="false" Name="Blinkmoth Urn" />
+  <Cards CatID="20059" Quantity="1" Sideboard="false" Name="Sculpting Steel" />
+  <Cards CatID="54843" Quantity="1" Sideboard="false" Name="Dreamstone Hedron" />
+  <Cards CatID="58303" Quantity="1" Sideboard="false" Name="Oblivion Sower" />
+  <Cards CatID="37308" Quantity="1" Sideboard="false" Name="Voltaic Key" />
+  <Cards CatID="45692" Quantity="1" Sideboard="false" Name="Clock of Omens" />
+  <Cards CatID="39872" Quantity="1" Sideboard="false" Name="Unwinding Clock" />
+  <Cards CatID="37895" Quantity="1" Sideboard="false" Name="Relic of Progenitus" />
+  <Cards CatID="45250" Quantity="1" Sideboard="false" Name="Tormod's Crypt" />
+  <Cards CatID="16433" Quantity="1" Sideboard="false" Name="Deserted Temple" />
+  <Cards CatID="20175" Quantity="1" Sideboard="false" Name="Mind's Eye" />
+  <Cards CatID="20329" Quantity="1" Sideboard="false" Name="Darksteel Colossus" />
+  <Cards CatID="38435" Quantity="1" Sideboard="false" Name="Kuldotha Forgemaster" />
+  <Cards CatID="62043" Quantity="1" Sideboard="false" Name="Ghirapur Orrery" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="57206" Quantity="1" Sideboard="false" Name="Ulamog, the Infinite Gyre" />
+  <Cards CatID="37318" Quantity="1" Sideboard="false" Name="Mystifying Maze" />
+  <Cards CatID="45698" Quantity="1" Sideboard="false" Name="Staff of Nin" />
+  <Cards CatID="43259" Quantity="1" Sideboard="false" Name="Haunted Fengraf" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
+  <Cards CatID="59605" Quantity="4" Sideboard="false" Name="Wastes" />
+  <Cards CatID="31493" Quantity="1" Sideboard="false" Name="Urza's Factory" />
+  <Cards CatID="27627" Quantity="1" Sideboard="false" Name="Crucible of Worlds" />
+  <Cards CatID="28463" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="19961" Quantity="1" Sideboard="false" Name="Stalking Stones" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="15878" Quantity="1" Sideboard="false" Name="Storm Cauldron" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="61498" Quantity="1" Sideboard="false" Name="Nephalia Academy" />
+  <Cards CatID="37929" Quantity="1" Sideboard="false" Name="Mishra's Factory" />
+  <Cards CatID="20863" Quantity="1" Sideboard="false" Name="Krark-Clan Ironworks" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="42294" Quantity="1" Sideboard="false" Name="Ghost Quarter" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="58148" Quantity="1" Sideboard="false" Name="Mage-Ring Network" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="40551" Quantity="1" Sideboard="false" Name="Armillary Sphere" />
+  <Cards CatID="47805" Quantity="1" Sideboard="false" Name="Thespian's Stage" />
+  <Cards CatID="57738" Quantity="1" Sideboard="false" Name="Rogue's Passage" />
+  <Cards CatID="35681" Quantity="1" Sideboard="false" Name="Everflowing Chalice" />
+  <Cards CatID="11883" Quantity="1" Sideboard="false" Name="Blasted Landscape" />
+  <Cards CatID="58150" Quantity="1" Sideboard="false" Name="Foundry of the Consuls" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="59323" Quantity="4" Sideboard="false" Name="Wastes" />
+  <Cards CatID="38349" Quantity="1" Sideboard="false" Name="Palladium Myr" />
+  <Cards CatID="35797" Quantity="1" Sideboard="false" Name="Dread Statuary" />
+  <Cards CatID="49513" Quantity="1" Sideboard="false" Name="Encroaching Wastes" />
+  <Cards CatID="40473" Quantity="1" Sideboard="false" Name="Zoetic Cavern" />
+  <Cards CatID="59389" Quantity="1" Sideboard="false" Name="Eldrazi Mimic" />
+  <Cards CatID="59611" Quantity="1" Sideboard="false" Name="Warden of Geometries" />
+  <Cards CatID="36362" Quantity="1" Sideboard="false" Name="Artisan of Kozilek" />
+  <Cards CatID="38161" Quantity="1" Sideboard="false" Name="Steel Hellkite" />
+  <Cards CatID="52617" Quantity="1" Sideboard="false" Name="Mana Prism" />
+  <Cards CatID="31532" Quantity="1" Sideboard="false" Name="Mind Stone" />
+  <Cards CatID="51136" Quantity="1" Sideboard="false" Name="Pristine Talisman" />
+  <Cards CatID="39419" Quantity="1" Sideboard="false" Name="Plague Myr" />
+  <Cards CatID="20585" Quantity="1" Sideboard="false" Name="Mycosynth Lattice" />
+  <Cards CatID="37861" Quantity="1" Sideboard="false" Name="Wurmcoil Engine" />
+  <Cards CatID="60082" Quantity="1" Sideboard="false" Name="Tamiyo's Journal" />
+  <Cards CatID="49587" Quantity="1" Sideboard="false" Name="Darksteel Forge" />
+  <Cards CatID="37454" Quantity="1" Sideboard="false" Name="Temple Bell" />
+  <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
+  <Cards CatID="38237" Quantity="1" Sideboard="false" Name="Prototype Portal" />
+  <Cards CatID="58289" Quantity="1" Sideboard="false" Name="Scour from Existence" />
+  <Cards CatID="39545" Quantity="1" Sideboard="false" Name="Mirrorworks" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="53161" Quantity="1" Sideboard="false" Name="Mana Vault" />
+  <Cards CatID="52941" Quantity="1" Sideboard="false" Name="Mana Crypt" />
+  <Cards CatID="57200" Quantity="1" Sideboard="true" Name="Kozilek, Butcher of Truth" />
+</Deck>

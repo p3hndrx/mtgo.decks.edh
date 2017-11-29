@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="18105" Quantity="1" Sideboard="false" Name="Gratuitous Violence" />
+  <Cards CatID="22333" Quantity="1" Sideboard="false" Name="Furnace of Rath" />
+  <Cards CatID="20227" Quantity="1" Sideboard="false" Name="Loxodon Warhammer" />
+  <Cards CatID="21196" Quantity="1" Sideboard="false" Name="Godo, Bandit Warlord" />
+  <Cards CatID="28463" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
+  <Cards CatID="46405" Quantity="1" Sideboard="false" Name="Vandalblast" />
+  <Cards CatID="52977" Quantity="1" Sideboard="false" Name="Chaos Warp" />
+  <Cards CatID="45694" Quantity="1" Sideboard="false" Name="Stuffy Doll" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="50410" Quantity="1" Sideboard="false" Name="Hammer of Purphoros" />
+  <Cards CatID="40668" Quantity="1" Sideboard="false" Name="Anger" />
+  <Cards CatID="39738" Quantity="1" Sideboard="false" Name="Urabrask the Hidden" />
+  <Cards CatID="28327" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
+  <Cards CatID="18101" Quantity="1" Sideboard="false" Name="Aggravated Assault" />
+  <Cards CatID="38433" Quantity="1" Sideboard="false" Name="Platinum Emperion" />
+  <Cards CatID="33036" Quantity="1" Sideboard="false" Name="Platinum Angel" />
+  <Cards CatID="35695" Quantity="1" Sideboard="false" Name="Basilisk Collar" />
+  <Cards CatID="21598" Quantity="1" Sideboard="false" Name="Overblaze" />
+  <Cards CatID="52254" Quantity="1" Sideboard="false" Name="Dictate of the Twin Gods" />
+  <Cards CatID="30456" Quantity="1" Sideboard="false" Name="Glacial Chasm" />
+  <Cards CatID="25931" Quantity="1" Sideboard="false" Name="Fortune Thief" />
+  <Cards CatID="45372" Quantity="1" Sideboard="false" Name="Fervor" />
+  <Cards CatID="40470" Quantity="1" Sideboard="false" Name="Pyrohemia" />
+  <Cards CatID="42410" Quantity="1" Sideboard="false" Name="Blasphemous Act" />
+  <Cards CatID="44283" Quantity="1" Sideboard="false" Name="Reforge the Soul" />
+  <Cards CatID="43267" Quantity="1" Sideboard="false" Name="Faithless Looting" />
+  <Cards CatID="31532" Quantity="1" Sideboard="false" Name="Mind Stone" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="44201" Quantity="1" Sideboard="false" Name="Lightning Mauler" />
+  <Cards CatID="41315" Quantity="1" Sideboard="false" Name="Inferno Titan" />
+  <Cards CatID="12715" Quantity="1" Sideboard="false" Name="Viashino Heretic" />
+  <Cards CatID="44033" Quantity="1" Sideboard="false" Name="Zealous Conscripts" />
+  <Cards CatID="13577" Quantity="1" Sideboard="false" Name="Battle Rampart" />
+  <Cards CatID="21529" Quantity="1" Sideboard="false" Name="Desperate Ritual" />
+  <Cards CatID="22807" Quantity="1" Sideboard="false" Name="Seething Song" />
+  <Cards CatID="23865" Quantity="1" Sideboard="false" Name="Shattering Spree" />
+  <Cards CatID="38365" Quantity="1" Sideboard="false" Name="Molten Psyche" />
+  <Cards CatID="25637" Quantity="1" Sideboard="false" Name="Wheel of Fate" />
+  <Cards CatID="58745" Quantity="1" Sideboard="false" Name="Rolling Thunder" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="40008" Quantity="1" Sideboard="false" Name="Mindcrank" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="47926" Quantity="1" Sideboard="false" Name="Illusionist's Bracers" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="38522" Quantity="1" Sideboard="false" Name="Gauntlet of Might" />
+  <Cards CatID="51316" Quantity="1" Sideboard="false" Name="Sun Droplet" />
+  <Cards CatID="16359" Quantity="1" Sideboard="false" Name="Price of Glory" />
+  <Cards CatID="40631" Quantity="1" Sideboard="false" Name="Stranglehold" />
+  <Cards CatID="27805" Quantity="1" Sideboard="false" Name="Mana Flare" />
+  <Cards CatID="41146" Quantity="1" Sideboard="false" Name="Manabarbs" />
+  <Cards CatID="19893" Quantity="1" Sideboard="false" Name="Mass Hysteria" />
+  <Cards CatID="41389" Quantity="1" Sideboard="false" Name="Chandra, the Firebrand" />
+  <Cards CatID="49363" Quantity="1" Sideboard="false" Name="Chandra, Pyromaster" />
+  <Cards CatID="28439" Quantity="1" Sideboard="false" Name="Chandra Nalaar" />
+  <Cards CatID="57989" Quantity="1" Sideboard="false" Name="Chandra's Ignition" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="35142" Quantity="1" Sideboard="false" Name="Valakut, the Molten Pinnacle" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="28343" Quantity="1" Sideboard="false" Name="Spinerock Knoll" />
+  <Cards CatID="39557" Quantity="1" Sideboard="false" Name="Spine of Ish Sah" />
+  <Cards CatID="53480" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53370" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53300" Quantity="6" Sideboard="false" Name="Mountain" />
+  <Cards CatID="40684" Quantity="1" Sideboard="false" Name="Forgotten Cave" />
+  <Cards CatID="20716" Quantity="1" Sideboard="false" Name="Staff of Domination" />
+  <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="21809" Quantity="1" Sideboard="true" Name="Heartless Hidetsugu" />
+</Deck>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53444" Quantity="1" Sideboard="false" Name="Diffusion Sliver" />
+  <Cards CatID="56512" Quantity="1" Sideboard="false" Name="Winged Sliver" />
+  <Cards CatID="18423" Quantity="1" Sideboard="false" Name="Shifting Sliver" />
+  <Cards CatID="9495" Quantity="1" Sideboard="false" Name="Clot Sliver" />
+  <Cards CatID="18397" Quantity="1" Sideboard="false" Name="Crypt Sliver" />
+  <Cards CatID="53490" Quantity="1" Sideboard="false" Name="Leeching Sliver" />
+  <Cards CatID="25393" Quantity="1" Sideboard="false" Name="Basal Sliver" />
+  <Cards CatID="9573" Quantity="1" Sideboard="false" Name="Heart Sliver" />
+  <Cards CatID="53616" Quantity="1" Sideboard="false" Name="Belligerent Sliver" />
+  <Cards CatID="49369" Quantity="1" Sideboard="false" Name="Blur Sliver" />
+  <Cards CatID="26630" Quantity="1" Sideboard="false" Name="Homing Sliver" />
+  <Cards CatID="26722" Quantity="1" Sideboard="false" Name="Virulent Sliver" />
+  <Cards CatID="25855" Quantity="1" Sideboard="false" Name="Gemhide Sliver" />
+  <Cards CatID="49359" Quantity="1" Sideboard="false" Name="Manaweft Sliver" />
+  <Cards CatID="9527" Quantity="1" Sideboard="false" Name="Muscle Sliver" />
+  <Cards CatID="49579" Quantity="1" Sideboard="false" Name="Predatory Sliver" />
+  <Cards CatID="18395" Quantity="1" Sideboard="false" Name="Quick Sliver" />
+  <Cards CatID="25597" Quantity="1" Sideboard="false" Name="Spinneret Sliver" />
+  <Cards CatID="53546" Quantity="1" Sideboard="false" Name="Venom Sliver" />
+  <Cards CatID="18103" Quantity="1" Sideboard="false" Name="Mana Echoes" />
+  <Cards CatID="18383" Quantity="1" Sideboard="false" Name="Brood Sliver" />
+  <Cards CatID="25579" Quantity="1" Sideboard="false" Name="Might Sliver" />
+  <Cards CatID="49453" Quantity="1" Sideboard="false" Name="Megantic Sliver" />
+  <Cards CatID="10225" Quantity="1" Sideboard="false" Name="Crystalline Sliver" />
+  <Cards CatID="26553" Quantity="1" Sideboard="false" Name="Necrotic Sliver" />
+  <Cards CatID="10283" Quantity="1" Sideboard="false" Name="Hibernation Sliver" />
+  <Cards CatID="25509" Quantity="1" Sideboard="false" Name="Harmonic Sliver" />
+  <Cards CatID="26850" Quantity="1" Sideboard="false" Name="Sliver Legion" />
+  <Cards CatID="35348" Quantity="1" Sideboard="false" Name="Sliver Overlord" />
+  <Cards CatID="53478" Quantity="11" Sideboard="false" Name="Forest" />
+  <Cards CatID="53622" Quantity="1" Sideboard="false" Name="Sliver Hive" />
+  <Cards CatID="25835" Quantity="1" Sideboard="false" Name="Sidewinder Sliver" />
+  <Cards CatID="49511" Quantity="1" Sideboard="false" Name="Sentinel Sliver" />
+  <Cards CatID="26383" Quantity="1" Sideboard="false" Name="Sinew Sliver" />
+  <Cards CatID="9661" Quantity="1" Sideboard="false" Name="Talon Sliver" />
+  <Cards CatID="49367" Quantity="1" Sideboard="false" Name="Bonescythe Sliver" />
+  <Cards CatID="18391" Quantity="1" Sideboard="false" Name="Essence Sliver" />
+  <Cards CatID="18477" Quantity="1" Sideboard="false" Name="Ward Sliver" />
+  <Cards CatID="25671" Quantity="1" Sideboard="false" Name="Pulmonic Sliver" />
+  <Cards CatID="53666" Quantity="1" Sideboard="false" Name="Constricting Sliver" />
+  <Cards CatID="49355" Quantity="1" Sideboard="false" Name="Galerider Sliver" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="52611" Quantity="1" Sideboard="false" Name="Grasslands" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="42586" Quantity="1" Sideboard="false" Name="Kessig Wolf Run" />
+  <Cards CatID="42671" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
+  <Cards CatID="42572" Quantity="1" Sideboard="false" Name="Gavony Township" />
+  <Cards CatID="53482" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="53480" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53484" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="53486" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="52619" Quantity="1" Sideboard="false" Name="Mountain Valley" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="49585" Quantity="1" Sideboard="false" Name="Darksteel Ingot" />
+  <Cards CatID="31421" Quantity="1" Sideboard="false" Name="Mirari's Wake" />
+  <Cards CatID="34700" Quantity="1" Sideboard="false" Name="Eldrazi Monument" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="53650" Quantity="1" Sideboard="false" Name="Obelisk of Urd" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="59590" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="18667" Quantity="1" Sideboard="false" Name="Alpha Status" />
+  <Cards CatID="29242" Quantity="1" Sideboard="false" Name="Shared Animosity" />
+  <Cards CatID="44237" Quantity="1" Sideboard="false" Name="Descendants' Path" />
+  <Cards CatID="57312" Quantity="1" Sideboard="false" Name="Elesh Norn, Grand Cenobite" />
+  <Cards CatID="46783" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
+  <Cards CatID="41127" Quantity="1" Sideboard="false" Name="Rampant Growth" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="42660" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="33844" Quantity="1" Sideboard="false" Name="Spoils of Victory" />
+  <Cards CatID="26301" Quantity="1" Sideboard="false" Name="Hunting Wilds" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="26981" Quantity="1" Sideboard="true" Name="Sliver Queen" />
+</Deck>

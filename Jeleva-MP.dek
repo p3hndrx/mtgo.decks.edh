@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="49129" Quantity="1" Sideboard="false" Name="Wild Ricochet" />
+  <Cards CatID="25941" Quantity="1" Sideboard="false" Name="Reiterate" />
+  <Cards CatID="60174" Quantity="1" Sideboard="false" Name="Geistblast" />
+  <Cards CatID="45387" Quantity="1" Sideboard="false" Name="Reverberate" />
+  <Cards CatID="207" Quantity="1" Sideboard="false" Name="Fork" />
+  <Cards CatID="23865" Quantity="1" Sideboard="false" Name="Shattering Spree" />
+  <Cards CatID="45640" Quantity="1" Sideboard="false" Name="Spelltwine" />
+  <Cards CatID="34770" Quantity="1" Sideboard="false" Name="Rite of Replication" />
+  <Cards CatID="59824" Quantity="1" Sideboard="false" Name="Rise from the Tides" />
+  <Cards CatID="33059" Quantity="1" Sideboard="false" Name="Twincast" />
+  <Cards CatID="61657" Quantity="1" Sideboard="false" Name="Insidious Will" />
+  <Cards CatID="59868" Quantity="1" Sideboard="false" Name="Thing in the Ice" />
+  <Cards CatID="45567" Quantity="1" Sideboard="false" Name="Talrand, Sky Summoner" />
+  <Cards CatID="61919" Quantity="1" Sideboard="false" Name="Metallurgic Summonings" />
+  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
+  <Cards CatID="36668" Quantity="1" Sideboard="false" Name="Kiln Fiend" />
+  <Cards CatID="61198" Quantity="1" Sideboard="false" Name="Thermo-Alchemist" />
+  <Cards CatID="49413" Quantity="1" Sideboard="false" Name="Young Pyromancer" />
+  <Cards CatID="46401" Quantity="1" Sideboard="false" Name="Guttersnipe" />
+  <Cards CatID="42510" Quantity="1" Sideboard="false" Name="Charmbreaker Devils" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="23719" Quantity="1" Sideboard="false" Name="Wee Dragonauts" />
+  <Cards CatID="36698" Quantity="1" Sideboard="false" Name="Recurring Insight" />
+  <Cards CatID="37392" Quantity="1" Sideboard="false" Name="Time Reversal" />
+  <Cards CatID="20195" Quantity="1" Sideboard="false" Name="Temporal Cascade" />
+  <Cards CatID="17835" Quantity="1" Sideboard="false" Name="Blatant Thievery" />
+  <Cards CatID="61144" Quantity="1" Sideboard="false" Name="Collective Brutality" />
+  <Cards CatID="21932" Quantity="1" Sideboard="false" Name="Pain's Reward" />
+  <Cards CatID="25583" Quantity="1" Sideboard="false" Name="Curse of the Cabal" />
+  <Cards CatID="37891" Quantity="1" Sideboard="false" Name="Price of Progress" />
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" />
+  <Cards CatID="61424" Quantity="1" Sideboard="false" Name="Collective Defiance" />
+  <Cards CatID="47879" Quantity="1" Sideboard="false" Name="Whispering Madness" />
+  <Cards CatID="46441" Quantity="1" Sideboard="false" Name="Rakdos Charm" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="45471" Quantity="1" Sideboard="false" Name="Ring of Evos Isle" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="38293" Quantity="1" Sideboard="false" Name="Blackcleave Cliffs" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="50264" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="22623" Quantity="1" Sideboard="false" Name="Underground River" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="30770" Quantity="1" Sideboard="false" Name="Personal Tutor" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="31321" Quantity="1" Sideboard="false" Name="Grixis Panorama" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="50208" Quantity="1" Sideboard="false" Name="Traveler's Amulet" />
+  <Cards CatID="55256" Quantity="1" Sideboard="false" Name="Wayfarer's Bauble" />
+  <Cards CatID="40551" Quantity="1" Sideboard="false" Name="Armillary Sphere" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="43403" Quantity="1" Sideboard="false" Name="Artful Dodge" />
+  <Cards CatID="50456" Quantity="1" Sideboard="false" Name="Aqueous Form" />
+  <Cards CatID="53117" Quantity="1" Sideboard="false" Name="Brainstorm" />
+  <Cards CatID="45400" Quantity="1" Sideboard="false" Name="Index" />
+  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
+  <Cards CatID="36280" Quantity="1" Sideboard="false" Name="Serum Visions" />
+  <Cards CatID="35521" Quantity="1" Sideboard="false" Name="Halimar Depths" />
+  <Cards CatID="31471" Quantity="1" Sideboard="false" Name="Cabal Coffers" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="59359" Quantity="1" Sideboard="false" Name="Submerged Boneyard" />
+  <Cards CatID="53482" Quantity="10" Sideboard="false" Name="Island" />
+  <Cards CatID="53480" Quantity="6" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53486" Quantity="6" Sideboard="false" Name="Swamp" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="36732" Quantity="1" Sideboard="false" Name="Distortion Strike" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="35681" Quantity="1" Sideboard="false" Name="Everflowing Chalice" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="54843" Quantity="1" Sideboard="false" Name="Dreamstone Hedron" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="50046" Quantity="1" Sideboard="false" Name="Cruel Ultimatum" />
+  <Cards CatID="53704" Quantity="1" Sideboard="false" Name="In Garruk's Wake" />
+  <Cards CatID="49465" Quantity="1" Sideboard="false" Name="Rise of the Dark Realms" />
+  <Cards CatID="20646" Quantity="1" Sideboard="false" Name="Beacon of Tomorrows" />
+  <Cards CatID="25569" Quantity="1" Sideboard="false" Name="Walk the Aeons" />
+  <Cards CatID="51332" Quantity="1" Sideboard="true" Name="Jeleva, Nephalia's Scourge" />
+</Deck>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="60725" Quantity="1" Sideboard="false" Name="Intangible Virtue" />
+  <Cards CatID="61877" Quantity="1" Sideboard="false" Name="Authority of the Consuls" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="34816" Quantity="1" Sideboard="false" Name="Luminarch Ascension" />
+  <Cards CatID="50140" Quantity="1" Sideboard="false" Name="Hopeful Eidolon" />
+  <Cards CatID="9281" Quantity="1" Sideboard="false" Name="Wave of Terror" />
+  <Cards CatID="51803" Quantity="1" Sideboard="false" Name="Spiteful Returned" />
+  <Cards CatID="58949" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
+  <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="16999" Quantity="1" Sideboard="false" Name="Karmic Justice" />
+  <Cards CatID="51717" Quantity="1" Sideboard="false" Name="Eidolon of Countless Battles" />
+  <Cards CatID="45256" Quantity="1" Sideboard="false" Name="Oblivion Ring" />
+  <Cards CatID="37881" Quantity="1" Sideboard="false" Name="Aura of Silence" />
+  <Cards CatID="7001" Quantity="1" Sideboard="false" Name="Forsaken Wastes" />
+  <Cards CatID="32596" Quantity="1" Sideboard="false" Name="Mesa Enchantress" />
+  <Cards CatID="59129" Quantity="1" Sideboard="false" Name="Shielded by Faith" />
+  <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
+  <Cards CatID="57832" Quantity="1" Sideboard="false" Name="Blessed Spirits" />
+  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="12795" Quantity="1" Sideboard="false" Name="Replenish" />
+  <Cards CatID="49539" Quantity="1" Sideboard="false" Name="Ajani's Chosen" />
+  <Cards CatID="40624" Quantity="1" Sideboard="false" Name="Crescendo of War" />
+  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
+  <Cards CatID="24144" Quantity="1" Sideboard="false" Name="Celestial Ancient" />
+  <Cards CatID="55510" Quantity="1" Sideboard="false" Name="Sage's Reverie" />
+  <Cards CatID="62607" Quantity="1" Sideboard="false" Name="Consulate Crackdown" />
+  <Cards CatID="52244" Quantity="1" Sideboard="false" Name="Dictate of Heliod" />
+  <Cards CatID="57638" Quantity="1" Sideboard="false" Name="Sigil of the Empty Throne" />
+  <Cards CatID="46571" Quantity="1" Sideboard="false" Name="Ethereal Armor" />
+  <Cards CatID="51771" Quantity="1" Sideboard="false" Name="Plea for Guidance" />
+  <Cards CatID="32973" Quantity="1" Sideboard="false" Name="Open the Vaults" />
+  <Cards CatID="37406" Quantity="1" Sideboard="false" Name="Sun Titan" />
+  <Cards CatID="38221" Quantity="1" Sideboard="false" Name="True Conviction" />
+  <Cards CatID="29966" Quantity="1" Sideboard="false" Name="Unmake" />
+  <Cards CatID="50910" Quantity="1" Sideboard="false" Name="Phyrexian Reclamation" />
+  <Cards CatID="34390" Quantity="1" Sideboard="false" Name="Journey to Nowhere" />
+  <Cards CatID="59878" Quantity="1" Sideboard="false" Name="Declaration in Stone" />
+  <Cards CatID="43142" Quantity="1" Sideboard="false" Name="Animate Dead" />
+  <Cards CatID="19577" Quantity="1" Sideboard="false" Name="Phyrexian Arena" />
+  <Cards CatID="41347" Quantity="1" Sideboard="false" Name="Auramancer" />
+  <Cards CatID="61294" Quantity="1" Sideboard="false" Name="Ironclad Slayer" />
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="51815" Quantity="1" Sideboard="false" Name="Fate Unraveler" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="29561" Quantity="1" Sideboard="false" Name="Greater Auramancy" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="52108" Quantity="1" Sideboard="false" Name="Underworld Coinsmith" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="51661" Quantity="1" Sideboard="false" Name="Ghostblade Eidolon" />
+  <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
+  <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
+  <Cards CatID="59990" Quantity="1" Sideboard="false" Name="Sorin, Grim Nemesis" />
+  <Cards CatID="47855" Quantity="1" Sideboard="false" Name="Treasury Thrull" />
+  <Cards CatID="57668" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="42294" Quantity="1" Sideboard="false" Name="Ghost Quarter" />
+  <Cards CatID="42652" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="26648" Quantity="1" Sideboard="false" Name="New Benalia" />
+  <Cards CatID="51482" Quantity="1" Sideboard="false" Name="Orzhov Basilica" />
+  <Cards CatID="51282" Quantity="1" Sideboard="false" Name="Orzhov Guildgate" />
+  <Cards CatID="53390" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="53484" Quantity="12" Sideboard="false" Name="Plains" />
+  <Cards CatID="54070" Quantity="1" Sideboard="false" Name="Scoured Barrens" />
+  <Cards CatID="53486" Quantity="7" Sideboard="false" Name="Swamp" />
+  <Cards CatID="48091" Quantity="1" Sideboard="false" Name="Tainted Field" />
+  <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="23681" Quantity="1" Sideboard="false" Name="Orzhov Signet" />
+  <Cards CatID="59069" Quantity="1" Sideboard="false" Name="Thought Vessel" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="58116" Quantity="1" Sideboard="false" Name="Helm of the Gods" />
+  <Cards CatID="11893" Quantity="1" Sideboard="false" Name="Serra's Sanctum" />
+  <Cards CatID="63606" Quantity="1" Sideboard="false" Name="Anointed Procession" />
+  <Cards CatID="59133" Quantity="1" Sideboard="true" Name="Daxos the Returned" />
+</Deck>

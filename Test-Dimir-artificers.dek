@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53638" Quantity="1" Sideboard="false" Name="Chief Engineer" />
+  <Cards CatID="62557" Quantity="1" Sideboard="false" Name="Tezzeret the Schemer" />
+  <Cards CatID="59920" Quantity="1" Sideboard="false" Name="Choked Estuary" />
+  <Cards CatID="38291" Quantity="1" Sideboard="false" Name="Darkslick Shores" />
+  <Cards CatID="16445" Quantity="1" Sideboard="false" Name="Darkwater Catacombs" />
+  <Cards CatID="45314" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="64148" Quantity="1" Sideboard="false" Name="Fetid Pools" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="7367" Quantity="1" Sideboard="false" Name="Teferi's Isle" />
+  <Cards CatID="50264" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="22623" Quantity="1" Sideboard="false" Name="Underground River" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="52603" Quantity="1" Sideboard="false" Name="Bad River" />
+  <Cards CatID="25413" Quantity="1" Sideboard="false" Name="Dreadship Reef" />
+  <Cards CatID="17323" Quantity="1" Sideboard="false" Name="Tainted Isle" />
+  <Cards CatID="48810" Quantity="1" Sideboard="false" Name="Etherium Sculptor" />
+  <Cards CatID="61923" Quantity="1" Sideboard="false" Name="Padeem, Consul of Innovation" />
+  <Cards CatID="20245" Quantity="1" Sideboard="false" Name="Nuisance Engine" />
+  <Cards CatID="31187" Quantity="1" Sideboard="false" Name="Master of Etherium" />
+  <Cards CatID="19819" Quantity="1" Sideboard="false" Name="Vedalken Archmage" />
+  <Cards CatID="65460" Quantity="1" Sideboard="false" Name="Deadeye Plunderers" />
+  <Cards CatID="62657" Quantity="1" Sideboard="false" Name="Baral's Expertise" />
+  <Cards CatID="62559" Quantity="1" Sideboard="false" Name="Mechanized Production" />
+  <Cards CatID="62637" Quantity="1" Sideboard="false" Name="Trophy Mage" />
+  <Cards CatID="62655" Quantity="1" Sideboard="false" Name="Whir of Invention" />
+  <Cards CatID="62811" Quantity="1" Sideboard="false" Name="Tezzeret's Touch" />
+  <Cards CatID="62875" Quantity="1" Sideboard="false" Name="Merchant's Dockhand" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="61959" Quantity="1" Sideboard="false" Name="Noxious Gearhulk" />
+  <Cards CatID="39872" Quantity="1" Sideboard="false" Name="Unwinding Clock" />
+  <Cards CatID="61945" Quantity="1" Sideboard="false" Name="Fortuitous Find" />
+  <Cards CatID="61765" Quantity="1" Sideboard="false" Name="Contraband Kingpin" />
+  <Cards CatID="57088" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
+  <Cards CatID="57906" Quantity="1" Sideboard="false" Name="Thopter Spy Network" />
+  <Cards CatID="49587" Quantity="1" Sideboard="false" Name="Darksteel Forge" />
+  <Cards CatID="53209" Quantity="1" Sideboard="false" Name="Muzzio, Visionary Architect" />
+  <Cards CatID="53015" Quantity="1" Sideboard="false" Name="Baleful Strix" />
+  <Cards CatID="53602" Quantity="1" Sideboard="false" Name="Ensoul Artifact" />
+  <Cards CatID="39734" Quantity="1" Sideboard="false" Name="Phyrexian Metamorph" />
+  <Cards CatID="38496" Quantity="1" Sideboard="false" Name="Copy Artifact" />
+  <Cards CatID="35735" Quantity="1" Sideboard="false" Name="Thada Adel, Acquisitor" />
+  <Cards CatID="20824" Quantity="1" Sideboard="false" Name="Cranial Plating" />
+  <Cards CatID="20331" Quantity="1" Sideboard="false" Name="Memnarch" />
+  <Cards CatID="20143" Quantity="1" Sideboard="false" Name="Fabricate" />
+  <Cards CatID="20049" Quantity="1" Sideboard="false" Name="March of the Machines" />
+  <Cards CatID="19679" Quantity="1" Sideboard="false" Name="Talisman of Dominance" />
+  <Cards CatID="20017" Quantity="1" Sideboard="false" Name="Seat of the Synod" />
+  <Cards CatID="20019" Quantity="1" Sideboard="false" Name="Vault of Whispers" />
+  <Cards CatID="15408" Quantity="1" Sideboard="false" Name="Charcoal Diamond" />
+  <Cards CatID="53163" Quantity="1" Sideboard="false" Name="Mishra's Workshop" />
+  <Cards CatID="20037" Quantity="1" Sideboard="false" Name="Dross Scorpion" />
+  <Cards CatID="62095" Quantity="1" Sideboard="false" Name="Foundry Inspector" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="20585" Quantity="1" Sideboard="false" Name="Mycosynth Lattice" />
+  <Cards CatID="20794" Quantity="1" Sideboard="false" Name="Mycosynth Golem" />
+  <Cards CatID="58150" Quantity="1" Sideboard="false" Name="Foundry of the Consuls" />
+  <Cards CatID="62643" Quantity="1" Sideboard="false" Name="Efficient Construction" />
+  <Cards CatID="50938" Quantity="1" Sideboard="false" Name="Sharding Sphinx" />
+  <Cards CatID="38279" Quantity="1" Sideboard="false" Name="Sword of Body and Mind" />
+  <Cards CatID="39650" Quantity="1" Sideboard="false" Name="Sword of Fire and Ice" />
+  <Cards CatID="20539" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
+  <Cards CatID="19763" Quantity="1" Sideboard="false" Name="Lodestone Myr" />
+  <Cards CatID="51104" Quantity="1" Sideboard="false" Name="Myr Battlesphere" />
+  <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
+  <Cards CatID="51354" Quantity="1" Sideboard="false" Name="Opal Palace" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="45692" Quantity="1" Sideboard="false" Name="Clock of Omens" />
+  <Cards CatID="31532" Quantity="1" Sideboard="false" Name="Mind Stone" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="59089" Quantity="1" Sideboard="false" Name="Basalt Monolith" />
+  <Cards CatID="38349" Quantity="1" Sideboard="false" Name="Palladium Myr" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="53774" Quantity="1" Sideboard="false" Name="Darksteel Citadel" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="62877" Quantity="1" Sideboard="false" Name="Cogwork Assembler" />
+  <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
+  <Cards CatID="58128" Quantity="1" Sideboard="false" Name="Hangarback Walker" />
+  <Cards CatID="37492" Quantity="1" Sideboard="false" Name="Viscera Seer" />
+  <Cards CatID="19813" Quantity="1" Sideboard="false" Name="Myr Retriever" />
+  <Cards CatID="62879" Quantity="1" Sideboard="false" Name="Treasure Keeper" />
+  <Cards CatID="53486" Quantity="3" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53482" Quantity="8" Sideboard="false" Name="Island" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="38241" Quantity="1" Sideboard="false" Name="Darksteel Juggernaut" />
+  <Cards CatID="54745" Quantity="1" Sideboard="false" Name="Junk Diver" />
+  <Cards CatID="62323" Quantity="1" Sideboard="true" Name="Silas Renn, Seeker Adept" />
+</Deck>

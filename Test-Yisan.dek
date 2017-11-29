@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="47926" Quantity="1" Sideboard="false" Name="Illusionist's Bracers" />
+  <Cards CatID="54456" Quantity="1" Sideboard="false" Name="Cranial Archive" />
+  <Cards CatID="24553" Quantity="1" Sideboard="false" Name="Hibernation's End" />
+  <Cards CatID="39796" Quantity="1" Sideboard="false" Name="Birthing Pod" />
+  <Cards CatID="52080" Quantity="1" Sideboard="false" Name="Font of Fertility" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="58076" Quantity="1" Sideboard="false" Name="Nissa's Pilgrimage" />
+  <Cards CatID="15988" Quantity="1" Sideboard="false" Name="Wood Elves" />
+  <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
+  <Cards CatID="41127" Quantity="1" Sideboard="false" Name="Rampant Growth" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="40709" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="59225" Quantity="1" Sideboard="false" Name="Bloodspore Thrinax" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="39587" Quantity="1" Sideboard="false" Name="Blightsteel Colossus" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="62275" Quantity="1" Sideboard="false" Name="Selvala, Heart of the Wilds" />
+  <Cards CatID="49349" Quantity="1" Sideboard="false" Name="Kalonian Hydra" />
+  <Cards CatID="58639" Quantity="1" Sideboard="false" Name="Greenwarden of Murasa" />
+  <Cards CatID="59852" Quantity="1" Sideboard="false" Name="Ulvenwald Hydra" />
+  <Cards CatID="58086" Quantity="1" Sideboard="false" Name="Woodland Bellower" />
+  <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
+  <Cards CatID="47446" Quantity="1" Sideboard="false" Name="Gyre Sage" />
+  <Cards CatID="34542" Quantity="1" Sideboard="false" Name="Oracle of Mul Daya" />
+  <Cards CatID="45582" Quantity="1" Sideboard="false" Name="Thragtusk" />
+  <Cards CatID="62787" Quantity="1" Sideboard="false" Name="Ridgescale Tusker" />
+  <Cards CatID="53660" Quantity="1" Sideboard="false" Name="Kalonian Twingrove" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="60510" Quantity="1" Sideboard="false" Name="Soul of the Harvest" />
+  <Cards CatID="51104" Quantity="1" Sideboard="false" Name="Myr Battlesphere" />
+  <Cards CatID="63952" Quantity="1" Sideboard="false" Name="Manglehorn" />
+  <Cards CatID="53606" Quantity="1" Sideboard="false" Name="Reclamation Sage" />
+  <Cards CatID="31431" Quantity="1" Sideboard="false" Name="Eternal Witness" />
+  <Cards CatID="62815" Quantity="1" Sideboard="false" Name="Maulfist Revolutionary" />
+  <Cards CatID="41185" Quantity="1" Sideboard="false" Name="Acidic Slime" />
+  <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
+  <Cards CatID="63964" Quantity="1" Sideboard="false" Name="Quarry Hauler" />
+  <Cards CatID="29589" Quantity="1" Sideboard="false" Name="Woodfall Primus" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="26209" Quantity="1" Sideboard="false" Name="Deadwood Treefolk" />
+  <Cards CatID="35629" Quantity="1" Sideboard="false" Name="Terastodon" />
+  <Cards CatID="58631" Quantity="1" Sideboard="false" Name="Void Winnower" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="38423" Quantity="1" Sideboard="false" Name="Asceticism" />
+  <Cards CatID="50120" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="29023" Quantity="1" Sideboard="false" Name="Cloak and Dagger" />
+  <Cards CatID="22741" Quantity="1" Sideboard="false" Name="Seedborn Muse" />
+  <Cards CatID="50196" Quantity="1" Sideboard="false" Name="Nylea's Disciple" />
+  <Cards CatID="55149" Quantity="1" Sideboard="false" Name="Song of the Dryads" />
+  <Cards CatID="7681" Quantity="1" Sideboard="false" Name="Quirion Ranger" />
+  <Cards CatID="48306" Quantity="1" Sideboard="false" Name="Renegade Krasis" />
+  <Cards CatID="15822" Quantity="1" Sideboard="false" Name="Seeker of Skybreak" />
+  <Cards CatID="28327" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
+  <Cards CatID="21535" Quantity="1" Sideboard="false" Name="Azusa, Lost but Seeking" />
+  <Cards CatID="15632" Quantity="1" Sideboard="false" Name="Jandor's Saddlebags" />
+  <Cards CatID="9961" Quantity="1" Sideboard="false" Name="Puppet Strings" />
+  <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" />
+  <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="50232" Quantity="1" Sideboard="false" Name="Karametra's Acolyte" />
+  <Cards CatID="53478" Quantity="13" Sideboard="false" Name="Forest" />
+  <Cards CatID="53394" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="53354" Quantity="7" Sideboard="false" Name="Forest" />
+  <Cards CatID="7603" Quantity="1" Sideboard="false" Name="Jungle Basin" />
+  <Cards CatID="53083" Quantity="1" Sideboard="false" Name="Regrowth" />
+  <Cards CatID="20329" Quantity="1" Sideboard="false" Name="Darksteel Colossus" />
+  <Cards CatID="26281" Quantity="1" Sideboard="false" Name="Essence Warden" />
+  <Cards CatID="38055" Quantity="1" Sideboard="false" Name="Copperhorn Scout" />
+  <Cards CatID="53652" Quantity="1" Sideboard="true" Name="Yisan, the Wanderer Bard" />
+</Deck>

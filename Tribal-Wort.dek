@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="28537" Quantity="1" Sideboard="false" Name="Boggart Birth Rite" />
+  <Cards CatID="28573" Quantity="1" Sideboard="false" Name="Knucklebone Witch" />
+  <Cards CatID="29020" Quantity="1" Sideboard="false" Name="Frogtosser Banneret" />
+  <Cards CatID="29082" Quantity="1" Sideboard="false" Name="Warren Weirding" />
+  <Cards CatID="29158" Quantity="1" Sideboard="false" Name="Weirding Shaman" />
+  <Cards CatID="28255" Quantity="1" Sideboard="false" Name="Boggart Harbinger" />
+  <Cards CatID="28189" Quantity="1" Sideboard="false" Name="Mad Auntie" />
+  <Cards CatID="19577" Quantity="1" Sideboard="false" Name="Phyrexian Arena" />
+  <Cards CatID="28475" Quantity="1" Sideboard="false" Name="Boggart Mob" />
+  <Cards CatID="28733" Quantity="1" Sideboard="false" Name="Fodder Launch" />
+  <Cards CatID="19575" Quantity="1" Sideboard="false" Name="Grave Pact" />
+  <Cards CatID="48754" Quantity="1" Sideboard="false" Name="Earwig Squad" />
+  <Cards CatID="17981" Quantity="1" Sideboard="false" Name="Patriarch's Bidding" />
+  <Cards CatID="18035" Quantity="1" Sideboard="false" Name="Brightstone Ritual" />
+  <Cards CatID="41531" Quantity="1" Sideboard="false" Name="Goblin Grenade" />
+  <Cards CatID="12403" Quantity="1" Sideboard="false" Name="Goblin Lackey" />
+  <Cards CatID="18844" Quantity="1" Sideboard="false" Name="Goblin War Strike" />
+  <Cards CatID="47787" Quantity="1" Sideboard="false" Name="Legion Loyalist" />
+  <Cards CatID="35663" Quantity="1" Sideboard="false" Name="Quest for the Goblin Lord" />
+  <Cards CatID="53040" Quantity="1" Sideboard="false" Name="Skirk Prospector" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="62329" Quantity="1" Sideboard="false" Name="Vial Smasher the Fierce" />
+  <Cards CatID="50830" Quantity="1" Sideboard="false" Name="Goblin Bombardment" />
+  <Cards CatID="57714" Quantity="1" Sideboard="false" Name="Goblin Piledriver" />
+  <Cards CatID="7567" Quantity="1" Sideboard="false" Name="Goblin Recruiter" />
+  <Cards CatID="56250" Quantity="1" Sideboard="false" Name="Impact Tremors" />
+  <Cards CatID="45518" Quantity="1" Sideboard="false" Name="Krenko's Command" />
+  <Cards CatID="49058" Quantity="1" Sideboard="false" Name="Mogg War Marshal" />
+  <Cards CatID="34642" Quantity="1" Sideboard="false" Name="Warren Instigator" />
+  <Cards CatID="28203" Quantity="1" Sideboard="false" Name="Boggart Shenanigans" />
+  <Cards CatID="52977" Quantity="1" Sideboard="false" Name="Chaos Warp" />
+  <Cards CatID="18511" Quantity="1" Sideboard="false" Name="Gempalm Incinerator" />
+  <Cards CatID="52883" Quantity="1" Sideboard="false" Name="Goblin Matron" />
+  <Cards CatID="59107" Quantity="1" Sideboard="false" Name="Goblin Sharpshooter" />
+  <Cards CatID="54849" Quantity="1" Sideboard="false" Name="Tuktuk the Explorer" />
+  <Cards CatID="37218" Quantity="1" Sideboard="false" Name="Goblin Chieftain" />
+  <Cards CatID="15568" Quantity="1" Sideboard="false" Name="Goblin King" />
+  <Cards CatID="18716" Quantity="1" Sideboard="false" Name="Goblin Warchief" />
+  <Cards CatID="54362" Quantity="1" Sideboard="false" Name="Hordeling Outburst" />
+  <Cards CatID="53073" Quantity="1" Sideboard="false" Name="Goblin Ringleader" />
+  <Cards CatID="29118" Quantity="1" Sideboard="false" Name="Lightning Crafter" />
+  <Cards CatID="50312" Quantity="1" Sideboard="false" Name="Purphoros, God of the Forge" />
+  <Cards CatID="54991" Quantity="1" Sideboard="false" Name="Beetleback Chief" />
+  <Cards CatID="27961" Quantity="1" Sideboard="false" Name="Goblin Wizard" />
+  <Cards CatID="45578" Quantity="1" Sideboard="false" Name="Krenko, Mob Boss" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="59673" Quantity="1" Sideboard="false" Name="Goblin Dark-Dwellers" />
+  <Cards CatID="33027" Quantity="1" Sideboard="false" Name="Siege-Gang Commander" />
+  <Cards CatID="48852" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
+  <Cards CatID="12881" Quantity="1" Sideboard="false" Name="Goblin Marshal" />
+  <Cards CatID="32234" Quantity="1" Sideboard="false" Name="Terminate" />
+  <Cards CatID="15219" Quantity="1" Sideboard="false" Name="Dralnu's Crusade" />
+  <Cards CatID="36192" Quantity="1" Sideboard="false" Name="Murderous Redcap" />
+  <Cards CatID="53211" Quantity="1" Sideboard="false" Name="Grenzo, Dungeon Warden" />
+  <Cards CatID="28781" Quantity="1" Sideboard="false" Name="Auntie's Hovel" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="60867" Quantity="1" Sideboard="false" Name="Bloodfell Caves" />
+  <Cards CatID="18103" Quantity="1" Sideboard="false" Name="Mana Echoes" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="60080" Quantity="1" Sideboard="false" Name="Foreboding Ruins" />
+  <Cards CatID="26702" Quantity="1" Sideboard="false" Name="Graven Cairns" />
+  <Cards CatID="53370" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53480" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="40759" Quantity="1" Sideboard="false" Name="Rakdos Carnarium" />
+  <Cards CatID="46381" Quantity="1" Sideboard="false" Name="Rakdos Guildgate" />
+  <Cards CatID="58697" Quantity="1" Sideboard="false" Name="Smoldering Marsh" />
+  <Cards CatID="53486" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="24045" Quantity="1" Sideboard="false" Name="Rakdos Signet" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="29222" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="32677" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="34700" Quantity="1" Sideboard="false" Name="Eldrazi Monument" />
+  <Cards CatID="53396" Quantity="4" Sideboard="false" Name="Swamp" />
+  <Cards CatID="17325" Quantity="1" Sideboard="false" Name="Tainted Peak" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="53300" Quantity="10" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53298" Quantity="4" Sideboard="false" Name="Mountain" />
+  <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="40705" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="28399" Quantity="1" Sideboard="true" Name="Wort, Boggart Auntie" />
+</Deck>

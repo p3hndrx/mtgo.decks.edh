@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53486" Quantity="4" Sideboard="false" Name="Swamp" />
+  <Cards CatID="40759" Quantity="1" Sideboard="false" Name="Rakdos Carnarium" />
+  <Cards CatID="43199" Quantity="1" Sideboard="false" Name="Dawntreader Elk" />
+  <Cards CatID="21097" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="39325" Quantity="1" Sideboard="false" Name="Viridian Emissary" />
+  <Cards CatID="26493" Quantity="1" Sideboard="false" Name="Big Game Hunter" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="55107" Quantity="1" Sideboard="false" Name="Feldon of the Third Path" />
+  <Cards CatID="62275" Quantity="1" Sideboard="false" Name="Selvala, Heart of the Wilds" />
+  <Cards CatID="52889" Quantity="1" Sideboard="false" Name="Yavimaya Elder" />
+  <Cards CatID="53480" Quantity="4" Sideboard="false" Name="Mountain" />
+  <Cards CatID="45568" Quantity="1" Sideboard="false" Name="Disciple of Bolas" />
+  <Cards CatID="34542" Quantity="1" Sideboard="false" Name="Oracle of Mul Daya" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="57468" Quantity="1" Sideboard="false" Name="Gruul Turf" />
+  <Cards CatID="32252" Quantity="1" Sideboard="false" Name="Lord of Extinction" />
+  <Cards CatID="43969" Quantity="1" Sideboard="false" Name="Malignus" />
+  <Cards CatID="56038" Quantity="1" Sideboard="false" Name="Sidisi, Undead Vizier" />
+  <Cards CatID="51745" Quantity="1" Sideboard="false" Name="Xenagos, God of Revels" />
+  <Cards CatID="39738" Quantity="1" Sideboard="false" Name="Urabrask the Hidden" />
+  <Cards CatID="41295" Quantity="1" Sideboard="false" Name="Grave Titan" />
+  <Cards CatID="41315" Quantity="1" Sideboard="false" Name="Inferno Titan" />
+  <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
+  <Cards CatID="40730" Quantity="1" Sideboard="false" Name="Golgari Rot Farm" />
+  <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
+  <Cards CatID="64630" Quantity="1" Sideboard="false" Name="Razaketh, the Foulblooded" />
+  <Cards CatID="35629" Quantity="1" Sideboard="false" Name="Terastodon" />
+  <Cards CatID="39581" Quantity="1" Sideboard="false" Name="Green Sun's Zenith" />
+  <Cards CatID="60332" Quantity="1" Sideboard="false" Name="Traverse the Ulvenwald" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="15083" Quantity="1" Sideboard="false" Name="Diabolic Intent" />
+  <Cards CatID="61460" Quantity="1" Sideboard="false" Name="Eldritch Evolution" />
+  <Cards CatID="53478" Quantity="8" Sideboard="false" Name="Forest" />
+  <Cards CatID="60841" Quantity="1" Sideboard="false" Name="Victimize" />
+  <Cards CatID="60547" Quantity="1" Sideboard="false" Name="Natural Order" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="62805" Quantity="1" Sideboard="false" Name="Rishkar's Expertise" />
+  <Cards CatID="55616" Quantity="1" Sideboard="false" Name="Archfiend of Depravity" />
+  <Cards CatID="48860" Quantity="1" Sideboard="false" Name="Tooth and Nail" />
+  <Cards CatID="52260" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
+  <Cards CatID="39884" Quantity="1" Sideboard="false" Name="Beast Within" />
+  <Cards CatID="36460" Quantity="1" Sideboard="false" Name="Momentous Fall" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="45418" Quantity="1" Sideboard="false" Name="Garruk, Primal Hunter" />
+  <Cards CatID="36306" Quantity="1" Sideboard="false" Name="Pernicious Deed" />
+  <Cards CatID="20551" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="40594" Quantity="1" Sideboard="false" Name="Awakening Zone" />
+  <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
+  <Cards CatID="39796" Quantity="1" Sideboard="false" Name="Birthing Pod" />
+  <Cards CatID="53109" Quantity="1" Sideboard="false" Name="Sylvan Library" />
+  <Cards CatID="52837" Quantity="1" Sideboard="false" Name="Survival of the Fittest" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="52941" Quantity="1" Sideboard="false" Name="Mana Crypt" />
+  <Cards CatID="12579" Quantity="1" Sideboard="false" Name="Defense of the Heart" />
+  <Cards CatID="40537" Quantity="1" Sideboard="false" Name="Terminate" />
+  <Cards CatID="22877" Quantity="1" Sideboard="false" Name="Greater Good" />
+  <Cards CatID="60769" Quantity="1" Sideboard="false" Name="Sneak Attack" />
+  <Cards CatID="48328" Quantity="1" Sideboard="false" Name="Putrefy" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="43455" Quantity="1" Sideboard="false" Name="Fling" />
+  <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="62317" Quantity="1" Sideboard="false" Name="Reyhan, Last of the Abzan" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
+  <Cards CatID="32667" Quantity="1" Sideboard="false" Name="Garruk Wildspeaker" />
+  <Cards CatID="57989" Quantity="1" Sideboard="false" Name="Chandra's Ignition" />
+  <Cards CatID="26882" Quantity="1" Sideboard="false" Name="Dryad Arbor" />
+  <Cards CatID="32389" Quantity="1" Sideboard="false" Name="Maelstrom Pulse" />
+  <Cards CatID="40086" Quantity="1" Sideboard="false" Name="Sheoldred, Whispering One" />
+  <Cards CatID="41185" Quantity="1" Sideboard="false" Name="Acidic Slime" />
+  <Cards CatID="42586" Quantity="1" Sideboard="false" Name="Kessig Wolf Run" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
+  <Cards CatID="40668" Quantity="1" Sideboard="false" Name="Anger" />
+  <Cards CatID="31431" Quantity="1" Sideboard="false" Name="Eternal Witness" />
+  <Cards CatID="9397" Quantity="1" Sideboard="false" Name="Veteran Explorer" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="30945" Quantity="1" Sideboard="false" Name="Savage Lands" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="58697" Quantity="1" Sideboard="false" Name="Smoldering Marsh" />
+  <Cards CatID="58779" Quantity="1" Sideboard="false" Name="Omnath, Locus of Rage" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="42660" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" />
+  <Cards CatID="42250" Quantity="1" Sideboard="true" Name="Kresh the Bloodbraided" />
+</Deck>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="61853" Quantity="1" Sideboard="false" Name="Botanical Sanctum" />
+  <Cards CatID="45314" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="61849" Quantity="1" Sideboard="false" Name="Blooming Marsh" />
+  <Cards CatID="42671" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
+  <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="57676" Quantity="1" Sideboard="false" Name="Yavimaya Coast" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="54164" Quantity="1" Sideboard="false" Name="Opulent Palace" />
+  <Cards CatID="58529" Quantity="1" Sideboard="false" Name="Lumbering Falls" />
+  <Cards CatID="57672" Quantity="1" Sideboard="false" Name="Llanowar Wastes" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="15988" Quantity="1" Sideboard="false" Name="Wood Elves" />
+  <Cards CatID="38291" Quantity="1" Sideboard="false" Name="Darkslick Shores" />
+  <Cards CatID="50264" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="59920" Quantity="1" Sideboard="false" Name="Choked Estuary" />
+  <Cards CatID="42660" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="20235" Quantity="1" Sideboard="false" Name="Proteus Staff" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="53482" Quantity="3" Sideboard="false" Name="Island" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="53486" Quantity="3" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53478" Quantity="6" Sideboard="false" Name="Forest" />
+  <Cards CatID="22623" Quantity="1" Sideboard="false" Name="Underground River" />
+  <Cards CatID="55370" Quantity="1" Sideboard="false" Name="Ghastly Conscription" />
+  <Cards CatID="60296" Quantity="1" Sideboard="false" Name="Ever After" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="20848" Quantity="1" Sideboard="false" Name="Beacon of Unrest" />
+  <Cards CatID="9777" Quantity="1" Sideboard="false" Name="Coffin Queen" />
+  <Cards CatID="17494" Quantity="1" Sideboard="false" Name="Stitch Together" />
+  <Cards CatID="9283" Quantity="1" Sideboard="false" Name="Urborg Justice" />
+  <Cards CatID="24807" Quantity="1" Sideboard="false" Name="Grim Harvest" />
+  <Cards CatID="12585" Quantity="1" Sideboard="false" Name="Unearth" />
+  <Cards CatID="43098" Quantity="1" Sideboard="false" Name="Reanimate" />
+  <Cards CatID="51962" Quantity="1" Sideboard="false" Name="Kruphix, God of Horizons" />
+  <Cards CatID="52116" Quantity="1" Sideboard="false" Name="Pharika, God of Affliction" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="61775" Quantity="1" Sideboard="false" Name="Rashmi, Eternities Crafter" />
+  <Cards CatID="62275" Quantity="1" Sideboard="false" Name="Selvala, Heart of the Wilds" />
+  <Cards CatID="48208" Quantity="1" Sideboard="false" Name="Progenitor Mimic" />
+  <Cards CatID="64774" Quantity="1" Sideboard="false" Name="The Scarab God" />
+  <Cards CatID="65480" Quantity="1" Sideboard="false" Name="Tishana, Voice of Thunder" />
+  <Cards CatID="59158" Quantity="1" Sideboard="false" Name="Skullwinder" />
+  <Cards CatID="58491" Quantity="1" Sideboard="false" Name="Kiora, Master of the Depths" />
+  <Cards CatID="59912" Quantity="1" Sideboard="false" Name="Altered Ego" />
+  <Cards CatID="39497" Quantity="1" Sideboard="false" Name="Cryptoplasm" />
+  <Cards CatID="23108" Quantity="1" Sideboard="false" Name="Dimir Doppelganger" />
+  <Cards CatID="62281" Quantity="1" Sideboard="false" Name="Stunt Double" />
+  <Cards CatID="59207" Quantity="1" Sideboard="false" Name="Gigantoplasm" />
+  <Cards CatID="49592" Quantity="1" Sideboard="false" Name="Clone" />
+  <Cards CatID="39734" Quantity="1" Sideboard="false" Name="Phyrexian Metamorph" />
+  <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
+  <Cards CatID="61354" Quantity="1" Sideboard="false" Name="Identity Thief" />
+  <Cards CatID="22092" Quantity="1" Sideboard="false" Name="Sakashima the Impostor" />
+  <Cards CatID="42518" Quantity="1" Sideboard="false" Name="Evil Twin" />
+  <Cards CatID="59023" Quantity="1" Sideboard="false" Name="Centaur Vinecrasher" />
+  <Cards CatID="60160" Quantity="1" Sideboard="false" Name="Prized Amalgam" />
+  <Cards CatID="56426" Quantity="1" Sideboard="false" Name="Deathmist Raptor" />
+  <Cards CatID="51322" Quantity="1" Sideboard="false" Name="Phyrexian Delver" />
+  <Cards CatID="41325" Quantity="1" Sideboard="false" Name="Reassembling Skeleton" />
+  <Cards CatID="18331" Quantity="1" Sideboard="false" Name="Doomed Necromancer" />
+  <Cards CatID="61150" Quantity="1" Sideboard="false" Name="Haunted Dead" />
+  <Cards CatID="48314" Quantity="1" Sideboard="false" Name="Rot Farm Skeleton" />
+  <Cards CatID="31271" Quantity="1" Sideboard="false" Name="Corpse Connoisseur" />
+  <Cards CatID="22965" Quantity="1" Sideboard="false" Name="Hell's Caretaker" />
+  <Cards CatID="65466" Quantity="1" Sideboard="false" Name="Hostage Taker" />
+  <Cards CatID="63986" Quantity="1" Sideboard="false" Name="Vizier of the Menagerie" />
+  <Cards CatID="62805" Quantity="1" Sideboard="false" Name="Rishkar's Expertise" />
+  <Cards CatID="42560" Quantity="1" Sideboard="false" Name="Laboratory Maniac" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="42562" Quantity="1" Sideboard="false" Name="Nephalia Drownyard" />
+  <Cards CatID="23070" Quantity="1" Sideboard="false" Name="Duskmantle, House of Shadow" />
+  <Cards CatID="51555" Quantity="1" Sideboard="false" Name="Phenax, God of Deception" />
+  <Cards CatID="48300" Quantity="1" Sideboard="false" Name="Deadbridge Chant" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="57200" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" />
+  <Cards CatID="59191" Quantity="1" Sideboard="false" Name="Command Beacon" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="54256" Quantity="1" Sideboard="true" Name="Sidisi, Brood Tyrant" />
+</Deck>

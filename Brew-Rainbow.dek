@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="54162" Quantity="1" Sideboard="false" Name="Mystic Monastery" />
+  <Cards CatID="58573" Quantity="1" Sideboard="false" Name="Bring to Light" />
+  <Cards CatID="62343" Quantity="1" Sideboard="false" Name="Crystalline Crawler" />
+  <Cards CatID="23879" Quantity="1" Sideboard="false" Name="Witch-Maw Nephilim" />
+  <Cards CatID="58545" Quantity="1" Sideboard="false" Name="Painful Truths" />
+  <Cards CatID="58653" Quantity="1" Sideboard="false" Name="Prism Array" />
+  <Cards CatID="58741" Quantity="1" Sideboard="false" Name="Radiant Flames" />
+  <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
+  <Cards CatID="58655" Quantity="1" Sideboard="false" Name="Woodland Wanderer" />
+  <Cards CatID="58597" Quantity="1" Sideboard="false" Name="Skyrider Elf" />
+  <Cards CatID="58723" Quantity="1" Sideboard="false" Name="Unified Front" />
+  <Cards CatID="58775" Quantity="1" Sideboard="false" Name="Brilliant Spectrum" />
+  <Cards CatID="54166" Quantity="1" Sideboard="false" Name="Nomad Outpost" />
+  <Cards CatID="54164" Quantity="1" Sideboard="false" Name="Opulent Palace" />
+  <Cards CatID="26926" Quantity="1" Sideboard="false" Name="Coalition Relic" />
+  <Cards CatID="30260" Quantity="1" Sideboard="false" Name="Bloom Tender" />
+  <Cards CatID="62275" Quantity="1" Sideboard="false" Name="Selvala, Heart of the Wilds" />
+  <Cards CatID="54160" Quantity="1" Sideboard="false" Name="Sandsteppe Citadel" />
+  <Cards CatID="54068" Quantity="1" Sideboard="false" Name="Sultai Banner" />
+  <Cards CatID="54062" Quantity="1" Sideboard="false" Name="Mardu Banner" />
+  <Cards CatID="54430" Quantity="1" Sideboard="false" Name="Mardu Ascendancy" />
+  <Cards CatID="54168" Quantity="1" Sideboard="false" Name="Frontier Bivouac" />
+  <Cards CatID="54426" Quantity="1" Sideboard="false" Name="Abzan Ascendancy" />
+  <Cards CatID="54060" Quantity="1" Sideboard="false" Name="Abzan Banner" />
+  <Cards CatID="54436" Quantity="1" Sideboard="false" Name="Jeskai Ascendancy" />
+  <Cards CatID="54064" Quantity="1" Sideboard="false" Name="Jeskai Banner" />
+  <Cards CatID="20870" Quantity="1" Sideboard="false" Name="Etched Oracle" />
+  <Cards CatID="20713" Quantity="1" Sideboard="false" Name="Opaline Bracers" />
+  <Cards CatID="24277" Quantity="1" Sideboard="false" Name="Brace for Impact" />
+  <Cards CatID="32468" Quantity="1" Sideboard="false" Name="Bant Sureblade" />
+  <Cards CatID="23885" Quantity="1" Sideboard="false" Name="Yore-Tiller Nephilim" />
+  <Cards CatID="23887" Quantity="1" Sideboard="false" Name="Glint-Eye Nephilim" />
+  <Cards CatID="32456" Quantity="1" Sideboard="false" Name="Esper Stormblade" />
+  <Cards CatID="32470" Quantity="1" Sideboard="false" Name="Grixis Grimblade" />
+  <Cards CatID="32464" Quantity="1" Sideboard="false" Name="Jund Hackblade" />
+  <Cards CatID="31131" Quantity="1" Sideboard="false" Name="Jungle Shrine" />
+  <Cards CatID="48498" Quantity="1" Sideboard="false" Name="Maze Behemoth" />
+  <Cards CatID="30945" Quantity="1" Sideboard="false" Name="Savage Lands" />
+  <Cards CatID="31015" Quantity="1" Sideboard="false" Name="Seaside Citadel" />
+  <Cards CatID="31183" Quantity="1" Sideboard="false" Name="Crumbling Necropolis" />
+  <Cards CatID="32458" Quantity="1" Sideboard="false" Name="Naya Hushblade" />
+  <Cards CatID="56192" Quantity="1" Sideboard="false" Name="Sarkhan Unbroken" />
+  <Cards CatID="29591" Quantity="1" Sideboard="false" Name="Prismatic Omen" />
+  <Cards CatID="32498" Quantity="1" Sideboard="false" Name="Gloryscale Viashino" />
+  <Cards CatID="46693" Quantity="1" Sideboard="false" Name="Pyroconvergence" />
+  <Cards CatID="32232" Quantity="1" Sideboard="false" Name="Reborn Hope" />
+  <Cards CatID="24369" Quantity="1" Sideboard="false" Name="Supply/Demand" />
+  <Cards CatID="23883" Quantity="1" Sideboard="false" Name="Ink-Treader Nephilim" />
+  <Cards CatID="32496" Quantity="1" Sideboard="false" Name="Cloven Casting" />
+  <Cards CatID="26868" Quantity="1" Sideboard="false" Name="Glittering Wish" />
+  <Cards CatID="32476" Quantity="1" Sideboard="false" Name="Knight of New Alara" />
+  <Cards CatID="24111" Quantity="1" Sideboard="false" Name="Pillar of the Paruns" />
+  <Cards CatID="54448" Quantity="1" Sideboard="false" Name="Villainous Wealth" />
+  <Cards CatID="14757" Quantity="1" Sideboard="false" Name="Urza's Filter" />
+  <Cards CatID="46421" Quantity="1" Sideboard="false" Name="Azorius Charm" />
+  <Cards CatID="47479" Quantity="1" Sideboard="false" Name="Dimir Charm" />
+  <Cards CatID="46433" Quantity="1" Sideboard="false" Name="Izzet Charm" />
+  <Cards CatID="46441" Quantity="1" Sideboard="false" Name="Rakdos Charm" />
+  <Cards CatID="46451" Quantity="1" Sideboard="false" Name="Golgari Charm" />
+  <Cards CatID="47477" Quantity="1" Sideboard="false" Name="Boros Charm" />
+  <Cards CatID="46415" Quantity="1" Sideboard="false" Name="Selesnya Charm" />
+  <Cards CatID="47485" Quantity="1" Sideboard="false" Name="Simic Charm" />
+  <Cards CatID="51302" Quantity="1" Sideboard="false" Name="Dromar's Charm" />
+  <Cards CatID="54134" Quantity="1" Sideboard="false" Name="Sultai Charm" />
+  <Cards CatID="54130" Quantity="1" Sideboard="false" Name="Jeskai Charm" />
+  <Cards CatID="54126" Quantity="1" Sideboard="false" Name="Abzan Charm" />
+  <Cards CatID="54132" Quantity="1" Sideboard="false" Name="Temur Charm" />
+  <Cards CatID="54128" Quantity="1" Sideboard="false" Name="Mardu Charm" />
+  <Cards CatID="15303" Quantity="1" Sideboard="false" Name="Treva's Charm" />
+  <Cards CatID="30871" Quantity="1" Sideboard="false" Name="Bant Charm" />
+  <Cards CatID="15239" Quantity="1" Sideboard="false" Name="Rith's Charm" />
+  <Cards CatID="30865" Quantity="1" Sideboard="false" Name="Naya Charm" />
+  <Cards CatID="30863" Quantity="1" Sideboard="false" Name="Jund Charm" />
+  <Cards CatID="30869" Quantity="1" Sideboard="false" Name="Grixis Charm" />
+  <Cards CatID="35467" Quantity="1" Sideboard="false" Name="Darigaaz's Charm" />
+  <Cards CatID="30867" Quantity="1" Sideboard="false" Name="Esper Charm" />
+  <Cards CatID="15081" Quantity="1" Sideboard="false" Name="Crosis's Charm" />
+  <Cards CatID="32266" Quantity="1" Sideboard="false" Name="Maelstrom Nexus" />
+  <Cards CatID="31871" Quantity="1" Sideboard="false" Name="Maelstrom Archangel" />
+  <Cards CatID="62335" Quantity="1" Sideboard="false" Name="Yidris, Maelstrom Wielder" />
+  <Cards CatID="60977" Quantity="1" Sideboard="false" Name="Maelstrom Wanderer" />
+  <Cards CatID="57320" Quantity="1" Sideboard="false" Name="Etched Monstrosity" />
+  <Cards CatID="20886" Quantity="1" Sideboard="false" Name="Bringer of the Green Dawn" />
+  <Cards CatID="20892" Quantity="1" Sideboard="false" Name="Bringer of the Black Dawn" />
+  <Cards CatID="20890" Quantity="1" Sideboard="false" Name="Bringer of the Blue Dawn" />
+  <Cards CatID="29387" Quantity="1" Sideboard="false" Name="Safewright Quest" />
+  <Cards CatID="30915" Quantity="1" Sideboard="false" Name="Bant Panorama" />
+  <Cards CatID="31313" Quantity="1" Sideboard="false" Name="Jund Panorama" />
+  <Cards CatID="23881" Quantity="1" Sideboard="false" Name="Dune-Brood Nephilim" />
+  <Cards CatID="31205" Quantity="1" Sideboard="false" Name="Arcane Sanctum" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="52679" Quantity="1" Sideboard="false" Name="Caldera Lake" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="15079" Quantity="1" Sideboard="false" Name="Crosis's Catacombs" />
+  <Cards CatID="15085" Quantity="1" Sideboard="false" Name="Darigaaz's Caldera" />
+  <Cards CatID="15107" Quantity="1" Sideboard="false" Name="Dromar's Cavern" />
+  <Cards CatID="15241" Quantity="1" Sideboard="false" Name="Rith's Grove" />
+  <Cards CatID="33280" Quantity="1" Sideboard="false" Name="Treva's Ruins" />
+  <Cards CatID="62333" Quantity="1" Sideboard="false" Name="Saskia the Unyielding" />
+  <Cards CatID="50862" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="40501" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="51170" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="62375" Quantity="1" Sideboard="false" Name="Kynaios and Tiro of Meletis" />
+  <Cards CatID="53486" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53478" Quantity="1" Sideboard="false" Name="Forest" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="16278" Quantity="1" Sideboard="true" Name="Cromat" />
+</Deck>

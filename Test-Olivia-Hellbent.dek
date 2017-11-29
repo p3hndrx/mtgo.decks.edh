@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="26639" Quantity="1" Sideboard="false" Name="Cutthroat il-Dal" />
+  <Cards CatID="26820" Quantity="1" Sideboard="false" Name="Keldon Megaliths" />
+  <Cards CatID="24320" Quantity="1" Sideboard="false" Name="Rakdos Pit Dragon" />
+  <Cards CatID="16637" Quantity="1" Sideboard="false" Name="Recoup" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="61494" Quantity="1" Sideboard="false" Name="Lupine Prototype" />
+  <Cards CatID="60324" Quantity="1" Sideboard="false" Name="Asylum Visitor" />
+  <Cards CatID="61478" Quantity="1" Sideboard="false" Name="Bloodhall Priest" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="45656" Quantity="1" Sideboard="false" Name="Wild Guess" />
+  <Cards CatID="55918" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="61699" Quantity="1" Sideboard="false" Name="Cathartic Reunion" />
+  <Cards CatID="62075" Quantity="1" Sideboard="false" Name="Bomat Courier" />
+  <Cards CatID="17207" Quantity="1" Sideboard="false" Name="Sickening Dreams" />
+  <Cards CatID="24067" Quantity="1" Sideboard="false" Name="Anthem of Rakdos" />
+  <Cards CatID="24093" Quantity="1" Sideboard="false" Name="Cackling Flames" />
+  <Cards CatID="24087" Quantity="1" Sideboard="false" Name="Demonfire" />
+  <Cards CatID="24307" Quantity="1" Sideboard="false" Name="Demon's Jester" />
+  <Cards CatID="26590" Quantity="1" Sideboard="false" Name="Gathan Raiders" />
+  <Cards CatID="26746" Quantity="1" Sideboard="false" Name="Gibbering Descent" />
+  <Cards CatID="24279" Quantity="1" Sideboard="false" Name="Gobhobbler Rats" />
+  <Cards CatID="24025" Quantity="1" Sideboard="false" Name="Jagged Poppet" />
+  <Cards CatID="24263" Quantity="1" Sideboard="false" Name="Nihilistic Glee" />
+  <Cards CatID="24299" Quantity="1" Sideboard="false" Name="Ragamuffyn" />
+  <Cards CatID="28998" Quantity="1" Sideboard="false" Name="Maralen of the Mornsong" />
+  <Cards CatID="24346" Quantity="1" Sideboard="false" Name="Slithering Shade" />
+  <Cards CatID="24073" Quantity="1" Sideboard="false" Name="Twinstrike" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="63758" Quantity="1" Sideboard="false" Name="Archfiend of Ifnir" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="60228" Quantity="1" Sideboard="false" Name="Bloodmad Vampire" />
+  <Cards CatID="60198" Quantity="1" Sideboard="false" Name="Call the Bloodline" />
+  <Cards CatID="17345" Quantity="1" Sideboard="false" Name="Pitchstone Wall" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="60224" Quantity="1" Sideboard="false" Name="Wolf of Devil's Breach" />
+  <Cards CatID="61396" Quantity="1" Sideboard="false" Name="Voldaren Pariah" />
+  <Cards CatID="60086" Quantity="1" Sideboard="false" Name="Avacyn's Judgment" />
+  <Cards CatID="12699" Quantity="1" Sideboard="false" Name="Brink of Madness" />
+  <Cards CatID="60092" Quantity="1" Sideboard="false" Name="From Under the Floorboards" />
+  <Cards CatID="61212" Quantity="1" Sideboard="false" Name="Stromkirk Occultist" />
+  <Cards CatID="26493" Quantity="1" Sideboard="false" Name="Big Game Hunter" />
+  <Cards CatID="60226" Quantity="1" Sideboard="false" Name="Biting Rain" />
+  <Cards CatID="60338" Quantity="1" Sideboard="false" Name="Gisa's Bidding" />
+  <Cards CatID="59838" Quantity="1" Sideboard="false" Name="Incorrigible Youths" />
+  <Cards CatID="61404" Quantity="1" Sideboard="false" Name="Insatiable Gorgers" />
+  <Cards CatID="26435" Quantity="1" Sideboard="false" Name="Reckless Wurm" />
+  <Cards CatID="17263" Quantity="1" Sideboard="false" Name="Violent Eruption" />
+  <Cards CatID="40545" Quantity="1" Sideboard="false" Name="Malfegor" />
+  <Cards CatID="25423" Quantity="1" Sideboard="false" Name="Call to the Netherworld" />
+  <Cards CatID="25812" Quantity="1" Sideboard="false" Name="Dark Withering" />
+  <Cards CatID="60204" Quantity="1" Sideboard="false" Name="Murderous Compulsion" />
+  <Cards CatID="63874" Quantity="1" Sideboard="false" Name="Hazoret the Fervent" />
+  <Cards CatID="34756" Quantity="1" Sideboard="false" Name="Chandra Ablaze" />
+  <Cards CatID="42712" Quantity="1" Sideboard="false" Name="Past in Flames" />
+  <Cards CatID="61158" Quantity="1" Sideboard="false" Name="Ruthless Disposal" />
+  <Cards CatID="46737" Quantity="1" Sideboard="false" Name="Pack Rat" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="61196" Quantity="1" Sideboard="false" Name="Shreds of Sanity" />
+  <Cards CatID="58178" Quantity="1" Sideboard="false" Name="Macabre Waltz" />
+  <Cards CatID="61394" Quantity="1" Sideboard="false" Name="Olivia's Dragoon" />
+  <Cards CatID="25427" Quantity="1" Sideboard="false" Name="Trespasser il-Vec" />
+  <Cards CatID="61172" Quantity="1" Sideboard="false" Name="Stromkirk Condemned" />
+  <Cards CatID="64864" Quantity="1" Sideboard="false" Name="Desert of the Fervent" />
+  <Cards CatID="64866" Quantity="1" Sideboard="false" Name="Desert of the Glorified" />
+  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="62341" Quantity="1" Sideboard="false" Name="Ash Barrens" />
+  <Cards CatID="61498" Quantity="1" Sideboard="false" Name="Nephalia Academy" />
+  <Cards CatID="43104" Quantity="1" Sideboard="false" Name="Polluted Mire" />
+  <Cards CatID="40682" Quantity="1" Sideboard="false" Name="Barren Moor" />
+  <Cards CatID="40684" Quantity="1" Sideboard="false" Name="Forgotten Cave" />
+  <Cards CatID="11883" Quantity="1" Sideboard="false" Name="Blasted Landscape" />
+  <Cards CatID="12393" Quantity="1" Sideboard="false" Name="Smoldering Crater" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="58697" Quantity="1" Sideboard="false" Name="Smoldering Marsh" />
+  <Cards CatID="16685" Quantity="1" Sideboard="false" Name="Shadowblood Ridge" />
+  <Cards CatID="26702" Quantity="1" Sideboard="false" Name="Graven Cairns" />
+  <Cards CatID="60080" Quantity="1" Sideboard="false" Name="Foreboding Ruins" />
+  <Cards CatID="40773" Quantity="1" Sideboard="false" Name="Molten Slagheap" />
+  <Cards CatID="17325" Quantity="1" Sideboard="false" Name="Tainted Peak" />
+  <Cards CatID="22613" Quantity="1" Sideboard="false" Name="Sulfurous Springs" />
+  <Cards CatID="59375" Quantity="1" Sideboard="false" Name="Cinder Barrens" />
+  <Cards CatID="35665" Quantity="1" Sideboard="false" Name="Lavaclaw Reaches" />
+  <Cards CatID="46381" Quantity="1" Sideboard="false" Name="Rakdos Guildgate" />
+  <Cards CatID="57472" Quantity="1" Sideboard="false" Name="Rakdos Carnarium" />
+  <Cards CatID="19253" Quantity="1" Sideboard="false" Name="Urborg Volcano" />
+  <Cards CatID="24531" Quantity="1" Sideboard="false" Name="Tresserhorn Sinks" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="40762" Quantity="1" Sideboard="false" Name="Rakdos Signet" />
+  <Cards CatID="53480" Quantity="3" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53486" Quantity="4" Sideboard="false" Name="Swamp" />
+  <Cards CatID="15580" Quantity="1" Sideboard="false" Name="Grafted Skullcap" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="59946" Quantity="1" Sideboard="true" Name="Olivia, Mobilized for War" />
+</Deck>

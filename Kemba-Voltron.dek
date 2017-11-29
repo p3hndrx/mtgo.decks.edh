@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="54899" Quantity="1" Sideboard="false" Name="Argentum Armor" />
+  <Cards CatID="20576" Quantity="1" Sideboard="false" Name="Steelshaper Apprentice" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="53578" Quantity="1" Sideboard="false" Name="Avacyn, Guardian Angel" />
+  <Cards CatID="40705" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
+  <Cards CatID="40534" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="40574" Quantity="4" Sideboard="false" Name="Plains" />
+  <Cards CatID="39357" Quantity="1" Sideboard="false" Name="Darksteel Plate" />
+  <Cards CatID="41259" Quantity="1" Sideboard="false" Name="Day of Judgment" />
+  <Cards CatID="40582" Quantity="4" Sideboard="false" Name="Plains" />
+  <Cards CatID="40685" Quantity="4" Sideboard="false" Name="Plains" />
+  <Cards CatID="50862" Quantity="3" Sideboard="false" Name="Plains" />
+  <Cards CatID="50956" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="51164" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="51200" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
+  <Cards CatID="19817" Quantity="1" Sideboard="false" Name="Leonin Abunas" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="55175" Quantity="1" Sideboard="false" Name="Nahiri, the Lithomancer" />
+  <Cards CatID="53282" Quantity="1" Sideboard="false" Name="Mass Calcify" />
+  <Cards CatID="54971" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
+  <Cards CatID="55187" Quantity="1" Sideboard="false" Name="Myriad Landscape" />
+  <Cards CatID="20227" Quantity="1" Sideboard="false" Name="Loxodon Warhammer" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="59966" Quantity="1" Sideboard="false" Name="Open the Armory" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="34587" Quantity="1" Sideboard="false" Name="Kor Outfitter" />
+  <Cards CatID="12601" Quantity="1" Sideboard="false" Name="Karmic Guide" />
+  <Cards CatID="39886" Quantity="1" Sideboard="false" Name="Puresteel Paladin" />
+  <Cards CatID="20912" Quantity="1" Sideboard="false" Name="Raksha Golden Cub" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="57738" Quantity="1" Sideboard="false" Name="Rogue's Passage" />
+  <Cards CatID="61282" Quantity="1" Sideboard="false" Name="Sigarda's Aid" />
+  <Cards CatID="42294" Quantity="1" Sideboard="false" Name="Ghost Quarter" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="50305" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
+  <Cards CatID="39862" Quantity="1" Sideboard="false" Name="Dispatch" />
+  <Cards CatID="35737" Quantity="1" Sideboard="false" Name="Stoneforge Mystic" />
+  <Cards CatID="48742" Quantity="1" Sideboard="false" Name="Stonehewer Giant" />
+  <Cards CatID="53774" Quantity="1" Sideboard="false" Name="Darksteel Citadel" />
+  <Cards CatID="45215" Quantity="1" Sideboard="false" Name="Cathedral of War" />
+  <Cards CatID="38279" Quantity="1" Sideboard="false" Name="Sword of Body and Mind" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="39715" Quantity="1" Sideboard="false" Name="Auriok Survivors" />
+  <Cards CatID="57367" Quantity="1" Sideboard="false" Name="Taj-Nar Swordsmith" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="59590" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="37406" Quantity="1" Sideboard="false" Name="Sun Titan" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="20539" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
+  <Cards CatID="37430" Quantity="1" Sideboard="false" Name="Sword of Vengeance" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="28621" Quantity="1" Sideboard="false" Name="Windbrisk Heights" />
+  <Cards CatID="30901" Quantity="1" Sideboard="false" Name="Dispeller's Capsule" />
+  <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
+  <Cards CatID="38235" Quantity="1" Sideboard="false" Name="Sunspear Shikari" />
+  <Cards CatID="35789" Quantity="1" Sideboard="false" Name="Kitesail Apprentice" />
+  <Cards CatID="36212" Quantity="1" Sideboard="false" Name="Kor Duelist" />
+  <Cards CatID="19781" Quantity="1" Sideboard="false" Name="Auriok Steelshaper" />
+  <Cards CatID="19829" Quantity="1" Sideboard="false" Name="Bonesplitter" />
+  <Cards CatID="57265" Quantity="1" Sideboard="false" Name="Darksteel Axe" />
+  <Cards CatID="19772" Quantity="1" Sideboard="false" Name="Golem-Skin Gauntlets" />
+  <Cards CatID="40519" Quantity="1" Sideboard="false" Name="Mother of Runes" />
+  <Cards CatID="58158" Quantity="1" Sideboard="false" Name="Relic Seeker" />
+  <Cards CatID="19795" Quantity="1" Sideboard="false" Name="Loxodon Punisher" />
+  <Cards CatID="60368" Quantity="1" Sideboard="false" Name="Haunted Cloak" />
+  <Cards CatID="59209" Quantity="1" Sideboard="false" Name="Scytheclaw" />
+  <Cards CatID="58125" Quantity="1" Sideboard="false" Name="Sigil of Valor" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="19751" Quantity="1" Sideboard="false" Name="Blinkmoth Urn" />
+  <Cards CatID="59089" Quantity="1" Sideboard="false" Name="Basalt Monolith" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="54843" Quantity="1" Sideboard="false" Name="Dreamstone Hedron" />
+  <Cards CatID="19729" Quantity="1" Sideboard="false" Name="Myr Adapter" />
+  <Cards CatID="36505" Quantity="1" Sideboard="false" Name="Pennon Blade" />
+  <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="65669" Quantity="1" Sideboard="false" Name="Hammer of Nazahn" />
+  <Cards CatID="62367" Quantity="1" Sideboard="false" Name="Armory Automaton" />
+  <Cards CatID="65713" Quantity="1" Sideboard="false" Name="Bloodforged Battle-Axe" />
+  <Cards CatID="65757" Quantity="1" Sideboard="false" Name="Balan, Wandering Knight" />
+  <Cards CatID="54895" Quantity="1" Sideboard="true" Name="Kemba, Kha Regent" />
+</Deck>

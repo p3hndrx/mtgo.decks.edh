@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="65060" Quantity="1" Sideboard="false" Name="Mavren Fein, Dusk Apostle" />
+  <Cards CatID="65458" Quantity="1" Sideboard="false" Name="Call to the Feast" />
+  <Cards CatID="65482" Quantity="1" Sideboard="false" Name="Vona, Butcher of Magan" />
+  <Cards CatID="62681" Quantity="1" Sideboard="false" Name="Gifted Aetherborn" />
+  <Cards CatID="58405" Quantity="1" Sideboard="false" Name="Drana, Liberator of Malakir" />
+  <Cards CatID="43169" Quantity="1" Sideboard="false" Name="Sorin, Lord of Innistrad" />
+  <Cards CatID="59990" Quantity="1" Sideboard="false" Name="Sorin, Grim Nemesis" />
+  <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
+  <Cards CatID="26269" Quantity="1" Sideboard="false" Name="Mirri the Cursed" />
+  <Cards CatID="60198" Quantity="1" Sideboard="false" Name="Call the Bloodline" />
+  <Cards CatID="60146" Quantity="1" Sideboard="false" Name="Stensia Masquerade" />
+  <Cards CatID="48270" Quantity="1" Sideboard="false" Name="Blood Baron of Vizkopa" />
+  <Cards CatID="41638" Quantity="1" Sideboard="false" Name="Bloodlord of Vaasgoth" />
+  <Cards CatID="46791" Quantity="1" Sideboard="false" Name="Necropolis Regent" />
+  <Cards CatID="36424" Quantity="1" Sideboard="false" Name="Nirkana Revenant" />
+  <Cards CatID="54258" Quantity="1" Sideboard="false" Name="Sorin, Solemn Visitor" />
+  <Cards CatID="35571" Quantity="1" Sideboard="false" Name="Anowon, the Ruin Sage" />
+  <Cards CatID="60324" Quantity="1" Sideboard="false" Name="Asylum Visitor" />
+  <Cards CatID="65020" Quantity="1" Sideboard="false" Name="Bishop of Rebirth" />
+  <Cards CatID="37534" Quantity="1" Sideboard="false" Name="Captivating Vampire" />
+  <Cards CatID="58615" Quantity="1" Sideboard="false" Name="Defiant Bloodlord" />
+  <Cards CatID="59776" Quantity="1" Sideboard="false" Name="Falkenrath Gorger" />
+  <Cards CatID="34600" Quantity="1" Sideboard="false" Name="Malakir Bloodwitch" />
+  <Cards CatID="43281" Quantity="1" Sideboard="false" Name="Markov Blademaster" />
+  <Cards CatID="65727" Quantity="1" Sideboard="false" Name="Patron of the Vein" />
+  <Cards CatID="65256" Quantity="1" Sideboard="false" Name="Sanctum Seeker" />
+  <Cards CatID="61396" Quantity="1" Sideboard="false" Name="Voldaren Pariah" />
+  <Cards CatID="44105" Quantity="1" Sideboard="false" Name="Blood Artist" />
+  <Cards CatID="42438" Quantity="1" Sideboard="false" Name="Falkenrath Noble" />
+  <Cards CatID="59838" Quantity="1" Sideboard="false" Name="Incorrigible Youths" />
+  <Cards CatID="60020" Quantity="1" Sideboard="false" Name="Indulgent Aristocrat" />
+  <Cards CatID="42598" Quantity="1" Sideboard="false" Name="Rakish Heir" />
+  <Cards CatID="43331" Quantity="1" Sideboard="false" Name="Stromkirk Captain" />
+  <Cards CatID="61392" Quantity="1" Sideboard="false" Name="Vampire Cutthroat" />
+  <Cards CatID="45354" Quantity="1" Sideboard="false" Name="Vampire Nighthawk" />
+  <Cards CatID="41261" Quantity="1" Sideboard="false" Name="Blood Seeker" />
+  <Cards CatID="53784" Quantity="1" Sideboard="false" Name="Child of Night" />
+  <Cards CatID="48476" Quantity="1" Sideboard="false" Name="Tithe Drinker" />
+  <Cards CatID="17765" Quantity="1" Sideboard="false" Name="Shared Triumph" />
+  <Cards CatID="65721" Quantity="1" Sideboard="false" Name="Kindred Charge" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="64496" Quantity="1" Sideboard="false" Name="Crested Sunmare" />
+  <Cards CatID="49403" Quantity="1" Sideboard="false" Name="Angelic Accord" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="34378" Quantity="1" Sideboard="false" Name="Blood Tribute" />
+  <Cards CatID="45562" Quantity="1" Sideboard="false" Name="Rhox Faithmender" />
+  <Cards CatID="54062" Quantity="1" Sideboard="false" Name="Mardu Banner" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="58697" Quantity="1" Sideboard="false" Name="Smoldering Marsh" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="17325" Quantity="1" Sideboard="false" Name="Tainted Peak" />
+  <Cards CatID="22613" Quantity="1" Sideboard="false" Name="Sulfurous Springs" />
+  <Cards CatID="57670" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
+  <Cards CatID="48091" Quantity="1" Sideboard="false" Name="Tainted Field" />
+  <Cards CatID="57668" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="42654" Quantity="1" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="38293" Quantity="1" Sideboard="false" Name="Blackcleave Cliffs" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="59191" Quantity="1" Sideboard="false" Name="Command Beacon" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="59069" Quantity="1" Sideboard="false" Name="Thought Vessel" />
+  <Cards CatID="53484" Quantity="3" Sideboard="false" Name="Plains" />
+  <Cards CatID="53480" Quantity="3" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53486" Quantity="5" Sideboard="false" Name="Swamp" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="46441" Quantity="1" Sideboard="false" Name="Rakdos Charm" />
+  <Cards CatID="29966" Quantity="1" Sideboard="false" Name="Unmake" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
+  <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="40537" Quantity="1" Sideboard="false" Name="Terminate" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
+  <Cards CatID="65729" Quantity="1" Sideboard="true" Name="Licia, Sanguine Tribune" />
+</Deck>

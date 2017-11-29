@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="62303" Quantity="1" Sideboard="false" Name="Bruse Tarl, Boorish Herder" />
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="52681" Quantity="1" Sideboard="false" Name="Scabland" />
+  <Cards CatID="50305" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
+  <Cards CatID="47871" Quantity="1" Sideboard="false" Name="Gideon, Champion of Justice" />
+  <Cards CatID="30927" Quantity="1" Sideboard="false" Name="Elspeth, Knight-Errant" />
+  <Cards CatID="37138" Quantity="1" Sideboard="false" Name="Ajani Goldmane" />
+  <Cards CatID="55117" Quantity="1" Sideboard="false" Name="Jazal Goldmane" />
+  <Cards CatID="39539" Quantity="1" Sideboard="false" Name="Hero of Bladehold" />
+  <Cards CatID="41427" Quantity="1" Sideboard="false" Name="Angelic Destiny" />
+  <Cards CatID="57312" Quantity="1" Sideboard="false" Name="Elesh Norn, Grand Cenobite" />
+  <Cards CatID="55107" Quantity="1" Sideboard="false" Name="Feldon of the Third Path" />
+  <Cards CatID="52016" Quantity="1" Sideboard="false" Name="Iroas, God of Victory" />
+  <Cards CatID="47743" Quantity="1" Sideboard="false" Name="Aurelia, the Warleader" />
+  <Cards CatID="43935" Quantity="1" Sideboard="false" Name="Gisela, Blade of Goldnight" />
+  <Cards CatID="46793" Quantity="1" Sideboard="false" Name="Utvara Hellkite" />
+  <Cards CatID="59182" Quantity="1" Sideboard="false" Name="Herald of the Host" />
+  <Cards CatID="59175" Quantity="1" Sideboard="false" Name="Warchief Giant" />
+  <Cards CatID="57632" Quantity="1" Sideboard="false" Name="Knight of the White Orchid" />
+  <Cards CatID="10124" Quantity="1" Sideboard="false" Name="Soltari Crusader" />
+  <Cards CatID="44279" Quantity="1" Sideboard="false" Name="Silverblade Paladin" />
+  <Cards CatID="50208" Quantity="1" Sideboard="false" Name="Traveler's Amulet" />
+  <Cards CatID="40624" Quantity="1" Sideboard="false" Name="Crescendo of War" />
+  <Cards CatID="61220" Quantity="1" Sideboard="false" Name="Hanweir Garrison" />
+  <Cards CatID="61228" Quantity="1" Sideboard="false" Name="Hanweir Battlements" />
+  <Cards CatID="59908" Quantity="1" Sideboard="false" Name="Hanweir Militia Captain" />
+  <Cards CatID="34816" Quantity="1" Sideboard="false" Name="Luminarch Ascension" />
+  <Cards CatID="60725" Quantity="1" Sideboard="false" Name="Intangible Virtue" />
+  <Cards CatID="53738" Quantity="1" Sideboard="false" Name="Raise the Alarm" />
+  <Cards CatID="41355" Quantity="1" Sideboard="false" Name="Timely Reinforcements" />
+  <Cards CatID="43475" Quantity="1" Sideboard="false" Name="Gather the Townsfolk" />
+  <Cards CatID="39573" Quantity="1" Sideboard="false" Name="White Sun's Zenith" />
+  <Cards CatID="55990" Quantity="1" Sideboard="false" Name="Secure the Wastes" />
+  <Cards CatID="29463" Quantity="1" Sideboard="false" Name="Elemental Mastery" />
+  <Cards CatID="11915" Quantity="1" Sideboard="false" Name="Goblin Offensive" />
+  <Cards CatID="54991" Quantity="1" Sideboard="false" Name="Beetleback Chief" />
+  <Cards CatID="62287" Quantity="1" Sideboard="false" Name="Entrapment Maneuver" />
+  <Cards CatID="15790" Quantity="1" Sideboard="false" Name="Relentless Assault" />
+  <Cards CatID="59944" Quantity="1" Sideboard="false" Name="Odric, Lunarch Marshal" />
+  <Cards CatID="38221" Quantity="1" Sideboard="false" Name="True Conviction" />
+  <Cards CatID="57422" Quantity="1" Sideboard="false" Name="Boros Swiftblade" />
+  <Cards CatID="58100" Quantity="1" Sideboard="false" Name="Iroas's Champion" />
+  <Cards CatID="47477" Quantity="1" Sideboard="false" Name="Boros Charm" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="42462" Quantity="1" Sideboard="false" Name="Curse of Stalked Prey" />
+  <Cards CatID="48852" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
+  <Cards CatID="58014" Quantity="1" Sideboard="false" Name="Flameshadow Conjuring" />
+  <Cards CatID="48218" Quantity="1" Sideboard="false" Name="Tajic, Blade of the Legion" />
+  <Cards CatID="47787" Quantity="1" Sideboard="false" Name="Legion Loyalist" />
+  <Cards CatID="39599" Quantity="1" Sideboard="false" Name="Signal Pest" />
+  <Cards CatID="42646" Quantity="1" Sideboard="false" Name="Rally the Peasants" />
+  <Cards CatID="12865" Quantity="1" Sideboard="false" Name="Trumpet Blast" />
+  <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
+  <Cards CatID="27288" Quantity="1" Sideboard="false" Name="Glorious Anthem" />
+  <Cards CatID="56846" Quantity="1" Sideboard="false" Name="Soltari Champion" />
+  <Cards CatID="50246" Quantity="1" Sideboard="false" Name="Akroan Hoplite" />
+  <Cards CatID="30040" Quantity="1" Sideboard="false" Name="Balefire Liege" />
+  <Cards CatID="59066" Quantity="1" Sideboard="false" Name="Blade of Selves" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="40528" Quantity="1" Sideboard="false" Name="Duergar Hedge-Mage" />
+  <Cards CatID="42654" Quantity="1" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="30684" Quantity="1" Sideboard="false" Name="Kjeldoran Outpost" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="57670" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
+  <Cards CatID="20015" Quantity="1" Sideboard="false" Name="Ancient Den" />
+  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
+  <Cards CatID="34404" Quantity="1" Sideboard="false" Name="Teetering Peaks" />
+  <Cards CatID="60861" Quantity="1" Sideboard="false" Name="Wind-Scarred Crag" />
+  <Cards CatID="59992" Quantity="1" Sideboard="false" Name="Stone Quarry" />
+  <Cards CatID="53484" Quantity="11" Sideboard="false" Name="Plains" />
+  <Cards CatID="53390" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="53480" Quantity="8" Sideboard="false" Name="Mountain" />
+  <Cards CatID="40684" Quantity="1" Sideboard="false" Name="Forgotten Cave" />
+  <Cards CatID="27110" Quantity="1" Sideboard="false" Name="Forbidding Watchtower" />
+  <Cards CatID="20021" Quantity="1" Sideboard="false" Name="Great Furnace" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="45372" Quantity="1" Sideboard="false" Name="Fervor" />
+  <Cards CatID="53161" Quantity="1" Sideboard="false" Name="Mana Vault" />
+  <Cards CatID="62265" Quantity="1" Sideboard="true" Name="Adriana, Captain of the Guard" />
+</Deck>

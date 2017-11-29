@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="26447" Quantity="1" Sideboard="false" Name="Radha, Heir to Keld" />
+  <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="31103" Quantity="1" Sideboard="false" Name="Gift of the Gargantuan" />
+  <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
+  <Cards CatID="55256" Quantity="1" Sideboard="false" Name="Wayfarer's Bauble" />
+  <Cards CatID="37929" Quantity="1" Sideboard="false" Name="Mishra's Factory" />
+  <Cards CatID="26051" Quantity="1" Sideboard="false" Name="Goblin Snowman" />
+  <Cards CatID="24649" Quantity="1" Sideboard="false" Name="Into the North" />
+  <Cards CatID="24589" Quantity="1" Sideboard="false" Name="Arctic Flats" />
+  <Cards CatID="24635" Quantity="10" Sideboard="false" Name="Snow-Covered Forest" />
+  <Cards CatID="30558" Quantity="5" Sideboard="false" Name="Snow-Covered Mountain" />
+  <Cards CatID="24757" Quantity="5" Sideboard="false" Name="Snow-Covered Plains" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="37963" Quantity="1" Sideboard="false" Name="Glimmerpoint Stag" />
+  <Cards CatID="61252" Quantity="1" Sideboard="false" Name="Somberwald Stag" />
+  <Cards CatID="26780" Quantity="1" Sideboard="false" Name="Heartwood Storyteller" />
+  <Cards CatID="22521" Quantity="1" Sideboard="false" Name="Utopia Tree" />
+  <Cards CatID="42772" Quantity="1" Sideboard="false" Name="Tree of Redemption" />
+  <Cards CatID="37454" Quantity="1" Sideboard="false" Name="Temple Bell" />
+  <Cards CatID="59003" Quantity="1" Sideboard="false" Name="Harmonize" />
+  <Cards CatID="35580" Quantity="1" Sideboard="false" Name="Bazaar Trader" />
+  <Cards CatID="32701" Quantity="1" Sideboard="false" Name="Elvish Visionary" />
+  <Cards CatID="30742" Quantity="1" Sideboard="false" Name="Winter's Night" />
+  <Cards CatID="24555" Quantity="1" Sideboard="false" Name="Cover of Winter" />
+  <Cards CatID="10028" Quantity="1" Sideboard="false" Name="Winter's Grasp" />
+  <Cards CatID="53165" Quantity="1" Sideboard="false" Name="Eureka" />
+  <Cards CatID="25645" Quantity="1" Sideboard="false" Name="Hypergenesis" />
+  <Cards CatID="13955" Quantity="1" Sideboard="false" Name="Mana Cache" />
+  <Cards CatID="42300" Quantity="1" Sideboard="false" Name="Creepy Doll" />
+  <Cards CatID="40663" Quantity="1" Sideboard="false" Name="Collective Voyage" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="25405" Quantity="1" Sideboard="false" Name="Search for Tomorrow" />
+  <Cards CatID="51396" Quantity="1" Sideboard="false" Name="Tempt with Discovery" />
+  <Cards CatID="34572" Quantity="1" Sideboard="false" Name="Grazing Gladehart" />
+  <Cards CatID="62045" Quantity="1" Sideboard="false" Name="Cultivator's Caravan" />
+  <Cards CatID="61795" Quantity="1" Sideboard="false" Name="Skysovereign, Consul Flagship" />
+  <Cards CatID="26281" Quantity="1" Sideboard="false" Name="Essence Warden" />
+  <Cards CatID="29535" Quantity="1" Sideboard="false" Name="Rhys the Redeemed" />
+  <Cards CatID="13245" Quantity="1" Sideboard="false" Name="Toymaker" />
+  <Cards CatID="45694" Quantity="1" Sideboard="false" Name="Stuffy Doll" />
+  <Cards CatID="19417" Quantity="1" Sideboard="false" Name="Teferi's Puzzle Box" />
+  <Cards CatID="28561" Quantity="1" Sideboard="false" Name="Crib Swap" />
+  <Cards CatID="25809" Quantity="1" Sideboard="false" Name="Chromatic Star" />
+  <Cards CatID="40519" Quantity="1" Sideboard="false" Name="Mother of Runes" />
+  <Cards CatID="24777" Quantity="1" Sideboard="false" Name="Stalking Yeti" />
+  <Cards CatID="26119" Quantity="1" Sideboard="false" Name="Pandemonium" />
+  <Cards CatID="51871" Quantity="1" Sideboard="false" Name="Springleaf Drum" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="53478" Quantity="8" Sideboard="false" Name="Forest" />
+  <Cards CatID="13601" Quantity="1" Sideboard="false" Name="Kyren Toy" />
+  <Cards CatID="9471" Quantity="1" Sideboard="false" Name="Squee's Toy" />
+  <Cards CatID="32969" Quantity="1" Sideboard="false" Name="Great Sable Stag" />
+  <Cards CatID="46627" Quantity="1" Sideboard="false" Name="Axebane Stag" />
+  <Cards CatID="27941" Quantity="1" Sideboard="false" Name="Winter Blast" />
+  <Cards CatID="16679" Quantity="1" Sideboard="false" Name="Shower of Coals" />
+  <Cards CatID="25683" Quantity="1" Sideboard="false" Name="Coal Stoker" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="21531" Quantity="1" Sideboard="false" Name="Junkyo Bell" />
+  <Cards CatID="42402" Quantity="1" Sideboard="false" Name="Make a Wish" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="24821" Quantity="1" Sideboard="false" Name="Mishra's Bauble" />
+  <Cards CatID="37420" Quantity="1" Sideboard="false" Name="Hunters' Feast" />
+  <Cards CatID="24560" Quantity="1" Sideboard="false" Name="Phyrexian Snowcrusher" />
+  <Cards CatID="30552" Quantity="1" Sideboard="false" Name="Snow Fortress" />
+  <Cards CatID="27971" Quantity="1" Sideboard="false" Name="Stone Calendar" />
+  <Cards CatID="21427" Quantity="1" Sideboard="false" Name="Journeyer's Kite" />
+  <Cards CatID="13059" Quantity="1" Sideboard="false" Name="Credit Voucher" />
+  <Cards CatID="19173" Quantity="1" Sideboard="false" Name="Thieves' Auction" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="53163" Quantity="1" Sideboard="false" Name="Mishra's Workshop" />
+  <Cards CatID="23957" Quantity="1" Sideboard="true" Name="Hazezon Tamar" />
+</Deck>

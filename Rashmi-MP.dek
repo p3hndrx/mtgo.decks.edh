@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="15988" Quantity="1" Sideboard="false" Name="Wood Elves" />
+  <Cards CatID="44119" Quantity="1" Sideboard="false" Name="Alchemist's Refuge" />
+  <Cards CatID="36362" Quantity="1" Sideboard="false" Name="Artisan of Kozilek" />
+  <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
+  <Cards CatID="36768" Quantity="1" Sideboard="false" Name="Bear Umbra" />
+  <Cards CatID="61118" Quantity="1" Sideboard="false" Name="Mind's Dilation" />
+  <Cards CatID="40495" Quantity="1" Sideboard="false" Name="Vivid Grove" />
+  <Cards CatID="17835" Quantity="1" Sideboard="false" Name="Blatant Thievery" />
+  <Cards CatID="61853" Quantity="1" Sideboard="false" Name="Botanical Sanctum" />
+  <Cards CatID="54074" Quantity="1" Sideboard="false" Name="Thornwood Falls" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="53109" Quantity="1" Sideboard="false" Name="Sylvan Library" />
+  <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
+  <Cards CatID="24059" Quantity="1" Sideboard="false" Name="Coiling Oracle" />
+  <Cards CatID="57476" Quantity="1" Sideboard="false" Name="Simic Growth Chamber" />
+  <Cards CatID="51851" Quantity="1" Sideboard="false" Name="Courser of Kruphix" />
+  <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
+  <Cards CatID="37350" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="43913" Quantity="1" Sideboard="false" Name="Deadeye Navigator" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="51962" Quantity="1" Sideboard="false" Name="Kruphix, God of Horizons" />
+  <Cards CatID="56406" Quantity="1" Sideboard="false" Name="Explosive Vegetation" />
+  <Cards CatID="48208" Quantity="1" Sideboard="false" Name="Progenitor Mimic" />
+  <Cards CatID="15782" Quantity="1" Sideboard="false" Name="Reclaim" />
+  <Cards CatID="57272" Quantity="1" Sideboard="false" Name="Mystic Snake" />
+  <Cards CatID="42294" Quantity="1" Sideboard="false" Name="Ghost Quarter" />
+  <Cards CatID="36500" Quantity="1" Sideboard="false" Name="Growth Spasm" />
+  <Cards CatID="35521" Quantity="1" Sideboard="false" Name="Halimar Depths" />
+  <Cards CatID="28245" Quantity="1" Sideboard="false" Name="Mulldrifter" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="39537" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" />
+  <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
+  <Cards CatID="53482" Quantity="9" Sideboard="false" Name="Island" />
+  <Cards CatID="32881" Quantity="1" Sideboard="false" Name="Lurking Predators" />
+  <Cards CatID="62657" Quantity="1" Sideboard="false" Name="Baral's Expertise" />
+  <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
+  <Cards CatID="35411" Quantity="1" Sideboard="false" Name="Harrow" />
+  <Cards CatID="30166" Quantity="1" Sideboard="false" Name="Murkfiend Liege" />
+  <Cards CatID="50032" Quantity="1" Sideboard="false" Name="Fact or Fiction" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="49268" Quantity="1" Sideboard="false" Name="Garruk's Horde" />
+  <Cards CatID="24047" Quantity="1" Sideboard="false" Name="Novijen, Heart of Progress" />
+  <Cards CatID="45418" Quantity="1" Sideboard="false" Name="Garruk, Primal Hunter" />
+  <Cards CatID="60925" Quantity="1" Sideboard="false" Name="Peregrine Drake" />
+  <Cards CatID="59890" Quantity="1" Sideboard="false" Name="Jace, Unraveler of Secrets" />
+  <Cards CatID="47809" Quantity="1" Sideboard="false" Name="Rapid Hybridization" />
+  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
+  <Cards CatID="53478" Quantity="7" Sideboard="false" Name="Forest" />
+  <Cards CatID="20143" Quantity="1" Sideboard="false" Name="Fabricate" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="31431" Quantity="1" Sideboard="false" Name="Eternal Witness" />
+  <Cards CatID="34770" Quantity="1" Sideboard="false" Name="Rite of Replication" />
+  <Cards CatID="57738" Quantity="1" Sideboard="false" Name="Rogue's Passage" />
+  <Cards CatID="42671" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
+  <Cards CatID="63994" Quantity="1" Sideboard="false" Name="Bounty of the Luxa" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="24015" Quantity="1" Sideboard="false" Name="Simic Signet" />
+  <Cards CatID="57200" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="13447" Quantity="1" Sideboard="false" Name="Soothsaying" />
+  <Cards CatID="39587" Quantity="1" Sideboard="false" Name="Blightsteel Colossus" />
+  <Cards CatID="9641" Quantity="1" Sideboard="false" Name="Capsize" />
+  <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="50306" Quantity="1" Sideboard="false" Name="Thassa, God of the Sea" />
+  <Cards CatID="47805" Quantity="1" Sideboard="false" Name="Thespian's Stage" />
+  <Cards CatID="62043" Quantity="1" Sideboard="false" Name="Ghirapur Orrery" />
+  <Cards CatID="59069" Quantity="1" Sideboard="false" Name="Thought Vessel" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="20692" Quantity="1" Sideboard="false" Name="Vedalken Orrery" />
+  <Cards CatID="48378" Quantity="1" Sideboard="false" Name="Simic Guildgate" />
+  <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
+  <Cards CatID="58529" Quantity="1" Sideboard="false" Name="Lumbering Falls" />
+  <Cards CatID="41185" Quantity="1" Sideboard="false" Name="Acidic Slime" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="58491" Quantity="1" Sideboard="false" Name="Kiora, Master of the Depths" />
+  <Cards CatID="57676" Quantity="1" Sideboard="false" Name="Yavimaya Coast" />
+  <Cards CatID="62879" Quantity="1" Sideboard="false" Name="Treasure Keeper" />
+  <Cards CatID="56326" Quantity="1" Sideboard="false" Name="Sight Beyond Sight" />
+  <Cards CatID="52754" Quantity="1" Sideboard="false" Name="Mind's Desire" />
+  <Cards CatID="47911" Quantity="1" Sideboard="false" Name="Diluvian Primordial" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="47689" Quantity="1" Sideboard="false" Name="Unexpected Results" />
+  <Cards CatID="61775" Quantity="1" Sideboard="true" Name="Rashmi, Eternities Crafter" />
+</Deck>

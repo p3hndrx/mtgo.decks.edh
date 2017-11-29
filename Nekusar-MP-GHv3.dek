@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="52118" Quantity="1" Sideboard="false" Name="Dictate of Kruphix" />
+  <Cards CatID="34822" Quantity="1" Sideboard="false" Name="Bloodchief Ascension" />
+  <Cards CatID="52188" Quantity="1" Sideboard="false" Name="Master of the Feast" />
+  <Cards CatID="40537" Quantity="1" Sideboard="false" Name="Terminate" />
+  <Cards CatID="37454" Quantity="1" Sideboard="false" Name="Temple Bell" />
+  <Cards CatID="51172" Quantity="2" Sideboard="false" Name="Swamp" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="22655" Quantity="1" Sideboard="false" Name="Shivan Reef" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="45314" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="40759" Quantity="1" Sideboard="false" Name="Rakdos Carnarium" />
+  <Cards CatID="59764" Quantity="1" Sideboard="false" Name="Fevered Visions" />
+  <Cards CatID="57462" Quantity="1" Sideboard="false" Name="Niv-Mizzet, the Firemind" />
+  <Cards CatID="28691" Quantity="1" Sideboard="false" Name="Forced Fruition" />
+  <Cards CatID="52897" Quantity="1" Sideboard="false" Name="Nevinyrral's Disk" />
+  <Cards CatID="40711" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="41488" Quantity="1" Sideboard="false" Name="Jace's Archivist" />
+  <Cards CatID="23679" Quantity="1" Sideboard="false" Name="Izzet Signet" />
+  <Cards CatID="57466" Quantity="1" Sideboard="false" Name="Izzet Boilerworks" />
+  <Cards CatID="51146" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="42560" Quantity="1" Sideboard="false" Name="Laboratory Maniac" />
+  <Cards CatID="51170" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="51364" Quantity="1" Sideboard="false" Name="Diviner Spirit" />
+  <Cards CatID="52809" Quantity="1" Sideboard="false" Name="Memory Jar" />
+  <Cards CatID="21501" Quantity="1" Sideboard="false" Name="Seizan, Perverter of Truth" />
+  <Cards CatID="51198" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="22567" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="31321" Quantity="1" Sideboard="false" Name="Grixis Panorama" />
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" />
+  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
+  <Cards CatID="30456" Quantity="1" Sideboard="false" Name="Glacial Chasm" />
+  <Cards CatID="40762" Quantity="1" Sideboard="false" Name="Rakdos Signet" />
+  <Cards CatID="31929" Quantity="1" Sideboard="false" Name="Font of Mythos" />
+  <Cards CatID="55522" Quantity="1" Sideboard="false" Name="Dark Deal" />
+  <Cards CatID="37695" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="64148" Quantity="1" Sideboard="false" Name="Fetid Pools" />
+  <Cards CatID="51815" Quantity="1" Sideboard="false" Name="Fate Unraveler" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="23562" Quantity="1" Sideboard="false" Name="Dimir Signet" />
+  <Cards CatID="61424" Quantity="1" Sideboard="false" Name="Collective Defiance" />
+  <Cards CatID="50264" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="31183" Quantity="1" Sideboard="false" Name="Crumbling Necropolis" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="51440" Quantity="1" Sideboard="false" Name="Skyscribing" />
+  <Cards CatID="22769" Quantity="1" Sideboard="false" Name="Underworld Dreams" />
+  <Cards CatID="40496" Quantity="1" Sideboard="false" Name="Vivid Marsh" />
+  <Cards CatID="35665" Quantity="1" Sideboard="false" Name="Lavaclaw Reaches" />
+  <Cards CatID="38291" Quantity="1" Sideboard="false" Name="Darkslick Shores" />
+  <Cards CatID="38293" Quantity="1" Sideboard="false" Name="Blackcleave Cliffs" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="22623" Quantity="1" Sideboard="false" Name="Underground River" />
+  <Cards CatID="22613" Quantity="1" Sideboard="false" Name="Sulfurous Springs" />
+  <Cards CatID="60080" Quantity="1" Sideboard="false" Name="Foreboding Ruins" />
+  <Cards CatID="59920" Quantity="1" Sideboard="false" Name="Choked Estuary" />
+  <Cards CatID="59754" Quantity="1" Sideboard="false" Name="Highland Lake" />
+  <Cards CatID="59375" Quantity="1" Sideboard="false" Name="Cinder Barrens" />
+  <Cards CatID="34756" Quantity="1" Sideboard="false" Name="Chandra Ablaze" />
+  <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
+  <Cards CatID="39575" Quantity="1" Sideboard="false" Name="Blue Sun's Zenith" />
+  <Cards CatID="42786" Quantity="1" Sideboard="false" Name="Bloodgift Demon" />
+  <Cards CatID="38548" Quantity="1" Sideboard="false" Name="Library of Leng" />
+  <Cards CatID="18703" Quantity="1" Sideboard="false" Name="Dragon Mage" />
+  <Cards CatID="20195" Quantity="1" Sideboard="false" Name="Temporal Cascade" />
+  <Cards CatID="16931" Quantity="1" Sideboard="false" Name="Words of Wisdom" />
+  <Cards CatID="7671" Quantity="1" Sideboard="false" Name="Prosperity" />
+  <Cards CatID="64638" Quantity="1" Sideboard="false" Name="Torment of Hailfire" />
+  <Cards CatID="60174" Quantity="1" Sideboard="false" Name="Geistblast" />
+  <Cards CatID="38365" Quantity="1" Sideboard="false" Name="Molten Psyche" />
+  <Cards CatID="45387" Quantity="1" Sideboard="false" Name="Reverberate" />
+  <Cards CatID="25941" Quantity="1" Sideboard="false" Name="Reiterate" />
+  <Cards CatID="23865" Quantity="1" Sideboard="false" Name="Shattering Spree" />
+  <Cards CatID="207" Quantity="1" Sideboard="false" Name="Fork" />
+  <Cards CatID="59890" Quantity="1" Sideboard="false" Name="Jace, Unraveler of Secrets" />
+  <Cards CatID="48834" Quantity="1" Sideboard="false" Name="Mind Funeral" />
+  <Cards CatID="47671" Quantity="1" Sideboard="false" Name="Mind Grind" />
+  <Cards CatID="48272" Quantity="1" Sideboard="false" Name="Mirko Vosk, Mind Drinker" />
+  <Cards CatID="57908" Quantity="1" Sideboard="false" Name="Sphinx's Tutelage" />
+  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="19353" Quantity="1" Sideboard="false" Name="Megrim" />
+  <Cards CatID="39513" Quantity="1" Sideboard="false" Name="Psychosis Crawler" />
+  <Cards CatID="44283" Quantity="1" Sideboard="false" Name="Reforge the Soul" />
+  <Cards CatID="50900" Quantity="1" Sideboard="false" Name="Spiteful Visions" />
+  <Cards CatID="47879" Quantity="1" Sideboard="false" Name="Whispering Madness" />
+  <Cards CatID="37417" Quantity="1" Sideboard="false" Name="Liliana's Caress" />
+  <Cards CatID="17881" Quantity="1" Sideboard="false" Name="Wheel and Deal" />
+  <Cards CatID="39537" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" />
+  <Cards CatID="40008" Quantity="1" Sideboard="false" Name="Mindcrank" />
+  <Cards CatID="64862" Quantity="1" Sideboard="false" Name="Crypt of the Eternals" />
+  <Cards CatID="51422" Quantity="1" Sideboard="true" Name="Nekusar, the Mindrazer" />
+</Deck>

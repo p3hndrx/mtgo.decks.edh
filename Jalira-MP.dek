@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="39587" Quantity="1" Sideboard="false" Name="Blightsteel Colossus" />
+  <Cards CatID="39575" Quantity="1" Sideboard="false" Name="Blue Sun's Zenith" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="28767" Quantity="1" Sideboard="false" Name="Sower of Temptation" />
+  <Cards CatID="39537" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" />
+  <Cards CatID="37405" Quantity="1" Sideboard="false" Name="Stormtide Leviathan" />
+  <Cards CatID="50378" Quantity="1" Sideboard="false" Name="Curse of the Swine" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="43913" Quantity="1" Sideboard="false" Name="Deadeye Navigator" />
+  <Cards CatID="52118" Quantity="1" Sideboard="false" Name="Dictate of Kruphix" />
+  <Cards CatID="20217" Quantity="1" Sideboard="false" Name="Extraplanar Lens" />
+  <Cards CatID="47925" Quantity="1" Sideboard="false" Name="Illusionist's Bracers" />
+  <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="39333" Quantity="1" Sideboard="false" Name="Myr Sire" />
+  <Cards CatID="19813" Quantity="1" Sideboard="false" Name="Myr Retriever" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="52791" Quantity="1" Sideboard="false" Name="Palinchron" />
+  <Cards CatID="26453" Quantity="1" Sideboard="false" Name="Pongify" />
+  <Cards CatID="47809" Quantity="1" Sideboard="false" Name="Rapid Hybridization" />
+  <Cards CatID="51104" Quantity="1" Sideboard="false" Name="Myr Battlesphere" />
+  <Cards CatID="22567" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="62879" Quantity="1" Sideboard="false" Name="Treasure Keeper" />
+  <Cards CatID="20716" Quantity="1" Sideboard="false" Name="Staff of Domination" />
+  <Cards CatID="52827" Quantity="1" Sideboard="false" Name="Counterspell" />
+  <Cards CatID="31578" Quantity="1" Sideboard="false" Name="Terrain Generator" />
+  <Cards CatID="35735" Quantity="1" Sideboard="false" Name="Thada Adel, Acquisitor" />
+  <Cards CatID="28327" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="36450" Quantity="1" Sideboard="false" Name="Training Grounds" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="9641" Quantity="1" Sideboard="false" Name="Capsize" />
+  <Cards CatID="26594" Quantity="1" Sideboard="false" Name="Venser, Shaper Savant" />
+  <Cards CatID="58631" Quantity="1" Sideboard="false" Name="Void Winnower" />
+  <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
+  <Cards CatID="52773" Quantity="1" Sideboard="false" Name="Morphling" />
+  <Cards CatID="37354" Quantity="1" Sideboard="false" Name="Frost Titan" />
+  <Cards CatID="38183" Quantity="1" Sideboard="false" Name="Quicksilver Gargantuan" />
+  <Cards CatID="60699" Quantity="1" Sideboard="false" Name="Phyrexian Ingester" />
+  <Cards CatID="15374" Quantity="1" Sideboard="false" Name="Benthic Behemoth" />
+  <Cards CatID="52250" Quantity="1" Sideboard="false" Name="Scourge of Fleets" />
+  <Cards CatID="49521" Quantity="1" Sideboard="false" Name="Colossal Whale" />
+  <Cards CatID="35154" Quantity="1" Sideboard="false" Name="Wonder" />
+  <Cards CatID="43110" Quantity="1" Sideboard="false" Name="Inkwell Leviathan" />
+  <Cards CatID="26023" Quantity="1" Sideboard="false" Name="Leviathan" />
+  <Cards CatID="53482" Quantity="10" Sideboard="false" Name="Island" />
+  <Cards CatID="53392" Quantity="10" Sideboard="false" Name="Island" />
+  <Cards CatID="53368" Quantity="10" Sideboard="false" Name="Island" />
+  <Cards CatID="53366" Quantity="4" Sideboard="false" Name="Island" />
+  <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
+  <Cards CatID="53520" Quantity="1" Sideboard="false" Name="Coral Barrier" />
+  <Cards CatID="57928" Quantity="1" Sideboard="false" Name="Aspiring Aeronaut" />
+  <Cards CatID="55159" Quantity="1" Sideboard="false" Name="Reef Worm" />
+  <Cards CatID="57926" Quantity="1" Sideboard="false" Name="Whirler Rogue" />
+  <Cards CatID="21122" Quantity="1" Sideboard="false" Name="Meloku the Clouded Mirror" />
+  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
+  <Cards CatID="28389" Quantity="1" Sideboard="false" Name="Benthicore" />
+  <Cards CatID="47911" Quantity="1" Sideboard="false" Name="Diluvian Primordial" />
+  <Cards CatID="39976" Quantity="1" Sideboard="false" Name="Gitaxian Probe" />
+  <Cards CatID="53117" Quantity="1" Sideboard="false" Name="Brainstorm" />
+  <Cards CatID="53217" Quantity="1" Sideboard="false" Name="High Tide" />
+  <Cards CatID="30770" Quantity="1" Sideboard="false" Name="Personal Tutor" />
+  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
+  <Cards CatID="53161" Quantity="1" Sideboard="false" Name="Mana Vault" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="62899" Quantity="1" Sideboard="false" Name="Scrap Trawler" />
+  <Cards CatID="20235" Quantity="1" Sideboard="false" Name="Proteus Staff" />
+  <Cards CatID="62353" Quantity="1" Sideboard="false" Name="Faerie Artisans" />
+  <Cards CatID="53588" Quantity="1" Sideboard="true" Name="Jalira, Master Polymorphist" />
+</Deck>

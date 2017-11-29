@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="58405" Quantity="1" Sideboard="false" Name="Drana, Liberator of Malakir" />
+  <Cards CatID="30042" Quantity="1" Sideboard="false" Name="Gilder Bairn" />
+  <Cards CatID="49349" Quantity="1" Sideboard="false" Name="Kalonian Hydra" />
+  <Cards CatID="32352" Quantity="1" Sideboard="false" Name="Lorescale Coatl" />
+  <Cards CatID="46791" Quantity="1" Sideboard="false" Name="Necropolis Regent" />
+  <Cards CatID="24055" Quantity="1" Sideboard="false" Name="Plaxcaster Frogling" />
+  <Cards CatID="48306" Quantity="1" Sideboard="false" Name="Renegade Krasis" />
+  <Cards CatID="60320" Quantity="1" Sideboard="false" Name="Tireless Tracker" />
+  <Cards CatID="39960" Quantity="1" Sideboard="false" Name="Viral Drake" />
+  <Cards CatID="39337" Quantity="1" Sideboard="false" Name="Fuel for the Cause" />
+  <Cards CatID="52262" Quantity="1" Sideboard="false" Name="Solidarity of Heroes" />
+  <Cards CatID="38089" Quantity="1" Sideboard="false" Name="Steady Progress" />
+  <Cards CatID="54134" Quantity="1" Sideboard="false" Name="Sultai Charm" />
+  <Cards CatID="55450" Quantity="1" Sideboard="false" Name="Crux of Fate" />
+  <Cards CatID="39910" Quantity="1" Sideboard="false" Name="Tezzeret's Gambit" />
+  <Cards CatID="54448" Quantity="1" Sideboard="false" Name="Villainous Wealth" />
+  <Cards CatID="46755" Quantity="1" Sideboard="false" Name="Death's Presence" />
+  <Cards CatID="58491" Quantity="1" Sideboard="false" Name="Kiora, Master of the Depths" />
+  <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
+  <Cards CatID="47577" Quantity="1" Sideboard="false" Name="Bioshift" />
+  <Cards CatID="41127" Quantity="1" Sideboard="false" Name="Rampant Growth" />
+  <Cards CatID="23192" Quantity="1" Sideboard="false" Name="Dimir Aqueduct" />
+  <Cards CatID="45314" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="54164" Quantity="1" Sideboard="false" Name="Opulent Palace" />
+  <Cards CatID="44285" Quantity="1" Sideboard="false" Name="Champion of Lambholt" />
+  <Cards CatID="40730" Quantity="1" Sideboard="false" Name="Golgari Rot Farm" />
+  <Cards CatID="38351" Quantity="1" Sideboard="false" Name="Contagion Engine" />
+  <Cards CatID="46383" Quantity="1" Sideboard="false" Name="Golgari Guildgate" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="42660" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
+  <Cards CatID="59912" Quantity="1" Sideboard="false" Name="Altered Ego" />
+  <Cards CatID="20289" Quantity="1" Sideboard="false" Name="Whispersilk Cloak" />
+  <Cards CatID="47771" Quantity="1" Sideboard="false" Name="Fathom Mage" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="47445" Quantity="1" Sideboard="false" Name="Gyre Sage" />
+  <Cards CatID="58088" Quantity="1" Sideboard="false" Name="Managorger Hydra" />
+  <Cards CatID="47935" Quantity="1" Sideboard="false" Name="Master Biomancer" />
+  <Cards CatID="59227" Quantity="1" Sideboard="false" Name="Mazirek, Kraul Death Priest" />
+  <Cards CatID="47767" Quantity="1" Sideboard="false" Name="Prime Speaker Zegana" />
+  <Cards CatID="22741" Quantity="1" Sideboard="false" Name="Seedborn Muse" />
+  <Cards CatID="41385" Quantity="1" Sideboard="false" Name="Rune-Scarred Demon" />
+  <Cards CatID="21097" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="38079" Quantity="1" Sideboard="false" Name="Thrummingbird" />
+  <Cards CatID="48276" Quantity="1" Sideboard="false" Name="Vorel of the Hull Clade" />
+  <Cards CatID="47703" Quantity="1" Sideboard="false" Name="Zameck Guildmage" />
+  <Cards CatID="19457" Quantity="1" Sideboard="false" Name="Diabolic Tutor" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="55972" Quantity="1" Sideboard="false" Name="Inspiring Call" />
+  <Cards CatID="48362" Quantity="1" Sideboard="false" Name="Plasm Capture" />
+  <Cards CatID="48328" Quantity="1" Sideboard="false" Name="Putrefy" />
+  <Cards CatID="37350" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="56406" Quantity="1" Sideboard="false" Name="Explosive Vegetation" />
+  <Cards CatID="53704" Quantity="1" Sideboard="false" Name="In Garruk's Wake" />
+  <Cards CatID="18806" Quantity="1" Sideboard="false" Name="Forgotten Ancient" />
+  <Cards CatID="23564" Quantity="1" Sideboard="false" Name="Golgari Signet" />
+  <Cards CatID="24015" Quantity="1" Sideboard="false" Name="Simic Signet" />
+  <Cards CatID="64148" Quantity="1" Sideboard="false" Name="Fetid Pools" />
+  <Cards CatID="31431" Quantity="1" Sideboard="false" Name="Eternal Witness" />
+  <Cards CatID="48426" Quantity="1" Sideboard="false" Name="Bred for the Hunt" />
+  <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
+  <Cards CatID="38091" Quantity="1" Sideboard="false" Name="Inexorable Tide" />
+  <Cards CatID="51408" Quantity="1" Sideboard="false" Name="Primal Vigor" />
+  <Cards CatID="41185" Quantity="1" Sideboard="false" Name="Acidic Slime" />
+  <Cards CatID="46567" Quantity="1" Sideboard="false" Name="Vraska the Unseen" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="37701" Quantity="1" Sideboard="false" Name="Contagion Clasp" />
+  <Cards CatID="24047" Quantity="1" Sideboard="false" Name="Novijen, Heart of Progress" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="48378" Quantity="1" Sideboard="false" Name="Simic Guildgate" />
+  <Cards CatID="57476" Quantity="1" Sideboard="false" Name="Simic Growth Chamber" />
+  <Cards CatID="50264" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="53478" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="53486" Quantity="3" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53482" Quantity="5" Sideboard="false" Name="Island" />
+  <Cards CatID="42671" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="26332" Quantity="1" Sideboard="true" Name="Vorosh, the Hunter" />
+</Deck>

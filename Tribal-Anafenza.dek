@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="42828" Quantity="1" Sideboard="false" Name="Champion of the Parish" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="59944" Quantity="1" Sideboard="false" Name="Odric, Lunarch Marshal" />
+  <Cards CatID="59908" Quantity="1" Sideboard="false" Name="Hanweir Militia Captain" />
+  <Cards CatID="35759" Quantity="1" Sideboard="false" Name="Marshal's Anthem" />
+  <Cards CatID="59788" Quantity="1" Sideboard="false" Name="Thalia's Lieutenant" />
+  <Cards CatID="45705" Quantity="1" Sideboard="false" Name="Intrepid Hero" />
+  <Cards CatID="54971" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
+  <Cards CatID="53274" Quantity="1" Sideboard="false" Name="Preeminent Captain" />
+  <Cards CatID="26271" Quantity="1" Sideboard="false" Name="Benalish Commander" />
+  <Cards CatID="30893" Quantity="1" Sideboard="false" Name="Ranger of Eos" />
+  <Cards CatID="47871" Quantity="1" Sideboard="false" Name="Gideon, Champion of Justice" />
+  <Cards CatID="58160" Quantity="1" Sideboard="false" Name="Kytheon's Irregulars" />
+  <Cards CatID="45316" Quantity="1" Sideboard="false" Name="Captain of the Watch" />
+  <Cards CatID="50305" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
+  <Cards CatID="44031" Quantity="1" Sideboard="false" Name="Angel of Jubilation" />
+  <Cards CatID="38221" Quantity="1" Sideboard="false" Name="True Conviction" />
+  <Cards CatID="57312" Quantity="1" Sideboard="false" Name="Elesh Norn, Grand Cenobite" />
+  <Cards CatID="32631" Quantity="1" Sideboard="false" Name="Honor of the Pure" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
+  <Cards CatID="27288" Quantity="1" Sideboard="false" Name="Glorious Anthem" />
+  <Cards CatID="44279" Quantity="1" Sideboard="false" Name="Silverblade Paladin" />
+  <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
+  <Cards CatID="50892" Quantity="1" Sideboard="false" Name="Kongming, &quot;Sleeping Dragon&quot;" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="36674" Quantity="1" Sideboard="false" Name="Transcendent Master" />
+  <Cards CatID="56846" Quantity="1" Sideboard="false" Name="Soltari Champion" />
+  <Cards CatID="51376" Quantity="1" Sideboard="false" Name="Darksteel Mutation" />
+  <Cards CatID="53524" Quantity="1" Sideboard="false" Name="Paragon of New Dawns" />
+  <Cards CatID="18735" Quantity="1" Sideboard="false" Name="Daru Warchief" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="34390" Quantity="1" Sideboard="false" Name="Journey to Nowhere" />
+  <Cards CatID="45256" Quantity="1" Sideboard="false" Name="Oblivion Ring" />
+  <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
+  <Cards CatID="61887" Quantity="1" Sideboard="false" Name="Angel of Invention" />
+  <Cards CatID="47740" Quantity="1" Sideboard="false" Name="Frontline Medic" />
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="40680" Quantity="1" Sideboard="false" Name="Secluded Steppe" />
+  <Cards CatID="10625" Quantity="1" Sideboard="false" Name="Soul Warden" />
+  <Cards CatID="36462" Quantity="1" Sideboard="false" Name="Soul's Attendant" />
+  <Cards CatID="40519" Quantity="1" Sideboard="false" Name="Mother of Runes" />
+  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="50352" Quantity="1" Sideboard="false" Name="Evangel of Heliod" />
+  <Cards CatID="41387" Quantity="1" Sideboard="false" Name="Grand Abolisher" />
+  <Cards CatID="59590" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="34540" Quantity="1" Sideboard="false" Name="Brave the Elements" />
+  <Cards CatID="24529" Quantity="1" Sideboard="false" Name="Coldsteel Heart" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="53650" Quantity="1" Sideboard="false" Name="Obelisk of Urd" />
+  <Cards CatID="22567" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="51757" Quantity="1" Sideboard="false" Name="Archetype of Courage" />
+  <Cards CatID="34624" Quantity="1" Sideboard="false" Name="Emeria, the Sky Ruin" />
+  <Cards CatID="45564" Quantity="1" Sideboard="false" Name="Odric, Master Tactician" />
+  <Cards CatID="53484" Quantity="12" Sideboard="false" Name="Plains" />
+  <Cards CatID="53390" Quantity="12" Sideboard="false" Name="Plains" />
+  <Cards CatID="53384" Quantity="7" Sideboard="false" Name="Plains" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="39539" Quantity="1" Sideboard="false" Name="Hero of Bladehold" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="30004" Quantity="1" Sideboard="false" Name="Light from Within" />
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="61308" Quantity="1" Sideboard="false" Name="Thalia, Heretic Cathar" />
+  <Cards CatID="24779" Quantity="1" Sideboard="false" Name="Darien, King of Kjeldor" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="55978" Quantity="1" Sideboard="true" Name="Anafenza, Kin-Tree Spirit" />
+</Deck>

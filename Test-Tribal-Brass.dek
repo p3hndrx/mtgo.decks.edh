@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="26131" Quantity="1" Sideboard="false" Name="Conspiracy" />
+  <Cards CatID="65104" Quantity="1" Sideboard="false" Name="Arcane Adaptation" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="65334" Quantity="1" Sideboard="false" Name="Rowdy Crew" />
+  <Cards CatID="65280" Quantity="1" Sideboard="false" Name="Angrath's Marauders" />
+  <Cards CatID="65288" Quantity="1" Sideboard="false" Name="Captain Lannery Storm" />
+  <Cards CatID="65110" Quantity="1" Sideboard="false" Name="Daring Saboteur" />
+  <Cards CatID="62745" Quantity="1" Sideboard="false" Name="Kari Zev, Skyship Raider" />
+  <Cards CatID="65466" Quantity="1" Sideboard="false" Name="Hostage Taker" />
+  <Cards CatID="65228" Quantity="1" Sideboard="false" Name="Fathom Fleet Captain" />
+  <Cards CatID="65214" Quantity="1" Sideboard="false" Name="Deadeye Tracker" />
+  <Cards CatID="65500" Quantity="1" Sideboard="false" Name="Fell Flagship" />
+  <Cards CatID="7093" Quantity="1" Sideboard="false" Name="Kukemssa Pirates" />
+  <Cards CatID="65462" Quantity="1" Sideboard="false" Name="Dire Fleet Captain" />
+  <Cards CatID="13429" Quantity="1" Sideboard="false" Name="Rishadan Cutpurse" />
+  <Cards CatID="65120" Quantity="1" Sideboard="false" Name="Dreamcaller Siren" />
+  <Cards CatID="65180" Quantity="1" Sideboard="false" Name="Storm Fleet Aerialist" />
+  <Cards CatID="65172" Quantity="1" Sideboard="false" Name="Siren Stormtamer" />
+  <Cards CatID="65252" Quantity="1" Sideboard="false" Name="Ruin Raider" />
+  <Cards CatID="65366" Quantity="1" Sideboard="false" Name="Wily Goblin" />
+  <Cards CatID="65460" Quantity="1" Sideboard="false" Name="Deadeye Plunderers" />
+  <Cards CatID="65470" Quantity="1" Sideboard="false" Name="Marauding Looter" />
+  <Cards CatID="30176" Quantity="1" Sideboard="false" Name="Noggle Bandit" />
+  <Cards CatID="48332" Quantity="1" Sideboard="false" Name="Notion Thief" />
+  <Cards CatID="19187" Quantity="1" Sideboard="false" Name="Coastal Piracy" />
+  <Cards CatID="61765" Quantity="1" Sideboard="false" Name="Contraband Kingpin" />
+  <Cards CatID="9637" Quantity="1" Sideboard="false" Name="Shadow Rift" />
+  <Cards CatID="43403" Quantity="1" Sideboard="false" Name="Artful Dodge" />
+  <Cards CatID="50456" Quantity="1" Sideboard="false" Name="Aqueous Form" />
+  <Cards CatID="36732" Quantity="1" Sideboard="false" Name="Distortion Strike" />
+  <Cards CatID="39748" Quantity="1" Sideboard="false" Name="Blighted Agent" />
+  <Cards CatID="23286" Quantity="1" Sideboard="false" Name="Dimir Infiltrator" />
+  <Cards CatID="61795" Quantity="1" Sideboard="false" Name="Skysovereign, Consul Flagship" />
+  <Cards CatID="32309" Quantity="1" Sideboard="false" Name="Mask of Riddles" />
+  <Cards CatID="35735" Quantity="1" Sideboard="false" Name="Thada Adel, Acquisitor" />
+  <Cards CatID="63744" Quantity="1" Sideboard="false" Name="Slither Blade" />
+  <Cards CatID="57343" Quantity="1" Sideboard="false" Name="Shadowmage Infiltrator" />
+  <Cards CatID="33432" Quantity="1" Sideboard="false" Name="Looter il-Kor" />
+  <Cards CatID="33578" Quantity="1" Sideboard="false" Name="Ramirez DePietro" />
+  <Cards CatID="20539" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
+  <Cards CatID="47785" Quantity="1" Sideboard="false" Name="Five-Alarm Fire" />
+  <Cards CatID="62273" Quantity="1" Sideboard="false" Name="Grenzo, Havoc Raiser" />
+  <Cards CatID="57910" Quantity="1" Sideboard="false" Name="Jhessian Thief" />
+  <Cards CatID="37362" Quantity="1" Sideboard="false" Name="Scroll Thief" />
+  <Cards CatID="50406" Quantity="1" Sideboard="false" Name="Bident of Thassa" />
+  <Cards CatID="47908" Quantity="1" Sideboard="false" Name="Call of the Nightwing" />
+  <Cards CatID="47880" Quantity="1" Sideboard="false" Name="Whispering Madness" />
+  <Cards CatID="59982" Quantity="1" Sideboard="false" Name="Skeleton Key" />
+  <Cards CatID="65492" Quantity="1" Sideboard="false" Name="Dowsing Dagger" />
+  <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="38279" Quantity="1" Sideboard="false" Name="Sword of Body and Mind" />
+  <Cards CatID="65488" Quantity="1" Sideboard="false" Name="Conqueror's Galleon" />
+  <Cards CatID="39650" Quantity="1" Sideboard="false" Name="Sword of Fire and Ice" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="40609" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="58697" Quantity="1" Sideboard="false" Name="Smoldering Marsh" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="64148" Quantity="1" Sideboard="false" Name="Fetid Pools" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="50264" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="59920" Quantity="1" Sideboard="false" Name="Choked Estuary" />
+  <Cards CatID="60080" Quantity="1" Sideboard="false" Name="Foreboding Ruins" />
+  <Cards CatID="38293" Quantity="1" Sideboard="false" Name="Blackcleave Cliffs" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="45314" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="38291" Quantity="1" Sideboard="false" Name="Darkslick Shores" />
+  <Cards CatID="30953" Quantity="1" Sideboard="false" Name="Obelisk of Grixis" />
+  <Cards CatID="31321" Quantity="1" Sideboard="false" Name="Grixis Panorama" />
+  <Cards CatID="65112" Quantity="1" Sideboard="false" Name="Deadeye Quartermaster" />
+  <Cards CatID="53366" Quantity="7" Sideboard="false" Name="Island" />
+  <Cards CatID="53370" Quantity="4" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53376" Quantity="4" Sideboard="false" Name="Swamp" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="32234" Quantity="1" Sideboard="false" Name="Terminate" />
+  <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="28485" Quantity="1" Sideboard="false" Name="Amoeboid Changeling" />
+  <Cards CatID="65454" Quantity="1" Sideboard="true" Name="Admiral Beckett Brass" />
+</Deck>

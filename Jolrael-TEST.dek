@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="58681" Quantity="1" Sideboard="false" Name="Oran-Rief Hydra" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="58076" Quantity="1" Sideboard="false" Name="Nissa's Pilgrimage" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="33648" Quantity="1" Sideboard="false" Name="Gaea's Touch" />
+  <Cards CatID="55149" Quantity="1" Sideboard="false" Name="Song of the Dryads" />
+  <Cards CatID="59567" Quantity="1" Sideboard="false" Name="Sylvan Advocate" />
+  <Cards CatID="60182" Quantity="1" Sideboard="false" Name="Groundskeeper" />
+  <Cards CatID="34542" Quantity="1" Sideboard="false" Name="Oracle of Mul Daya" />
+  <Cards CatID="27627" Quantity="1" Sideboard="false" Name="Crucible of Worlds" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="15782" Quantity="1" Sideboard="false" Name="Reclaim" />
+  <Cards CatID="61230" Quantity="1" Sideboard="false" Name="Grapple with the Past" />
+  <Cards CatID="53083" Quantity="1" Sideboard="false" Name="Regrowth" />
+  <Cards CatID="61442" Quantity="1" Sideboard="false" Name="Splendid Reclamation" />
+  <Cards CatID="55606" Quantity="1" Sideboard="false" Name="Sudden Reclamation" />
+  <Cards CatID="55119" Quantity="1" Sideboard="false" Name="Titania, Protector of Argoth" />
+  <Cards CatID="59358" Quantity="1" Sideboard="false" Name="Embodiment of Insight" />
+  <Cards CatID="64742" Quantity="1" Sideboard="false" Name="Ramunap Excavator" />
+  <Cards CatID="53478" Quantity="11" Sideboard="false" Name="Forest" />
+  <Cards CatID="53394" Quantity="11" Sideboard="false" Name="Forest" />
+  <Cards CatID="53354" Quantity="11" Sideboard="false" Name="Forest" />
+  <Cards CatID="53302" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="23008" Quantity="1" Sideboard="false" Name="Civic Wayfinder" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="43827" Quantity="1" Sideboard="false" Name="Borderland Ranger" />
+  <Cards CatID="37108" Quantity="1" Sideboard="false" Name="Sylvan Ranger" />
+  <Cards CatID="41127" Quantity="1" Sideboard="false" Name="Rampant Growth" />
+  <Cards CatID="40663" Quantity="1" Sideboard="false" Name="Collective Voyage" />
+  <Cards CatID="53109" Quantity="1" Sideboard="false" Name="Sylvan Library" />
+  <Cards CatID="50904" Quantity="1" Sideboard="false" Name="Farhaven Elf" />
+  <Cards CatID="20213" Quantity="1" Sideboard="false" Name="Journey of Discovery" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="51847" Quantity="1" Sideboard="false" Name="Peregrination" />
+  <Cards CatID="46409" Quantity="1" Sideboard="false" Name="Seek the Horizon" />
+  <Cards CatID="56406" Quantity="1" Sideboard="false" Name="Explosive Vegetation" />
+  <Cards CatID="65671" Quantity="1" Sideboard="false" Name="Traverse the Outlands" />
+  <Cards CatID="45586" Quantity="1" Sideboard="false" Name="Boundless Realms" />
+  <Cards CatID="16527" Quantity="1" Sideboard="false" Name="New Frontiers" />
+  <Cards CatID="21535" Quantity="1" Sideboard="false" Name="Azusa, Lost but Seeking" />
+  <Cards CatID="26728" Quantity="1" Sideboard="false" Name="Rites of Flourishing" />
+  <Cards CatID="58695" Quantity="1" Sideboard="false" Name="Retreat to Kazandu" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="59069" Quantity="1" Sideboard="false" Name="Thought Vessel" />
+  <Cards CatID="22741" Quantity="1" Sideboard="false" Name="Seedborn Muse" />
+  <Cards CatID="34818" Quantity="1" Sideboard="false" Name="Beastmaster Ascension" />
+  <Cards CatID="38423" Quantity="1" Sideboard="false" Name="Asceticism" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
+  <Cards CatID="20217" Quantity="1" Sideboard="false" Name="Extraplanar Lens" />
+  <Cards CatID="26301" Quantity="1" Sideboard="false" Name="Hunting Wilds" />
+  <Cards CatID="35411" Quantity="1" Sideboard="false" Name="Harrow" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="62043" Quantity="1" Sideboard="false" Name="Ghirapur Orrery" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="26882" Quantity="1" Sideboard="false" Name="Dryad Arbor" />
+  <Cards CatID="10289" Quantity="1" Sideboard="false" Name="Horn of Greed" />
+  <Cards CatID="10195" Quantity="1" Sideboard="false" Name="Burgeoning" />
+  <Cards CatID="14115" Quantity="1" Sideboard="true" Name="Jolrael, Empress of Beasts" />
+</Deck>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="52679" Quantity="1" Sideboard="false" Name="Caldera Lake" />
+  <Cards CatID="59754" Quantity="1" Sideboard="false" Name="Highland Lake" />
+  <Cards CatID="57466" Quantity="1" Sideboard="false" Name="Izzet Boilerworks" />
+  <Cards CatID="48376" Quantity="1" Sideboard="false" Name="Izzet Guildgate" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="55532" Quantity="1" Sideboard="false" Name="Swiftwater Cliffs" />
+  <Cards CatID="22655" Quantity="1" Sideboard="false" Name="Shivan Reef" />
+  <Cards CatID="40695" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="58631" Quantity="1" Sideboard="false" Name="Void Winnower" />
+  <Cards CatID="39708" Quantity="1" Sideboard="false" Name="Jin-Gitaxias, Core Augur" />
+  <Cards CatID="59089" Quantity="1" Sideboard="false" Name="Basalt Monolith" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="54843" Quantity="1" Sideboard="false" Name="Dreamstone Hedron" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="20497" Quantity="1" Sideboard="false" Name="Darksteel Citadel" />
+  <Cards CatID="58148" Quantity="1" Sideboard="false" Name="Mage-Ring Network" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="30770" Quantity="1" Sideboard="false" Name="Personal Tutor" />
+  <Cards CatID="51494" Quantity="1" Sideboard="false" Name="Vision Skeins" />
+  <Cards CatID="16931" Quantity="1" Sideboard="false" Name="Words of Wisdom" />
+  <Cards CatID="25525" Quantity="1" Sideboard="false" Name="Paradox Haze" />
+  <Cards CatID="41488" Quantity="1" Sideboard="false" Name="Jace's Archivist" />
+  <Cards CatID="23322" Quantity="1" Sideboard="false" Name="Mnemonic Nexus" />
+  <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
+  <Cards CatID="47911" Quantity="1" Sideboard="false" Name="Diluvian Primordial" />
+  <Cards CatID="20195" Quantity="1" Sideboard="false" Name="Temporal Cascade" />
+  <Cards CatID="61118" Quantity="1" Sideboard="false" Name="Mind's Dilation" />
+  <Cards CatID="17835" Quantity="1" Sideboard="false" Name="Blatant Thievery" />
+  <Cards CatID="51440" Quantity="1" Sideboard="false" Name="Skyscribing" />
+  <Cards CatID="61424" Quantity="1" Sideboard="false" Name="Collective Defiance" />
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" />
+  <Cards CatID="33080" Quantity="1" Sideboard="false" Name="Warp World" />
+  <Cards CatID="41476" Quantity="1" Sideboard="false" Name="Scrambleverse" />
+  <Cards CatID="48198" Quantity="1" Sideboard="false" Name="Ral Zarek" />
+  <Cards CatID="59764" Quantity="1" Sideboard="false" Name="Fevered Visions" />
+  <Cards CatID="20646" Quantity="1" Sideboard="false" Name="Beacon of Tomorrows" />
+  <Cards CatID="53482" Quantity="12" Sideboard="false" Name="Island" />
+  <Cards CatID="53480" Quantity="10" Sideboard="false" Name="Mountain" />
+  <Cards CatID="35681" Quantity="1" Sideboard="false" Name="Everflowing Chalice" />
+  <Cards CatID="36738" Quantity="1" Sideboard="false" Name="It That Betrays" />
+  <Cards CatID="39587" Quantity="1" Sideboard="false" Name="Blightsteel Colossus" />
+  <Cards CatID="58301" Quantity="1" Sideboard="false" Name="Ulamog, the Ceaseless Hunger" />
+  <Cards CatID="57200" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" />
+  <Cards CatID="36362" Quantity="1" Sideboard="false" Name="Artisan of Kozilek" />
+  <Cards CatID="50394" Quantity="1" Sideboard="false" Name="Colossus of Akros" />
+  <Cards CatID="37861" Quantity="1" Sideboard="false" Name="Wurmcoil Engine" />
+  <Cards CatID="38161" Quantity="1" Sideboard="false" Name="Steel Hellkite" />
+  <Cards CatID="58303" Quantity="1" Sideboard="false" Name="Oblivion Sower" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="28463" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
+  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
+  <Cards CatID="39976" Quantity="1" Sideboard="false" Name="Gitaxian Probe" />
+  <Cards CatID="53117" Quantity="1" Sideboard="false" Name="Brainstorm" />
+  <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
+  <Cards CatID="26726" Quantity="1" Sideboard="false" Name="Foresee" />
+  <Cards CatID="17881" Quantity="1" Sideboard="false" Name="Wheel and Deal" />
+  <Cards CatID="18742" Quantity="1" Sideboard="false" Name="Rush of Knowledge" />
+  <Cards CatID="39537" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" />
+  <Cards CatID="23346" Quantity="1" Sideboard="false" Name="Mindmoil" />
+  <Cards CatID="44283" Quantity="1" Sideboard="false" Name="Reforge the Soul" />
+  <Cards CatID="31929" Quantity="1" Sideboard="false" Name="Font of Mythos" />
+  <Cards CatID="26295" Quantity="1" Sideboard="false" Name="Aeon Chronicler" />
+  <Cards CatID="39734" Quantity="1" Sideboard="false" Name="Phyrexian Metamorph" />
+  <Cards CatID="37405" Quantity="1" Sideboard="false" Name="Stormtide Leviathan" />
+  <Cards CatID="43110" Quantity="1" Sideboard="false" Name="Inkwell Leviathan" />
+  <Cards CatID="20329" Quantity="1" Sideboard="false" Name="Darksteel Colossus" />
+  <Cards CatID="57206" Quantity="1" Sideboard="false" Name="Ulamog, the Infinite Gyre" />
+  <Cards CatID="19237" Quantity="1" Sideboard="false" Name="Obliterate" />
+  <Cards CatID="18091" Quantity="1" Sideboard="false" Name="Insurrection" />
+  <Cards CatID="51114" Quantity="1" Sideboard="false" Name="Tidal Force" />
+  <Cards CatID="34644" Quantity="1" Sideboard="false" Name="Lorthos, the Tidemaker" />
+  <Cards CatID="60174" Quantity="1" Sideboard="false" Name="Geistblast" />
+  <Cards CatID="37695" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="60082" Quantity="1" Sideboard="false" Name="Tamiyo's Journal" />
+  <Cards CatID="20193" Quantity="1" Sideboard="false" Name="Timesifter" />
+  <Cards CatID="48664" Quantity="1" Sideboard="true" Name="Jhoira of the Ghitu" />
+</Deck>

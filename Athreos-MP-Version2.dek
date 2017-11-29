@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="36364" Quantity="1" Sideboard="false" Name="Pestilence Demon" />
+  <Cards CatID="43503" Quantity="1" Sideboard="false" Name="Ravenous Demon" />
+  <Cards CatID="32155" Quantity="1" Sideboard="false" Name="Lord of the Pit" />
+  <Cards CatID="55618" Quantity="1" Sideboard="false" Name="Rally the Ancestors" />
+  <Cards CatID="53581" Quantity="1" Sideboard="false" Name="Return to the Ranks" />
+  <Cards CatID="7327" Quantity="1" Sideboard="false" Name="Spirit of the Night" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="37492" Quantity="1" Sideboard="false" Name="Viscera Seer" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="21501" Quantity="1" Sideboard="false" Name="Seizan, Perverter of Truth" />
+  <Cards CatID="43873" Quantity="1" Sideboard="false" Name="Harvester of Souls" />
+  <Cards CatID="57809" Quantity="1" Sideboard="false" Name="Kothophed, Soul Hoarder" />
+  <Cards CatID="27273" Quantity="1" Sideboard="false" Name="No Rest for the Wicked" />
+  <Cards CatID="49417" Quantity="1" Sideboard="false" Name="Devout Invocation" />
+  <Cards CatID="24811" Quantity="1" Sideboard="false" Name="Thrumming Stone" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="47753" Quantity="1" Sideboard="false" Name="Crypt Ghast" />
+  <Cards CatID="15083" Quantity="1" Sideboard="false" Name="Diabolic Intent" />
+  <Cards CatID="31471" Quantity="1" Sideboard="false" Name="Cabal Coffers" />
+  <Cards CatID="61877" Quantity="1" Sideboard="false" Name="Authority of the Consuls" />
+  <Cards CatID="49445" Quantity="1" Sideboard="false" Name="Dark Prophecy" />
+  <Cards CatID="17072" Quantity="1" Sideboard="false" Name="Mortal Combat" />
+  <Cards CatID="32727" Quantity="1" Sideboard="false" Name="Xathrid Demon" />
+  <Cards CatID="43485" Quantity="1" Sideboard="false" Name="Vault of the Archangel" />
+  <Cards CatID="49465" Quantity="1" Sideboard="false" Name="Rise of the Dark Realms" />
+  <Cards CatID="54963" Quantity="1" Sideboard="false" Name="Reaper from the Abyss" />
+  <Cards CatID="41385" Quantity="1" Sideboard="false" Name="Rune-Scarred Demon" />
+  <Cards CatID="53562" Quantity="1" Sideboard="false" Name="Ob Nixilis, Unshackled" />
+  <Cards CatID="31922" Quantity="1" Sideboard="false" Name="Extractor Demon" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="23935" Quantity="1" Sideboard="false" Name="Teysa, Orzhov Scion" />
+  <Cards CatID="29966" Quantity="1" Sideboard="false" Name="Unmake" />
+  <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
+  <Cards CatID="32416" Quantity="1" Sideboard="false" Name="Necromancer's Covenant" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
+  <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="42652" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="53484" Quantity="7" Sideboard="false" Name="Plains" />
+  <Cards CatID="53486" Quantity="12" Sideboard="false" Name="Swamp" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="49461" Quantity="30" Sideboard="false" Name="Shadowborn Apostle" />
+  <Cards CatID="19575" Quantity="1" Sideboard="false" Name="Grave Pact" />
+  <Cards CatID="40086" Quantity="1" Sideboard="false" Name="Sheoldred, Whispering One" />
+  <Cards CatID="55616" Quantity="1" Sideboard="false" Name="Archfiend of Depravity" />
+  <Cards CatID="62677" Quantity="1" Sideboard="false" Name="Secret Salvage" />
+  <Cards CatID="52106" Quantity="1" Sideboard="true" Name="Athreos, God of Passage" />
+</Deck>

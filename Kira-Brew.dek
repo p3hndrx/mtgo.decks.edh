@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="30770" Quantity="1" Sideboard="false" Name="Personal Tutor" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="19570" Quantity="1" Sideboard="false" Name="Merchant Scroll" />
+  <Cards CatID="23312" Quantity="1" Sideboard="false" Name="Muddle the Mixture" />
+  <Cards CatID="22567" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="9899" Quantity="1" Sideboard="false" Name="Mana Severance" />
+  <Cards CatID="39575" Quantity="1" Sideboard="false" Name="Blue Sun's Zenith" />
+  <Cards CatID="39385" Quantity="1" Sideboard="false" Name="Distant Memories" />
+  <Cards CatID="20195" Quantity="1" Sideboard="false" Name="Temporal Cascade" />
+  <Cards CatID="37392" Quantity="1" Sideboard="false" Name="Time Reversal" />
+  <Cards CatID="42560" Quantity="1" Sideboard="false" Name="Laboratory Maniac" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="53117" Quantity="1" Sideboard="false" Name="Brainstorm" />
+  <Cards CatID="41321" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="37648" Quantity="1" Sideboard="false" Name="Isochron Scepter" />
+  <Cards CatID="15846" Quantity="1" Sideboard="false" Name="Sleight of Hand" />
+  <Cards CatID="9333" Quantity="1" Sideboard="false" Name="Paradigm Shift" />
+  <Cards CatID="20143" Quantity="1" Sideboard="false" Name="Fabricate" />
+  <Cards CatID="59798" Quantity="1" Sideboard="false" Name="Pieces of the Puzzle" />
+  <Cards CatID="39363" Quantity="1" Sideboard="false" Name="Treasure Mage" />
+  <Cards CatID="20718" Quantity="1" Sideboard="false" Name="Trinket Mage" />
+  <Cards CatID="52825" Quantity="1" Sideboard="false" Name="Fact or Fiction" />
+  <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
+  <Cards CatID="56326" Quantity="1" Sideboard="false" Name="Sight Beyond Sight" />
+  <Cards CatID="53217" Quantity="1" Sideboard="false" Name="High Tide" />
+  <Cards CatID="39976" Quantity="1" Sideboard="false" Name="Gitaxian Probe" />
+  <Cards CatID="40608" Quantity="1" Sideboard="false" Name="Minds Aglow" />
+  <Cards CatID="27492" Quantity="1" Sideboard="false" Name="Peek" />
+  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
+  <Cards CatID="37388" Quantity="1" Sideboard="false" Name="Preordain" />
+  <Cards CatID="36280" Quantity="1" Sideboard="false" Name="Serum Visions" />
+  <Cards CatID="12415" Quantity="1" Sideboard="false" Name="Windfall" />
+  <Cards CatID="57908" Quantity="1" Sideboard="false" Name="Sphinx's Tutelage" />
+  <Cards CatID="53482" Quantity="12" Sideboard="false" Name="Island" />
+  <Cards CatID="51440" Quantity="1" Sideboard="false" Name="Skyscribing" />
+  <Cards CatID="32694" Quantity="1" Sideboard="false" Name="Mind Spring" />
+  <Cards CatID="205" Quantity="1" Sideboard="false" Name="Braingeyser" />
+  <Cards CatID="53392" Quantity="12" Sideboard="false" Name="Island" />
+  <Cards CatID="53368" Quantity="12" Sideboard="false" Name="Island" />
+  <Cards CatID="53366" Quantity="12" Sideboard="false" Name="Island" />
+  <Cards CatID="21241" Quantity="1" Sideboard="false" Name="Azami, Lady of Scrolls" />
+  <Cards CatID="21717" Quantity="1" Sideboard="false" Name="Tomorrow, Azami's Familiar" />
+  <Cards CatID="19703" Quantity="1" Sideboard="false" Name="Annul" />
+  <Cards CatID="56798" Quantity="1" Sideboard="false" Name="Forbid" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="22108" Quantity="1" Sideboard="false" Name="Kami of the Crescent Moon" />
+  <Cards CatID="16859" Quantity="1" Sideboard="false" Name="Unifying Theory" />
+  <Cards CatID="57200" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" />
+  <Cards CatID="38419" Quantity="1" Sideboard="false" Name="Venser's Journal" />
+  <Cards CatID="39587" Quantity="1" Sideboard="false" Name="Blightsteel Colossus" />
+  <Cards CatID="20329" Quantity="1" Sideboard="false" Name="Darksteel Colossus" />
+  <Cards CatID="61657" Quantity="1" Sideboard="false" Name="Insidious Will" />
+  <Cards CatID="10607" Quantity="1" Sideboard="false" Name="Mind Over Matter" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="17871" Quantity="1" Sideboard="false" Name="Arcanis the Omnipotent" />
+  <Cards CatID="21715" Quantity="1" Sideboard="true" Name="Kira, Great Glass-Spinner" />
+</Deck>

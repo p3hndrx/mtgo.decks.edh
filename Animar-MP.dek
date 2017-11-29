@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="60925" Quantity="1" Sideboard="false" Name="Peregrine Drake" />
+  <Cards CatID="60545" Quantity="1" Sideboard="false" Name="Man-o'-War" />
+  <Cards CatID="25599" Quantity="1" Sideboard="false" Name="Voidmage Husher" />
+  <Cards CatID="25439" Quantity="1" Sideboard="false" Name="Dream Stalker" />
+  <Cards CatID="40709" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="37108" Quantity="1" Sideboard="false" Name="Sylvan Ranger" />
+  <Cards CatID="58509" Quantity="1" Sideboard="false" Name="Pilgrim's Eye" />
+  <Cards CatID="43913" Quantity="1" Sideboard="false" Name="Deadeye Navigator" />
+  <Cards CatID="50904" Quantity="1" Sideboard="false" Name="Farhaven Elf" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="63986" Quantity="1" Sideboard="false" Name="Vizier of the Menagerie" />
+  <Cards CatID="60510" Quantity="1" Sideboard="false" Name="Soul of the Harvest" />
+  <Cards CatID="53642" Quantity="1" Sideboard="false" Name="Quickling" />
+  <Cards CatID="15143" Quantity="1" Sideboard="false" Name="Horned Kavu" />
+  <Cards CatID="45054" Quantity="1" Sideboard="false" Name="Etherium-Horn Sorcerer" />
+  <Cards CatID="58301" Quantity="1" Sideboard="false" Name="Ulamog, the Ceaseless Hunger" />
+  <Cards CatID="23486" Quantity="1" Sideboard="false" Name="Cloudstone Curio" />
+  <Cards CatID="23476" Quantity="1" Sideboard="false" Name="Primordial Sage" />
+  <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
+  <Cards CatID="36362" Quantity="1" Sideboard="false" Name="Artisan of Kozilek" />
+  <Cards CatID="18838" Quantity="1" Sideboard="false" Name="Fierce Empath" />
+  <Cards CatID="57200" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" />
+  <Cards CatID="60977" Quantity="1" Sideboard="false" Name="Maelstrom Wanderer" />
+  <Cards CatID="31431" Quantity="1" Sideboard="false" Name="Eternal Witness" />
+  <Cards CatID="47767" Quantity="1" Sideboard="false" Name="Prime Speaker Zegana" />
+  <Cards CatID="50312" Quantity="1" Sideboard="false" Name="Purphoros, God of the Forge" />
+  <Cards CatID="53606" Quantity="1" Sideboard="false" Name="Reclamation Sage" />
+  <Cards CatID="61775" Quantity="1" Sideboard="false" Name="Rashmi, Eternities Crafter" />
+  <Cards CatID="24059" Quantity="1" Sideboard="false" Name="Coiling Oracle" />
+  <Cards CatID="58631" Quantity="1" Sideboard="false" Name="Void Winnower" />
+  <Cards CatID="34542" Quantity="1" Sideboard="false" Name="Oracle of Mul Daya" />
+  <Cards CatID="18806" Quantity="1" Sideboard="false" Name="Forgotten Ancient" />
+  <Cards CatID="51745" Quantity="1" Sideboard="false" Name="Xenagos, God of Revels" />
+  <Cards CatID="44033" Quantity="1" Sideboard="false" Name="Zealous Conscripts" />
+  <Cards CatID="58303" Quantity="1" Sideboard="false" Name="Oblivion Sower" />
+  <Cards CatID="59912" Quantity="1" Sideboard="false" Name="Altered Ego" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="15498" Quantity="1" Sideboard="false" Name="Equilibrium" />
+  <Cards CatID="61853" Quantity="1" Sideboard="false" Name="Botanical Sanctum" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="38301" Quantity="1" Sideboard="false" Name="Copperline Gorge" />
+  <Cards CatID="42671" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="50266" Quantity="1" Sideboard="false" Name="Temple of Abandon" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="42586" Quantity="1" Sideboard="false" Name="Kessig Wolf Run" />
+  <Cards CatID="59894" Quantity="1" Sideboard="false" Name="Game Trail" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="26882" Quantity="1" Sideboard="false" Name="Dryad Arbor" />
+  <Cards CatID="53478" Quantity="7" Sideboard="false" Name="Forest" />
+  <Cards CatID="53482" Quantity="4" Sideboard="false" Name="Island" />
+  <Cards CatID="53480" Quantity="6" Sideboard="false" Name="Mountain" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="36738" Quantity="1" Sideboard="false" Name="It That Betrays" />
+  <Cards CatID="48852" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
+  <Cards CatID="59141" Quantity="1" Sideboard="false" Name="Arjun, the Shifting Flame" />
+  <Cards CatID="65480" Quantity="1" Sideboard="false" Name="Tishana, Voice of Thunder" />
+  <Cards CatID="62897" Quantity="1" Sideboard="false" Name="Lifecrafter's Bestiary" />
+  <Cards CatID="32881" Quantity="1" Sideboard="false" Name="Lurking Predators" />
+  <Cards CatID="24259" Quantity="1" Sideboard="false" Name="Momir Vig, Simic Visionary" />
+  <Cards CatID="45580" Quantity="1" Sideboard="false" Name="Yeva, Nature's Herald" />
+  <Cards CatID="22741" Quantity="1" Sideboard="false" Name="Seedborn Muse" />
+  <Cards CatID="22982" Quantity="1" Sideboard="false" Name="Cowardice" />
+  <Cards CatID="24207" Quantity="1" Sideboard="false" Name="Tidespout Tyrant" />
+  <Cards CatID="32701" Quantity="1" Sideboard="false" Name="Elvish Visionary" />
+  <Cards CatID="59154" Quantity="1" Sideboard="false" Name="Caller of the Pack" />
+  <Cards CatID="56316" Quantity="1" Sideboard="false" Name="Ancestral Statue" />
+  <Cards CatID="52791" Quantity="1" Sideboard="false" Name="Palinchron" />
+  <Cards CatID="15988" Quantity="1" Sideboard="false" Name="Wood Elves" />
+  <Cards CatID="59053" Quantity="1" Sideboard="true" Name="Animar, Soul of Elements" />
+</Deck>

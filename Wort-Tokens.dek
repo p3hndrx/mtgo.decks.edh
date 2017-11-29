@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="62363" Quantity="1" Sideboard="false" Name="Benefactor's Draught" />
+  <Cards CatID="25535" Quantity="1" Sideboard="false" Name="Empty the Warrens" />
+  <Cards CatID="11915" Quantity="1" Sideboard="false" Name="Goblin Offensive" />
+  <Cards CatID="54362" Quantity="1" Sideboard="false" Name="Hordeling Outburst" />
+  <Cards CatID="26812" Quantity="1" Sideboard="false" Name="Sprout Swarm" />
+  <Cards CatID="38842" Quantity="1" Sideboard="false" Name="Goblin Warrens" />
+  <Cards CatID="33027" Quantity="1" Sideboard="false" Name="Siege-Gang Commander" />
+  <Cards CatID="45578" Quantity="1" Sideboard="false" Name="Krenko, Mob Boss" />
+  <Cards CatID="12881" Quantity="1" Sideboard="false" Name="Goblin Marshal" />
+  <Cards CatID="54991" Quantity="1" Sideboard="false" Name="Beetleback Chief" />
+  <Cards CatID="46691" Quantity="1" Sideboard="false" Name="Goblin Rally" />
+  <Cards CatID="28463" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
+  <Cards CatID="37648" Quantity="1" Sideboard="false" Name="Isochron Scepter" />
+  <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
+  <Cards CatID="36426" Quantity="1" Sideboard="false" Name="Splinter Twin" />
+  <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
+  <Cards CatID="60126" Quantity="1" Sideboard="false" Name="Second Harvest" />
+  <Cards CatID="17063" Quantity="1" Sideboard="false" Name="Parallel Evolution" />
+  <Cards CatID="37408" Quantity="1" Sideboard="false" Name="Leyline of Vitality" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="45387" Quantity="1" Sideboard="false" Name="Reverberate" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="40663" Quantity="1" Sideboard="false" Name="Collective Voyage" />
+  <Cards CatID="25405" Quantity="1" Sideboard="false" Name="Search for Tomorrow" />
+  <Cards CatID="51396" Quantity="1" Sideboard="false" Name="Tempt with Discovery" />
+  <Cards CatID="52883" Quantity="1" Sideboard="false" Name="Goblin Matron" />
+  <Cards CatID="7567" Quantity="1" Sideboard="false" Name="Goblin Recruiter" />
+  <Cards CatID="37218" Quantity="1" Sideboard="false" Name="Goblin Chieftain" />
+  <Cards CatID="18716" Quantity="1" Sideboard="false" Name="Goblin Warchief" />
+  <Cards CatID="18103" Quantity="1" Sideboard="false" Name="Mana Echoes" />
+  <Cards CatID="40705" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="59894" Quantity="1" Sideboard="false" Name="Game Trail" />
+  <Cards CatID="50266" Quantity="1" Sideboard="false" Name="Temple of Abandon" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="53083" Quantity="1" Sideboard="false" Name="Regrowth" />
+  <Cards CatID="39738" Quantity="1" Sideboard="false" Name="Urabrask the Hidden" />
+  <Cards CatID="53480" Quantity="8" Sideboard="false" Name="Mountain" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="53300" Quantity="8" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53478" Quantity="11" Sideboard="false" Name="Forest" />
+  <Cards CatID="40551" Quantity="1" Sideboard="false" Name="Armillary Sphere" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="41321" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="19163" Quantity="1" Sideboard="false" Name="Collective Unconscious" />
+  <Cards CatID="15568" Quantity="1" Sideboard="false" Name="Goblin King" />
+  <Cards CatID="20716" Quantity="1" Sideboard="false" Name="Staff of Domination" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="18667" Quantity="1" Sideboard="false" Name="Alpha Status" />
+  <Cards CatID="34818" Quantity="1" Sideboard="false" Name="Beastmaster Ascension" />
+  <Cards CatID="29771" Quantity="1" Sideboard="false" Name="Gleeful Sabotage" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="49058" Quantity="1" Sideboard="false" Name="Mogg War Marshal" />
+  <Cards CatID="22567" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="31003" Quantity="1" Sideboard="false" Name="Dragon Fodder" />
+  <Cards CatID="62273" Quantity="1" Sideboard="false" Name="Grenzo, Havoc Raiser" />
+  <Cards CatID="23326" Quantity="1" Sideboard="false" Name="Recollect" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="29497" Quantity="1" Sideboard="false" Name="Mana Reflection" />
+  <Cards CatID="15790" Quantity="1" Sideboard="false" Name="Relentless Assault" />
+  <Cards CatID="50316" Quantity="1" Sideboard="false" Name="Xenagos, the Reveler" />
+  <Cards CatID="23833" Quantity="1" Sideboard="false" Name="Ulasht, the Hate Seed" />
+  <Cards CatID="25941" Quantity="1" Sideboard="false" Name="Reiterate" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="58559" Quantity="1" Sideboard="false" Name="Zada, Hedron Grinder" />
+  <Cards CatID="29529" Quantity="1" Sideboard="true" Name="Wort, the Raidmother" />
+</Deck>

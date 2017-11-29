@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="23514" Quantity="1" Sideboard="false" Name="Savra, Queen of the Golgari" />
+  <Cards CatID="33154" Quantity="1" Sideboard="false" Name="Abyssal Gatekeeper" />
+  <Cards CatID="40086" Quantity="1" Sideboard="false" Name="Sheoldred, Whispering One" />
+  <Cards CatID="41185" Quantity="1" Sideboard="false" Name="Acidic Slime" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="38285" Quantity="1" Sideboard="false" Name="Nim Deathmantle" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="36828" Quantity="1" Sideboard="false" Name="Mortician Beetle" />
+  <Cards CatID="39796" Quantity="1" Sideboard="false" Name="Birthing Pod" />
+  <Cards CatID="40539" Quantity="1" Sideboard="false" Name="Attrition" />
+  <Cards CatID="41575" Quantity="1" Sideboard="false" Name="Call to the Grave" />
+  <Cards CatID="12579" Quantity="1" Sideboard="false" Name="Defense of the Heart" />
+  <Cards CatID="52260" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
+  <Cards CatID="57782" Quantity="1" Sideboard="false" Name="Evolutionary Leap" />
+  <Cards CatID="52080" Quantity="1" Sideboard="false" Name="Font of Fertility" />
+  <Cards CatID="52056" Quantity="1" Sideboard="false" Name="Font of Return" />
+  <Cards CatID="19575" Quantity="1" Sideboard="false" Name="Grave Pact" />
+  <Cards CatID="53532" Quantity="1" Sideboard="false" Name="Life's Legacy" />
+  <Cards CatID="36460" Quantity="1" Sideboard="false" Name="Momentous Fall" />
+  <Cards CatID="40654" Quantity="1" Sideboard="false" Name="Tribute to the Wild" />
+  <Cards CatID="43142" Quantity="1" Sideboard="false" Name="Animate Dead" />
+  <Cards CatID="7566" Quantity="1" Sideboard="false" Name="Giant Caterpillar" />
+  <Cards CatID="23419" Quantity="1" Sideboard="false" Name="Grave-Shell Scarab" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
+  <Cards CatID="40709" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="47931" Quantity="1" Sideboard="false" Name="Giant Adephage" />
+  <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
+  <Cards CatID="40660" Quantity="1" Sideboard="false" Name="Hornet Queen" />
+  <Cards CatID="44696" Quantity="1" Sideboard="false" Name="Living Hive" />
+  <Cards CatID="20130" Quantity="1" Sideboard="false" Name="One Dozen Eyes" />
+  <Cards CatID="13599" Quantity="1" Sideboard="false" Name="Saber Ants" />
+  <Cards CatID="18165" Quantity="1" Sideboard="false" Name="Symbiotic Beast" />
+  <Cards CatID="40679" Quantity="1" Sideboard="false" Name="Symbiotic Wurm" />
+  <Cards CatID="43421" Quantity="1" Sideboard="false" Name="Vorapede" />
+  <Cards CatID="39882" Quantity="1" Sideboard="false" Name="Phyrexian Swarmlord" />
+  <Cards CatID="57144" Quantity="1" Sideboard="false" Name="Ant Queen" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="62341" Quantity="1" Sideboard="false" Name="Ash Barrens" />
+  <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
+  <Cards CatID="42794" Quantity="1" Sideboard="false" Name="Moldgraf Monstrosity" />
+  <Cards CatID="40766" Quantity="1" Sideboard="false" Name="Aquastrand Spider" />
+  <Cards CatID="46445" Quantity="1" Sideboard="false" Name="Korozda Guildmage" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
+  <Cards CatID="34484" Quantity="1" Sideboard="false" Name="Scute Mob" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="20539" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
+  <Cards CatID="28463" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
+  <Cards CatID="7491" Quantity="1" Sideboard="false" Name="Brood of Cockroaches" />
+  <Cards CatID="18151" Quantity="1" Sideboard="false" Name="Broodhatch Nantuko" />
+  <Cards CatID="50864" Quantity="1" Sideboard="false" Name="Endless Cockroaches" />
+  <Cards CatID="23059" Quantity="1" Sideboard="false" Name="Gleancrawler" />
+  <Cards CatID="48304" Quantity="1" Sideboard="false" Name="Skylasher" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="27629" Quantity="1" Sideboard="false" Name="Doubling Cube" />
+  <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="31471" Quantity="1" Sideboard="false" Name="Cabal Coffers" />
+  <Cards CatID="53478" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="57434" Quantity="1" Sideboard="false" Name="Golgari Rot Farm" />
+  <Cards CatID="44398" Quantity="1" Sideboard="false" Name="Leechridden Swamp" />
+  <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="43104" Quantity="1" Sideboard="false" Name="Polluted Mire" />
+  <Cards CatID="53486" Quantity="10" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="59255" Quantity="1" Sideboard="false" Name="Hissing Quagmire" />
+  <Cards CatID="42660" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="17327" Quantity="1" Sideboard="false" Name="Tainted Wood" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="57738" Quantity="1" Sideboard="false" Name="Rogue's Passage" />
+  <Cards CatID="20249" Quantity="1" Sideboard="false" Name="Tree of Tales" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="62823" Quantity="1" Sideboard="false" Name="Winding Constrictor" />
+  <Cards CatID="59227" Quantity="1" Sideboard="true" Name="Mazirek, Kraul Death Priest" />
+</Deck>

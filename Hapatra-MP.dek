@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="64766" Quantity="1" Sideboard="false" Name="Obelisk Spider" />
+  <Cards CatID="64756" Quantity="1" Sideboard="false" Name="Tenacious Hunter" />
+  <Cards CatID="64642" Quantity="1" Sideboard="false" Name="Torment of Venom" />
+  <Cards CatID="64602" Quantity="1" Sideboard="false" Name="Banewhip Punisher" />
+  <Cards CatID="64598" Quantity="1" Sideboard="false" Name="Ammit Eternal" />
+  <Cards CatID="64618" Quantity="1" Sideboard="false" Name="Lethal Sting" />
+  <Cards CatID="63758" Quantity="1" Sideboard="false" Name="Archfiend of Ifnir" />
+  <Cards CatID="63760" Quantity="1" Sideboard="false" Name="Baleful Ammit" />
+  <Cards CatID="63804" Quantity="1" Sideboard="false" Name="Nest of Scarabs" />
+  <Cards CatID="63818" Quantity="1" Sideboard="false" Name="Soulstinger" />
+  <Cards CatID="63926" Quantity="1" Sideboard="false" Name="Crocodile of the Crossing" />
+  <Cards CatID="63928" Quantity="1" Sideboard="false" Name="Defiant Greatmaw" />
+  <Cards CatID="63996" Quantity="1" Sideboard="false" Name="Decimator Beetle" />
+  <Cards CatID="39704" Quantity="1" Sideboard="false" Name="Glistening Oil" />
+  <Cards CatID="39758" Quantity="1" Sideboard="false" Name="Grim Affliction" />
+  <Cards CatID="39688" Quantity="1" Sideboard="false" Name="Melira, Sylvok Outcast" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="39473" Quantity="1" Sideboard="false" Name="Flensermite" />
+  <Cards CatID="38219" Quantity="1" Sideboard="false" Name="Plague Stinger" />
+  <Cards CatID="30048" Quantity="1" Sideboard="false" Name="Quillspike" />
+  <Cards CatID="29295" Quantity="1" Sideboard="false" Name="Blowfly Infestation" />
+  <Cards CatID="29413" Quantity="1" Sideboard="false" Name="Dusk Urchins" />
+  <Cards CatID="29305" Quantity="1" Sideboard="false" Name="Devoted Druid" />
+  <Cards CatID="29831" Quantity="1" Sideboard="false" Name="Flourishing Defenses" />
+  <Cards CatID="9297" Quantity="1" Sideboard="false" Name="Aboroth" />
+  <Cards CatID="7625" Quantity="1" Sideboard="false" Name="Lichenthrope" />
+  <Cards CatID="7035" Quantity="1" Sideboard="false" Name="Harbinger of Night" />
+  <Cards CatID="18806" Quantity="1" Sideboard="false" Name="Forgotten Ancient" />
+  <Cards CatID="57294" Quantity="1" Sideboard="false" Name="Spread the Sickness" />
+  <Cards CatID="38351" Quantity="1" Sideboard="false" Name="Contagion Engine" />
+  <Cards CatID="37701" Quantity="1" Sideboard="false" Name="Contagion Clasp" />
+  <Cards CatID="58405" Quantity="1" Sideboard="false" Name="Drana, Liberator of Malakir" />
+  <Cards CatID="46791" Quantity="1" Sideboard="false" Name="Necropolis Regent" />
+  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
+  <Cards CatID="39533" Quantity="1" Sideboard="false" Name="Black Sun's Zenith" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="59225" Quantity="1" Sideboard="false" Name="Bloodspore Thrinax" />
+  <Cards CatID="40705" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
+  <Cards CatID="44285" Quantity="1" Sideboard="false" Name="Champion of Lambholt" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="59227" Quantity="1" Sideboard="false" Name="Mazirek, Kraul Death Priest" />
+  <Cards CatID="62317" Quantity="1" Sideboard="false" Name="Reyhan, Last of the Abzan" />
+  <Cards CatID="48306" Quantity="1" Sideboard="false" Name="Renegade Krasis" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="57284" Quantity="1" Sideboard="false" Name="Mortarpod" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="46567" Quantity="1" Sideboard="false" Name="Vraska the Unseen" />
+  <Cards CatID="62701" Quantity="1" Sideboard="false" Name="Yahenni, Undying Partisan" />
+  <Cards CatID="43457" Quantity="1" Sideboard="false" Name="Young Wolf" />
+  <Cards CatID="43153" Quantity="1" Sideboard="false" Name="Strangleroot Geist" />
+  <Cards CatID="32389" Quantity="1" Sideboard="false" Name="Maelstrom Pulse" />
+  <Cards CatID="48328" Quantity="1" Sideboard="false" Name="Putrefy" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="21009" Quantity="1" Sideboard="false" Name="Seshiro the Anointed" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="42660" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="53478" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="57672" Quantity="1" Sideboard="false" Name="Llanowar Wastes" />
+  <Cards CatID="17327" Quantity="1" Sideboard="false" Name="Tainted Wood" />
+  <Cards CatID="50874" Quantity="1" Sideboard="false" Name="Slippery Karst" />
+  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="64866" Quantity="1" Sideboard="false" Name="Desert of the Glorified" />
+  <Cards CatID="61849" Quantity="1" Sideboard="false" Name="Blooming Marsh" />
+  <Cards CatID="59844" Quantity="1" Sideboard="false" Name="Foul Orchard" />
+  <Cards CatID="59255" Quantity="1" Sideboard="false" Name="Hissing Quagmire" />
+  <Cards CatID="57434" Quantity="1" Sideboard="false" Name="Golgari Rot Farm" />
+  <Cards CatID="46743" Quantity="1" Sideboard="false" Name="Grave Betrayal" />
+  <Cards CatID="43104" Quantity="1" Sideboard="false" Name="Polluted Mire" />
+  <Cards CatID="53486" Quantity="8" Sideboard="false" Name="Swamp" />
+  <Cards CatID="40682" Quantity="1" Sideboard="false" Name="Barren Moor" />
+  <Cards CatID="64868" Quantity="1" Sideboard="false" Name="Desert of the Indomitable" />
+  <Cards CatID="40683" Quantity="1" Sideboard="false" Name="Tranquil Thicket" />
+  <Cards CatID="64000" Quantity="1" Sideboard="true" Name="Hapatra, Vizier of Poisons" />
+</Deck>

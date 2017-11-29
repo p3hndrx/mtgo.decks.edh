@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="34460" Quantity="1" Sideboard="false" Name="Hedron Crab" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="61915" Quantity="1" Sideboard="false" Name="Dramatic Reversal" />
+  <Cards CatID="52827" Quantity="1" Sideboard="false" Name="Counterspell" />
+  <Cards CatID="64554" Quantity="1" Sideboard="false" Name="Fraying Sanity" />
+  <Cards CatID="46671" Quantity="1" Sideboard="false" Name="Hover Barrier" />
+  <Cards CatID="10117" Quantity="1" Sideboard="false" Name="Propaganda" />
+  <Cards CatID="57908" Quantity="1" Sideboard="false" Name="Sphinx's Tutelage" />
+  <Cards CatID="62659" Quantity="1" Sideboard="false" Name="Disallow" />
+  <Cards CatID="41487" Quantity="1" Sideboard="false" Name="Jace's Archivist" />
+  <Cards CatID="31181" Quantity="1" Sideboard="false" Name="Memory Erosion" />
+  <Cards CatID="49153" Quantity="1" Sideboard="false" Name="Wall of Frost" />
+  <Cards CatID="42698" Quantity="1" Sideboard="false" Name="Undead Alchemist" />
+  <Cards CatID="27542" Quantity="1" Sideboard="false" Name="Dreamborn Muse" />
+  <Cards CatID="23094" Quantity="1" Sideboard="false" Name="Induce Paranoia" />
+  <Cards CatID="60014" Quantity="1" Sideboard="false" Name="Startled Awake" />
+  <Cards CatID="46677" Quantity="1" Sideboard="false" Name="Psychic Spiral" />
+  <Cards CatID="34812" Quantity="1" Sideboard="false" Name="Archive Trap" />
+  <Cards CatID="41443" Quantity="1" Sideboard="false" Name="Jace, Memory Adept" />
+  <Cards CatID="49240" Quantity="1" Sideboard="false" Name="Traumatize" />
+  <Cards CatID="23406" Quantity="1" Sideboard="false" Name="Tunnel Vision" />
+  <Cards CatID="65126" Quantity="1" Sideboard="false" Name="Fleet Swallower" />
+  <Cards CatID="43431" Quantity="1" Sideboard="false" Name="Increasing Confusion" />
+  <Cards CatID="34822" Quantity="1" Sideboard="false" Name="Bloodchief Ascension" />
+  <Cards CatID="47737" Quantity="1" Sideboard="false" Name="Wight of Precinct Six" />
+  <Cards CatID="50544" Quantity="1" Sideboard="false" Name="Nighthowler" />
+  <Cards CatID="34774" Quantity="1" Sideboard="false" Name="Sadistic Sacrament" />
+  <Cards CatID="40779" Quantity="1" Sideboard="false" Name="Sewer Nemesis" />
+  <Cards CatID="61386" Quantity="1" Sideboard="false" Name="Tree of Perdition" />
+  <Cards CatID="19457" Quantity="1" Sideboard="false" Name="Diabolic Tutor" />
+  <Cards CatID="47725" Quantity="1" Sideboard="false" Name="Grisly Spectacle" />
+  <Cards CatID="52114" Quantity="1" Sideboard="false" Name="King Macar, the Gold-Cursed" />
+  <Cards CatID="27480" Quantity="1" Sideboard="false" Name="Mortivore" />
+  <Cards CatID="27957" Quantity="1" Sideboard="false" Name="Eater of the Dead" />
+  <Cards CatID="17364" Quantity="1" Sideboard="false" Name="Guiltfeeder" />
+  <Cards CatID="38417" Quantity="1" Sideboard="false" Name="Geth, Lord of the Vault" />
+  <Cards CatID="49465" Quantity="1" Sideboard="false" Name="Rise of the Dark Realms" />
+  <Cards CatID="47461" Quantity="1" Sideboard="false" Name="Duskmantle Guildmage" />
+  <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
+  <Cards CatID="23108" Quantity="1" Sideboard="false" Name="Dimir Doppelganger" />
+  <Cards CatID="48834" Quantity="1" Sideboard="false" Name="Mind Funeral" />
+  <Cards CatID="47555" Quantity="1" Sideboard="false" Name="Psychic Strike" />
+  <Cards CatID="47793" Quantity="1" Sideboard="false" Name="Lazav, Dimir Mastermind" />
+  <Cards CatID="47899" Quantity="1" Sideboard="false" Name="Consuming Aberration" />
+  <Cards CatID="60835" Quantity="1" Sideboard="false" Name="Extract from Darkness" />
+  <Cards CatID="48272" Quantity="1" Sideboard="false" Name="Mirko Vosk, Mind Drinker" />
+  <Cards CatID="32446" Quantity="1" Sideboard="false" Name="Nemesis of Reason" />
+  <Cards CatID="58717" Quantity="1" Sideboard="false" Name="Sire of Stagnation" />
+  <Cards CatID="29597" Quantity="1" Sideboard="false" Name="Oona, Queen of the Fae" />
+  <Cards CatID="40587" Quantity="1" Sideboard="false" Name="Wrexial, the Risen Deep" />
+  <Cards CatID="23490" Quantity="1" Sideboard="false" Name="Szadek, Lord of Secrets" />
+  <Cards CatID="47671" Quantity="1" Sideboard="false" Name="Mind Grind" />
+  <Cards CatID="35515" Quantity="1" Sideboard="false" Name="Bojuka Bog" />
+  <Cards CatID="59920" Quantity="1" Sideboard="false" Name="Choked Estuary" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="23192" Quantity="1" Sideboard="false" Name="Dimir Aqueduct" />
+  <Cards CatID="48380" Quantity="1" Sideboard="false" Name="Dimir Guildgate" />
+  <Cards CatID="55520" Quantity="1" Sideboard="false" Name="Dismal Backwater" />
+  <Cards CatID="45314" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="53482" Quantity="12" Sideboard="false" Name="Island" />
+  <Cards CatID="51026" Quantity="1" Sideboard="false" Name="Jwar Isle Refuge" />
+  <Cards CatID="42562" Quantity="1" Sideboard="false" Name="Nephalia Drownyard" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="53486" Quantity="11" Sideboard="false" Name="Swamp" />
+  <Cards CatID="50264" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="45250" Quantity="1" Sideboard="false" Name="Tormod's Crypt" />
+  <Cards CatID="54458" Quantity="1" Sideboard="false" Name="Altar of the Brood" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="23562" Quantity="1" Sideboard="false" Name="Dimir Signet" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="19761" Quantity="1" Sideboard="false" Name="Mesmeric Orb" />
+  <Cards CatID="40008" Quantity="1" Sideboard="false" Name="Mindcrank" />
+  <Cards CatID="28327" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
+  <Cards CatID="39503" Quantity="1" Sideboard="false" Name="Bonehoard" />
+  <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
+  <Cards CatID="36380" Quantity="1" Sideboard="false" Name="Keening Stone" />
+  <Cards CatID="51555" Quantity="1" Sideboard="true" Name="Phenax, God of Deception" />
+</Deck>

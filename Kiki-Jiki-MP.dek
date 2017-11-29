@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="52765" Quantity="1" Sideboard="false" Name="Gamble" />
+  <Cards CatID="53480" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="43267" Quantity="1" Sideboard="false" Name="Faithless Looting" />
+  <Cards CatID="46405" Quantity="1" Sideboard="false" Name="Vandalblast" />
+  <Cards CatID="50830" Quantity="1" Sideboard="false" Name="Goblin Bombardment" />
+  <Cards CatID="45387" Quantity="1" Sideboard="false" Name="Reverberate" />
+  <Cards CatID="52977" Quantity="1" Sideboard="false" Name="Chaos Warp" />
+  <Cards CatID="52883" Quantity="1" Sideboard="false" Name="Goblin Matron" />
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" />
+  <Cards CatID="29118" Quantity="1" Sideboard="false" Name="Lightning Crafter" />
+  <Cards CatID="50464" Quantity="1" Sideboard="false" Name="Fanatic of Mogis" />
+  <Cards CatID="58014" Quantity="1" Sideboard="false" Name="Flameshadow Conjuring" />
+  <Cards CatID="31588" Quantity="1" Sideboard="false" Name="Flametongue Kavu" />
+  <Cards CatID="26119" Quantity="1" Sideboard="false" Name="Pandemonium" />
+  <Cards CatID="36426" Quantity="1" Sideboard="false" Name="Splinter Twin" />
+  <Cards CatID="23346" Quantity="1" Sideboard="false" Name="Mindmoil" />
+  <Cards CatID="54991" Quantity="1" Sideboard="false" Name="Beetleback Chief" />
+  <Cards CatID="49129" Quantity="1" Sideboard="false" Name="Wild Ricochet" />
+  <Cards CatID="44033" Quantity="1" Sideboard="false" Name="Zealous Conscripts" />
+  <Cards CatID="37494" Quantity="1" Sideboard="false" Name="Hoarding Dragon" />
+  <Cards CatID="44283" Quantity="1" Sideboard="false" Name="Reforge the Soul" />
+  <Cards CatID="33027" Quantity="1" Sideboard="false" Name="Siege-Gang Commander" />
+  <Cards CatID="55288" Quantity="1" Sideboard="false" Name="Word of Seizing" />
+  <Cards CatID="41511" Quantity="1" Sideboard="false" Name="Warstorm Surge" />
+  <Cards CatID="15137" Quantity="1" Sideboard="false" Name="Goblin Game" />
+  <Cards CatID="44225" Quantity="1" Sideboard="false" Name="Tyrant of Discord" />
+  <Cards CatID="41315" Quantity="1" Sideboard="false" Name="Inferno Titan" />
+  <Cards CatID="47917" Quantity="1" Sideboard="false" Name="Molten Primordial" />
+  <Cards CatID="53300" Quantity="4" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53370" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="25577" Quantity="1" Sideboard="false" Name="Bogardan Hellkite" />
+  <Cards CatID="18091" Quantity="1" Sideboard="false" Name="Insurrection" />
+  <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="59191" Quantity="1" Sideboard="false" Name="Command Beacon" />
+  <Cards CatID="55187" Quantity="1" Sideboard="false" Name="Myriad Landscape" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="35142" Quantity="1" Sideboard="false" Name="Valakut, the Molten Pinnacle" />
+  <Cards CatID="20551" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="28327" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
+  <Cards CatID="47925" Quantity="1" Sideboard="false" Name="Illusionist's Bracers" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="31532" Quantity="1" Sideboard="false" Name="Mind Stone" />
+  <Cards CatID="19813" Quantity="1" Sideboard="false" Name="Myr Retriever" />
+  <Cards CatID="38522" Quantity="1" Sideboard="false" Name="Gauntlet of Might" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="29122" Quantity="1" Sideboard="false" Name="Thornbite Staff" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="20217" Quantity="1" Sideboard="false" Name="Extraplanar Lens" />
+  <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
+  <Cards CatID="58509" Quantity="1" Sideboard="false" Name="Pilgrim's Eye" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="20175" Quantity="1" Sideboard="false" Name="Mind's Eye" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="45698" Quantity="1" Sideboard="false" Name="Staff of Nin" />
+  <Cards CatID="38161" Quantity="1" Sideboard="false" Name="Steel Hellkite" />
+  <Cards CatID="37861" Quantity="1" Sideboard="false" Name="Wurmcoil Engine" />
+  <Cards CatID="38307" Quantity="1" Sideboard="false" Name="Myr Battlesphere" />
+  <Cards CatID="28463" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
+  <Cards CatID="39229" Quantity="1" Sideboard="false" Name="Mogg Fanatic" />
+  <Cards CatID="37550" Quantity="1" Sideboard="false" Name="Triskelion" />
+  <Cards CatID="45088" Quantity="1" Sideboard="false" Name="Mass Mutiny" />
+  <Cards CatID="21809" Quantity="1" Sideboard="false" Name="Heartless Hidetsugu" />
+  <Cards CatID="56250" Quantity="1" Sideboard="false" Name="Impact Tremors" />
+  <Cards CatID="18103" Quantity="1" Sideboard="false" Name="Mana Echoes" />
+  <Cards CatID="29639" Quantity="1" Sideboard="false" Name="Umbral Mantle" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
+  <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="48852" Quantity="1" Sideboard="true" Name="Kiki-Jiki, Mirror Breaker" />
+</Deck>

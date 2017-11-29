@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="40462" Quantity="1" Sideboard="false" Name="Akroma, Angel of Fury" />
+  <Cards CatID="59750" Quantity="1" Sideboard="false" Name="Forsaken Sanctuary" />
+  <Cards CatID="60861" Quantity="1" Sideboard="false" Name="Wind-Scarred Crag" />
+  <Cards CatID="40724" Quantity="1" Sideboard="false" Name="Angel of Despair" />
+  <Cards CatID="46789" Quantity="1" Sideboard="false" Name="Angel of Serenity" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="51150" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="40494" Quantity="1" Sideboard="false" Name="Austere Command" />
+  <Cards CatID="51172" Quantity="2" Sideboard="false" Name="Swamp" />
+  <Cards CatID="57670" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
+  <Cards CatID="40692" Quantity="1" Sideboard="false" Name="Bladewing the Risen" />
+  <Cards CatID="22613" Quantity="1" Sideboard="false" Name="Sulfurous Springs" />
+  <Cards CatID="17494" Quantity="1" Sideboard="false" Name="Stitch Together" />
+  <Cards CatID="38161" Quantity="1" Sideboard="false" Name="Steel Hellkite" />
+  <Cards CatID="57668" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="42654" Quantity="1" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="39357" Quantity="1" Sideboard="false" Name="Darksteel Plate" />
+  <Cards CatID="18702" Quantity="1" Sideboard="false" Name="Dragon Mage" />
+  <Cards CatID="27106" Quantity="1" Sideboard="false" Name="Reya Dawnbringer" />
+  <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
+  <Cards CatID="43098" Quantity="1" Sideboard="false" Name="Reanimate" />
+  <Cards CatID="51164" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="42652" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="51200" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="40563" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="40545" Quantity="1" Sideboard="false" Name="Malfegor" />
+  <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
+  <Cards CatID="40711" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="40519" Quantity="1" Sideboard="false" Name="Mother of Runes" />
+  <Cards CatID="31532" Quantity="1" Sideboard="false" Name="Mind Stone" />
+  <Cards CatID="54166" Quantity="1" Sideboard="false" Name="Nomad Outpost" />
+  <Cards CatID="40463" Quantity="1" Sideboard="false" Name="Oros, the Avenger" />
+  <Cards CatID="40748" Quantity="1" Sideboard="false" Name="Orzhov Signet" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="21069" Quantity="1" Sideboard="false" Name="Kokusho, the Evening Star" />
+  <Cards CatID="40762" Quantity="1" Sideboard="false" Name="Rakdos Signet" />
+  <Cards CatID="46563" Quantity="1" Sideboard="false" Name="Rakdos, Lord of Riots" />
+  <Cards CatID="12601" Quantity="1" Sideboard="false" Name="Karmic Guide" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="22935" Quantity="1" Sideboard="false" Name="Fellwar Stone" />
+  <Cards CatID="41385" Quantity="1" Sideboard="false" Name="Rune-Scarred Demon" />
+  <Cards CatID="43267" Quantity="1" Sideboard="false" Name="Faithless Looting" />
+  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
+  <Cards CatID="60080" Quantity="1" Sideboard="false" Name="Foreboding Ruins" />
+  <Cards CatID="40743" Quantity="1" Sideboard="false" Name="Boros Signet" />
+  <Cards CatID="42786" Quantity="1" Sideboard="false" Name="Bloodgift Demon" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="42545" Quantity="1" Sideboard="false" Name="Balefire Dragon" />
+  <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
+  <Cards CatID="47743" Quantity="1" Sideboard="false" Name="Aurelia, the Warleader" />
+  <Cards CatID="46793" Quantity="1" Sideboard="false" Name="Utvara Hellkite" />
+  <Cards CatID="46405" Quantity="1" Sideboard="false" Name="Vandalblast" />
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" />
+  <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="40537" Quantity="1" Sideboard="false" Name="Terminate" />
+  <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="54070" Quantity="1" Sideboard="false" Name="Scoured Barrens" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="52673" Quantity="1" Sideboard="false" Name="Salt Flats" />
+  <Cards CatID="52681" Quantity="1" Sideboard="false" Name="Scabland" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
+  <Cards CatID="48382" Quantity="1" Sideboard="false" Name="Boros Guildgate" />
+  <Cards CatID="34816" Quantity="1" Sideboard="false" Name="Luminarch Ascension" />
+  <Cards CatID="61076" Quantity="1" Sideboard="false" Name="Subjugator Angel" />
+  <Cards CatID="57158" Quantity="1" Sideboard="false" Name="Iona, Shield of Emeria" />
+  <Cards CatID="53663" Quantity="1" Sideboard="false" Name="Resolute Archangel" />
+  <Cards CatID="53901" Quantity="1" Sideboard="false" Name="Aegis Angel" />
+  <Cards CatID="61100" Quantity="1" Sideboard="false" Name="Gisela, the Broken Blade" />
+  <Cards CatID="61098" Quantity="1" Sideboard="false" Name="Bruna, the Fading Light" />
+  <Cards CatID="53562" Quantity="1" Sideboard="false" Name="Ob Nixilis, Unshackled" />
+  <Cards CatID="48264" Quantity="1" Sideboard="false" Name="Master of Cruelties" />
+  <Cards CatID="43873" Quantity="1" Sideboard="false" Name="Harvester of Souls" />
+  <Cards CatID="41373" Quantity="1" Sideboard="false" Name="Furyborn Hellkite" />
+  <Cards CatID="25577" Quantity="1" Sideboard="false" Name="Bogardan Hellkite" />
+  <Cards CatID="18856" Quantity="1" Sideboard="false" Name="Dragon Shadow" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="57989" Quantity="1" Sideboard="false" Name="Chandra's Ignition" />
+  <Cards CatID="61388" Quantity="1" Sideboard="false" Name="Murder" />
+  <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
+  <Cards CatID="21731" Quantity="1" Sideboard="false" Name="Hero's Demise" />
+  <Cards CatID="61474" Quantity="1" Sideboard="false" Name="Ride Down" />
+  <Cards CatID="45414" Quantity="1" Sideboard="false" Name="Thundermaw Hellkite" />
+  <Cards CatID="43935" Quantity="1" Sideboard="false" Name="Gisela, Blade of Goldnight" />
+  <Cards CatID="37574" Quantity="1" Sideboard="false" Name="Baneslayer Angel" />
+  <Cards CatID="40640" Quantity="1" Sideboard="true" Name="Kaalia of the Vast" />
+</Deck>

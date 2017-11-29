@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="65018" Quantity="1" Sideboard="false" Name="Bellowing Aegisaur" />
+  <Cards CatID="18373" Quantity="1" Sideboard="false" Name="Ridgetop Raptor" />
+  <Cards CatID="65286" Quantity="1" Sideboard="false" Name="Burning Sun's Avatar" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="40663" Quantity="1" Sideboard="false" Name="Collective Voyage" />
+  <Cards CatID="65380" Quantity="1" Sideboard="false" Name="Commune with Dinosaurs" />
+  <Cards CatID="48642" Quantity="1" Sideboard="false" Name="Imperiosaur" />
+  <Cards CatID="38301" Quantity="1" Sideboard="false" Name="Copperline Gorge" />
+  <Cards CatID="18223" Quantity="1" Sideboard="false" Name="Cryptic Gateway" />
+  <Cards CatID="37350" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="62275" Quantity="1" Sideboard="false" Name="Selvala, Heart of the Wilds" />
+  <Cards CatID="56426" Quantity="1" Sideboard="false" Name="Deathmist Raptor" />
+  <Cards CatID="65296" Quantity="1" Sideboard="false" Name="Dinosaur Stampede" />
+  <Cards CatID="65392" Quantity="1" Sideboard="false" Name="Drover of the Mighty" />
+  <Cards CatID="36454" Quantity="1" Sideboard="false" Name="Eldrazi Conscription" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="56406" Quantity="1" Sideboard="false" Name="Explosive Vegetation" />
+  <Cards CatID="62897" Quantity="1" Sideboard="false" Name="Lifecrafter's Bestiary" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="59842" Quantity="1" Sideboard="false" Name="Fortified Village" />
+  <Cards CatID="19597" Quantity="1" Sideboard="false" Name="Fungusaur" />
+  <Cards CatID="59894" Quantity="1" Sideboard="false" Name="Game Trail" />
+  <Cards CatID="28497" Quantity="1" Sideboard="false" Name="Mirror Entity" />
+  <Cards CatID="65036" Quantity="1" Sideboard="false" Name="Goring Ceratops" />
+  <Cards CatID="39581" Quantity="1" Sideboard="false" Name="Green Sun's Zenith" />
+  <Cards CatID="36500" Quantity="1" Sideboard="false" Name="Growth Spasm" />
+  <Cards CatID="64120" Quantity="1" Sideboard="false" Name="Hazoret's Monument" />
+  <Cards CatID="65468" Quantity="1" Sideboard="false" Name="Huatli, Warrior Poet" />
+  <Cards CatID="31131" Quantity="1" Sideboard="false" Name="Jungle Shrine" />
+  <Cards CatID="65048" Quantity="1" Sideboard="false" Name="Kinjalli's Sunwing" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="38897" Quantity="1" Sideboard="false" Name="Planar Gate" />
+  <Cards CatID="56636" Quantity="1" Sideboard="false" Name="Magmasaur" />
+  <Cards CatID="53484" Quantity="3" Sideboard="false" Name="Plains" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="61749" Quantity="1" Sideboard="false" Name="Nature's Way" />
+  <Cards CatID="31311" Quantity="1" Sideboard="false" Name="Naya Panorama" />
+  <Cards CatID="53650" Quantity="1" Sideboard="false" Name="Obelisk of Urd" />
+  <Cards CatID="65322" Quantity="1" Sideboard="false" Name="Otepec Huntmaster" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="12907" Quantity="1" Sideboard="false" Name="Pattern of Rebirth" />
+  <Cards CatID="65506" Quantity="1" Sideboard="false" Name="Pillar of Origins" />
+  <Cards CatID="53480" Quantity="4" Sideboard="false" Name="Mountain" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="65066" Quantity="1" Sideboard="false" Name="Priest of the Wakening Sun" />
+  <Cards CatID="26487" Quantity="1" Sideboard="false" Name="Pyrohemia" />
+  <Cards CatID="41541" Quantity="1" Sideboard="false" Name="Quicksilver Amulet" />
+  <Cards CatID="65472" Quantity="1" Sideboard="false" Name="Raging Swordtooth" />
+  <Cards CatID="65324" Quantity="1" Sideboard="false" Name="Rampaging Ferocidon" />
+  <Cards CatID="65422" Quantity="1" Sideboard="false" Name="Ranging Raptors" />
+  <Cards CatID="65326" Quantity="1" Sideboard="false" Name="Raptor Hatchling" />
+  <Cards CatID="65424" Quantity="1" Sideboard="false" Name="Ravenous Daggertooth" />
+  <Cards CatID="38299" Quantity="1" Sideboard="false" Name="Razorverge Thicket" />
+  <Cards CatID="65474" Quantity="1" Sideboard="false" Name="Regisaur Alpha" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="64134" Quantity="1" Sideboard="false" Name="Rhonas's Monument" />
+  <Cards CatID="65426" Quantity="1" Sideboard="false" Name="Ripjaw Raptor" />
+  <Cards CatID="15241" Quantity="1" Sideboard="false" Name="Rith's Grove" />
+  <Cards CatID="36855" Quantity="1" Sideboard="false" Name="Land Tax" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="64156" Quantity="1" Sideboard="false" Name="Scattered Groves" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="65478" Quantity="1" Sideboard="false" Name="Sky Terror" />
+  <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
+  <Cards CatID="61795" Quantity="1" Sideboard="false" Name="Skysovereign, Consul Flagship" />
+  <Cards CatID="65436" Quantity="1" Sideboard="false" Name="Snapping Sailback" />
+  <Cards CatID="53478" Quantity="8" Sideboard="false" Name="Forest" />
+  <Cards CatID="65344" Quantity="1" Sideboard="false" Name="Sun-Crowned Hunters" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="19313" Quantity="1" Sideboard="false" Name="Elvish Piper" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="65440" Quantity="1" Sideboard="false" Name="Thundering Spineback" />
+  <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="65446" Quantity="1" Sideboard="false" Name="Verdant Sun's Avatar" />
+  <Cards CatID="65100" Quantity="1" Sideboard="false" Name="Wakening Sun's Avatar" />
+  <Cards CatID="40594" Quantity="1" Sideboard="false" Name="Awakening Zone" />
+  <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="65464" Quantity="1" Sideboard="true" Name="Gishath, Sun's Avatar" />
+</Deck>

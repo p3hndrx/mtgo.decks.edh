@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="27298" Quantity="1" Sideboard="false" Name="Pariah" />
+  <Cards CatID="39848" Quantity="1" Sideboard="false" Name="Phyrexian Unlife" />
+  <Cards CatID="23069" Quantity="1" Sideboard="false" Name="Pariah's Shield" />
+  <Cards CatID="38626" Quantity="1" Sideboard="false" Name="Veteran Bodyguard" />
+  <Cards CatID="49575" Quantity="1" Sideboard="false" Name="Imposing Sovereign" />
+  <Cards CatID="61308" Quantity="1" Sideboard="false" Name="Thalia, Heretic Cathar" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="27540" Quantity="1" Sideboard="false" Name="Windborn Muse" />
+  <Cards CatID="40624" Quantity="1" Sideboard="false" Name="Crescendo of War" />
+  <Cards CatID="58949" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
+  <Cards CatID="30927" Quantity="1" Sideboard="false" Name="Elspeth, Knight-Errant" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="21454" Quantity="1" Sideboard="false" Name="General's Kabuto" />
+  <Cards CatID="39357" Quantity="1" Sideboard="false" Name="Darksteel Plate" />
+  <Cards CatID="20493" Quantity="1" Sideboard="false" Name="Darksteel Reactor" />
+  <Cards CatID="40604" Quantity="1" Sideboard="false" Name="Angelic Arbiter" />
+  <Cards CatID="20938" Quantity="1" Sideboard="false" Name="Silent Arbiter" />
+  <Cards CatID="19203" Quantity="1" Sideboard="false" Name="Blinding Angel" />
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="57632" Quantity="1" Sideboard="false" Name="Knight of the White Orchid" />
+  <Cards CatID="21940" Quantity="1" Sideboard="false" Name="Michiko Konda, Truth Seeker" />
+  <Cards CatID="39964" Quantity="1" Sideboard="false" Name="Norn's Annex" />
+  <Cards CatID="39878" Quantity="1" Sideboard="false" Name="Chancellor of the Annex" />
+  <Cards CatID="21859" Quantity="1" Sideboard="false" Name="Patron of the Kitsune" />
+  <Cards CatID="40670" Quantity="1" Sideboard="false" Name="Righteous Cause" />
+  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
+  <Cards CatID="10209" Quantity="1" Sideboard="false" Name="Ensnaring Bridge" />
+  <Cards CatID="62379" Quantity="1" Sideboard="false" Name="Orzhov Advokist" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="60082" Quantity="1" Sideboard="false" Name="Tamiyo's Journal" />
+  <Cards CatID="13317" Quantity="1" Sideboard="false" Name="Fountain of Cho" />
+  <Cards CatID="30222" Quantity="1" Sideboard="false" Name="Endless Horizons" />
+  <Cards CatID="38484" Quantity="1" Sideboard="false" Name="Blaze of Glory" />
+  <Cards CatID="61304" Quantity="1" Sideboard="false" Name="Give No Ground" />
+  <Cards CatID="59129" Quantity="1" Sideboard="false" Name="Shielded by Faith" />
+  <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
+  <Cards CatID="45694" Quantity="1" Sideboard="false" Name="Stuffy Doll" />
+  <Cards CatID="18898" Quantity="1" Sideboard="false" Name="Guilty Conscience" />
+  <Cards CatID="19645" Quantity="1" Sideboard="false" Name="Story Circle" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="37406" Quantity="1" Sideboard="false" Name="Sun Titan" />
+  <Cards CatID="34816" Quantity="1" Sideboard="false" Name="Luminarch Ascension" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="41387" Quantity="1" Sideboard="false" Name="Grand Abolisher" />
+  <Cards CatID="23600" Quantity="1" Sideboard="false" Name="Blazing Archon" />
+  <Cards CatID="17428" Quantity="1" Sideboard="false" Name="Commander Eesha" />
+  <Cards CatID="17751" Quantity="1" Sideboard="false" Name="Jareth, Leonine Titan" />
+  <Cards CatID="38433" Quantity="1" Sideboard="false" Name="Platinum Emperion" />
+  <Cards CatID="20329" Quantity="1" Sideboard="false" Name="Darksteel Colossus" />
+  <Cards CatID="41321" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="13425" Quantity="1" Sideboard="false" Name="Fountain Watch" />
+  <Cards CatID="22178" Quantity="1" Sideboard="false" Name="Rune-Tail, Kitsune Ascendant" />
+  <Cards CatID="49541" Quantity="1" Sideboard="false" Name="Seraph of the Sword" />
+  <Cards CatID="59878" Quantity="1" Sideboard="false" Name="Declaration in Stone" />
+  <Cards CatID="45256" Quantity="1" Sideboard="false" Name="Oblivion Ring" />
+  <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
+  <Cards CatID="17763" Quantity="1" Sideboard="false" Name="Oblation" />
+  <Cards CatID="20015" Quantity="1" Sideboard="false" Name="Ancient Den" />
+  <Cards CatID="34624" Quantity="1" Sideboard="false" Name="Emeria, the Sky Ruin" />
+  <Cards CatID="37957" Quantity="1" Sideboard="false" Name="Flagstones of Trokair" />
+  <Cards CatID="27110" Quantity="1" Sideboard="false" Name="Forbidding Watchtower" />
+  <Cards CatID="11893" Quantity="1" Sideboard="false" Name="Serra's Sanctum" />
+  <Cards CatID="15672" Quantity="1" Sideboard="false" Name="Marble Diamond" />
+  <Cards CatID="28621" Quantity="1" Sideboard="false" Name="Windbrisk Heights" />
+  <Cards CatID="7607" Quantity="1" Sideboard="false" Name="Karoo" />
+  <Cards CatID="53484" Quantity="12" Sideboard="false" Name="Plains" />
+  <Cards CatID="53390" Quantity="13" Sideboard="false" Name="Plains" />
+  <Cards CatID="53384" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="23430" Quantity="1" Sideboard="false" Name="Ghosts of the Innocent" />
+  <Cards CatID="64526" Quantity="1" Sideboard="false" Name="Saving Grace" />
+  <Cards CatID="27186" Quantity="1" Sideboard="true" Name="Cho-Manno, Revolutionary" />
+</Deck>

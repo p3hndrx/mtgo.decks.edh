@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="40638" Quantity="1" Sideboard="false" Name="Riku of Two Reflections" />
+  <Cards CatID="61775" Quantity="1" Sideboard="false" Name="Rashmi, Eternities Crafter" />
+  <Cards CatID="24259" Quantity="1" Sideboard="false" Name="Momir Vig, Simic Visionary" />
+  <Cards CatID="59053" Quantity="1" Sideboard="false" Name="Animar, Soul of Elements" />
+  <Cards CatID="40523" Quantity="1" Sideboard="false" Name="Spawnwrithe" />
+  <Cards CatID="60977" Quantity="1" Sideboard="false" Name="Maelstrom Wanderer" />
+  <Cards CatID="47931" Quantity="1" Sideboard="false" Name="Giant Adephage" />
+  <Cards CatID="51745" Quantity="1" Sideboard="false" Name="Xenagos, God of Revels" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="52080" Quantity="1" Sideboard="false" Name="Font of Fertility" />
+  <Cards CatID="34556" Quantity="1" Sideboard="false" Name="Khalni Heart Expedition" />
+  <Cards CatID="41127" Quantity="1" Sideboard="false" Name="Rampant Growth" />
+  <Cards CatID="40709" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="52889" Quantity="1" Sideboard="false" Name="Yavimaya Elder" />
+  <Cards CatID="56406" Quantity="1" Sideboard="false" Name="Explosive Vegetation" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="47926" Quantity="1" Sideboard="false" Name="Illusionist's Bracers" />
+  <Cards CatID="28463" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
+  <Cards CatID="41369" Quantity="1" Sideboard="false" Name="Phantasmal Image" />
+  <Cards CatID="39497" Quantity="1" Sideboard="false" Name="Cryptoplasm" />
+  <Cards CatID="51330" Quantity="1" Sideboard="false" Name="Tempt with Reflections" />
+  <Cards CatID="61354" Quantity="1" Sideboard="false" Name="Identity Thief" />
+  <Cards CatID="34770" Quantity="1" Sideboard="false" Name="Rite of Replication" />
+  <Cards CatID="60174" Quantity="1" Sideboard="false" Name="Geistblast" />
+  <Cards CatID="41389" Quantity="1" Sideboard="false" Name="Chandra, the Firebrand" />
+  <Cards CatID="25941" Quantity="1" Sideboard="false" Name="Reiterate" />
+  <Cards CatID="48852" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
+  <Cards CatID="61597" Quantity="1" Sideboard="false" Name="Saheeli Rai" />
+  <Cards CatID="30146" Quantity="1" Sideboard="false" Name="Spitting Image" />
+  <Cards CatID="43405" Quantity="1" Sideboard="false" Name="Curse of Echoes" />
+  <Cards CatID="23865" Quantity="1" Sideboard="false" Name="Shattering Spree" />
+  <Cards CatID="61641" Quantity="1" Sideboard="false" Name="Saheeli's Artistry" />
+  <Cards CatID="45640" Quantity="1" Sideboard="false" Name="Spelltwine" />
+  <Cards CatID="32809" Quantity="1" Sideboard="false" Name="Hive Mind" />
+  <Cards CatID="36426" Quantity="1" Sideboard="false" Name="Splinter Twin" />
+  <Cards CatID="39884" Quantity="1" Sideboard="false" Name="Beast Within" />
+  <Cards CatID="47809" Quantity="1" Sideboard="false" Name="Rapid Hybridization" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="24329" Quantity="1" Sideboard="false" Name="Sprouting Phytohydra" />
+  <Cards CatID="37108" Quantity="1" Sideboard="false" Name="Sylvan Ranger" />
+  <Cards CatID="23008" Quantity="1" Sideboard="false" Name="Civic Wayfinder" />
+  <Cards CatID="50904" Quantity="1" Sideboard="false" Name="Farhaven Elf" />
+  <Cards CatID="25405" Quantity="1" Sideboard="false" Name="Search for Tomorrow" />
+  <Cards CatID="48806" Quantity="1" Sideboard="false" Name="Sarkhan Vol" />
+  <Cards CatID="48198" Quantity="1" Sideboard="false" Name="Ral Zarek" />
+  <Cards CatID="58491" Quantity="1" Sideboard="false" Name="Kiora, Master of the Depths" />
+  <Cards CatID="62353" Quantity="1" Sideboard="false" Name="Faerie Artisans" />
+  <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
+  <Cards CatID="28439" Quantity="1" Sideboard="false" Name="Chandra Nalaar" />
+  <Cards CatID="59890" Quantity="1" Sideboard="false" Name="Jace, Unraveler of Secrets" />
+  <Cards CatID="29497" Quantity="1" Sideboard="false" Name="Mana Reflection" />
+  <Cards CatID="36280" Quantity="1" Sideboard="false" Name="Serum Visions" />
+  <Cards CatID="39976" Quantity="1" Sideboard="false" Name="Gitaxian Probe" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="42671" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
+  <Cards CatID="42586" Quantity="1" Sideboard="false" Name="Kessig Wolf Run" />
+  <Cards CatID="58529" Quantity="1" Sideboard="false" Name="Lumbering Falls" />
+  <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="50266" Quantity="1" Sideboard="false" Name="Temple of Abandon" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" />
+  <Cards CatID="54168" Quantity="1" Sideboard="false" Name="Frontier Bivouac" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="57466" Quantity="1" Sideboard="false" Name="Izzet Boilerworks" />
+  <Cards CatID="59152" Quantity="1" Sideboard="false" Name="Broodbirth Viper" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="53480" Quantity="4" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53482" Quantity="3" Sideboard="false" Name="Island" />
+  <Cards CatID="53478" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="59175" Quantity="1" Sideboard="false" Name="Warchief Giant" />
+  <Cards CatID="59154" Quantity="1" Sideboard="false" Name="Caller of the Pack" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="41483" Quantity="1" Sideboard="false" Name="Sundial of the Infinite" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="55430" Quantity="1" Sideboard="true" Name="Yasova Dragonclaw" />
+</Deck>

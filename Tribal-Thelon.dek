@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="40683" Quantity="1" Sideboard="false" Name="Tranquil Thicket" />
+  <Cards CatID="25918" Quantity="1" Sideboard="false" Name="Thelonite Hermit" />
+  <Cards CatID="61849" Quantity="1" Sideboard="false" Name="Blooming Marsh" />
+  <Cards CatID="25345" Quantity="1" Sideboard="false" Name="Thallid Shell-Dweller" />
+  <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
+  <Cards CatID="25719" Quantity="1" Sideboard="false" Name="Thallid Germinator" />
+  <Cards CatID="61753" Quantity="1" Sideboard="false" Name="Creeping Mold" />
+  <Cards CatID="37350" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="59932" Quantity="1" Sideboard="false" Name="Deathcap Cultivator" />
+  <Cards CatID="25765" Quantity="1" Sideboard="false" Name="Deathspore Thallid" />
+  <Cards CatID="17327" Quantity="1" Sideboard="false" Name="Tainted Wood" />
+  <Cards CatID="9823" Quantity="1" Sideboard="false" Name="Earthcraft" />
+  <Cards CatID="53486" Quantity="9" Sideboard="false" Name="Swamp" />
+  <Cards CatID="19093" Quantity="1" Sideboard="false" Name="Fecundity" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="57294" Quantity="1" Sideboard="false" Name="Spread the Sickness" />
+  <Cards CatID="26672" Quantity="1" Sideboard="false" Name="Sporoloth Ancient" />
+  <Cards CatID="25593" Quantity="1" Sideboard="false" Name="Sporesower Thallid" />
+  <Cards CatID="30344" Quantity="1" Sideboard="false" Name="Fungal Bloom" />
+  <Cards CatID="45684" Quantity="1" Sideboard="false" Name="Fungal Sprouting" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
+  <Cards CatID="23460" Quantity="1" Sideboard="false" Name="Golgari Germination" />
+  <Cards CatID="30356" Quantity="1" Sideboard="false" Name="Night Soil" />
+  <Cards CatID="53468" Quantity="1" Sideboard="false" Name="Naturalize" />
+  <Cards CatID="62823" Quantity="1" Sideboard="false" Name="Winding Constrictor" />
+  <Cards CatID="54072" Quantity="1" Sideboard="false" Name="Jungle Hollow" />
+  <Cards CatID="31333" Quantity="1" Sideboard="false" Name="Mycoloth" />
+  <Cards CatID="40730" Quantity="1" Sideboard="false" Name="Golgari Rot Farm" />
+  <Cards CatID="31089" Quantity="1" Sideboard="false" Name="Necrogenesis" />
+  <Cards CatID="46383" Quantity="1" Sideboard="false" Name="Golgari Guildgate" />
+  <Cards CatID="19598" Quantity="1" Sideboard="false" Name="Fungusaur" />
+  <Cards CatID="26441" Quantity="1" Sideboard="false" Name="Psychotrope Thallid" />
+  <Cards CatID="48328" Quantity="1" Sideboard="false" Name="Putrefy" />
+  <Cards CatID="41127" Quantity="1" Sideboard="false" Name="Rampant Growth" />
+  <Cards CatID="58705" Quantity="1" Sideboard="false" Name="Rot Shambler" />
+  <Cards CatID="14975" Quantity="1" Sideboard="false" Name="Saproling Symbiosis" />
+  <Cards CatID="25377" Quantity="1" Sideboard="false" Name="Savage Thallid" />
+  <Cards CatID="38351" Quantity="1" Sideboard="false" Name="Contagion Engine" />
+  <Cards CatID="30364" Quantity="1" Sideboard="false" Name="Spore Cloud" />
+  <Cards CatID="30366" Quantity="1" Sideboard="false" Name="Spore Flower" />
+  <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
+  <Cards CatID="49507" Quantity="1" Sideboard="false" Name="Sporemound" />
+  <Cards CatID="53478" Quantity="12" Sideboard="false" Name="Forest" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="26812" Quantity="1" Sideboard="false" Name="Sprout Swarm" />
+  <Cards CatID="28017" Quantity="1" Sideboard="false" Name="Thorn Thallid" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="48878" Quantity="1" Sideboard="false" Name="Thallid" />
+  <Cards CatID="30372" Quantity="1" Sideboard="false" Name="Thallid Devourer" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="37701" Quantity="1" Sideboard="false" Name="Contagion Clasp" />
+  <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
+  <Cards CatID="40682" Quantity="1" Sideboard="false" Name="Barren Moor" />
+  <Cards CatID="46449" Quantity="1" Sideboard="false" Name="Treasured Find" />
+  <Cards CatID="53772" Quantity="1" Sideboard="false" Name="Undergrowth Scavenger" />
+  <Cards CatID="26714" Quantity="1" Sideboard="false" Name="Utopia Mycon" />
+  <Cards CatID="41185" Quantity="1" Sideboard="false" Name="Acidic Slime" />
+  <Cards CatID="48838" Quantity="1" Sideboard="false" Name="Verdeloth the Ancient" />
+  <Cards CatID="26439" Quantity="1" Sideboard="false" Name="Vitaspore Thallid" />
+  <Cards CatID="47833" Quantity="1" Sideboard="false" Name="Wildwood Rebirth" />
+  <Cards CatID="22329" Quantity="1" Sideboard="false" Name="Verdant Force" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="42660" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="34818" Quantity="1" Sideboard="false" Name="Beastmaster Ascension" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="60126" Quantity="1" Sideboard="false" Name="Second Harvest" />
+  <Cards CatID="39361" Quantity="1" Sideboard="false" Name="Plaguemaw Beast" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="34626" Quantity="1" Sideboard="false" Name="Oran-Rief, the Vastwood" />
+  <Cards CatID="51968" Quantity="1" Sideboard="false" Name="Temple of Malady" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="62815" Quantity="1" Sideboard="false" Name="Maulfist Revolutionary" />
+  <Cards CatID="63964" Quantity="1" Sideboard="false" Name="Quarry Hauler" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="25755" Quantity="1" Sideboard="true" Name="Thelon of Havenwood" />
+</Deck>

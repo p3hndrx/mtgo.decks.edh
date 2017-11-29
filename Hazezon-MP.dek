@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="12781" Quantity="1" Sideboard="false" Name="Flicker" />
+  <Cards CatID="37893" Quantity="1" Sideboard="false" Name="Flickerwisp" />
+  <Cards CatID="64490" Quantity="1" Sideboard="false" Name="Angel of Condemnation" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="14555" Quantity="1" Sideboard="false" Name="Liberate" />
+  <Cards CatID="17392" Quantity="1" Sideboard="false" Name="Ray of Revelation" />
+  <Cards CatID="59473" Quantity="1" Sideboard="false" Name="Eldrazi Displacer" />
+  <Cards CatID="44009" Quantity="1" Sideboard="false" Name="Restoration Angel" />
+  <Cards CatID="53312" Quantity="1" Sideboard="false" Name="Restock" />
+  <Cards CatID="44900" Quantity="1" Sideboard="false" Name="Fires of Yavimaya" />
+  <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
+  <Cards CatID="50312" Quantity="1" Sideboard="false" Name="Purphoros, God of the Forge" />
+  <Cards CatID="62265" Quantity="1" Sideboard="false" Name="Adriana, Captain of the Guard" />
+  <Cards CatID="50316" Quantity="1" Sideboard="false" Name="Xenagos, the Reveler" />
+  <Cards CatID="34700" Quantity="1" Sideboard="false" Name="Eldrazi Monument" />
+  <Cards CatID="39738" Quantity="1" Sideboard="false" Name="Urabrask the Hidden" />
+  <Cards CatID="54048" Quantity="1" Sideboard="false" Name="Brave the Sands" />
+  <Cards CatID="58639" Quantity="1" Sideboard="false" Name="Greenwarden of Murasa" />
+  <Cards CatID="36460" Quantity="1" Sideboard="false" Name="Momentous Fall" />
+  <Cards CatID="43887" Quantity="1" Sideboard="false" Name="Cloudshift" />
+  <Cards CatID="42768" Quantity="1" Sideboard="false" Name="Elder of Laurels" />
+  <Cards CatID="31333" Quantity="1" Sideboard="false" Name="Mycoloth" />
+  <Cards CatID="29535" Quantity="1" Sideboard="false" Name="Rhys the Redeemed" />
+  <Cards CatID="46553" Quantity="1" Sideboard="false" Name="Trostani, Selesnya's Voice" />
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="52016" Quantity="1" Sideboard="false" Name="Iroas, God of Victory" />
+  <Cards CatID="30040" Quantity="1" Sideboard="false" Name="Balefire Liege" />
+  <Cards CatID="57064" Quantity="1" Sideboard="false" Name="Wilt-Leaf Liege" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="53161" Quantity="1" Sideboard="false" Name="Mana Vault" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="59089" Quantity="1" Sideboard="false" Name="Basalt Monolith" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="12303" Quantity="1" Sideboard="false" Name="Gaea's Bounty" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="15988" Quantity="1" Sideboard="false" Name="Wood Elves" />
+  <Cards CatID="31311" Quantity="1" Sideboard="false" Name="Naya Panorama" />
+  <Cards CatID="31133" Quantity="1" Sideboard="false" Name="Obelisk of Naya" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="59842" Quantity="1" Sideboard="false" Name="Fortified Village" />
+  <Cards CatID="59894" Quantity="1" Sideboard="false" Name="Game Trail" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="64156" Quantity="1" Sideboard="false" Name="Scattered Groves" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="58663" Quantity="1" Sideboard="false" Name="Emeria Shepherd" />
+  <Cards CatID="55149" Quantity="1" Sideboard="false" Name="Song of the Dryads" />
+  <Cards CatID="34542" Quantity="1" Sideboard="false" Name="Oracle of Mul Daya" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="60300" Quantity="1" Sideboard="false" Name="Duskwatch Recruiter" />
+  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
+  <Cards CatID="64890" Quantity="1" Sideboard="false" Name="Shefet Dunes" />
+  <Cards CatID="42586" Quantity="1" Sideboard="false" Name="Kessig Wolf Run" />
+  <Cards CatID="18101" Quantity="1" Sideboard="false" Name="Aggravated Assault" />
+  <Cards CatID="15790" Quantity="1" Sideboard="false" Name="Relentless Assault" />
+  <Cards CatID="59355" Quantity="1" Sideboard="false" Name="Mina and Denn, Wildborn" />
+  <Cards CatID="53484" Quantity="8" Sideboard="false" Name="Plains" />
+  <Cards CatID="53480" Quantity="4" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53478" Quantity="9" Sideboard="false" Name="Forest" />
+  <Cards CatID="45240" Quantity="1" Sideboard="false" Name="Hamletback Goliath" />
+  <Cards CatID="40576" Quantity="1" Sideboard="false" Name="Aura Shards" />
+  <Cards CatID="34818" Quantity="1" Sideboard="false" Name="Beastmaster Ascension" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="60547" Quantity="1" Sideboard="false" Name="Natural Order" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="23957" Quantity="1" Sideboard="true" Name="Hazezon Tamar" />
+</Deck>

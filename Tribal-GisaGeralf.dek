@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="55111" Quantity="1" Sideboard="false" Name="Stitcher Geralf" />
+  <Cards CatID="42520" Quantity="1" Sideboard="false" Name="Army of the Damned" />
+  <Cards CatID="56038" Quantity="1" Sideboard="false" Name="Sidisi, Undead Vizier" />
+  <Cards CatID="43291" Quantity="1" Sideboard="false" Name="Mikaeus, the Unhallowed" />
+  <Cards CatID="25630" Quantity="1" Sideboard="false" Name="Lim-Dûl the Necromancer" />
+  <Cards CatID="42766" Quantity="1" Sideboard="false" Name="Grimgrin, Corpse-Born" />
+  <Cards CatID="61372" Quantity="1" Sideboard="false" Name="Cryptbreaker" />
+  <Cards CatID="60160" Quantity="1" Sideboard="false" Name="Prized Amalgam" />
+  <Cards CatID="60034" Quantity="1" Sideboard="false" Name="Diregraf Colossus" />
+  <Cards CatID="9277" Quantity="1" Sideboard="false" Name="Bone Dancer" />
+  <Cards CatID="41183" Quantity="1" Sideboard="false" Name="Cemetery Reaper" />
+  <Cards CatID="19459" Quantity="1" Sideboard="false" Name="Lord of the Undead" />
+  <Cards CatID="39319" Quantity="1" Sideboard="false" Name="Phyrexian Crusader" />
+  <Cards CatID="45385" Quantity="1" Sideboard="false" Name="Phylactery Lich" />
+  <Cards CatID="42591" Quantity="1" Sideboard="false" Name="Endless Ranks of the Dead" />
+  <Cards CatID="27544" Quantity="1" Sideboard="false" Name="Graveborn Muse" />
+  <Cards CatID="49571" Quantity="1" Sideboard="false" Name="Liliana's Reaver" />
+  <Cards CatID="42493" Quantity="1" Sideboard="false" Name="Rooftop Storm" />
+  <Cards CatID="9777" Quantity="1" Sideboard="false" Name="Coffin Queen" />
+  <Cards CatID="60296" Quantity="1" Sideboard="false" Name="Ever After" />
+  <Cards CatID="41295" Quantity="1" Sideboard="false" Name="Grave Titan" />
+  <Cards CatID="61374" Quantity="1" Sideboard="false" Name="Noosegraf Mob" />
+  <Cards CatID="23358" Quantity="1" Sideboard="false" Name="Helldozer" />
+  <Cards CatID="43326" Quantity="1" Sideboard="false" Name="Zombie Apocalypse" />
+  <Cards CatID="46743" Quantity="1" Sideboard="false" Name="Grave Betrayal" />
+  <Cards CatID="32502" Quantity="1" Sideboard="false" Name="Lich Lord of Unx" />
+  <Cards CatID="38285" Quantity="1" Sideboard="false" Name="Nim Deathmantle" />
+  <Cards CatID="31362" Quantity="1" Sideboard="false" Name="Fatestitcher" />
+  <Cards CatID="61170" Quantity="1" Sideboard="false" Name="Cemetery Recruitment" />
+  <Cards CatID="57718" Quantity="1" Sideboard="false" Name="Fleshbag Marauder" />
+  <Cards CatID="38642" Quantity="1" Sideboard="false" Name="Zombie Master" />
+  <Cards CatID="44638" Quantity="1" Sideboard="false" Name="Undead Warchief" />
+  <Cards CatID="61142" Quantity="1" Sideboard="false" Name="Graf Harvest" />
+  <Cards CatID="43315" Quantity="1" Sideboard="false" Name="Diregraf Captain" />
+  <Cards CatID="47753" Quantity="1" Sideboard="false" Name="Crypt Ghast" />
+  <Cards CatID="49249" Quantity="1" Sideboard="false" Name="Liliana of the Dark Realms" />
+  <Cards CatID="36424" Quantity="1" Sideboard="false" Name="Nirkana Revenant" />
+  <Cards CatID="40086" Quantity="1" Sideboard="false" Name="Sheoldred, Whispering One" />
+  <Cards CatID="52603" Quantity="1" Sideboard="false" Name="Bad River" />
+  <Cards CatID="31471" Quantity="1" Sideboard="false" Name="Cabal Coffers" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="17323" Quantity="1" Sideboard="false" Name="Tainted Isle" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="53486" Quantity="12" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53482" Quantity="13" Sideboard="false" Name="Island" />
+  <Cards CatID="21385" Quantity="1" Sideboard="false" Name="Minamo, School at Water's Edge" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="60338" Quantity="1" Sideboard="false" Name="Gisa's Bidding" />
+  <Cards CatID="43122" Quantity="1" Sideboard="false" Name="Zombie Infestation" />
+  <Cards CatID="40607" Quantity="1" Sideboard="false" Name="Syphon Flesh" />
+  <Cards CatID="60092" Quantity="1" Sideboard="false" Name="From Under the Floorboards" />
+  <Cards CatID="61174" Quantity="1" Sideboard="false" Name="Dark Salvation" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="24807" Quantity="1" Sideboard="false" Name="Grim Harvest" />
+  <Cards CatID="12585" Quantity="1" Sideboard="false" Name="Unearth" />
+  <Cards CatID="43098" Quantity="1" Sideboard="false" Name="Reanimate" />
+  <Cards CatID="17494" Quantity="1" Sideboard="false" Name="Stitch Together" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="50208" Quantity="1" Sideboard="false" Name="Traveler's Amulet" />
+  <Cards CatID="55256" Quantity="1" Sideboard="false" Name="Wayfarer's Bauble" />
+  <Cards CatID="40551" Quantity="1" Sideboard="false" Name="Armillary Sphere" />
+  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
+  <Cards CatID="25373" Quantity="1" Sideboard="false" Name="Tendrils of Corruption" />
+  <Cards CatID="26371" Quantity="1" Sideboard="false" Name="Magus of the Coffers" />
+  <Cards CatID="53396" Quantity="2" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53392" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="50406" Quantity="1" Sideboard="false" Name="Bident of Thassa" />
+  <Cards CatID="57940" Quantity="1" Sideboard="false" Name="Liliana, Heretical Healer" />
+  <Cards CatID="64774" Quantity="1" Sideboard="false" Name="The Scarab God" />
+  <Cards CatID="65725" Quantity="1" Sideboard="false" Name="Kindred Discovery" />
+  <Cards CatID="61264" Quantity="1" Sideboard="true" Name="Gisa and Geralf" />
+</Deck>

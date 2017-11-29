@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53542" Quantity="1" Sideboard="false" Name="Aetherspouts" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="26453" Quantity="1" Sideboard="false" Name="Pongify" />
+  <Cards CatID="61657" Quantity="1" Sideboard="false" Name="Insidious Will" />
+  <Cards CatID="53528" Quantity="1" Sideboard="false" Name="Polymorphist's Jest" />
+  <Cards CatID="45397" Quantity="1" Sideboard="false" Name="Redirect" />
+  <Cards CatID="33588" Quantity="1" Sideboard="false" Name="Reset" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="38279" Quantity="1" Sideboard="false" Name="Sword of Body and Mind" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="62073" Quantity="1" Sideboard="false" Name="Dynavolt Tower" />
+  <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
+  <Cards CatID="20143" Quantity="1" Sideboard="false" Name="Fabricate" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="30770" Quantity="1" Sideboard="false" Name="Personal Tutor" />
+  <Cards CatID="39976" Quantity="1" Sideboard="false" Name="Gitaxian Probe" />
+  <Cards CatID="53117" Quantity="1" Sideboard="false" Name="Brainstorm" />
+  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
+  <Cards CatID="37388" Quantity="1" Sideboard="false" Name="Preordain" />
+  <Cards CatID="36280" Quantity="1" Sideboard="false" Name="Serum Visions" />
+  <Cards CatID="13039" Quantity="1" Sideboard="false" Name="Treachery" />
+  <Cards CatID="35521" Quantity="1" Sideboard="false" Name="Halimar Depths" />
+  <Cards CatID="34620" Quantity="1" Sideboard="false" Name="Magosi, the Waterveil" />
+  <Cards CatID="58517" Quantity="1" Sideboard="false" Name="Skyline Cascade" />
+  <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
+  <Cards CatID="26822" Quantity="1" Sideboard="false" Name="Tolaria West" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="50208" Quantity="1" Sideboard="false" Name="Traveler's Amulet" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="58509" Quantity="1" Sideboard="false" Name="Pilgrim's Eye" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="42534" Quantity="1" Sideboard="false" Name="Think Twice" />
+  <Cards CatID="52953" Quantity="1" Sideboard="false" Name="Deep Analysis" />
+  <Cards CatID="53217" Quantity="1" Sideboard="false" Name="High Tide" />
+  <Cards CatID="53482" Quantity="13" Sideboard="false" Name="Island" />
+  <Cards CatID="53392" Quantity="13" Sideboard="false" Name="Island" />
+  <Cards CatID="53368" Quantity="3" Sideboard="false" Name="Island" />
+  <Cards CatID="20590" Quantity="1" Sideboard="false" Name="Spellbinder" />
+  <Cards CatID="43913" Quantity="1" Sideboard="false" Name="Deadeye Navigator" />
+  <Cards CatID="60599" Quantity="1" Sideboard="false" Name="Oona's Grace" />
+  <Cards CatID="59952" Quantity="1" Sideboard="false" Name="Nagging Thoughts" />
+  <Cards CatID="45640" Quantity="1" Sideboard="false" Name="Spelltwine" />
+  <Cards CatID="61360" Quantity="1" Sideboard="false" Name="Curious Homunculus" />
+  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
+  <Cards CatID="59868" Quantity="1" Sideboard="false" Name="Thing in the Ice" />
+  <Cards CatID="33059" Quantity="1" Sideboard="false" Name="Twincast" />
+  <Cards CatID="50440" Quantity="1" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="42436" Quantity="1" Sideboard="false" Name="Delver of Secrets" />
+  <Cards CatID="45496" Quantity="1" Sideboard="false" Name="Archaeomancer" />
+  <Cards CatID="50568" Quantity="1" Sideboard="false" Name="Mnemonic Wall" />
+  <Cards CatID="47911" Quantity="1" Sideboard="false" Name="Diluvian Primordial" />
+  <Cards CatID="23572" Quantity="1" Sideboard="false" Name="Eye of the Storm" />
+  <Cards CatID="59824" Quantity="1" Sideboard="false" Name="Rise from the Tides" />
+  <Cards CatID="57088" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
+  <Cards CatID="37648" Quantity="1" Sideboard="false" Name="Isochron Scepter" />
+  <Cards CatID="28241" Quantity="1" Sideboard="false" Name="Pestermite" />
+  <Cards CatID="44181" Quantity="1" Sideboard="false" Name="Arcane Melee" />
+  <Cards CatID="39537" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" />
+  <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="59069" Quantity="1" Sideboard="false" Name="Thought Vessel" />
+  <Cards CatID="38419" Quantity="1" Sideboard="false" Name="Venser's Journal" />
+  <Cards CatID="47809" Quantity="1" Sideboard="false" Name="Rapid Hybridization" />
+  <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
+  <Cards CatID="34770" Quantity="1" Sideboard="false" Name="Rite of Replication" />
+  <Cards CatID="41321" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="17871" Quantity="1" Sideboard="false" Name="Arcanis the Omnipotent" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="10607" Quantity="1" Sideboard="false" Name="Mind Over Matter" />
+  <Cards CatID="65510" Quantity="1" Sideboard="false" Name="Primal Amulet" />
+  <Cards CatID="45567" Quantity="1" Sideboard="true" Name="Talrand, Sky Summoner" />
+</Deck>

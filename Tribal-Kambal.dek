@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="60034" Quantity="1" Sideboard="false" Name="Diregraf Colossus" />
+  <Cards CatID="61174" Quantity="1" Sideboard="false" Name="Dark Salvation" />
+  <Cards CatID="32416" Quantity="1" Sideboard="false" Name="Necromancer's Covenant" />
+  <Cards CatID="61142" Quantity="1" Sideboard="false" Name="Graf Harvest" />
+  <Cards CatID="63800" Quantity="1" Sideboard="false" Name="Lord of the Accursed" />
+  <Cards CatID="42591" Quantity="1" Sideboard="false" Name="Endless Ranks of the Dead" />
+  <Cards CatID="27544" Quantity="1" Sideboard="false" Name="Graveborn Muse" />
+  <Cards CatID="63798" Quantity="1" Sideboard="false" Name="Liliana's Mastery" />
+  <Cards CatID="17973" Quantity="1" Sideboard="false" Name="Gravespawn Sovereign" />
+  <Cards CatID="63614" Quantity="1" Sideboard="false" Name="Binding Mummy" />
+  <Cards CatID="64018" Quantity="1" Sideboard="false" Name="Wayward Servant" />
+  <Cards CatID="41295" Quantity="1" Sideboard="false" Name="Grave Titan" />
+  <Cards CatID="61374" Quantity="1" Sideboard="false" Name="Noosegraf Mob" />
+  <Cards CatID="62565" Quantity="1" Sideboard="false" Name="Metallic Mimic" />
+  <Cards CatID="41577" Quantity="1" Sideboard="false" Name="Adaptive Automaton" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="26131" Quantity="1" Sideboard="false" Name="Conspiracy" />
+  <Cards CatID="53650" Quantity="1" Sideboard="false" Name="Obelisk of Urd" />
+  <Cards CatID="17765" Quantity="1" Sideboard="false" Name="Shared Triumph" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="59590" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="9277" Quantity="1" Sideboard="false" Name="Bone Dancer" />
+  <Cards CatID="45300" Quantity="1" Sideboard="false" Name="Rise from the Grave" />
+  <Cards CatID="50562" Quantity="1" Sideboard="false" Name="Gray Merchant of Asphodel" />
+  <Cards CatID="60296" Quantity="1" Sideboard="false" Name="Ever After" />
+  <Cards CatID="38285" Quantity="1" Sideboard="false" Name="Nim Deathmantle" />
+  <Cards CatID="61372" Quantity="1" Sideboard="false" Name="Cryptbreaker" />
+  <Cards CatID="17937" Quantity="1" Sideboard="false" Name="Soulless One" />
+  <Cards CatID="38642" Quantity="1" Sideboard="false" Name="Zombie Master" />
+  <Cards CatID="31125" Quantity="1" Sideboard="false" Name="Tidehollow Sculler" />
+  <Cards CatID="42520" Quantity="1" Sideboard="false" Name="Army of the Damned" />
+  <Cards CatID="43326" Quantity="1" Sideboard="false" Name="Zombie Apocalypse" />
+  <Cards CatID="23358" Quantity="1" Sideboard="false" Name="Helldozer" />
+  <Cards CatID="46743" Quantity="1" Sideboard="false" Name="Grave Betrayal" />
+  <Cards CatID="56038" Quantity="1" Sideboard="false" Name="Sidisi, Undead Vizier" />
+  <Cards CatID="60092" Quantity="1" Sideboard="false" Name="From Under the Floorboards" />
+  <Cards CatID="63668" Quantity="1" Sideboard="false" Name="Time to Reflect" />
+  <Cards CatID="61170" Quantity="1" Sideboard="false" Name="Cemetery Recruitment" />
+  <Cards CatID="40624" Quantity="1" Sideboard="false" Name="Crescendo of War" />
+  <Cards CatID="43122" Quantity="1" Sideboard="false" Name="Zombie Infestation" />
+  <Cards CatID="9777" Quantity="1" Sideboard="false" Name="Coffin Queen" />
+  <Cards CatID="53252" Quantity="1" Sideboard="false" Name="Gravedigger" />
+  <Cards CatID="39319" Quantity="1" Sideboard="false" Name="Phyrexian Crusader" />
+  <Cards CatID="19459" Quantity="1" Sideboard="false" Name="Lord of the Undead" />
+  <Cards CatID="57940" Quantity="1" Sideboard="false" Name="Liliana, Heretical Healer" />
+  <Cards CatID="41183" Quantity="1" Sideboard="false" Name="Cemetery Reaper" />
+  <Cards CatID="44638" Quantity="1" Sideboard="false" Name="Undead Warchief" />
+  <Cards CatID="43291" Quantity="1" Sideboard="false" Name="Mikaeus, the Unhallowed" />
+  <Cards CatID="63640" Quantity="1" Sideboard="false" Name="In Oketra's Name" />
+  <Cards CatID="63606" Quantity="1" Sideboard="false" Name="Anointed Procession" />
+  <Cards CatID="54048" Quantity="1" Sideboard="false" Name="Brave the Sands" />
+  <Cards CatID="57456" Quantity="1" Sideboard="false" Name="Orzhov Basilica" />
+  <Cards CatID="58949" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
+  <Cards CatID="28497" Quantity="1" Sideboard="false" Name="Mirror Entity" />
+  <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
+  <Cards CatID="61490" Quantity="1" Sideboard="false" Name="Soul Separator" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
+  <Cards CatID="29966" Quantity="1" Sideboard="false" Name="Unmake" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="31471" Quantity="1" Sideboard="false" Name="Cabal Coffers" />
+  <Cards CatID="26371" Quantity="1" Sideboard="false" Name="Magus of the Coffers" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="42652" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="57668" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="61859" Quantity="1" Sideboard="false" Name="Concealed Courtyard" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="54070" Quantity="1" Sideboard="false" Name="Scoured Barrens" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
+  <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="48091" Quantity="1" Sideboard="false" Name="Tainted Field" />
+  <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="20015" Quantity="1" Sideboard="false" Name="Ancient Den" />
+  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="53486" Quantity="12" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53484" Quantity="4" Sideboard="false" Name="Plains" />
+  <Cards CatID="53396" Quantity="1" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="40748" Quantity="1" Sideboard="false" Name="Orzhov Signet" />
+  <Cards CatID="62037" Quantity="1" Sideboard="true" Name="Kambal, Consul of Allocation" />
+</Deck>

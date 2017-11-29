@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="38365" Quantity="1" Sideboard="false" Name="Molten Psyche" />
+  <Cards CatID="27939" Quantity="1" Sideboard="false" Name="Winds of Change" />
+  <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
+  <Cards CatID="19187" Quantity="1" Sideboard="false" Name="Coastal Piracy" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="32694" Quantity="1" Sideboard="false" Name="Mind Spring" />
+  <Cards CatID="48376" Quantity="1" Sideboard="false" Name="Izzet Guildgate" />
+  <Cards CatID="22108" Quantity="1" Sideboard="false" Name="Kami of the Crescent Moon" />
+  <Cards CatID="52759" Quantity="1" Sideboard="false" Name="Stroke of Genius" />
+  <Cards CatID="39537" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" />
+  <Cards CatID="40639" Quantity="1" Sideboard="false" Name="Nin, the Pain Artist" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="41488" Quantity="1" Sideboard="false" Name="Jace's Archivist" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="52118" Quantity="1" Sideboard="false" Name="Dictate of Kruphix" />
+  <Cards CatID="63732" Quantity="1" Sideboard="false" Name="Pull from Tomorrow" />
+  <Cards CatID="40608" Quantity="1" Sideboard="false" Name="Minds Aglow" />
+  <Cards CatID="18703" Quantity="1" Sideboard="false" Name="Dragon Mage" />
+  <Cards CatID="51440" Quantity="1" Sideboard="false" Name="Skyscribing" />
+  <Cards CatID="7671" Quantity="1" Sideboard="false" Name="Prosperity" />
+  <Cards CatID="40705" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="31929" Quantity="1" Sideboard="false" Name="Font of Mythos" />
+  <Cards CatID="39708" Quantity="1" Sideboard="false" Name="Jin-Gitaxias, Core Augur" />
+  <Cards CatID="44283" Quantity="1" Sideboard="false" Name="Reforge the Soul" />
+  <Cards CatID="59141" Quantity="1" Sideboard="false" Name="Arjun, the Shifting Flame" />
+  <Cards CatID="19417" Quantity="1" Sideboard="false" Name="Teferi's Puzzle Box" />
+  <Cards CatID="52809" Quantity="1" Sideboard="false" Name="Memory Jar" />
+  <Cards CatID="59764" Quantity="1" Sideboard="false" Name="Fevered Visions" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
+  <Cards CatID="23346" Quantity="1" Sideboard="false" Name="Mindmoil" />
+  <Cards CatID="39513" Quantity="1" Sideboard="false" Name="Psychosis Crawler" />
+  <Cards CatID="20195" Quantity="1" Sideboard="false" Name="Temporal Cascade" />
+  <Cards CatID="40684" Quantity="1" Sideboard="false" Name="Forgotten Cave" />
+  <Cards CatID="61993" Quantity="1" Sideboard="false" Name="Fateful Showdown" />
+  <Cards CatID="59890" Quantity="1" Sideboard="false" Name="Jace, Unraveler of Secrets" />
+  <Cards CatID="57466" Quantity="1" Sideboard="false" Name="Izzet Boilerworks" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="37392" Quantity="1" Sideboard="false" Name="Time Reversal" />
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" />
+  <Cards CatID="57172" Quantity="1" Sideboard="false" Name="Comet Storm" />
+  <Cards CatID="52977" Quantity="1" Sideboard="false" Name="Chaos Warp" />
+  <Cards CatID="42560" Quantity="1" Sideboard="false" Name="Laboratory Maniac" />
+  <Cards CatID="50406" Quantity="1" Sideboard="false" Name="Bident of Thassa" />
+  <Cards CatID="39575" Quantity="1" Sideboard="false" Name="Blue Sun's Zenith" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="25637" Quantity="1" Sideboard="false" Name="Wheel of Fate" />
+  <Cards CatID="58509" Quantity="1" Sideboard="false" Name="Pilgrim's Eye" />
+  <Cards CatID="12415" Quantity="1" Sideboard="false" Name="Windfall" />
+  <Cards CatID="53161" Quantity="1" Sideboard="false" Name="Mana Vault" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="43959" Quantity="1" Sideboard="false" Name="Otherworld Atlas" />
+  <Cards CatID="18742" Quantity="1" Sideboard="false" Name="Rush of Knowledge" />
+  <Cards CatID="205" Quantity="1" Sideboard="false" Name="Braingeyser" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="53482" Quantity="9" Sideboard="false" Name="Island" />
+  <Cards CatID="51214" Quantity="1" Sideboard="false" Name="Lonely Sandbar" />
+  <Cards CatID="59069" Quantity="1" Sideboard="false" Name="Thought Vessel" />
+  <Cards CatID="53480" Quantity="9" Sideboard="false" Name="Mountain" />
+  <Cards CatID="20017" Quantity="1" Sideboard="false" Name="Seat of the Synod" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="55532" Quantity="1" Sideboard="false" Name="Swiftwater Cliffs" />
+  <Cards CatID="26822" Quantity="1" Sideboard="false" Name="Tolaria West" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="61498" Quantity="1" Sideboard="false" Name="Nephalia Academy" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="22655" Quantity="1" Sideboard="false" Name="Shivan Reef" />
+  <Cards CatID="52679" Quantity="1" Sideboard="false" Name="Caldera Lake" />
+  <Cards CatID="59754" Quantity="1" Sideboard="false" Name="Highland Lake" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="37368" Quantity="1" Sideboard="false" Name="Leyline of Anticipation" />
+  <Cards CatID="18103" Quantity="1" Sideboard="false" Name="Mana Echoes" />
+  <Cards CatID="22567" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="61424" Quantity="1" Sideboard="false" Name="Collective Defiance" />
+  <Cards CatID="62561" Quantity="1" Sideboard="false" Name="Walking Ballista" />
+  <Cards CatID="57200" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="16314" Quantity="1" Sideboard="false" Name="Whirlpool Rider" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="49351" Quantity="1" Sideboard="false" Name="Windreader Sphinx" />
+  <Cards CatID="65725" Quantity="1" Sideboard="false" Name="Kindred Discovery" />
+  <Cards CatID="64762" Quantity="1" Sideboard="true" Name="The Locust God" />
+</Deck>

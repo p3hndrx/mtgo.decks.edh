@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="20019" Quantity="1" Sideboard="false" Name="Vault of Whispers" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="22623" Quantity="1" Sideboard="false" Name="Underground River" />
+  <Cards CatID="59089" Quantity="1" Sideboard="false" Name="Basalt Monolith" />
+  <Cards CatID="20718" Quantity="1" Sideboard="false" Name="Trinket Mage" />
+  <Cards CatID="32420" Quantity="1" Sideboard="false" Name="Thopter Foundry" />
+  <Cards CatID="12931" Quantity="1" Sideboard="false" Name="Caltrops" />
+  <Cards CatID="57668" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="46783" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
+  <Cards CatID="45692" Quantity="1" Sideboard="false" Name="Clock of Omens" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="51172" Quantity="2" Sideboard="false" Name="Swamp" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="49587" Quantity="1" Sideboard="false" Name="Darksteel Forge" />
+  <Cards CatID="39557" Quantity="1" Sideboard="false" Name="Spine of Ish Sah" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="20037" Quantity="1" Sideboard="false" Name="Dross Scorpion" />
+  <Cards CatID="45314" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="48810" Quantity="1" Sideboard="false" Name="Etherium Sculptor" />
+  <Cards CatID="42242" Quantity="1" Sideboard="false" Name="Sharuum the Hegemon" />
+  <Cards CatID="20017" Quantity="1" Sideboard="false" Name="Seat of the Synod" />
+  <Cards CatID="20059" Quantity="1" Sideboard="false" Name="Sculpting Steel" />
+  <Cards CatID="58949" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
+  <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
+  <Cards CatID="58623" Quantity="1" Sideboard="false" Name="Prairie Stream" />
+  <Cards CatID="51200" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="52897" Quantity="1" Sideboard="false" Name="Nevinyrral's Disk" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="38435" Quantity="1" Sideboard="false" Name="Kuldotha Forgemaster" />
+  <Cards CatID="42652" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="20863" Quantity="1" Sideboard="false" Name="Krark-Clan Ironworks" />
+  <Cards CatID="51170" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="19817" Quantity="1" Sideboard="false" Name="Leonin Abunas" />
+  <Cards CatID="51198" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="31741" Quantity="1" Sideboard="false" Name="Master Transmuter" />
+  <Cards CatID="20331" Quantity="1" Sideboard="false" Name="Memnarch" />
+  <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
+  <Cards CatID="20585" Quantity="1" Sideboard="false" Name="Mycosynth Lattice" />
+  <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
+  <Cards CatID="38194" Quantity="1" Sideboard="false" Name="Grand Architect" />
+  <Cards CatID="38285" Quantity="1" Sideboard="false" Name="Nim Deathmantle" />
+  <Cards CatID="32973" Quantity="1" Sideboard="false" Name="Open the Vaults" />
+  <Cards CatID="40748" Quantity="1" Sideboard="false" Name="Orzhov Signet" />
+  <Cards CatID="39734" Quantity="1" Sideboard="false" Name="Phyrexian Metamorph" />
+  <Cards CatID="41387" Quantity="1" Sideboard="false" Name="Grand Abolisher" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="41217" Quantity="1" Sideboard="false" Name="Glacial Fortress" />
+  <Cards CatID="28463" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="20143" Quantity="1" Sideboard="false" Name="Fabricate" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
+  <Cards CatID="37899" Quantity="1" Sideboard="false" Name="Ethersworn Canonist" />
+  <Cards CatID="20204" Quantity="1" Sideboard="false" Name="Disciple of the Vault" />
+  <Cards CatID="45698" Quantity="1" Sideboard="false" Name="Staff of Nin" />
+  <Cards CatID="23562" Quantity="1" Sideboard="false" Name="Dimir Signet" />
+  <Cards CatID="46483" Quantity="1" Sideboard="false" Name="Supreme Verdict" />
+  <Cards CatID="53774" Quantity="1" Sideboard="false" Name="Darksteel Citadel" />
+  <Cards CatID="26660" Quantity="1" Sideboard="false" Name="Sword of the Meek" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="50264" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="51561" Quantity="1" Sideboard="false" Name="Temple of Enlightenment" />
+  <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="39363" Quantity="1" Sideboard="false" Name="Treasure Mage" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="41477" Quantity="1" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="39872" Quantity="1" Sideboard="false" Name="Unwinding Clock" />
+  <Cards CatID="24023" Quantity="1" Sideboard="false" Name="Azorius Signet" />
+  <Cards CatID="50968" Quantity="1" Sideboard="false" Name="Arcane Sanctum" />
+  <Cards CatID="19819" Quantity="1" Sideboard="false" Name="Vedalken Archmage" />
+  <Cards CatID="20692" Quantity="1" Sideboard="false" Name="Vedalken Orrery" />
+  <Cards CatID="20325" Quantity="1" Sideboard="false" Name="Voltaic Construct" />
+  <Cards CatID="37308" Quantity="1" Sideboard="false" Name="Voltaic Key" />
+  <Cards CatID="22525" Quantity="1" Sideboard="false" Name="Adarkar Wastes" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="59920" Quantity="1" Sideboard="false" Name="Choked Estuary" />
+  <Cards CatID="59926" Quantity="1" Sideboard="false" Name="Port Town" />
+  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
+  <Cards CatID="38291" Quantity="1" Sideboard="false" Name="Darkslick Shores" />
+  <Cards CatID="38289" Quantity="1" Sideboard="false" Name="Seachrome Coast" />
+  <Cards CatID="20794" Quantity="1" Sideboard="false" Name="Mycosynth Golem" />
+  <Cards CatID="38229" Quantity="1" Sideboard="false" Name="Semblance Anvil" />
+  <Cards CatID="38437" Quantity="1" Sideboard="false" Name="Etched Champion" />
+  <Cards CatID="38241" Quantity="1" Sideboard="false" Name="Darksteel Juggernaut" />
+  <Cards CatID="39862" Quantity="1" Sideboard="false" Name="Dispatch" />
+  <Cards CatID="38103" Quantity="1" Sideboard="false" Name="Tempered Steel" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="51398" Quantity="1" Sideboard="true" Name="Sydri, Galvanic Genius" />
+</Deck>

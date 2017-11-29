@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" />
+  <Cards CatID="60404" Quantity="1" Sideboard="false" Name="Sage of Ancient Lore" />
+  <Cards CatID="56146" Quantity="1" Sideboard="false" Name="Surrak, the Hunt Caller" />
+  <Cards CatID="42238" Quantity="1" Sideboard="false" Name="Captain Sisay" />
+  <Cards CatID="16132" Quantity="1" Sideboard="false" Name="Gerrard Capashen" />
+  <Cards CatID="59944" Quantity="1" Sideboard="false" Name="Odric, Lunarch Marshal" />
+  <Cards CatID="45564" Quantity="1" Sideboard="false" Name="Odric, Master Tactician" />
+  <Cards CatID="61308" Quantity="1" Sideboard="false" Name="Thalia, Heretic Cathar" />
+  <Cards CatID="22096" Quantity="1" Sideboard="false" Name="Reki, the History of Kamigawa" />
+  <Cards CatID="25653" Quantity="1" Sideboard="false" Name="Saffi Eriksdotter" />
+  <Cards CatID="52938" Quantity="1" Sideboard="false" Name="Pianna, Nomad Captain" />
+  <Cards CatID="62321" Quantity="1" Sideboard="false" Name="Sidar Kondo of Jamuraa" />
+  <Cards CatID="18195" Quantity="1" Sideboard="false" Name="Kamahl, Fist of Krosa" />
+  <Cards CatID="42762" Quantity="1" Sideboard="false" Name="Mikaeus, the Lunarch" />
+  <Cards CatID="50892" Quantity="1" Sideboard="false" Name="Kongming, &quot;Sleeping Dragon&quot;" />
+  <Cards CatID="21940" Quantity="1" Sideboard="false" Name="Michiko Konda, Truth Seeker" />
+  <Cards CatID="59980" Quantity="1" Sideboard="false" Name="Sigarda, Heron's Grace" />
+  <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
+  <Cards CatID="51376" Quantity="1" Sideboard="false" Name="Darksteel Mutation" />
+  <Cards CatID="18667" Quantity="1" Sideboard="false" Name="Alpha Status" />
+  <Cards CatID="44237" Quantity="1" Sideboard="false" Name="Descendants' Path" />
+  <Cards CatID="17765" Quantity="1" Sideboard="false" Name="Shared Triumph" />
+  <Cards CatID="31421" Quantity="1" Sideboard="false" Name="Mirari's Wake" />
+  <Cards CatID="59590" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="20227" Quantity="1" Sideboard="false" Name="Loxodon Warhammer" />
+  <Cards CatID="59908" Quantity="1" Sideboard="false" Name="Hanweir Militia Captain" />
+  <Cards CatID="21222" Quantity="1" Sideboard="false" Name="Masako the Humorless" />
+  <Cards CatID="51757" Quantity="1" Sideboard="false" Name="Archetype of Courage" />
+  <Cards CatID="44279" Quantity="1" Sideboard="false" Name="Silverblade Paladin" />
+  <Cards CatID="42768" Quantity="1" Sideboard="false" Name="Elder of Laurels" />
+  <Cards CatID="44285" Quantity="1" Sideboard="false" Name="Champion of Lambholt" />
+  <Cards CatID="41273" Quantity="1" Sideboard="false" Name="Gideon Jura" />
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="10625" Quantity="1" Sideboard="false" Name="Soul Warden" />
+  <Cards CatID="59788" Quantity="1" Sideboard="false" Name="Thalia's Lieutenant" />
+  <Cards CatID="60300" Quantity="1" Sideboard="false" Name="Duskwatch Recruiter" />
+  <Cards CatID="21225" Quantity="1" Sideboard="false" Name="Budoka Gardener" />
+  <Cards CatID="54971" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
+  <Cards CatID="36674" Quantity="1" Sideboard="false" Name="Transcendent Master" />
+  <Cards CatID="60320" Quantity="1" Sideboard="false" Name="Tireless Tracker" />
+  <Cards CatID="60266" Quantity="1" Sideboard="false" Name="Ulvenwald Mysteries" />
+  <Cards CatID="31925" Quantity="1" Sideboard="false" Name="Knight of the Reliquary" />
+  <Cards CatID="30893" Quantity="1" Sideboard="false" Name="Ranger of Eos" />
+  <Cards CatID="40519" Quantity="1" Sideboard="false" Name="Mother of Runes" />
+  <Cards CatID="47871" Quantity="1" Sideboard="false" Name="Gideon, Champion of Justice" />
+  <Cards CatID="61476" Quantity="1" Sideboard="false" Name="Heron's Grace Champion" />
+  <Cards CatID="61310" Quantity="1" Sideboard="false" Name="Thalia's Lancers" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
+  <Cards CatID="60510" Quantity="1" Sideboard="false" Name="Soul of the Harvest" />
+  <Cards CatID="49569" Quantity="1" Sideboard="false" Name="Banisher Priest" />
+  <Cards CatID="42368" Quantity="1" Sideboard="false" Name="Fiend Hunter" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="64156" Quantity="1" Sideboard="false" Name="Scattered Groves" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="53478" Quantity="13" Sideboard="false" Name="Forest" />
+  <Cards CatID="53484" Quantity="12" Sideboard="false" Name="Plains" />
+  <Cards CatID="52611" Quantity="1" Sideboard="false" Name="Grasslands" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="59842" Quantity="1" Sideboard="false" Name="Fortified Village" />
+  <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="52889" Quantity="1" Sideboard="false" Name="Yavimaya Elder" />
+  <Cards CatID="53650" Quantity="1" Sideboard="false" Name="Obelisk of Urd" />
+  <Cards CatID="53394" Quantity="1" Sideboard="false" Name="Forest" />
+  <Cards CatID="53390" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="31431" Quantity="1" Sideboard="false" Name="Eternal Witness" />
+  <Cards CatID="38189" Quantity="1" Sideboard="false" Name="Genesis Wave" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="51747" Quantity="1" Sideboard="true" Name="Karametra, God of Harvests" />
+</Deck>

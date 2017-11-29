@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="18101" Quantity="1" Sideboard="false" Name="Aggravated Assault" />
+  <Cards CatID="44183" Quantity="1" Sideboard="false" Name="Battle Hymn" />
+  <Cards CatID="53040" Quantity="1" Sideboard="false" Name="Skirk Prospector" />
+  <Cards CatID="28857" Quantity="1" Sideboard="false" Name="Siege-Gang Commander" />
+  <Cards CatID="18035" Quantity="1" Sideboard="false" Name="Brightstone Ritual" />
+  <Cards CatID="29475" Quantity="1" Sideboard="false" Name="Rage Reflection" />
+  <Cards CatID="28295" Quantity="1" Sideboard="false" Name="Caterwauling Boggart" />
+  <Cards CatID="53370" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="23498" Quantity="1" Sideboard="false" Name="Dogpile" />
+  <Cards CatID="53480" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="45372" Quantity="1" Sideboard="false" Name="Fervor" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="40501" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="40510" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="52883" Quantity="1" Sideboard="false" Name="Goblin Matron" />
+  <Cards CatID="40563" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="7567" Quantity="1" Sideboard="false" Name="Goblin Recruiter" />
+  <Cards CatID="53073" Quantity="1" Sideboard="false" Name="Goblin Ringleader" />
+  <Cards CatID="18844" Quantity="1" Sideboard="false" Name="Goblin War Strike" />
+  <Cards CatID="40711" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="18105" Quantity="1" Sideboard="false" Name="Gratuitous Violence" />
+  <Cards CatID="50410" Quantity="1" Sideboard="false" Name="Hammer of Purphoros" />
+  <Cards CatID="29609" Quantity="1" Sideboard="false" Name="Horde of Boggarts" />
+  <Cards CatID="49058" Quantity="1" Sideboard="false" Name="Mogg War Marshal" />
+  <Cards CatID="47925" Quantity="1" Sideboard="false" Name="Illusionist's Bracers" />
+  <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
+  <Cards CatID="18103" Quantity="1" Sideboard="false" Name="Mana Echoes" />
+  <Cards CatID="47601" Quantity="1" Sideboard="false" Name="Massive Raid" />
+  <Cards CatID="25699" Quantity="1" Sideboard="false" Name="Ib Halfheart, Goblin Tactician" />
+  <Cards CatID="18716" Quantity="1" Sideboard="false" Name="Goblin Warchief" />
+  <Cards CatID="11915" Quantity="1" Sideboard="false" Name="Goblin Offensive" />
+  <Cards CatID="29242" Quantity="1" Sideboard="false" Name="Shared Animosity" />
+  <Cards CatID="37218" Quantity="1" Sideboard="false" Name="Goblin Chieftain" />
+  <Cards CatID="50830" Quantity="1" Sideboard="false" Name="Goblin Bombardment" />
+  <Cards CatID="28343" Quantity="1" Sideboard="false" Name="Spinerock Knoll" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="46405" Quantity="1" Sideboard="false" Name="Vandalblast" />
+  <Cards CatID="28203" Quantity="1" Sideboard="false" Name="Boggart Shenanigans" />
+  <Cards CatID="34642" Quantity="1" Sideboard="false" Name="Warren Instigator" />
+  <Cards CatID="54991" Quantity="1" Sideboard="false" Name="Beetleback Chief" />
+  <Cards CatID="23889" Quantity="1" Sideboard="false" Name="Sword of the Paruns" />
+  <Cards CatID="28327" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
+  <Cards CatID="35142" Quantity="1" Sideboard="false" Name="Valakut, the Molten Pinnacle" />
+  <Cards CatID="31902" Quantity="1" Sideboard="false" Name="Voracious Dragon" />
+  <Cards CatID="41511" Quantity="1" Sideboard="false" Name="Warstorm Surge" />
+  <Cards CatID="53126" Quantity="1" Sideboard="false" Name="Clickslither" />
+  <Cards CatID="59273" Quantity="1" Sideboard="false" Name="Reckless Bushwhacker" />
+  <Cards CatID="47529" Quantity="1" Sideboard="false" Name="Foundry Street Denizen" />
+  <Cards CatID="38842" Quantity="1" Sideboard="false" Name="Goblin Warrens" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="34388" Quantity="1" Sideboard="false" Name="Goblin Bushwhacker" />
+  <Cards CatID="25535" Quantity="1" Sideboard="false" Name="Empty the Warrens" />
+  <Cards CatID="12403" Quantity="1" Sideboard="false" Name="Goblin Lackey" />
+  <Cards CatID="57714" Quantity="1" Sideboard="false" Name="Goblin Piledriver" />
+  <Cards CatID="39738" Quantity="1" Sideboard="false" Name="Urabrask the Hidden" />
+  <Cards CatID="29639" Quantity="1" Sideboard="false" Name="Umbral Mantle" />
+  <Cards CatID="29122" Quantity="1" Sideboard="false" Name="Thornbite Staff" />
+  <Cards CatID="20716" Quantity="1" Sideboard="false" Name="Staff of Domination" />
+  <Cards CatID="9961" Quantity="1" Sideboard="false" Name="Puppet Strings" />
+  <Cards CatID="15632" Quantity="1" Sideboard="false" Name="Jandor's Saddlebags" />
+  <Cards CatID="15790" Quantity="1" Sideboard="false" Name="Relentless Assault" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="59590" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="36505" Quantity="1" Sideboard="false" Name="Pennon Blade" />
+  <Cards CatID="52710" Quantity="1" Sideboard="false" Name="Goblin General" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="18009" Quantity="1" Sideboard="false" Name="Sparksmith" />
+  <Cards CatID="38522" Quantity="1" Sideboard="false" Name="Gauntlet of Might" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="65721" Quantity="1" Sideboard="false" Name="Kindred Charge" />
+  <Cards CatID="50312" Quantity="1" Sideboard="false" Name="Purphoros, God of the Forge" />
+  <Cards CatID="45578" Quantity="1" Sideboard="true" Name="Krenko, Mob Boss" />
+</Deck>

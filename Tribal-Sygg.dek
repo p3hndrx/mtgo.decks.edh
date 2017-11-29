@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="28535" Quantity="1" Sideboard="false" Name="Judge of Currents" />
+  <Cards CatID="28226" Quantity="1" Sideboard="false" Name="Harpoon Sniper" />
+  <Cards CatID="29191" Quantity="1" Sideboard="false" Name="Stonybrook Schoolmaster" />
+  <Cards CatID="28765" Quantity="1" Sideboard="false" Name="Summon the School" />
+  <Cards CatID="28360" Quantity="1" Sideboard="false" Name="Veteran of the Depths" />
+  <Cards CatID="28527" Quantity="1" Sideboard="false" Name="Aquitect's Will" />
+  <Cards CatID="34561" Quantity="1" Sideboard="false" Name="Cosi's Trickster" />
+  <Cards CatID="57912" Quantity="1" Sideboard="false" Name="Harbinger of the Tides" />
+  <Cards CatID="45636" Quantity="1" Sideboard="false" Name="Master of the Pearl Trident" />
+  <Cards CatID="37238" Quantity="1" Sideboard="false" Name="Merfolk Sovereign" />
+  <Cards CatID="13461" Quantity="1" Sideboard="false" Name="Saprazzan Heir" />
+  <Cards CatID="13885" Quantity="1" Sideboard="false" Name="Seahunter" />
+  <Cards CatID="28505" Quantity="1" Sideboard="false" Name="Surgespanner" />
+  <Cards CatID="50406" Quantity="1" Sideboard="false" Name="Bident of Thassa" />
+  <Cards CatID="35735" Quantity="1" Sideboard="false" Name="Thada Adel, Acquisitor" />
+  <Cards CatID="49493" Quantity="1" Sideboard="false" Name="Tidebinder Mage" />
+  <Cards CatID="30197" Quantity="1" Sideboard="false" Name="Wake Thrasher" />
+  <Cards CatID="28389" Quantity="1" Sideboard="false" Name="Benthicore" />
+  <Cards CatID="43654" Quantity="1" Sideboard="false" Name="Coral Fighters" />
+  <Cards CatID="28372" Quantity="1" Sideboard="false" Name="Fallowsage" />
+  <Cards CatID="36661" Quantity="1" Sideboard="false" Name="Enclave Cryptologist" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="30416" Quantity="1" Sideboard="false" Name="Disenchant" />
+  <Cards CatID="34390" Quantity="1" Sideboard="false" Name="Journey to Nowhere" />
+  <Cards CatID="28348" Quantity="1" Sideboard="false" Name="Merrow Commerce" />
+  <Cards CatID="35667" Quantity="1" Sideboard="false" Name="Sejiri Merfolk" />
+  <Cards CatID="28196" Quantity="1" Sideboard="false" Name="Silvergill Adept" />
+  <Cards CatID="29045" Quantity="1" Sideboard="false" Name="Stonybrook Banneret" />
+  <Cards CatID="28441" Quantity="1" Sideboard="false" Name="Wanderwine Prophets" />
+  <Cards CatID="16314" Quantity="1" Sideboard="false" Name="Whirlpool Rider" />
+  <Cards CatID="35602" Quantity="1" Sideboard="false" Name="Enclave Elite" />
+  <Cards CatID="28394" Quantity="1" Sideboard="false" Name="Merrow Reejerey" />
+  <Cards CatID="29110" Quantity="1" Sideboard="false" Name="Sage of Fables" />
+  <Cards CatID="9433" Quantity="1" Sideboard="false" Name="Vodalian Illusionist" />
+  <Cards CatID="28016" Quantity="1" Sideboard="false" Name="Seasinger" />
+  <Cards CatID="28236" Quantity="1" Sideboard="false" Name="Streambed Aquitects" />
+  <Cards CatID="28023" Quantity="1" Sideboard="false" Name="Vodalian Knights" />
+  <Cards CatID="28234" Quantity="1" Sideboard="false" Name="Merrow Harbinger" />
+  <Cards CatID="16288" Quantity="1" Sideboard="false" Name="Tidal Courier" />
+  <Cards CatID="29047" Quantity="1" Sideboard="false" Name="Waterspout Weavers" />
+  <Cards CatID="37405" Quantity="1" Sideboard="false" Name="Stormtide Leviathan" />
+  <Cards CatID="20240" Quantity="1" Sideboard="false" Name="Quicksilver Fountain" />
+  <Cards CatID="41217" Quantity="1" Sideboard="false" Name="Glacial Fortress" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="51490" Quantity="1" Sideboard="false" Name="Azorius Chancery" />
+  <Cards CatID="51248" Quantity="1" Sideboard="false" Name="Azorius Guildgate" />
+  <Cards CatID="51214" Quantity="1" Sideboard="false" Name="Lonely Sandbar" />
+  <Cards CatID="21385" Quantity="1" Sideboard="false" Name="Minamo, School at Water's Edge" />
+  <Cards CatID="20017" Quantity="1" Sideboard="false" Name="Seat of the Synod" />
+  <Cards CatID="40680" Quantity="1" Sideboard="false" Name="Secluded Steppe" />
+  <Cards CatID="26822" Quantity="1" Sideboard="false" Name="Tolaria West" />
+  <Cards CatID="40499" Quantity="1" Sideboard="false" Name="Vivid Meadow" />
+  <Cards CatID="53482" Quantity="9" Sideboard="false" Name="Island" />
+  <Cards CatID="53484" Quantity="9" Sideboard="false" Name="Plains" />
+  <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="9641" Quantity="1" Sideboard="false" Name="Capsize" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
+  <Cards CatID="16244" Quantity="1" Sideboard="false" Name="Reef Shaman" />
+  <Cards CatID="28965" Quantity="1" Sideboard="false" Name="Sigil Tracer" />
+  <Cards CatID="24629" Quantity="1" Sideboard="false" Name="Boreal Shelf" />
+  <Cards CatID="19255" Quantity="1" Sideboard="false" Name="Coastal Tower" />
+  <Cards CatID="59409" Quantity="1" Sideboard="false" Name="Meandering River" />
+  <Cards CatID="59926" Quantity="1" Sideboard="false" Name="Port Town" />
+  <Cards CatID="38289" Quantity="1" Sideboard="false" Name="Seachrome Coast" />
+  <Cards CatID="51561" Quantity="1" Sideboard="false" Name="Temple of Enlightenment" />
+  <Cards CatID="54464" Quantity="1" Sideboard="false" Name="Tranquil Cove" />
+  <Cards CatID="36644" Quantity="1" Sideboard="false" Name="Coralhelm Commander" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="28543" Quantity="1" Sideboard="false" Name="Tideshaper Mystic" />
+  <Cards CatID="28497" Quantity="1" Sideboard="false" Name="Mirror Entity" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
+  <Cards CatID="27288" Quantity="1" Sideboard="false" Name="Glorious Anthem" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="65114" Quantity="1" Sideboard="false" Name="Deeproot Waters" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="65725" Quantity="1" Sideboard="false" Name="Kindred Discovery" />
+  <Cards CatID="65134" Quantity="1" Sideboard="false" Name="Kopala, Warden of Waves" />
+  <Cards CatID="28438" Quantity="1" Sideboard="true" Name="Sygg, River Guide" />
+</Deck>

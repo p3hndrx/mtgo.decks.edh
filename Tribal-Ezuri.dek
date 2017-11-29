@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="29589" Quantity="1" Sideboard="false" Name="Woodfall Primus" />
+  <Cards CatID="18878" Quantity="1" Sideboard="false" Name="Wirewood Symbiote" />
+  <Cards CatID="50314" Quantity="1" Sideboard="false" Name="Nylea, God of the Hunt" />
+  <Cards CatID="28722" Quantity="1" Sideboard="false" Name="Immaculate Magistrate" />
+  <Cards CatID="28414" Quantity="1" Sideboard="false" Name="Jagged-Scar Archers" />
+  <Cards CatID="38055" Quantity="1" Sideboard="false" Name="Copperhorn Scout" />
+  <Cards CatID="12547" Quantity="1" Sideboard="false" Name="Crop Rotation" />
+  <Cards CatID="16433" Quantity="1" Sideboard="false" Name="Deserted Temple" />
+  <Cards CatID="29305" Quantity="1" Sideboard="false" Name="Devoted Druid" />
+  <Cards CatID="39397" Quantity="1" Sideboard="false" Name="Viridian Corrupter" />
+  <Cards CatID="28327" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
+  <Cards CatID="23889" Quantity="1" Sideboard="false" Name="Sword of the Paruns" />
+  <Cards CatID="45580" Quantity="1" Sideboard="false" Name="Yeva, Nature's Herald" />
+  <Cards CatID="37456" Quantity="1" Sideboard="false" Name="Fauna Shaman" />
+  <Cards CatID="40705" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="23008" Quantity="1" Sideboard="false" Name="Civic Wayfinder" />
+  <Cards CatID="15822" Quantity="1" Sideboard="false" Name="Seeker of Skybreak" />
+  <Cards CatID="28215" Quantity="1" Sideboard="false" Name="Lys Alana Huntmaster" />
+  <Cards CatID="49373" Quantity="1" Sideboard="false" Name="Garruk, Caller of Beasts" />
+  <Cards CatID="38189" Quantity="1" Sideboard="false" Name="Genesis Wave" />
+  <Cards CatID="21105" Quantity="1" Sideboard="false" Name="Glimpse of Nature" />
+  <Cards CatID="57800" Quantity="1" Sideboard="false" Name="Dwynen, Gilt-Leaf Daen" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="53606" Quantity="1" Sideboard="false" Name="Reclamation Sage" />
+  <Cards CatID="47563" Quantity="1" Sideboard="false" Name="Ivy Lane Denizen" />
+  <Cards CatID="36408" Quantity="1" Sideboard="false" Name="Joraga Treespeaker" />
+  <Cards CatID="36121" Quantity="1" Sideboard="false" Name="Priest of Titania" />
+  <Cards CatID="39491" Quantity="1" Sideboard="false" Name="Praetor's Counsel" />
+  <Cards CatID="18119" Quantity="1" Sideboard="false" Name="Wellwisher" />
+  <Cards CatID="39884" Quantity="1" Sideboard="false" Name="Beast Within" />
+  <Cards CatID="34818" Quantity="1" Sideboard="false" Name="Beastmaster Ascension" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="49066" Quantity="1" Sideboard="false" Name="Krosan Grip" />
+  <Cards CatID="35795" Quantity="1" Sideboard="false" Name="Joraga Warcaller" />
+  <Cards CatID="28373" Quantity="1" Sideboard="false" Name="Imperious Perfect" />
+  <Cards CatID="59003" Quantity="1" Sideboard="false" Name="Harmonize" />
+  <Cards CatID="37408" Quantity="1" Sideboard="false" Name="Leyline of Vitality" />
+  <Cards CatID="53106" Quantity="1" Sideboard="false" Name="Fyndhorn Elves" />
+  <Cards CatID="39325" Quantity="1" Sideboard="false" Name="Viridian Emissary" />
+  <Cards CatID="18838" Quantity="1" Sideboard="false" Name="Fierce Empath" />
+  <Cards CatID="28365" Quantity="1" Sideboard="false" Name="Elvish Promenade" />
+  <Cards CatID="64134" Quantity="1" Sideboard="false" Name="Rhonas's Monument" />
+  <Cards CatID="26281" Quantity="1" Sideboard="false" Name="Essence Warden" />
+  <Cards CatID="20716" Quantity="1" Sideboard="false" Name="Staff of Domination" />
+  <Cards CatID="32701" Quantity="1" Sideboard="false" Name="Elvish Visionary" />
+  <Cards CatID="49499" Quantity="1" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="58481" Quantity="1" Sideboard="false" Name="Sylvan Scrying" />
+  <Cards CatID="28307" Quantity="1" Sideboard="false" Name="Elvish Harbinger" />
+  <Cards CatID="18140" Quantity="1" Sideboard="false" Name="Elvish Guidance" />
+  <Cards CatID="50904" Quantity="1" Sideboard="false" Name="Farhaven Elf" />
+  <Cards CatID="29639" Quantity="1" Sideboard="false" Name="Umbral Mantle" />
+  <Cards CatID="41577" Quantity="1" Sideboard="false" Name="Adaptive Automaton" />
+  <Cards CatID="45327" Quantity="1" Sideboard="false" Name="Elvish Archdruid" />
+  <Cards CatID="28859" Quantity="1" Sideboard="false" Name="Ambush Commander" />
+  <Cards CatID="37361" Quantity="1" Sideboard="false" Name="Overwhelming Stampede" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="19540" Quantity="1" Sideboard="false" Name="Elvish Champion" />
+  <Cards CatID="58074" Quantity="1" Sideboard="false" Name="Dwynen's Elite" />
+  <Cards CatID="35773" Quantity="1" Sideboard="false" Name="Arbor Elf" />
+  <Cards CatID="18667" Quantity="1" Sideboard="false" Name="Alpha Status" />
+  <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" />
+  <Cards CatID="61460" Quantity="1" Sideboard="false" Name="Eldritch Evolution" />
+  <Cards CatID="28743" Quantity="1" Sideboard="false" Name="Woodland Guidance" />
+  <Cards CatID="42714" Quantity="1" Sideboard="false" Name="Creeping Renaissance" />
+  <Cards CatID="53312" Quantity="1" Sideboard="false" Name="Restock" />
+  <Cards CatID="35934" Quantity="1" Sideboard="false" Name="Llanowar Elves" />
+  <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
+  <Cards CatID="26808" Quantity="1" Sideboard="false" Name="Llanowar Reborn" />
+  <Cards CatID="50232" Quantity="1" Sideboard="false" Name="Karametra's Acolyte" />
+  <Cards CatID="50874" Quantity="1" Sideboard="false" Name="Slippery Karst" />
+  <Cards CatID="20249" Quantity="1" Sideboard="false" Name="Tree of Tales" />
+  <Cards CatID="40683" Quantity="1" Sideboard="false" Name="Tranquil Thicket" />
+  <Cards CatID="34626" Quantity="1" Sideboard="false" Name="Oran-Rief, the Vastwood" />
+  <Cards CatID="34360" Quantity="1" Sideboard="false" Name="Turntimber Grove" />
+  <Cards CatID="53478" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="53394" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="54875" Quantity="1" Sideboard="true" Name="Ezuri, Renegade Leader" />
+</Deck>

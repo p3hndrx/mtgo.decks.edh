@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="55978" Quantity="1" Sideboard="false" Name="Anafenza, Kin-Tree Spirit" />
+  <Cards CatID="10591" Quantity="1" Sideboard="false" Name="Reconnaissance" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="42368" Quantity="1" Sideboard="false" Name="Fiend Hunter" />
+  <Cards CatID="25513" Quantity="1" Sideboard="false" Name="Return to Dust" />
+  <Cards CatID="42694" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
+  <Cards CatID="44231" Quantity="1" Sideboard="false" Name="Cathars' Crusade" />
+  <Cards CatID="37406" Quantity="1" Sideboard="false" Name="Sun Titan" />
+  <Cards CatID="12601" Quantity="1" Sideboard="false" Name="Karmic Guide" />
+  <Cards CatID="44279" Quantity="1" Sideboard="false" Name="Silverblade Paladin" />
+  <Cards CatID="48750" Quantity="1" Sideboard="false" Name="Reveillark" />
+  <Cards CatID="61102" Quantity="1" Sideboard="false" Name="Selfless Spirit" />
+  <Cards CatID="60649" Quantity="1" Sideboard="false" Name="Wrath of God" />
+  <Cards CatID="61887" Quantity="1" Sideboard="false" Name="Angel of Invention" />
+  <Cards CatID="50305" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" />
+  <Cards CatID="37492" Quantity="1" Sideboard="false" Name="Viscera Seer" />
+  <Cards CatID="58401" Quantity="1" Sideboard="false" Name="Zulaport Cutthroat" />
+  <Cards CatID="62701" Quantity="1" Sideboard="false" Name="Yahenni, Undying Partisan" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="19577" Quantity="1" Sideboard="false" Name="Phyrexian Arena" />
+  <Cards CatID="43124" Quantity="1" Sideboard="false" Name="Buried Alive" />
+  <Cards CatID="45568" Quantity="1" Sideboard="false" Name="Disciple of Bolas" />
+  <Cards CatID="19457" Quantity="1" Sideboard="false" Name="Diabolic Tutor" />
+  <Cards CatID="61957" Quantity="1" Sideboard="false" Name="Gonti, Lord of Luxury" />
+  <Cards CatID="18961" Quantity="1" Sideboard="false" Name="Nekrataal" />
+  <Cards CatID="58637" Quantity="1" Sideboard="false" Name="Vampiric Rites" />
+  <Cards CatID="51809" Quantity="1" Sideboard="false" Name="Archetype of Finality" />
+  <Cards CatID="52260" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
+  <Cards CatID="61699" Quantity="1" Sideboard="false" Name="Cathartic Reunion" />
+  <Cards CatID="43267" Quantity="1" Sideboard="false" Name="Faithless Looting" />
+  <Cards CatID="50830" Quantity="1" Sideboard="false" Name="Goblin Bombardment" />
+  <Cards CatID="55918" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="40668" Quantity="1" Sideboard="false" Name="Anger" />
+  <Cards CatID="45556" Quantity="1" Sideboard="false" Name="Mindclaw Shaman" />
+  <Cards CatID="33027" Quantity="1" Sideboard="false" Name="Siege-Gang Commander" />
+  <Cards CatID="59584" Quantity="1" Sideboard="false" Name="Ayli, Eternal Pilgrim" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
+  <Cards CatID="62315" Quantity="1" Sideboard="false" Name="Ravos, Soultender" />
+  <Cards CatID="36192" Quantity="1" Sideboard="false" Name="Murderous Redcap" />
+  <Cards CatID="48264" Quantity="1" Sideboard="false" Name="Master of Cruelties" />
+  <Cards CatID="53211" Quantity="1" Sideboard="false" Name="Grenzo, Dungeon Warden" />
+  <Cards CatID="40528" Quantity="1" Sideboard="false" Name="Duergar Hedge-Mage" />
+  <Cards CatID="52016" Quantity="1" Sideboard="false" Name="Iroas, God of Victory" />
+  <Cards CatID="54432" Quantity="1" Sideboard="false" Name="Crackling Doom" />
+  <Cards CatID="54430" Quantity="1" Sideboard="false" Name="Mardu Ascendancy" />
+  <Cards CatID="54476" Quantity="1" Sideboard="false" Name="Ankle Shanker" />
+  <Cards CatID="54138" Quantity="1" Sideboard="false" Name="Ponyback Brigade" />
+  <Cards CatID="57670" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="60867" Quantity="1" Sideboard="false" Name="Bloodfell Caves" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="57668" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="42654" Quantity="1" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="42652" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="53480" Quantity="4" Sideboard="false" Name="Mountain" />
+  <Cards CatID="54166" Quantity="1" Sideboard="false" Name="Nomad Outpost" />
+  <Cards CatID="53484" Quantity="8" Sideboard="false" Name="Plains" />
+  <Cards CatID="57738" Quantity="1" Sideboard="false" Name="Rogue's Passage" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="54070" Quantity="1" Sideboard="false" Name="Scoured Barrens" />
+  <Cards CatID="53486" Quantity="6" Sideboard="false" Name="Swamp" />
+  <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
+  <Cards CatID="54078" Quantity="1" Sideboard="false" Name="Wind-Scarred Crag" />
+  <Cards CatID="62895" Quantity="1" Sideboard="false" Name="Hope of Ghirapur" />
+  <Cards CatID="20551" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="63852" Quantity="1" Sideboard="false" Name="Combat Celebrant" />
+  <Cards CatID="23566" Quantity="1" Sideboard="false" Name="Boros Signet" />
+  <Cards CatID="62067" Quantity="1" Sideboard="false" Name="Key to the City" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="23681" Quantity="1" Sideboard="false" Name="Orzhov Signet" />
+  <Cards CatID="24045" Quantity="1" Sideboard="false" Name="Rakdos Signet" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="55456" Quantity="1" Sideboard="true" Name="Alesha, Who Smiles at Death" />
+</Deck>

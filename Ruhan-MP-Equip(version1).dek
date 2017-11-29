@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53482" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="44312" Quantity="1" Sideboard="false" Name="Moonsilver Spear" />
+  <Cards CatID="49129" Quantity="1" Sideboard="false" Name="Wild Ricochet" />
+  <Cards CatID="38285" Quantity="1" Sideboard="false" Name="Nim Deathmantle" />
+  <Cards CatID="51490" Quantity="1" Sideboard="false" Name="Azorius Chancery" />
+  <Cards CatID="51248" Quantity="1" Sideboard="false" Name="Azorius Guildgate" />
+  <Cards CatID="20289" Quantity="1" Sideboard="false" Name="Whispersilk Cloak" />
+  <Cards CatID="22655" Quantity="1" Sideboard="false" Name="Shivan Reef" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="21426" Quantity="1" Sideboard="false" Name="Tenza, Godo's Maul" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="37430" Quantity="1" Sideboard="false" Name="Sword of Vengeance" />
+  <Cards CatID="42654" Quantity="1" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="23456" Quantity="1" Sideboard="false" Name="Sunhome, Fortress of the Legion" />
+  <Cards CatID="38289" Quantity="1" Sideboard="false" Name="Seachrome Coast" />
+  <Cards CatID="57424" Quantity="1" Sideboard="false" Name="Sunforger" />
+  <Cards CatID="37406" Quantity="1" Sideboard="false" Name="Sun Titan" />
+  <Cards CatID="20756" Quantity="1" Sideboard="false" Name="Steelshaper's Gift" />
+  <Cards CatID="39357" Quantity="1" Sideboard="false" Name="Darksteel Plate" />
+  <Cards CatID="41259" Quantity="1" Sideboard="false" Name="Day of Judgment" />
+  <Cards CatID="46423" Quantity="1" Sideboard="false" Name="Detention Sphere" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="59992" Quantity="1" Sideboard="false" Name="Stone Quarry" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="59209" Quantity="1" Sideboard="false" Name="Scytheclaw" />
+  <Cards CatID="58949" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="21195" Quantity="1" Sideboard="false" Name="Godo, Bandit Warlord" />
+  <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
+  <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
+  <Cards CatID="37945" Quantity="1" Sideboard="false" Name="Umezawa's Jitte" />
+  <Cards CatID="51200" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="45256" Quantity="1" Sideboard="false" Name="Oblivion Ring" />
+  <Cards CatID="17763" Quantity="1" Sideboard="false" Name="Oblation" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="40711" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="20227" Quantity="1" Sideboard="false" Name="Loxodon Warhammer" />
+  <Cards CatID="21385" Quantity="1" Sideboard="false" Name="Minamo, School at Water's Edge" />
+  <Cards CatID="29361" Quantity="1" Sideboard="false" Name="Mistveil Plains" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="54162" Quantity="1" Sideboard="false" Name="Mystic Monastery" />
+  <Cards CatID="23679" Quantity="1" Sideboard="false" Name="Izzet Signet" />
+  <Cards CatID="48376" Quantity="1" Sideboard="false" Name="Izzet Guildgate" />
+  <Cards CatID="57466" Quantity="1" Sideboard="false" Name="Izzet Boilerworks" />
+  <Cards CatID="59257" Quantity="1" Sideboard="false" Name="Needle Spires" />
+  <Cards CatID="51198" Quantity="1" Sideboard="false" Name="Island" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="53480" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="39886" Quantity="1" Sideboard="false" Name="Puresteel Paladin" />
+  <Cards CatID="36732" Quantity="1" Sideboard="false" Name="Distortion Strike" />
+  <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
+  <Cards CatID="51561" Quantity="1" Sideboard="false" Name="Temple of Enlightenment" />
+  <Cards CatID="50982" Quantity="1" Sideboard="false" Name="Rupture Spire" />
+  <Cards CatID="41217" Quantity="1" Sideboard="false" Name="Glacial Fortress" />
+  <Cards CatID="49584" Quantity="1" Sideboard="false" Name="Fireshrieker" />
+  <Cards CatID="20718" Quantity="1" Sideboard="false" Name="Trinket Mage" />
+  <Cards CatID="20143" Quantity="1" Sideboard="false" Name="Fabricate" />
+  <Cards CatID="48810" Quantity="1" Sideboard="false" Name="Etherium Sculptor" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="30927" Quantity="1" Sideboard="false" Name="Elspeth, Knight-Errant" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="40704" Quantity="1" Sideboard="false" Name="Darksteel Ingot" />
+  <Cards CatID="35737" Quantity="1" Sideboard="false" Name="Stoneforge Mystic" />
+  <Cards CatID="48742" Quantity="1" Sideboard="false" Name="Stonehewer Giant" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="39862" Quantity="1" Sideboard="false" Name="Dispatch" />
+  <Cards CatID="27739" Quantity="1" Sideboard="false" Name="Condemn" />
+  <Cards CatID="46483" Quantity="1" Sideboard="false" Name="Supreme Verdict" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="53117" Quantity="1" Sideboard="false" Name="Brainstorm" />
+  <Cards CatID="40743" Quantity="1" Sideboard="false" Name="Boros Signet" />
+  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="48382" Quantity="1" Sideboard="false" Name="Boros Guildgate" />
+  <Cards CatID="40725" Quantity="1" Sideboard="false" Name="Boros Garrison" />
+  <Cards CatID="47477" Quantity="1" Sideboard="false" Name="Boros Charm" />
+  <Cards CatID="37997" Quantity="1" Sideboard="false" Name="Assault Strobe" />
+  <Cards CatID="24023" Quantity="1" Sideboard="false" Name="Azorius Signet" />
+  <Cards CatID="55343" Quantity="1" Sideboard="false" Name="Shu Yun, the Silent Tempest" />
+  <Cards CatID="32366" Quantity="1" Sideboard="false" Name="Sovereigns of Lost Alara" />
+  <Cards CatID="54899" Quantity="1" Sideboard="false" Name="Argentum Armor" />
+  <Cards CatID="43403" Quantity="1" Sideboard="false" Name="Artful Dodge" />
+  <Cards CatID="39748" Quantity="1" Sideboard="false" Name="Blighted Agent" />
+  <Cards CatID="50456" Quantity="1" Sideboard="false" Name="Aqueous Form" />
+  <Cards CatID="38279" Quantity="1" Sideboard="false" Name="Sword of Body and Mind" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
+  <Cards CatID="20539" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
+  <Cards CatID="39650" Quantity="1" Sideboard="false" Name="Sword of Fire and Ice" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="61282" Quantity="1" Sideboard="false" Name="Sigarda's Aid" />
+  <Cards CatID="53484" Quantity="1" Sideboard="false" Name="Plains" />
+  <Cards CatID="59191" Quantity="1" Sideboard="false" Name="Command Beacon" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="40641" Quantity="1" Sideboard="true" Name="Ruhan of the Fomori" />
+</Deck>

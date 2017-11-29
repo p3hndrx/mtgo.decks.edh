@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="25413" Quantity="1" Sideboard="false" Name="Dreadship Reef" />
+  <Cards CatID="38091" Quantity="1" Sideboard="false" Name="Inexorable Tide" />
+  <Cards CatID="38089" Quantity="1" Sideboard="false" Name="Steady Progress" />
+  <Cards CatID="38351" Quantity="1" Sideboard="false" Name="Contagion Engine" />
+  <Cards CatID="39960" Quantity="1" Sideboard="false" Name="Viral Drake" />
+  <Cards CatID="38079" Quantity="1" Sideboard="false" Name="Thrummingbird" />
+  <Cards CatID="39910" Quantity="1" Sideboard="false" Name="Tezzeret's Gambit" />
+  <Cards CatID="39968" Quantity="1" Sideboard="false" Name="Glistener Elf" />
+  <Cards CatID="38049" Quantity="1" Sideboard="false" Name="Ichorclaw Myr" />
+  <Cards CatID="39748" Quantity="1" Sideboard="false" Name="Blighted Agent" />
+  <Cards CatID="39473" Quantity="1" Sideboard="false" Name="Flensermite" />
+  <Cards CatID="38219" Quantity="1" Sideboard="false" Name="Plague Stinger" />
+  <Cards CatID="38013" Quantity="1" Sideboard="false" Name="Blight Mamba" />
+  <Cards CatID="39397" Quantity="1" Sideboard="false" Name="Viridian Corrupter" />
+  <Cards CatID="39481" Quantity="1" Sideboard="false" Name="Core Prowler" />
+  <Cards CatID="38427" Quantity="1" Sideboard="false" Name="Hand of the Praetors" />
+  <Cards CatID="38347" Quantity="1" Sideboard="false" Name="Skithiryx, the Blight Dragon" />
+  <Cards CatID="39509" Quantity="1" Sideboard="false" Name="Corrupted Conscience" />
+  <Cards CatID="39311" Quantity="1" Sideboard="false" Name="Phyrexian Hydra" />
+  <Cards CatID="38181" Quantity="1" Sideboard="false" Name="Putrefax" />
+  <Cards CatID="39499" Quantity="1" Sideboard="false" Name="Phyrexian Juggernaut" />
+  <Cards CatID="39587" Quantity="1" Sideboard="false" Name="Blightsteel Colossus" />
+  <Cards CatID="39882" Quantity="1" Sideboard="false" Name="Phyrexian Swarmlord" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="30915" Quantity="1" Sideboard="false" Name="Bant Panorama" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="40663" Quantity="1" Sideboard="false" Name="Collective Voyage" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="40709" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="53486" Quantity="4" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53484" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="53478" Quantity="12" Sideboard="false" Name="Forest" />
+  <Cards CatID="53482" Quantity="3" Sideboard="false" Name="Island" />
+  <Cards CatID="54272" Quantity="1" Sideboard="false" Name="Abzan Falconer" />
+  <Cards CatID="61094" Quantity="1" Sideboard="false" Name="Collective Effort" />
+  <Cards CatID="37138" Quantity="1" Sideboard="false" Name="Ajani Goldmane" />
+  <Cards CatID="20626" Quantity="1" Sideboard="false" Name="Mephidross Vampire" />
+  <Cards CatID="47446" Quantity="1" Sideboard="false" Name="Gyre Sage" />
+  <Cards CatID="59335" Quantity="1" Sideboard="false" Name="Nissa, Voice of Zendikar" />
+  <Cards CatID="59227" Quantity="1" Sideboard="false" Name="Mazirek, Kraul Death Priest" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
+  <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="37945" Quantity="1" Sideboard="false" Name="Umezawa's Jitte" />
+  <Cards CatID="40485" Quantity="1" Sideboard="false" Name="Spike Feeder" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="25425" Quantity="1" Sideboard="false" Name="Saltcrusted Steppe" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="61262" Quantity="1" Sideboard="false" Name="Tamiyo, Field Researcher" />
+  <Cards CatID="43291" Quantity="1" Sideboard="false" Name="Mikaeus, the Unhallowed" />
+  <Cards CatID="65018" Quantity="1" Sideboard="false" Name="Bellowing Aegisaur" />
+  <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
+  <Cards CatID="25483" Quantity="1" Sideboard="false" Name="Calciform Pools" />
+  <Cards CatID="55972" Quantity="1" Sideboard="false" Name="Inspiring Call" />
+  <Cards CatID="30042" Quantity="1" Sideboard="false" Name="Gilder Bairn" />
+  <Cards CatID="48276" Quantity="1" Sideboard="false" Name="Vorel of the Hull Clade" />
+  <Cards CatID="29966" Quantity="1" Sideboard="false" Name="Unmake" />
+  <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
+  <Cards CatID="62823" Quantity="1" Sideboard="false" Name="Winding Constrictor" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="62561" Quantity="1" Sideboard="false" Name="Walking Ballista" />
+  <Cards CatID="37550" Quantity="1" Sideboard="false" Name="Triskelion" />
+  <Cards CatID="43169" Quantity="1" Sideboard="false" Name="Sorin, Lord of Innistrad" />
+  <Cards CatID="46567" Quantity="1" Sideboard="false" Name="Vraska the Unseen" />
+  <Cards CatID="62331" Quantity="1" Sideboard="true" Name="Atraxa, Praetors' Voice" />
+</Deck>

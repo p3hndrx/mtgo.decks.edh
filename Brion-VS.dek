@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="39936" Quantity="1" Sideboard="false" Name="Act of Aggression" />
+  <Cards CatID="21201" Quantity="1" Sideboard="false" Name="Yosei, the Morning Star" />
+  <Cards CatID="36750" Quantity="1" Sideboard="false" Name="Traitorous Instinct" />
+  <Cards CatID="28775" Quantity="1" Sideboard="false" Name="Ancient Amphitheater" />
+  <Cards CatID="41427" Quantity="1" Sideboard="false" Name="Angelic Destiny" />
+  <Cards CatID="41161" Quantity="1" Sideboard="false" Name="Archon of Justice" />
+  <Cards CatID="60861" Quantity="1" Sideboard="false" Name="Wind-Scarred Crag" />
+  <Cards CatID="30040" Quantity="1" Sideboard="false" Name="Balefire Liege" />
+  <Cards CatID="32955" Quantity="1" Sideboard="false" Name="Ball Lightning" />
+  <Cards CatID="59089" Quantity="1" Sideboard="false" Name="Basalt Monolith" />
+  <Cards CatID="52128" Quantity="1" Sideboard="false" Name="Bearer of the Heavens" />
+  <Cards CatID="19285" Quantity="1" Sideboard="false" Name="Bloodshot Cyclops" />
+  <Cards CatID="53512" Quantity="1" Sideboard="false" Name="Boonweaver Giant" />
+  <Cards CatID="29166" Quantity="1" Sideboard="false" Name="Borderland Behemoth" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="23566" Quantity="1" Sideboard="false" Name="Boros Signet" />
+  <Cards CatID="42654" Quantity="1" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="37406" Quantity="1" Sideboard="false" Name="Sun Titan" />
+  <Cards CatID="27629" Quantity="1" Sideboard="false" Name="Doubling Cube" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="58014" Quantity="1" Sideboard="false" Name="Flameshadow Conjuring" />
+  <Cards CatID="43455" Quantity="1" Sideboard="false" Name="Fling" />
+  <Cards CatID="28571" Quantity="1" Sideboard="false" Name="Stinkdrinker Daredevil" />
+  <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="43935" Quantity="1" Sideboard="false" Name="Gisela, Blade of Goldnight" />
+  <Cards CatID="19851" Quantity="1" Sideboard="false" Name="Grab the Reins" />
+  <Cards CatID="18105" Quantity="1" Sideboard="false" Name="Gratuitous Violence" />
+  <Cards CatID="45240" Quantity="1" Sideboard="false" Name="Hamletback Goliath" />
+  <Cards CatID="50372" Quantity="1" Sideboard="false" Name="Hundred-Handed One" />
+  <Cards CatID="47925" Quantity="1" Sideboard="false" Name="Illusionist's Bracers" />
+  <Cards CatID="41315" Quantity="1" Sideboard="false" Name="Inferno Titan" />
+  <Cards CatID="50878" Quantity="1" Sideboard="false" Name="Serra Avatar" />
+  <Cards CatID="24805" Quantity="1" Sideboard="false" Name="Jotun Grunt" />
+  <Cards CatID="59171" Quantity="1" Sideboard="false" Name="Kalemne, Disciple of Iroas" />
+  <Cards CatID="48852" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
+  <Cards CatID="53484" Quantity="12" Sideboard="false" Name="Plains" />
+  <Cards CatID="48382" Quantity="1" Sideboard="false" Name="Boros Guildgate" />
+  <Cards CatID="40612" Quantity="1" Sideboard="false" Name="Orim's Thunder" />
+  <Cards CatID="43969" Quantity="1" Sideboard="false" Name="Malignus" />
+  <Cards CatID="34562" Quantity="1" Sideboard="false" Name="Mark of Mutiny" />
+  <Cards CatID="39966" Quantity="1" Sideboard="false" Name="Moltensteel Dragon" />
+  <Cards CatID="55187" Quantity="1" Sideboard="false" Name="Myriad Landscape" />
+  <Cards CatID="59257" Quantity="1" Sideboard="false" Name="Needle Spires" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="43534" Quantity="1" Sideboard="false" Name="Phyrexian Dreadnought" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="53480" Quantity="10" Sideboard="false" Name="Mountain" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="17751" Quantity="1" Sideboard="false" Name="Jareth, Leonine Titan" />
+  <Cards CatID="23865" Quantity="1" Sideboard="false" Name="Shattering Spree" />
+  <Cards CatID="20551" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="60769" Quantity="1" Sideboard="false" Name="Sneak Attack" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="28343" Quantity="1" Sideboard="false" Name="Spinerock Knoll" />
+  <Cards CatID="52765" Quantity="1" Sideboard="false" Name="Gamble" />
+  <Cards CatID="48742" Quantity="1" Sideboard="false" Name="Stonehewer Giant" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="28355" Quantity="1" Sideboard="false" Name="Sunrise Sovereign" />
+  <Cards CatID="28349" Quantity="1" Sideboard="false" Name="Cloudgoat Ranger" />
+  <Cards CatID="40725" Quantity="1" Sideboard="false" Name="Boros Garrison" />
+  <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
+  <Cards CatID="28327" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="42596" Quantity="1" Sideboard="false" Name="Traitorous Blood" />
+  <Cards CatID="24643" Quantity="1" Sideboard="false" Name="Adarkar Valkyrie" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="46405" Quantity="1" Sideboard="false" Name="Vandalblast" />
+  <Cards CatID="59175" Quantity="1" Sideboard="false" Name="Warchief Giant" />
+  <Cards CatID="41511" Quantity="1" Sideboard="false" Name="Warstorm Surge" />
+  <Cards CatID="32851" Quantity="1" Sideboard="false" Name="Act of Treason" />
+  <Cards CatID="57670" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
+  <Cards CatID="20015" Quantity="1" Sideboard="false" Name="Ancient Den" />
+  <Cards CatID="59992" Quantity="1" Sideboard="false" Name="Stone Quarry" />
+  <Cards CatID="47477" Quantity="1" Sideboard="false" Name="Boros Charm" />
+  <Cards CatID="28465" Quantity="1" Sideboard="true" Name="Brion Stoutarm" />
+</Deck>
