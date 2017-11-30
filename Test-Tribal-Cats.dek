@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="65707" Quantity="1" Sideboard="false" Name="Mirri, Weatherlight Duelist" />
+  <Cards CatID="65771" Quantity="1" Sideboard="false" Name="Nazahn, Revered Bladesmith" />
+  <Cards CatID="65719" Quantity="1" Sideboard="false" Name="Kindred Summons" />
+  <Cards CatID="65683" Quantity="1" Sideboard="false" Name="Heirloom Blade" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="65751" Quantity="1" Sideboard="false" Name="Mirror of the Forebears" />
+  <Cards CatID="65506" Quantity="1" Sideboard="false" Name="Pillar of Origins" />
+  <Cards CatID="59590" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
+  <Cards CatID="36855" Quantity="1" Sideboard="false" Name="Land Tax" />
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="27390" Quantity="1" Sideboard="false" Name="Brushland" />
+  <Cards CatID="42572" Quantity="1" Sideboard="false" Name="Gavony Township" />
+  <Cards CatID="51565" Quantity="1" Sideboard="false" Name="Temple of Plenty" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="16441" Quantity="1" Sideboard="false" Name="Sungrass Prairie" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="38299" Quantity="1" Sideboard="false" Name="Razorverge Thicket" />
+  <Cards CatID="64156" Quantity="1" Sideboard="false" Name="Scattered Groves" />
+  <Cards CatID="59842" Quantity="1" Sideboard="false" Name="Fortified Village" />
+  <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" />
+  <Cards CatID="53478" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="53484" Quantity="10" Sideboard="false" Name="Plains" />
+  <Cards CatID="19615" Quantity="1" Sideboard="false" Name="Elfhame Palace" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="20912" Quantity="1" Sideboard="false" Name="Raksha Golden Cub" />
+  <Cards CatID="39842" Quantity="1" Sideboard="false" Name="Lost Leonin" />
+  <Cards CatID="55117" Quantity="1" Sideboard="false" Name="Jazal Goldmane" />
+  <Cards CatID="65735" Quantity="1" Sideboard="true" Name="Arahbo, Roar of the World" />
+</Deck>
