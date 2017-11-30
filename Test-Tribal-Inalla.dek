@@ -13,7 +13,7 @@
   <Cards CatID="18588" Quantity="1" Sideboard="false" Name="Merchant of Secrets" />
   <Cards CatID="62637" Quantity="1" Sideboard="false" Name="Trophy Mage" />
   <Cards CatID="36700" Quantity="1" Sideboard="false" Name="Sea Gate Oracle" />
-  <Cards CatID="23817" Quantity="1" Sideboard="false" Name="Izzet Chronarch" />
+  <Cards CatID="60831" Quantity="1" Sideboard="false" Name="Dualcaster Mage" />
   <Cards CatID="18265" Quantity="1" Sideboard="false" Name="Riptide Laboratory" />
   <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
   <Cards CatID="23486" Quantity="1" Sideboard="false" Name="Cloudstone Curio" />
@@ -45,7 +45,7 @@
   <Cards CatID="59069" Quantity="1" Sideboard="false" Name="Thought Vessel" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="56134" Quantity="1" Sideboard="false" Name="Silumgar's Command" />
-  <Cards CatID="55924" Quantity="1" Sideboard="false" Name="Clone Legion" />
+  <Cards CatID="26594" Quantity="1" Sideboard="false" Name="Venser, Shaper Savant" />
   <Cards CatID="40762" Quantity="1" Sideboard="false" Name="Rakdos Signet" />
   <Cards CatID="7294" Quantity="1" Sideboard="false" Name="Shadow Guildmage" />
   <Cards CatID="23679" Quantity="1" Sideboard="false" Name="Izzet Signet" />
