@@ -16,7 +16,7 @@
   <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
   <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
   <Cards CatID="36855" Quantity="1" Sideboard="false" Name="Land Tax" />
-  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="64736" Quantity="1" Sideboard="false" Name="Pride Sovereign" />
   <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
   <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
   <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
@@ -41,5 +41,47 @@
   <Cards CatID="20912" Quantity="1" Sideboard="false" Name="Raksha Golden Cub" />
   <Cards CatID="39842" Quantity="1" Sideboard="false" Name="Lost Leonin" />
   <Cards CatID="55117" Quantity="1" Sideboard="false" Name="Jazal Goldmane" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="59878" Quantity="1" Sideboard="false" Name="Declaration in Stone" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="49066" Quantity="1" Sideboard="false" Name="Krosan Grip" />
+  <Cards CatID="40576" Quantity="1" Sideboard="false" Name="Aura Shards" />
+  <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
+  <Cards CatID="31421" Quantity="1" Sideboard="false" Name="Mirari's Wake" />
+  <Cards CatID="63650" Quantity="1" Sideboard="false" Name="Regal Caracal" />
+  <Cards CatID="64488" Quantity="1" Sideboard="false" Name="Adorned Pouncer" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
+  <Cards CatID="51739" Quantity="1" Sideboard="false" Name="Brimaz, King of Oreskos" />
+  <Cards CatID="49539" Quantity="1" Sideboard="false" Name="Ajani's Chosen" />
+  <Cards CatID="65677" Quantity="1" Sideboard="false" Name="Alms Collector" />
+  <Cards CatID="65757" Quantity="1" Sideboard="false" Name="Balan, Wandering Knight" />
+  <Cards CatID="54999" Quantity="1" Sideboard="false" Name="Cathars' Crusade" />
+  <Cards CatID="50262" Quantity="1" Sideboard="false" Name="Fleecemane Lion" />
+  <Cards CatID="65711" Quantity="1" Sideboard="false" Name="Hungry Lynx" />
+  <Cards CatID="26349" Quantity="1" Sideboard="false" Name="Jedit Ojanen of Efrava" />
+  <Cards CatID="17751" Quantity="1" Sideboard="false" Name="Jareth, Leonine Titan" />
+  <Cards CatID="54895" Quantity="1" Sideboard="false" Name="Kemba, Kha Regent" />
+  <Cards CatID="19817" Quantity="1" Sideboard="false" Name="Leonin Abunas" />
+  <Cards CatID="27234" Quantity="1" Sideboard="false" Name="Mirri, Cat Warrior" />
+  <Cards CatID="17622" Quantity="1" Sideboard="false" Name="Phantom Nishoba" />
+  <Cards CatID="39573" Quantity="1" Sideboard="false" Name="White Sun's Zenith" />
+  <Cards CatID="32284" Quantity="1" Sideboard="false" Name="Qasali Pridemage" />
+  <Cards CatID="65669" Quantity="1" Sideboard="false" Name="Hammer of Nazahn" />
+  <Cards CatID="52891" Quantity="1" Sideboard="false" Name="Armadillo Cloak" />
+  <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="20756" Quantity="1" Sideboard="false" Name="Steelshaper's Gift" />
+  <Cards CatID="59966" Quantity="1" Sideboard="false" Name="Open the Armory" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="52134" Quantity="1" Sideboard="false" Name="Ajani, Mentor of Heroes" />
+  <Cards CatID="36768" Quantity="1" Sideboard="false" Name="Bear Umbra" />
+  <Cards CatID="41427" Quantity="1" Sideboard="false" Name="Angelic Destiny" />
+  <Cards CatID="18667" Quantity="1" Sideboard="false" Name="Alpha Status" />
+  <Cards CatID="45252" Quantity="1" Sideboard="false" Name="Rancor" />
+  <Cards CatID="38451" Quantity="1" Sideboard="false" Name="Leonin Arbiter" />
+  <Cards CatID="62831" Quantity="1" Sideboard="false" Name="Ajani Unyielding" />
   <Cards CatID="65735" Quantity="1" Sideboard="true" Name="Arahbo, Roar of the World" />
 </Deck>
