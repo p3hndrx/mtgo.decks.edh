@@ -6,23 +6,20 @@
   <Cards CatID="58573" Quantity="1" Sideboard="false" Name="Bring to Light" />
   <Cards CatID="62343" Quantity="1" Sideboard="false" Name="Crystalline Crawler" />
   <Cards CatID="23879" Quantity="1" Sideboard="false" Name="Witch-Maw Nephilim" />
-  <Cards CatID="58545" Quantity="1" Sideboard="false" Name="Painful Truths" />
   <Cards CatID="58653" Quantity="1" Sideboard="false" Name="Prism Array" />
   <Cards CatID="58741" Quantity="1" Sideboard="false" Name="Radiant Flames" />
   <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
   <Cards CatID="58655" Quantity="1" Sideboard="false" Name="Woodland Wanderer" />
   <Cards CatID="58597" Quantity="1" Sideboard="false" Name="Skyrider Elf" />
-  <Cards CatID="58723" Quantity="1" Sideboard="false" Name="Unified Front" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
   <Cards CatID="58775" Quantity="1" Sideboard="false" Name="Brilliant Spectrum" />
   <Cards CatID="54166" Quantity="1" Sideboard="false" Name="Nomad Outpost" />
   <Cards CatID="54164" Quantity="1" Sideboard="false" Name="Opulent Palace" />
-  <Cards CatID="26926" Quantity="1" Sideboard="false" Name="Coalition Relic" />
   <Cards CatID="30260" Quantity="1" Sideboard="false" Name="Bloom Tender" />
   <Cards CatID="62275" Quantity="1" Sideboard="false" Name="Selvala, Heart of the Wilds" />
   <Cards CatID="54160" Quantity="1" Sideboard="false" Name="Sandsteppe Citadel" />
   <Cards CatID="54068" Quantity="1" Sideboard="false" Name="Sultai Banner" />
   <Cards CatID="54062" Quantity="1" Sideboard="false" Name="Mardu Banner" />
-  <Cards CatID="54430" Quantity="1" Sideboard="false" Name="Mardu Ascendancy" />
   <Cards CatID="54168" Quantity="1" Sideboard="false" Name="Frontier Bivouac" />
   <Cards CatID="54426" Quantity="1" Sideboard="false" Name="Abzan Ascendancy" />
   <Cards CatID="54060" Quantity="1" Sideboard="false" Name="Abzan Banner" />
@@ -30,7 +27,6 @@
   <Cards CatID="54064" Quantity="1" Sideboard="false" Name="Jeskai Banner" />
   <Cards CatID="20870" Quantity="1" Sideboard="false" Name="Etched Oracle" />
   <Cards CatID="20713" Quantity="1" Sideboard="false" Name="Opaline Bracers" />
-  <Cards CatID="24277" Quantity="1" Sideboard="false" Name="Brace for Impact" />
   <Cards CatID="32468" Quantity="1" Sideboard="false" Name="Bant Sureblade" />
   <Cards CatID="23885" Quantity="1" Sideboard="false" Name="Yore-Tiller Nephilim" />
   <Cards CatID="23887" Quantity="1" Sideboard="false" Name="Glint-Eye Nephilim" />
@@ -46,12 +42,10 @@
   <Cards CatID="56192" Quantity="1" Sideboard="false" Name="Sarkhan Unbroken" />
   <Cards CatID="29591" Quantity="1" Sideboard="false" Name="Prismatic Omen" />
   <Cards CatID="32498" Quantity="1" Sideboard="false" Name="Gloryscale Viashino" />
-  <Cards CatID="46693" Quantity="1" Sideboard="false" Name="Pyroconvergence" />
   <Cards CatID="32232" Quantity="1" Sideboard="false" Name="Reborn Hope" />
   <Cards CatID="24369" Quantity="1" Sideboard="false" Name="Supply/Demand" />
-  <Cards CatID="23883" Quantity="1" Sideboard="false" Name="Ink-Treader Nephilim" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
   <Cards CatID="32496" Quantity="1" Sideboard="false" Name="Cloven Casting" />
-  <Cards CatID="26868" Quantity="1" Sideboard="false" Name="Glittering Wish" />
   <Cards CatID="32476" Quantity="1" Sideboard="false" Name="Knight of New Alara" />
   <Cards CatID="24111" Quantity="1" Sideboard="false" Name="Pillar of the Paruns" />
   <Cards CatID="54448" Quantity="1" Sideboard="false" Name="Villainous Wealth" />
@@ -85,7 +79,6 @@
   <Cards CatID="60977" Quantity="1" Sideboard="false" Name="Maelstrom Wanderer" />
   <Cards CatID="57320" Quantity="1" Sideboard="false" Name="Etched Monstrosity" />
   <Cards CatID="20886" Quantity="1" Sideboard="false" Name="Bringer of the Green Dawn" />
-  <Cards CatID="20892" Quantity="1" Sideboard="false" Name="Bringer of the Black Dawn" />
   <Cards CatID="20890" Quantity="1" Sideboard="false" Name="Bringer of the Blue Dawn" />
   <Cards CatID="29387" Quantity="1" Sideboard="false" Name="Safewright Quest" />
   <Cards CatID="30915" Quantity="1" Sideboard="false" Name="Bant Panorama" />
@@ -96,7 +89,6 @@
   <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
   <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
   <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
-  <Cards CatID="52679" Quantity="1" Sideboard="false" Name="Caldera Lake" />
   <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
   <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
   <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
@@ -122,5 +114,6 @@
   <Cards CatID="53478" Quantity="1" Sideboard="false" Name="Forest" />
   <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
   <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
-  <Cards CatID="16278" Quantity="1" Sideboard="true" Name="Cromat" />
+  <Cards CatID="16278" Quantity="1" Sideboard="false" Name="Cromat" />
+  <Cards CatID="65749" Quantity="1" Sideboard="true" Name="Ramos, Dragon Engine" />
 </Deck>
