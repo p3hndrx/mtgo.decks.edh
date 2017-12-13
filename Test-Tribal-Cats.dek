@@ -4,7 +4,7 @@
   <PreconstructedDeckID>0</PreconstructedDeckID>
   <Cards CatID="65707" Quantity="1" Sideboard="false" Name="Mirri, Weatherlight Duelist" />
   <Cards CatID="65771" Quantity="1" Sideboard="false" Name="Nazahn, Revered Bladesmith" />
-  <Cards CatID="65719" Quantity="1" Sideboard="false" Name="Kindred Summons" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
   <Cards CatID="65683" Quantity="1" Sideboard="false" Name="Heirloom Blade" />
   <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
   <Cards CatID="65751" Quantity="1" Sideboard="false" Name="Mirror of the Forebears" />
@@ -33,8 +33,8 @@
   <Cards CatID="64156" Quantity="1" Sideboard="false" Name="Scattered Groves" />
   <Cards CatID="59842" Quantity="1" Sideboard="false" Name="Fortified Village" />
   <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" />
-  <Cards CatID="53478" Quantity="10" Sideboard="false" Name="Forest" />
-  <Cards CatID="53484" Quantity="10" Sideboard="false" Name="Plains" />
+  <Cards CatID="53478" Quantity="8" Sideboard="false" Name="Forest" />
+  <Cards CatID="53484" Quantity="12" Sideboard="false" Name="Plains" />
   <Cards CatID="19615" Quantity="1" Sideboard="false" Name="Elfhame Palace" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
   <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
