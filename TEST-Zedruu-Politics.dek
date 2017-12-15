@@ -59,7 +59,6 @@
   <Cards CatID="27969" Quantity="1" Sideboard="false" Name="Preacher" />
   <Cards CatID="36410" Quantity="1" Sideboard="false" Name="Lightmine Field" />
   <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
-  <Cards CatID="63618" Quantity="1" Sideboard="false" Name="Cast Out" />
   <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
   <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
   <Cards CatID="58623" Quantity="1" Sideboard="false" Name="Prairie Stream" />
@@ -92,5 +91,6 @@
   <Cards CatID="62721" Quantity="1" Sideboard="false" Name="Wrangle" />
   <Cards CatID="28016" Quantity="1" Sideboard="false" Name="Seasinger" />
   <Cards CatID="40524" Quantity="1" Sideboard="false" Name="Dominus of Fealty" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
   <Cards CatID="40648" Quantity="1" Sideboard="true" Name="Zedruu the Greathearted" />
 </Deck>
