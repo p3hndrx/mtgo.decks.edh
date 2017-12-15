@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="50390" Quantity="1" Sideboard="false" Name="Akroan Horse" />
+  <Cards CatID="55414" Quantity="1" Sideboard="false" Name="Humble Defector" />
+  <Cards CatID="61406" Quantity="1" Sideboard="false" Name="Harmless Offering" />
+  <Cards CatID="28049" Quantity="1" Sideboard="false" Name="Illusions of Grandeur" />
+  <Cards CatID="35580" Quantity="1" Sideboard="false" Name="Bazaar Trader" />
+  <Cards CatID="51795" Quantity="1" Sideboard="false" Name="Perplexing Chimera" />
+  <Cards CatID="46471" Quantity="1" Sideboard="false" Name="Conjured Currency" />
+  <Cards CatID="40750" Quantity="1" Sideboard="false" Name="Vedalken Plotter" />
+  <Cards CatID="29343" Quantity="1" Sideboard="false" Name="Puca's Mischief" />
+  <Cards CatID="20223" Quantity="1" Sideboard="false" Name="Confusion in the Ranks" />
+  <Cards CatID="16857" Quantity="1" Sideboard="false" Name="Cultural Exchange" />
+  <Cards CatID="7201" Quantity="1" Sideboard="false" Name="Political Trickery" />
+  <Cards CatID="10109" Quantity="1" Sideboard="false" Name="Legacy's Allure" />
+  <Cards CatID="65681" Quantity="1" Sideboard="false" Name="Fractured Identity" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="45256" Quantity="1" Sideboard="false" Name="Oblivion Ring" />
+  <Cards CatID="58949" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
+  <Cards CatID="46423" Quantity="1" Sideboard="false" Name="Detention Sphere" />
+  <Cards CatID="59069" Quantity="1" Sideboard="false" Name="Thought Vessel" />
+  <Cards CatID="16044" Quantity="1" Sideboard="false" Name="Wild Research" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="53548" Quantity="1" Sideboard="false" Name="Aggressive Mining" />
+  <Cards CatID="60184" Quantity="1" Sideboard="false" Name="Goldnight Castigator" />
+  <Cards CatID="19887" Quantity="1" Sideboard="false" Name="Grid Monitor" />
+  <Cards CatID="20109" Quantity="1" Sideboard="false" Name="Rust Elemental" />
+  <Cards CatID="27540" Quantity="1" Sideboard="false" Name="Windborn Muse" />
+  <Cards CatID="45627" Quantity="1" Sideboard="false" Name="Fog Bank" />
+  <Cards CatID="35661" Quantity="1" Sideboard="false" Name="Kazuul, Tyrant of the Cliffs" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="38646" Quantity="1" Sideboard="false" Name="Aladdin" />
+  <Cards CatID="24153" Quantity="1" Sideboard="false" Name="Bronze Bombshell" />
+  <Cards CatID="52977" Quantity="1" Sideboard="false" Name="Chaos Warp" />
+  <Cards CatID="17763" Quantity="1" Sideboard="false" Name="Oblation" />
+  <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="39734" Quantity="1" Sideboard="false" Name="Phyrexian Metamorph" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="18091" Quantity="1" Sideboard="false" Name="Insurrection" />
+  <Cards CatID="39848" Quantity="1" Sideboard="false" Name="Phyrexian Unlife" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="54064" Quantity="1" Sideboard="false" Name="Jeskai Banner" />
+  <Cards CatID="9733" Quantity="1" Sideboard="false" Name="Jinxed Idol" />
+  <Cards CatID="65745" Quantity="1" Sideboard="false" Name="Curse of Opulence" />
+  <Cards CatID="42462" Quantity="1" Sideboard="false" Name="Curse of Stalked Prey" />
+  <Cards CatID="16999" Quantity="1" Sideboard="false" Name="Karmic Justice" />
+  <Cards CatID="30732" Quantity="1" Sideboard="false" Name="Thought Lash" />
+  <Cards CatID="17115" Quantity="1" Sideboard="false" Name="Transcendence" />
+  <Cards CatID="65767" Quantity="1" Sideboard="false" Name="Curse of Verbosity" />
+  <Cards CatID="15460" Quantity="1" Sideboard="false" Name="Delusions of Mediocrity" />
+  <Cards CatID="14881" Quantity="1" Sideboard="false" Name="Hanna, Ship's Navigator" />
+  <Cards CatID="50374" Quantity="1" Sideboard="false" Name="Gift of Immortality" />
+  <Cards CatID="27969" Quantity="1" Sideboard="false" Name="Preacher" />
+  <Cards CatID="36410" Quantity="1" Sideboard="false" Name="Lightmine Field" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="63618" Quantity="1" Sideboard="false" Name="Cast Out" />
+  <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
+  <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
+  <Cards CatID="58623" Quantity="1" Sideboard="false" Name="Prairie Stream" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" />
+  <Cards CatID="47815" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="57670" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
+  <Cards CatID="42654" Quantity="1" Sideboard="false" Name="Clifftop Retreat" />
+  <Cards CatID="41217" Quantity="1" Sideboard="false" Name="Glacial Fortress" />
+  <Cards CatID="59926" Quantity="1" Sideboard="false" Name="Port Town" />
+  <Cards CatID="38289" Quantity="1" Sideboard="false" Name="Seachrome Coast" />
+  <Cards CatID="51561" Quantity="1" Sideboard="false" Name="Temple of Enlightenment" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="50270" Quantity="1" Sideboard="false" Name="Temple of Triumph" />
+  <Cards CatID="11893" Quantity="1" Sideboard="false" Name="Serra's Sanctum" />
+  <Cards CatID="22525" Quantity="1" Sideboard="false" Name="Adarkar Wastes" />
+  <Cards CatID="22655" Quantity="1" Sideboard="false" Name="Shivan Reef" />
+  <Cards CatID="53482" Quantity="4" Sideboard="false" Name="Island" />
+  <Cards CatID="53480" Quantity="4" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53484" Quantity="4" Sideboard="false" Name="Plains" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="48468" Quantity="1" Sideboard="false" Name="Azorius Cluestone" />
+  <Cards CatID="48452" Quantity="1" Sideboard="false" Name="Boros Cluestone" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="18085" Quantity="1" Sideboard="false" Name="Risky Move" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="62721" Quantity="1" Sideboard="false" Name="Wrangle" />
+  <Cards CatID="28016" Quantity="1" Sideboard="false" Name="Seasinger" />
+  <Cards CatID="40524" Quantity="1" Sideboard="false" Name="Dominus of Fealty" />
+  <Cards CatID="40648" Quantity="1" Sideboard="true" Name="Zedruu the Greathearted" />
+</Deck>
