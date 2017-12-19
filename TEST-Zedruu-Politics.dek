@@ -11,7 +11,6 @@
   <Cards CatID="46471" Quantity="1" Sideboard="false" Name="Conjured Currency" />
   <Cards CatID="40750" Quantity="1" Sideboard="false" Name="Vedalken Plotter" />
   <Cards CatID="29343" Quantity="1" Sideboard="false" Name="Puca's Mischief" />
-  <Cards CatID="20223" Quantity="1" Sideboard="false" Name="Confusion in the Ranks" />
   <Cards CatID="16857" Quantity="1" Sideboard="false" Name="Cultural Exchange" />
   <Cards CatID="7201" Quantity="1" Sideboard="false" Name="Political Trickery" />
   <Cards CatID="10109" Quantity="1" Sideboard="false" Name="Legacy's Allure" />
@@ -29,7 +28,6 @@
   <Cards CatID="60184" Quantity="1" Sideboard="false" Name="Goldnight Castigator" />
   <Cards CatID="19887" Quantity="1" Sideboard="false" Name="Grid Monitor" />
   <Cards CatID="20109" Quantity="1" Sideboard="false" Name="Rust Elemental" />
-  <Cards CatID="27540" Quantity="1" Sideboard="false" Name="Windborn Muse" />
   <Cards CatID="45627" Quantity="1" Sideboard="false" Name="Fog Bank" />
   <Cards CatID="35661" Quantity="1" Sideboard="false" Name="Kazuul, Tyrant of the Cliffs" />
   <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
@@ -48,7 +46,6 @@
   <Cards CatID="54064" Quantity="1" Sideboard="false" Name="Jeskai Banner" />
   <Cards CatID="9733" Quantity="1" Sideboard="false" Name="Jinxed Idol" />
   <Cards CatID="65745" Quantity="1" Sideboard="false" Name="Curse of Opulence" />
-  <Cards CatID="42462" Quantity="1" Sideboard="false" Name="Curse of Stalked Prey" />
   <Cards CatID="16999" Quantity="1" Sideboard="false" Name="Karmic Justice" />
   <Cards CatID="30732" Quantity="1" Sideboard="false" Name="Thought Lash" />
   <Cards CatID="17115" Quantity="1" Sideboard="false" Name="Transcendence" />
@@ -59,6 +56,7 @@
   <Cards CatID="27969" Quantity="1" Sideboard="false" Name="Preacher" />
   <Cards CatID="36410" Quantity="1" Sideboard="false" Name="Lightmine Field" />
   <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="47887" Quantity="1" Sideboard="false" Name="Simic Manipulator" />
   <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
   <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
   <Cards CatID="58623" Quantity="1" Sideboard="false" Name="Prairie Stream" />
@@ -92,5 +90,7 @@
   <Cards CatID="28016" Quantity="1" Sideboard="false" Name="Seasinger" />
   <Cards CatID="40524" Quantity="1" Sideboard="false" Name="Dominus of Fealty" />
   <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="24349" Quantity="1" Sideboard="false" Name="Cytoplast Manipulator" />
+  <Cards CatID="16845" Quantity="1" Sideboard="false" Name="Chamber of Manipulation" />
   <Cards CatID="40648" Quantity="1" Sideboard="true" Name="Zedruu the Greathearted" />
 </Deck>
