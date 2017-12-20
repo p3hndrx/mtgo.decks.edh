@@ -60,7 +60,6 @@
   <Cards CatID="15822" Quantity="1" Sideboard="false" Name="Seeker of Skybreak" />
   <Cards CatID="28327" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
   <Cards CatID="21535" Quantity="1" Sideboard="false" Name="Azusa, Lost but Seeking" />
-  <Cards CatID="15632" Quantity="1" Sideboard="false" Name="Jandor's Saddlebags" />
   <Cards CatID="9961" Quantity="1" Sideboard="false" Name="Puppet Strings" />
   <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" />
   <Cards CatID="28345" Quantity="1" Sideboard="false" Name="Mosswort Bridge" />
@@ -74,5 +73,6 @@
   <Cards CatID="20329" Quantity="1" Sideboard="false" Name="Darksteel Colossus" />
   <Cards CatID="26281" Quantity="1" Sideboard="false" Name="Essence Warden" />
   <Cards CatID="38055" Quantity="1" Sideboard="false" Name="Copperhorn Scout" />
+  <Cards CatID="25859" Quantity="1" Sideboard="false" Name="Scryb Ranger" />
   <Cards CatID="53652" Quantity="1" Sideboard="true" Name="Yisan, the Wanderer Bard" />
 </Deck>
