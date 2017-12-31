@@ -7,9 +7,11 @@
   <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
   <Cards CatID="65683" Quantity="1" Sideboard="false" Name="Heirloom Blade" />
   <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="65751" Quantity="1" Sideboard="false" Name="Mirror of the Forebears" />
   <Cards CatID="65506" Quantity="1" Sideboard="false" Name="Pillar of Origins" />
   <Cards CatID="59590" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
   <Cards CatID="21491" Quantity="1" Sideboard="false" Name="Konda's Banner" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
   <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
   <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
   <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
@@ -44,11 +46,12 @@
   <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
   <Cards CatID="49066" Quantity="1" Sideboard="false" Name="Krosan Grip" />
   <Cards CatID="40576" Quantity="1" Sideboard="false" Name="Aura Shards" />
+  <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
   <Cards CatID="31421" Quantity="1" Sideboard="false" Name="Mirari's Wake" />
   <Cards CatID="63650" Quantity="1" Sideboard="false" Name="Regal Caracal" />
   <Cards CatID="64488" Quantity="1" Sideboard="false" Name="Adorned Pouncer" />
   <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
-  <Cards CatID="37138" Quantity="1" Sideboard="false" Name="Ajani Goldmane" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
   <Cards CatID="51739" Quantity="1" Sideboard="false" Name="Brimaz, King of Oreskos" />
   <Cards CatID="49539" Quantity="1" Sideboard="false" Name="Ajani's Chosen" />
   <Cards CatID="65677" Quantity="1" Sideboard="false" Name="Alms Collector" />
@@ -80,8 +83,5 @@
   <Cards CatID="45252" Quantity="1" Sideboard="false" Name="Rancor" />
   <Cards CatID="38451" Quantity="1" Sideboard="false" Name="Leonin Arbiter" />
   <Cards CatID="62831" Quantity="1" Sideboard="false" Name="Ajani Unyielding" />
-  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
-  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
-  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
   <Cards CatID="65735" Quantity="1" Sideboard="true" Name="Arahbo, Roar of the World" />
 </Deck>
