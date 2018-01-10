@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="48786" Quantity="1" Sideboard="false" Name="Glen Elendra Archmage" />
+  <Cards CatID="62353" Quantity="1" Sideboard="false" Name="Faerie Artisans" />
+  <Cards CatID="28767" Quantity="1" Sideboard="false" Name="Sower of Temptation" />
+  <Cards CatID="57060" Quantity="1" Sideboard="false" Name="Puppeteer Clique" />
+  <Cards CatID="28474" Quantity="1" Sideboard="false" Name="Wydwen, the Biting Gale" />
+  <Cards CatID="53642" Quantity="1" Sideboard="false" Name="Quickling" />
+  <Cards CatID="29162" Quantity="1" Sideboard="false" Name="Oona's Blackguard" />
+  <Cards CatID="28397" Quantity="1" Sideboard="false" Name="Marsh Flitter" />
+  <Cards CatID="12527" Quantity="1" Sideboard="false" Name="Cloud of Faeries" />
+  <Cards CatID="28241" Quantity="1" Sideboard="false" Name="Pestermite" />
+  <Cards CatID="28243" Quantity="1" Sideboard="false" Name="Spellstutter Sprite" />
+  <Cards CatID="27328" Quantity="1" Sideboard="false" Name="Cloud Sprite" />
+  <Cards CatID="12577" Quantity="1" Sideboard="false" Name="Thornwind Faeries" />
+  <Cards CatID="29014" Quantity="1" Sideboard="false" Name="Notorious Throng" />
+  <Cards CatID="29234" Quantity="1" Sideboard="false" Name="Violet Pall" />
+  <Cards CatID="28249" Quantity="1" Sideboard="false" Name="Faerie Trickery" />
+  <Cards CatID="27116" Quantity="1" Sideboard="false" Name="Faerie Conclave" />
+  <Cards CatID="29327" Quantity="1" Sideboard="false" Name="Oona's Gatewarden" />
+  <Cards CatID="28375" Quantity="1" Sideboard="false" Name="Faerie Tauntings" />
+  <Cards CatID="57054" Quantity="1" Sideboard="false" Name="Bitterblossom" />
+  <Cards CatID="28275" Quantity="1" Sideboard="false" Name="Peppersmoke" />
+  <Cards CatID="36863" Quantity="1" Sideboard="false" Name="Curse of Wizardry" />
+  <Cards CatID="29597" Quantity="1" Sideboard="true" Name="Oona, Queen of the Fae" />
+</Deck>
