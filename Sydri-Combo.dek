@@ -7,7 +7,6 @@
   <Cards CatID="22623" Quantity="1" Sideboard="false" Name="Underground River" />
   <Cards CatID="59089" Quantity="1" Sideboard="false" Name="Basalt Monolith" />
   <Cards CatID="20718" Quantity="1" Sideboard="false" Name="Trinket Mage" />
-  <Cards CatID="32420" Quantity="1" Sideboard="false" Name="Thopter Foundry" />
   <Cards CatID="12931" Quantity="1" Sideboard="false" Name="Caltrops" />
   <Cards CatID="57668" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
   <Cards CatID="46783" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
@@ -26,12 +25,10 @@
   <Cards CatID="42242" Quantity="1" Sideboard="false" Name="Sharuum the Hegemon" />
   <Cards CatID="20017" Quantity="1" Sideboard="false" Name="Seat of the Synod" />
   <Cards CatID="20059" Quantity="1" Sideboard="false" Name="Sculpting Steel" />
-  <Cards CatID="58949" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
   <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
   <Cards CatID="58623" Quantity="1" Sideboard="false" Name="Prairie Stream" />
   <Cards CatID="51200" Quantity="1" Sideboard="false" Name="Plains" />
   <Cards CatID="52897" Quantity="1" Sideboard="false" Name="Nevinyrral's Disk" />
-  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
   <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="38435" Quantity="1" Sideboard="false" Name="Kuldotha Forgemaster" />
   <Cards CatID="42652" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
@@ -41,7 +38,6 @@
   <Cards CatID="51198" Quantity="1" Sideboard="false" Name="Island" />
   <Cards CatID="31741" Quantity="1" Sideboard="false" Name="Master Transmuter" />
   <Cards CatID="20331" Quantity="1" Sideboard="false" Name="Memnarch" />
-  <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
   <Cards CatID="20585" Quantity="1" Sideboard="false" Name="Mycosynth Lattice" />
   <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
   <Cards CatID="38194" Quantity="1" Sideboard="false" Name="Grand Architect" />
@@ -100,5 +96,9 @@
   <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
   <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="66827" Quantity="1" Sideboard="false" Name="The Immortal Sun" />
+  <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
+  <Cards CatID="66823" Quantity="1" Sideboard="false" Name="Golden Guardian" />
+  <Cards CatID="62879" Quantity="1" Sideboard="false" Name="Treasure Keeper" />
   <Cards CatID="51398" Quantity="1" Sideboard="true" Name="Sydri, Galvanic Genius" />
 </Deck>

@@ -25,31 +25,24 @@
   <Cards CatID="65366" Quantity="1" Sideboard="false" Name="Wily Goblin" />
   <Cards CatID="65460" Quantity="1" Sideboard="false" Name="Deadeye Plunderers" />
   <Cards CatID="65470" Quantity="1" Sideboard="false" Name="Marauding Looter" />
-  <Cards CatID="30176" Quantity="1" Sideboard="false" Name="Noggle Bandit" />
-  <Cards CatID="48332" Quantity="1" Sideboard="false" Name="Notion Thief" />
+  <Cards CatID="66765" Quantity="1" Sideboard="false" Name="Dire Fleet Neckbreaker" />
   <Cards CatID="19187" Quantity="1" Sideboard="false" Name="Coastal Piracy" />
-  <Cards CatID="61765" Quantity="1" Sideboard="false" Name="Contraband Kingpin" />
   <Cards CatID="9637" Quantity="1" Sideboard="false" Name="Shadow Rift" />
   <Cards CatID="43403" Quantity="1" Sideboard="false" Name="Artful Dodge" />
   <Cards CatID="50456" Quantity="1" Sideboard="false" Name="Aqueous Form" />
   <Cards CatID="36732" Quantity="1" Sideboard="false" Name="Distortion Strike" />
-  <Cards CatID="39748" Quantity="1" Sideboard="false" Name="Blighted Agent" />
   <Cards CatID="23286" Quantity="1" Sideboard="false" Name="Dimir Infiltrator" />
   <Cards CatID="61795" Quantity="1" Sideboard="false" Name="Skysovereign, Consul Flagship" />
   <Cards CatID="32309" Quantity="1" Sideboard="false" Name="Mask of Riddles" />
   <Cards CatID="35735" Quantity="1" Sideboard="false" Name="Thada Adel, Acquisitor" />
-  <Cards CatID="63744" Quantity="1" Sideboard="false" Name="Slither Blade" />
+  <Cards CatID="66795" Quantity="1" Sideboard="false" Name="Protean Raider" />
   <Cards CatID="57343" Quantity="1" Sideboard="false" Name="Shadowmage Infiltrator" />
-  <Cards CatID="33432" Quantity="1" Sideboard="false" Name="Looter il-Kor" />
   <Cards CatID="33578" Quantity="1" Sideboard="false" Name="Ramirez DePietro" />
   <Cards CatID="20539" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
   <Cards CatID="47785" Quantity="1" Sideboard="false" Name="Five-Alarm Fire" />
   <Cards CatID="62273" Quantity="1" Sideboard="false" Name="Grenzo, Havoc Raiser" />
-  <Cards CatID="57910" Quantity="1" Sideboard="false" Name="Jhessian Thief" />
-  <Cards CatID="37362" Quantity="1" Sideboard="false" Name="Scroll Thief" />
   <Cards CatID="50406" Quantity="1" Sideboard="false" Name="Bident of Thassa" />
   <Cards CatID="47908" Quantity="1" Sideboard="false" Name="Call of the Nightwing" />
-  <Cards CatID="47880" Quantity="1" Sideboard="false" Name="Whispering Madness" />
   <Cards CatID="59982" Quantity="1" Sideboard="false" Name="Skeleton Key" />
   <Cards CatID="65492" Quantity="1" Sideboard="false" Name="Dowsing Dagger" />
   <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
@@ -89,5 +82,12 @@
   <Cards CatID="32234" Quantity="1" Sideboard="false" Name="Terminate" />
   <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
   <Cards CatID="28485" Quantity="1" Sideboard="false" Name="Amoeboid Changeling" />
+  <Cards CatID="66519" Quantity="1" Sideboard="false" Name="Crafty Cutpurse" />
+  <Cards CatID="66763" Quantity="1" Sideboard="false" Name="Deadeye Brawler" />
+  <Cards CatID="66651" Quantity="1" Sideboard="false" Name="Dire Fleet Daredevil" />
+  <Cards CatID="66627" Quantity="1" Sideboard="false" Name="Tomb Robber" />
+  <Cards CatID="66571" Quantity="1" Sideboard="false" Name="Timestream Navigator" />
+  <Cards CatID="66805" Quantity="1" Sideboard="false" Name="Storm Fleet Sprinter" />
+  <Cards CatID="66687" Quantity="1" Sideboard="false" Name="Storm Fleet Swashbuckler" />
   <Cards CatID="65454" Quantity="1" Sideboard="true" Name="Admiral Beckett Brass" />
 </Deck>

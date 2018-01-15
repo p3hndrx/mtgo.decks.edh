@@ -16,8 +16,8 @@
   <Cards CatID="48270" Quantity="1" Sideboard="false" Name="Blood Baron of Vizkopa" />
   <Cards CatID="41638" Quantity="1" Sideboard="false" Name="Bloodlord of Vaasgoth" />
   <Cards CatID="46791" Quantity="1" Sideboard="false" Name="Necropolis Regent" />
-  <Cards CatID="44049" Quantity="1" Sideboard="false" Name="Exquisite Blood" />
-  <Cards CatID="39535" Quantity="1" Sideboard="false" Name="Sangromancer" />
+  <Cards CatID="36424" Quantity="1" Sideboard="false" Name="Nirkana Revenant" />
+  <Cards CatID="54258" Quantity="1" Sideboard="false" Name="Sorin, Solemn Visitor" />
   <Cards CatID="35571" Quantity="1" Sideboard="false" Name="Anowon, the Ruin Sage" />
   <Cards CatID="60324" Quantity="1" Sideboard="false" Name="Asylum Visitor" />
   <Cards CatID="65020" Quantity="1" Sideboard="false" Name="Bishop of Rebirth" />
@@ -37,7 +37,6 @@
   <Cards CatID="43331" Quantity="1" Sideboard="false" Name="Stromkirk Captain" />
   <Cards CatID="61392" Quantity="1" Sideboard="false" Name="Vampire Cutthroat" />
   <Cards CatID="45354" Quantity="1" Sideboard="false" Name="Vampire Nighthawk" />
-  <Cards CatID="41261" Quantity="1" Sideboard="false" Name="Blood Seeker" />
   <Cards CatID="53784" Quantity="1" Sideboard="false" Name="Child of Night" />
   <Cards CatID="48476" Quantity="1" Sideboard="false" Name="Tithe Drinker" />
   <Cards CatID="17765" Quantity="1" Sideboard="false" Name="Shared Triumph" />
@@ -54,7 +53,7 @@
   <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
   <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
   <Cards CatID="64496" Quantity="1" Sideboard="false" Name="Crested Sunmare" />
-  <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
+  <Cards CatID="49403" Quantity="1" Sideboard="false" Name="Angelic Accord" />
   <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
   <Cards CatID="34378" Quantity="1" Sideboard="false" Name="Blood Tribute" />
   <Cards CatID="45562" Quantity="1" Sideboard="false" Name="Rhox Faithmender" />
@@ -92,6 +91,7 @@
   <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
   <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
   <Cards CatID="40537" Quantity="1" Sideboard="false" Name="Terminate" />
-  <Cards CatID="51024" Quantity="1" Sideboard="false" Name="Sanguine Bond" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
+  <Cards CatID="66581" Quantity="1" Sideboard="false" Name="Champion of Dusk" />
   <Cards CatID="65729" Quantity="1" Sideboard="true" Name="Licia, Sanguine Tribune" />
 </Deck>

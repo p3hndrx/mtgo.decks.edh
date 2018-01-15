@@ -16,9 +16,8 @@
   <Cards CatID="9289" Quantity="1" Sideboard="false" Name="Liege of the Hollows" />
   <Cards CatID="57144" Quantity="1" Sideboard="false" Name="Ant Queen" />
   <Cards CatID="31333" Quantity="1" Sideboard="false" Name="Mycoloth" />
-  <Cards CatID="17063" Quantity="1" Sideboard="false" Name="Parallel Evolution" />
   <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
-  <Cards CatID="40660" Quantity="1" Sideboard="false" Name="Hornet Queen" />
+  <Cards CatID="20786" Quantity="1" Sideboard="false" Name="Blasting Station" />
   <Cards CatID="44696" Quantity="1" Sideboard="false" Name="Living Hive" />
   <Cards CatID="54410" Quantity="1" Sideboard="false" Name="Hooded Hydra" />
   <Cards CatID="32553" Quantity="1" Sideboard="false" Name="Dragon Broodmother" />
@@ -70,16 +69,17 @@
   <Cards CatID="37406" Quantity="1" Sideboard="false" Name="Sun Titan" />
   <Cards CatID="34546" Quantity="1" Sideboard="false" Name="Lotus Cobra" />
   <Cards CatID="50316" Quantity="1" Sideboard="false" Name="Xenagos, the Reveler" />
-  <Cards CatID="50246" Quantity="1" Sideboard="false" Name="Akroan Hoplite" />
   <Cards CatID="47743" Quantity="1" Sideboard="false" Name="Aurelia, the Warleader" />
   <Cards CatID="18101" Quantity="1" Sideboard="false" Name="Aggravated Assault" />
   <Cards CatID="15790" Quantity="1" Sideboard="false" Name="Relentless Assault" />
-  <Cards CatID="58949" Quantity="1" Sideboard="false" Name="Ghostly Prison" />
+  <Cards CatID="60725" Quantity="1" Sideboard="false" Name="Intangible Virtue" />
   <Cards CatID="63606" Quantity="1" Sideboard="false" Name="Anointed Procession" />
   <Cards CatID="60126" Quantity="1" Sideboard="false" Name="Second Harvest" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
   <Cards CatID="64772" Quantity="1" Sideboard="false" Name="Samut, the Tested" />
   <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
+  <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
+  <Cards CatID="40705" Quantity="1" Sideboard="false" Name="Skullclamp" />
   <Cards CatID="62325" Quantity="1" Sideboard="true" Name="Tana, the Bloodsower" />
   <Cards CatID="62321" Quantity="1" Sideboard="true" Name="Sidar Kondo of Jamuraa" />
 </Deck>
