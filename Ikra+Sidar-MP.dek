@@ -45,7 +45,6 @@
   <Cards CatID="23396" Quantity="1" Sideboard="false" Name="Oathsworn Giant" />
   <Cards CatID="47645" Quantity="1" Sideboard="false" Name="Tower Defense" />
   <Cards CatID="20778" Quantity="1" Sideboard="false" Name="Ensouled Scimitar" />
-  <Cards CatID="37408" Quantity="1" Sideboard="false" Name="Leyline of Vitality" />
   <Cards CatID="36706" Quantity="1" Sideboard="false" Name="Eland Umbra" />
   <Cards CatID="45562" Quantity="1" Sideboard="false" Name="Rhox Faithmender" />
   <Cards CatID="38423" Quantity="1" Sideboard="false" Name="Asceticism" />
@@ -80,11 +79,12 @@
   <Cards CatID="48342" Quantity="1" Sideboard="false" Name="Pontiff of Blight" />
   <Cards CatID="38143" Quantity="1" Sideboard="false" Name="Tangle Angler" />
   <Cards CatID="39732" Quantity="1" Sideboard="false" Name="Reaper of Sheoldred" />
-  <Cards CatID="51851" Quantity="1" Sideboard="false" Name="Courser of Kruphix" />
   <Cards CatID="17364" Quantity="1" Sideboard="false" Name="Guiltfeeder" />
   <Cards CatID="13603" Quantity="1" Sideboard="false" Name="Crenellated Wall" />
   <Cards CatID="61805" Quantity="1" Sideboard="false" Name="Aetherflux Reservoir" />
   <Cards CatID="36673" Quantity="1" Sideboard="false" Name="Warmonger's Chariot" />
+  <Cards CatID="66513" Quantity="1" Sideboard="false" Name="Zetalpa, Primal Dawn" />
+  <Cards CatID="24329" Quantity="1" Sideboard="false" Name="Sprouting Phytohydra" />
   <Cards CatID="62319" Quantity="1" Sideboard="true" Name="Ikra Shidiqi, the Usurper" />
   <Cards CatID="62321" Quantity="1" Sideboard="true" Name="Sidar Kondo of Jamuraa" />
 </Deck>

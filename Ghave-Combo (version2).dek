@@ -26,7 +26,6 @@
   <Cards CatID="59990" Quantity="1" Sideboard="false" Name="Sorin, Grim Nemesis" />
   <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
   <Cards CatID="58481" Quantity="1" Sideboard="false" Name="Sylvan Scrying" />
-  <Cards CatID="32669" Quantity="1" Sideboard="false" Name="Liliana Vess" />
   <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
   <Cards CatID="9823" Quantity="1" Sideboard="false" Name="Earthcraft" />
   <Cards CatID="37406" Quantity="1" Sideboard="false" Name="Sun Titan" />
@@ -94,7 +93,8 @@
   <Cards CatID="46791" Quantity="1" Sideboard="false" Name="Necropolis Regent" />
   <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
   <Cards CatID="63606" Quantity="1" Sideboard="false" Name="Anointed Procession" />
-  <Cards CatID="55316" Quantity="1" Sideboard="false" Name="Daghatar the Adamant" />
+  <Cards CatID="49349" Quantity="1" Sideboard="false" Name="Kalonian Hydra" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="51352" Quantity="1" Sideboard="false" Name="Spawning Grounds" />
   <Cards CatID="40650" Quantity="1" Sideboard="true" Name="Ghave, Guru of Spores" />
 </Deck>
