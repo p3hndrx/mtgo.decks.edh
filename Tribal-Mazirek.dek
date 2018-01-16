@@ -25,8 +25,6 @@
   <Cards CatID="53532" Quantity="1" Sideboard="false" Name="Life's Legacy" />
   <Cards CatID="36460" Quantity="1" Sideboard="false" Name="Momentous Fall" />
   <Cards CatID="40654" Quantity="1" Sideboard="false" Name="Tribute to the Wild" />
-  <Cards CatID="43142" Quantity="1" Sideboard="false" Name="Animate Dead" />
-  <Cards CatID="7566" Quantity="1" Sideboard="false" Name="Giant Caterpillar" />
   <Cards CatID="23419" Quantity="1" Sideboard="false" Name="Grave-Shell Scarab" />
   <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
   <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
@@ -83,5 +81,7 @@
   <Cards CatID="20249" Quantity="1" Sideboard="false" Name="Tree of Tales" />
   <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
   <Cards CatID="62823" Quantity="1" Sideboard="false" Name="Winding Constrictor" />
+  <Cards CatID="66633" Quantity="1" Sideboard="false" Name="Vona's Hunger" />
+  <Cards CatID="60004" Quantity="1" Sideboard="false" Name="The Gitrog Monster" />
   <Cards CatID="59227" Quantity="1" Sideboard="true" Name="Mazirek, Kraul Death Priest" />
 </Deck>

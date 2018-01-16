@@ -10,7 +10,6 @@
   <Cards CatID="43169" Quantity="1" Sideboard="false" Name="Sorin, Lord of Innistrad" />
   <Cards CatID="59990" Quantity="1" Sideboard="false" Name="Sorin, Grim Nemesis" />
   <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" />
-  <Cards CatID="26269" Quantity="1" Sideboard="false" Name="Mirri the Cursed" />
   <Cards CatID="60198" Quantity="1" Sideboard="false" Name="Call the Bloodline" />
   <Cards CatID="60146" Quantity="1" Sideboard="false" Name="Stensia Masquerade" />
   <Cards CatID="48270" Quantity="1" Sideboard="false" Name="Blood Baron of Vizkopa" />
@@ -35,11 +34,10 @@
   <Cards CatID="60020" Quantity="1" Sideboard="false" Name="Indulgent Aristocrat" />
   <Cards CatID="42598" Quantity="1" Sideboard="false" Name="Rakish Heir" />
   <Cards CatID="43331" Quantity="1" Sideboard="false" Name="Stromkirk Captain" />
-  <Cards CatID="61392" Quantity="1" Sideboard="false" Name="Vampire Cutthroat" />
   <Cards CatID="45354" Quantity="1" Sideboard="false" Name="Vampire Nighthawk" />
-  <Cards CatID="53784" Quantity="1" Sideboard="false" Name="Child of Night" />
+  <Cards CatID="66485" Quantity="1" Sideboard="false" Name="Paladin of Atonement" />
+  <Cards CatID="42764" Quantity="1" Sideboard="false" Name="Olivia Voldaren" />
   <Cards CatID="48476" Quantity="1" Sideboard="false" Name="Tithe Drinker" />
-  <Cards CatID="17765" Quantity="1" Sideboard="false" Name="Shared Triumph" />
   <Cards CatID="65721" Quantity="1" Sideboard="false" Name="Kindred Charge" />
   <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
   <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
@@ -93,5 +91,7 @@
   <Cards CatID="40537" Quantity="1" Sideboard="false" Name="Terminate" />
   <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
   <Cards CatID="66581" Quantity="1" Sideboard="false" Name="Champion of Dusk" />
+  <Cards CatID="66783" Quantity="1" Sideboard="false" Name="Legion Lieutenant" />
+  <Cards CatID="66767" Quantity="1" Sideboard="false" Name="Elenda, the Dusk Rose" />
   <Cards CatID="65729" Quantity="1" Sideboard="true" Name="Licia, Sanguine Tribune" />
 </Deck>

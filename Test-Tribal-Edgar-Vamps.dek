@@ -19,6 +19,7 @@
   <Cards CatID="36424" Quantity="1" Sideboard="false" Name="Nirkana Revenant" />
   <Cards CatID="54258" Quantity="1" Sideboard="false" Name="Sorin, Solemn Visitor" />
   <Cards CatID="35571" Quantity="1" Sideboard="false" Name="Anowon, the Ruin Sage" />
+  <Cards CatID="66783" Quantity="1" Sideboard="false" Name="Legion Lieutenant" />
   <Cards CatID="65020" Quantity="1" Sideboard="false" Name="Bishop of Rebirth" />
   <Cards CatID="37534" Quantity="1" Sideboard="false" Name="Captivating Vampire" />
   <Cards CatID="58615" Quantity="1" Sideboard="false" Name="Defiant Bloodlord" />
@@ -36,8 +37,7 @@
   <Cards CatID="43331" Quantity="1" Sideboard="false" Name="Stromkirk Captain" />
   <Cards CatID="61392" Quantity="1" Sideboard="false" Name="Vampire Cutthroat" />
   <Cards CatID="45354" Quantity="1" Sideboard="false" Name="Vampire Nighthawk" />
-  <Cards CatID="41261" Quantity="1" Sideboard="false" Name="Blood Seeker" />
-  <Cards CatID="53784" Quantity="1" Sideboard="false" Name="Child of Night" />
+  <Cards CatID="42764" Quantity="1" Sideboard="false" Name="Olivia Voldaren" />
   <Cards CatID="48476" Quantity="1" Sideboard="false" Name="Tithe Drinker" />
   <Cards CatID="17765" Quantity="1" Sideboard="false" Name="Shared Triumph" />
   <Cards CatID="65721" Quantity="1" Sideboard="false" Name="Kindred Charge" />
@@ -52,7 +52,7 @@
   <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
   <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
-  <Cards CatID="49403" Quantity="1" Sideboard="false" Name="Angelic Accord" />
+  <Cards CatID="66767" Quantity="1" Sideboard="false" Name="Elenda, the Dusk Rose" />
   <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
   <Cards CatID="34378" Quantity="1" Sideboard="false" Name="Blood Tribute" />
   <Cards CatID="45562" Quantity="1" Sideboard="false" Name="Rhox Faithmender" />

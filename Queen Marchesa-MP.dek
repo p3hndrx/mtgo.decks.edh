@@ -61,7 +61,6 @@
   <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="54062" Quantity="1" Sideboard="false" Name="Mardu Banner" />
   <Cards CatID="54430" Quantity="1" Sideboard="false" Name="Mardu Ascendancy" />
-  <Cards CatID="54128" Quantity="1" Sideboard="false" Name="Mardu Charm" />
   <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
   <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
   <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
@@ -94,5 +93,6 @@
   <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
   <Cards CatID="57670" Quantity="1" Sideboard="false" Name="Battlefield Forge" />
   <Cards CatID="57668" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="66633" Quantity="1" Sideboard="false" Name="Vona's Hunger" />
   <Cards CatID="63580" Quantity="1" Sideboard="true" Name="Queen Marchesa" />
 </Deck>

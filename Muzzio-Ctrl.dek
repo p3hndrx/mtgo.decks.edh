@@ -14,7 +14,6 @@
   <Cards CatID="19790" Quantity="1" Sideboard="false" Name="Lumengrid Sentinel" />
   <Cards CatID="31187" Quantity="1" Sideboard="false" Name="Master of Etherium" />
   <Cards CatID="48846" Quantity="1" Sideboard="false" Name="Thirst for Knowledge" />
-  <Cards CatID="39363" Quantity="1" Sideboard="false" Name="Treasure Mage" />
   <Cards CatID="20718" Quantity="1" Sideboard="false" Name="Trinket Mage" />
   <Cards CatID="64854" Quantity="1" Sideboard="false" Name="Mirage Mirror" />
   <Cards CatID="39734" Quantity="1" Sideboard="false" Name="Phyrexian Metamorph" />
@@ -37,8 +36,6 @@
   <Cards CatID="35316" Quantity="1" Sideboard="false" Name="Heartstone" />
   <Cards CatID="20497" Quantity="1" Sideboard="false" Name="Darksteel Citadel" />
   <Cards CatID="38241" Quantity="1" Sideboard="false" Name="Darksteel Juggernaut" />
-  <Cards CatID="60082" Quantity="1" Sideboard="false" Name="Tamiyo's Journal" />
-  <Cards CatID="56926" Quantity="1" Sideboard="false" Name="Thopter Squadron" />
   <Cards CatID="39501" Quantity="1" Sideboard="false" Name="Thopter Assembly" />
   <Cards CatID="20245" Quantity="1" Sideboard="false" Name="Nuisance Engine" />
   <Cards CatID="20863" Quantity="1" Sideboard="false" Name="Krark-Clan Ironworks" />
@@ -74,5 +71,8 @@
   <Cards CatID="57168" Quantity="1" Sideboard="false" Name="Lodestone Golem" />
   <Cards CatID="20059" Quantity="1" Sideboard="false" Name="Sculpting Steel" />
   <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="66823" Quantity="1" Sideboard="false" Name="Golden Guardian" />
+  <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
+  <Cards CatID="62879" Quantity="1" Sideboard="false" Name="Treasure Keeper" />
   <Cards CatID="53209" Quantity="1" Sideboard="true" Name="Muzzio, Visionary Architect" />
 </Deck>

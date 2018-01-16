@@ -10,7 +10,6 @@
   <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
   <Cards CatID="30871" Quantity="1" Sideboard="false" Name="Bant Charm" />
   <Cards CatID="30915" Quantity="1" Sideboard="false" Name="Bant Panorama" />
-  <Cards CatID="39884" Quantity="1" Sideboard="false" Name="Beast Within" />
   <Cards CatID="39796" Quantity="1" Sideboard="false" Name="Birthing Pod" />
   <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
   <Cards CatID="24059" Quantity="1" Sideboard="false" Name="Coiling Oracle" />
@@ -89,5 +88,6 @@
   <Cards CatID="60925" Quantity="1" Sideboard="false" Name="Peregrine Drake" />
   <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
   <Cards CatID="53203" Quantity="1" Sideboard="false" Name="Brago, King Eternal" />
+  <Cards CatID="66761" Quantity="1" Sideboard="false" Name="Azor, the Lawbringer" />
   <Cards CatID="51416" Quantity="1" Sideboard="true" Name="Roon of the Hidden Realm" />
 </Deck>

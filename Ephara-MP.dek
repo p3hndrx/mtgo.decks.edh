@@ -24,10 +24,8 @@
   <Cards CatID="37963" Quantity="1" Sideboard="false" Name="Glimmerpoint Stag" />
   <Cards CatID="35521" Quantity="1" Sideboard="false" Name="Halimar Depths" />
   <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
-  <Cards CatID="53688" Quantity="1" Sideboard="false" Name="Heliod's Pilgrim" />
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
-  <Cards CatID="61294" Quantity="1" Sideboard="false" Name="Ironclad Slayer" />
   <Cards CatID="34390" Quantity="1" Sideboard="false" Name="Journey to Nowhere" />
   <Cards CatID="36304" Quantity="1" Sideboard="false" Name="Meddling Mage" />
   <Cards CatID="57632" Quantity="1" Sideboard="false" Name="Knight of the White Orchid" />
@@ -43,7 +41,7 @@
   <Cards CatID="29361" Quantity="1" Sideboard="false" Name="Mistveil Plains" />
   <Cards CatID="57916" Quantity="1" Sideboard="false" Name="Mizzium Meddler" />
   <Cards CatID="25533" Quantity="1" Sideboard="false" Name="Momentary Blink" />
-  <Cards CatID="53482" Quantity="10" Sideboard="false" Name="Island" />
+  <Cards CatID="53482" Quantity="9" Sideboard="false" Name="Island" />
   <Cards CatID="41217" Quantity="1" Sideboard="false" Name="Glacial Fortress" />
   <Cards CatID="45256" Quantity="1" Sideboard="false" Name="Oblivion Ring" />
   <Cards CatID="20979" Quantity="1" Sideboard="false" Name="Otherworldly Journey" />
@@ -65,11 +63,9 @@
   <Cards CatID="26305" Quantity="1" Sideboard="false" Name="Stonecloaker" />
   <Cards CatID="53203" Quantity="1" Sideboard="false" Name="Brago, King Eternal" />
   <Cards CatID="43887" Quantity="1" Sideboard="false" Name="Cloudshift" />
-  <Cards CatID="51248" Quantity="1" Sideboard="false" Name="Azorius Guildgate" />
   <Cards CatID="44131" Quantity="1" Sideboard="false" Name="Tandem Lookout" />
   <Cards CatID="25367" Quantity="1" Sideboard="false" Name="Teferi, Mage of Zhalfir" />
   <Cards CatID="51561" Quantity="1" Sideboard="false" Name="Temple of Enlightenment" />
-  <Cards CatID="49493" Quantity="1" Sideboard="false" Name="Tidebinder Mage" />
   <Cards CatID="26594" Quantity="1" Sideboard="false" Name="Venser, Shaper Savant" />
   <Cards CatID="38335" Quantity="1" Sideboard="false" Name="Venser, the Sojourner" />
   <Cards CatID="25599" Quantity="1" Sideboard="false" Name="Voidmage Husher" />
@@ -83,5 +79,10 @@
   <Cards CatID="59473" Quantity="1" Sideboard="false" Name="Eldrazi Displacer" />
   <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
   <Cards CatID="59605" Quantity="2" Sideboard="false" Name="Wastes" />
+  <Cards CatID="66761" Quantity="1" Sideboard="false" Name="Azor, the Lawbringer" />
+  <Cards CatID="62281" Quantity="1" Sideboard="false" Name="Stunt Double" />
+  <Cards CatID="52118" Quantity="1" Sideboard="false" Name="Dictate of Kruphix" />
+  <Cards CatID="64564" Quantity="1" Sideboard="false" Name="Nimble Obstructionist" />
+  <Cards CatID="29547" Quantity="1" Sideboard="false" Name="Thistledown Liege" />
   <Cards CatID="51549" Quantity="1" Sideboard="true" Name="Ephara, God of the Polis" />
 </Deck>

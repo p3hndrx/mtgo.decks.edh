@@ -72,7 +72,6 @@
   <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
   <Cards CatID="46377" Quantity="1" Sideboard="false" Name="Selesnya Guildgate" />
   <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
-  <Cards CatID="40744" Quantity="1" Sideboard="false" Name="Selesnya Signet" />
   <Cards CatID="38299" Quantity="1" Sideboard="false" Name="Razorverge Thicket" />
   <Cards CatID="35679" Quantity="1" Sideboard="false" Name="Stirring Wildwood" />
   <Cards CatID="16441" Quantity="1" Sideboard="false" Name="Sungrass Prairie" />
@@ -87,5 +86,6 @@
   <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="51352" Quantity="1" Sideboard="false" Name="Spawning Grounds" />
+  <Cards CatID="66773" Quantity="1" Sideboard="false" Name="Huatli, Radiant Champion" />
   <Cards CatID="29535" Quantity="1" Sideboard="true" Name="Rhys the Redeemed" />
 </Deck>
