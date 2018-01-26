@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="56436" Quantity="1" Sideboard="false" Name="Dauthi Horror" />
+  <Cards CatID="56905" Quantity="1" Sideboard="false" Name="Dauthi Jackal" />
+  <Cards CatID="52694" Quantity="1" Sideboard="false" Name="Dauthi Mercenary" />
+  <Cards CatID="10711" Quantity="1" Sideboard="false" Name="Dauthi Cutthroat" />
+  <Cards CatID="9478" Quantity="1" Sideboard="false" Name="Dauthi Marauder" />
+  <Cards CatID="9970" Quantity="1" Sideboard="false" Name="Dauthi Mindripper" />
+  <Cards CatID="10227" Quantity="1" Sideboard="false" Name="Dauthi Trapper" />
+  <Cards CatID="36033" Quantity="1" Sideboard="false" Name="Dauthi Slayer" />
+  <Cards CatID="56947" Quantity="1" Sideboard="false" Name="Dauthi Warlord" />
+  <Cards CatID="9968" Quantity="1" Sideboard="false" Name="Dauthi Ghoul" />
+  <Cards CatID="26834" Quantity="1" Sideboard="false" Name="Stronghold Rats" />
+  <Cards CatID="25523" Quantity="1" Sideboard="false" Name="Faceless Devourer" />
+  <Cards CatID="25771" Quantity="1" Sideboard="false" Name="Stronghold Overseer" />
+  <Cards CatID="57343" Quantity="1" Sideboard="false" Name="Shadowmage Infiltrator" />
+  <Cards CatID="52716" Quantity="1" Sideboard="false" Name="Thalakos Drifters" />
+  <Cards CatID="10411" Quantity="1" Sideboard="false" Name="Thalakos Deceiver" />
+  <Cards CatID="10735" Quantity="1" Sideboard="false" Name="Thalakos Scout" />
+  <Cards CatID="9605" Quantity="1" Sideboard="false" Name="Thalakos Mistfolk" />
+  <Cards CatID="10095" Quantity="1" Sideboard="false" Name="Thalakos Dreamsower" />
+  <Cards CatID="9608" Quantity="1" Sideboard="false" Name="Thalakos Seer" />
+  <Cards CatID="9603" Quantity="1" Sideboard="false" Name="Thalakos Sentry" />
+  <Cards CatID="33432" Quantity="1" Sideboard="false" Name="Looter il-Kor" />
+  <Cards CatID="25479" Quantity="1" Sideboard="false" Name="Drifter il-Dal" />
+  <Cards CatID="58405" Quantity="1" Sideboard="false" Name="Drana, Liberator of Malakir" />
+  <Cards CatID="46791" Quantity="1" Sideboard="false" Name="Necropolis Regent" />
+  <Cards CatID="35735" Quantity="1" Sideboard="false" Name="Thada Adel, Acquisitor" />
+  <Cards CatID="19187" Quantity="1" Sideboard="false" Name="Coastal Piracy" />
+  <Cards CatID="50406" Quantity="1" Sideboard="false" Name="Bident of Thassa" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="49584" Quantity="1" Sideboard="false" Name="Fireshrieker" />
+  <Cards CatID="20227" Quantity="1" Sideboard="false" Name="Loxodon Warhammer" />
+  <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
+  <Cards CatID="38279" Quantity="1" Sideboard="false" Name="Sword of Body and Mind" />
+  <Cards CatID="20539" Quantity="1" Sideboard="false" Name="Sword of Light and Shadow" />
+  <Cards CatID="39650" Quantity="1" Sideboard="false" Name="Sword of Fire and Ice" />
+  <Cards CatID="37945" Quantity="1" Sideboard="false" Name="Umezawa's Jitte" />
+  <Cards CatID="47908" Quantity="1" Sideboard="false" Name="Call of the Nightwing" />
+  <Cards CatID="47780" Quantity="1" Sideboard="false" Name="Stolen Identity" />
+  <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
+  <Cards CatID="43291" Quantity="1" Sideboard="false" Name="Mikaeus, the Unhallowed" />
+  <Cards CatID="47914" Quantity="1" Sideboard="false" Name="Undercity Plague" />
+  <Cards CatID="32309" Quantity="1" Sideboard="false" Name="Mask of Riddles" />
+  <Cards CatID="59209" Quantity="1" Sideboard="false" Name="Scytheclaw" />
+  <Cards CatID="45180" Quantity="1" Sideboard="false" Name="Quietus Spike" />
+  <Cards CatID="23150" Quantity="1" Sideboard="false" Name="Dimir Cutpurse" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="66633" Quantity="1" Sideboard="false" Name="Vona's Hunger" />
+  <Cards CatID="65132" Quantity="1" Sideboard="false" Name="Jace, Cunning Castaway" />
+  <Cards CatID="39509" Quantity="1" Sideboard="false" Name="Corrupted Conscience" />
+  <Cards CatID="39443" Quantity="1" Sideboard="false" Name="Phyresis" />
+  <Cards CatID="39748" Quantity="1" Sideboard="false" Name="Blighted Agent" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="30770" Quantity="1" Sideboard="false" Name="Personal Tutor" />
+  <Cards CatID="33915" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="55924" Quantity="1" Sideboard="false" Name="Clone Legion" />
+  <Cards CatID="37392" Quantity="1" Sideboard="false" Name="Time Reversal" />
+  <Cards CatID="53542" Quantity="1" Sideboard="false" Name="Aetherspouts" />
+  <Cards CatID="62657" Quantity="1" Sideboard="false" Name="Baral's Expertise" />
+  <Cards CatID="59920" Quantity="1" Sideboard="false" Name="Choked Estuary" />
+  <Cards CatID="38291" Quantity="1" Sideboard="false" Name="Darkslick Shores" />
+  <Cards CatID="16445" Quantity="1" Sideboard="false" Name="Darkwater Catacombs" />
+  <Cards CatID="45314" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="64148" Quantity="1" Sideboard="false" Name="Fetid Pools" />
+  <Cards CatID="50264" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="22623" Quantity="1" Sideboard="false" Name="Underground River" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="52603" Quantity="1" Sideboard="false" Name="Bad River" />
+  <Cards CatID="24665" Quantity="1" Sideboard="false" Name="Frost Marsh" />
+  <Cards CatID="51026" Quantity="1" Sideboard="false" Name="Jwar Isle Refuge" />
+  <Cards CatID="19257" Quantity="1" Sideboard="false" Name="Salt Marsh" />
+  <Cards CatID="17323" Quantity="1" Sideboard="false" Name="Tainted Isle" />
+  <Cards CatID="23192" Quantity="1" Sideboard="false" Name="Dimir Aqueduct" />
+  <Cards CatID="51250" Quantity="1" Sideboard="false" Name="Dimir Guildgate" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="53482" Quantity="7" Sideboard="false" Name="Island" />
+  <Cards CatID="53486" Quantity="7" Sideboard="false" Name="Swamp" />
+  <Cards CatID="40587" Quantity="1" Sideboard="true" Name="Wrexial, the Risen Deep" />
+</Deck>

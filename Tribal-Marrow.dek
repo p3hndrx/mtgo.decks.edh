@@ -17,7 +17,6 @@
   <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
   <Cards CatID="29222" Quantity="1" Sideboard="false" Name="Door of Destinies" />
   <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
-  <Cards CatID="26131" Quantity="1" Sideboard="false" Name="Conspiracy" />
   <Cards CatID="53650" Quantity="1" Sideboard="false" Name="Obelisk of Urd" />
   <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
   <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
@@ -50,5 +49,6 @@
   <Cards CatID="24811" Quantity="1" Sideboard="false" Name="Thrumming Stone" />
   <Cards CatID="62677" Quantity="1" Sideboard="false" Name="Secret Salvage" />
   <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
   <Cards CatID="20977" Quantity="1" Sideboard="true" Name="Marrow-Gnawer" />
 </Deck>

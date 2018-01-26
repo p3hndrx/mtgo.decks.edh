@@ -25,7 +25,6 @@
   <Cards CatID="22108" Quantity="1" Sideboard="false" Name="Kami of the Crescent Moon" />
   <Cards CatID="9823" Quantity="1" Sideboard="false" Name="Earthcraft" />
   <Cards CatID="16515" Quantity="1" Sideboard="false" Name="Squirrel Nest" />
-  <Cards CatID="52901" Quantity="1" Sideboard="false" Name="Ivory Tower" />
   <Cards CatID="40608" Quantity="1" Sideboard="false" Name="Minds Aglow" />
   <Cards CatID="40663" Quantity="1" Sideboard="false" Name="Collective Voyage" />
   <Cards CatID="29950" Quantity="1" Sideboard="false" Name="Helix Pinnacle" />
@@ -82,6 +81,7 @@
   <Cards CatID="16527" Quantity="1" Sideboard="false" Name="New Frontiers" />
   <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
   <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="65480" Quantity="1" Sideboard="false" Name="Tishana, Voice of Thunder" />
   <Cards CatID="62307" Quantity="1" Sideboard="true" Name="Thrasios, Triton Hero" />
   <Cards CatID="62311" Quantity="1" Sideboard="true" Name="Kydele, Chosen of Kruphix" />
 </Deck>

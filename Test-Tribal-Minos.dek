@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="50464" Quantity="1" Sideboard="false" Name="Fanatic of Mogis" />
+  <Cards CatID="51801" Quantity="1" Sideboard="false" Name="Warchanter of Mogis" />
+  <Cards CatID="64692" Quantity="1" Sideboard="false" Name="Neheb, the Eternal" />
+  <Cards CatID="51731" Quantity="1" Sideboard="false" Name="Felhide Spiritbinder" />
+  <Cards CatID="36724" Quantity="1" Sideboard="false" Name="Lord of Shatterskull Pass" />
+  <Cards CatID="64008" Quantity="1" Sideboard="false" Name="Neheb, the Worthy" />
+  <Cards CatID="51837" Quantity="1" Sideboard="false" Name="Oracle of Bones" />
+  <Cards CatID="50382" Quantity="1" Sideboard="false" Name="Rageblood Shaman" />
+  <Cards CatID="15293" Quantity="1" Sideboard="false" Name="Tahngarth, Talruum Hero" />
+  <Cards CatID="63836" Quantity="1" Sideboard="false" Name="Ahn-Crop Crasher" />
+  <Cards CatID="63844" Quantity="1" Sideboard="false" Name="Bloodrage Brawler" />
+  <Cards CatID="64654" Quantity="1" Sideboard="false" Name="Burning-Fist Minotaur" />
+  <Cards CatID="51863" Quantity="1" Sideboard="false" Name="Ragemonger" />
+  <Cards CatID="52088" Quantity="1" Sideboard="false" Name="Felhide Petrifier" />
+  <Cards CatID="50242" Quantity="1" Sideboard="false" Name="Kragma Warcaller" />
+  <Cards CatID="46403" Quantity="1" Sideboard="false" Name="Minotaur Aggressor" />
+  <Cards CatID="7745" Quantity="1" Sideboard="false" Name="Talruum Piper" />
+  <Cards CatID="33674" Quantity="1" Sideboard="false" Name="Anaba Spirit Crafter" />
+  <Cards CatID="50340" Quantity="1" Sideboard="false" Name="Borderland Minotaur" />
+  <Cards CatID="63772" Quantity="1" Sideboard="false" Name="Cursed Minotaur" />
+  <Cards CatID="50180" Quantity="1" Sideboard="false" Name="Deathbellow Raider" />
+  <Cards CatID="33454" Quantity="1" Sideboard="false" Name="Hurloon Minotaur" />
+  <Cards CatID="41279" Quantity="1" Sideboard="false" Name="Gorehorn Minotaurs" />
+  <Cards CatID="50182" Quantity="1" Sideboard="false" Name="Minotaur Skullcleaver" />
+  <Cards CatID="33765" Quantity="1" Sideboard="false" Name="Raging Minotaur" />
+  <Cards CatID="7355" Quantity="1" Sideboard="false" Name="Talruum Minotaur" />
+  <Cards CatID="29202" Quantity="1" Sideboard="false" Name="Taurean Mauler" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
+  <Cards CatID="65506" Quantity="1" Sideboard="false" Name="Pillar of Origins" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
+  <Cards CatID="65721" Quantity="1" Sideboard="false" Name="Kindred Charge" />
+  <Cards CatID="65723" Quantity="1" Sideboard="false" Name="Kindred Dominance" />
+  <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="60086" Quantity="1" Sideboard="false" Name="Avacyn's Judgment" />
+  <Cards CatID="26746" Quantity="1" Sideboard="false" Name="Gibbering Descent" />
+  <Cards CatID="60226" Quantity="1" Sideboard="false" Name="Biting Rain" />
+  <Cards CatID="17215" Quantity="1" Sideboard="false" Name="Strength of Lunacy" />
+  <Cards CatID="17263" Quantity="1" Sideboard="false" Name="Violent Eruption" />
+  <Cards CatID="38293" Quantity="1" Sideboard="false" Name="Blackcleave Cliffs" />
+  <Cards CatID="59934" Quantity="1" Sideboard="false" Name="Fiery Temper" />
+  <Cards CatID="53161" Quantity="1" Sideboard="false" Name="Mana Vault" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="65250" Quantity="1" Sideboard="false" Name="Revel in Riches" />
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="50410" Quantity="1" Sideboard="false" Name="Hammer of Purphoros" />
+  <Cards CatID="56294" Quantity="1" Sideboard="false" Name="Berserkers' Onslaught" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="66633" Quantity="1" Sideboard="false" Name="Vona's Hunger" />
+  <Cards CatID="39447" Quantity="1" Sideboard="false" Name="Go for the Throat" />
+  <Cards CatID="60204" Quantity="1" Sideboard="false" Name="Murderous Compulsion" />
+  <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="46441" Quantity="1" Sideboard="false" Name="Rakdos Charm" />
+  <Cards CatID="57068" Quantity="1" Sideboard="false" Name="Smash to Smithereens" />
+  <Cards CatID="54024" Quantity="1" Sideboard="false" Name="Shatter" />
+  <Cards CatID="40537" Quantity="1" Sideboard="false" Name="Terminate" />
+  <Cards CatID="66757" Quantity="1" Sideboard="false" Name="Angrath, the Flame-Chained" />
+  <Cards CatID="32669" Quantity="1" Sideboard="false" Name="Liliana Vess" />
+  <Cards CatID="41263" Quantity="1" Sideboard="false" Name="Sorin Markov" />
+  <Cards CatID="46505" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="60080" Quantity="1" Sideboard="false" Name="Foreboding Ruins" />
+  <Cards CatID="26702" Quantity="1" Sideboard="false" Name="Graven Cairns" />
+  <Cards CatID="51563" Quantity="1" Sideboard="false" Name="Temple of Malice" />
+  <Cards CatID="22613" Quantity="1" Sideboard="false" Name="Sulfurous Springs" />
+  <Cards CatID="58697" Quantity="1" Sideboard="false" Name="Smoldering Marsh" />
+  <Cards CatID="59375" Quantity="1" Sideboard="false" Name="Cinder Barrens" />
+  <Cards CatID="57472" Quantity="1" Sideboard="false" Name="Rakdos Carnarium" />
+  <Cards CatID="17325" Quantity="1" Sideboard="false" Name="Tainted Peak" />
+  <Cards CatID="60867" Quantity="1" Sideboard="false" Name="Bloodfell Caves" />
+  <Cards CatID="19253" Quantity="1" Sideboard="false" Name="Urborg Volcano" />
+  <Cards CatID="24531" Quantity="1" Sideboard="false" Name="Tresserhorn Sinks" />
+  <Cards CatID="46381" Quantity="1" Sideboard="false" Name="Rakdos Guildgate" />
+  <Cards CatID="53480" Quantity="10" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53486" Quantity="4" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="51743" Quantity="1" Sideboard="true" Name="Mogis, God of Slaughter" />
+</Deck>

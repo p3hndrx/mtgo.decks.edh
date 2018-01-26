@@ -64,7 +64,6 @@
   <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
   <Cards CatID="9641" Quantity="1" Sideboard="false" Name="Capsize" />
   <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
-  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
   <Cards CatID="16244" Quantity="1" Sideboard="false" Name="Reef Shaman" />
   <Cards CatID="28965" Quantity="1" Sideboard="false" Name="Sigil Tracer" />
   <Cards CatID="24629" Quantity="1" Sideboard="false" Name="Boreal Shelf" />
@@ -85,5 +84,6 @@
   <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
   <Cards CatID="65725" Quantity="1" Sideboard="false" Name="Kindred Discovery" />
   <Cards CatID="65134" Quantity="1" Sideboard="false" Name="Kopala, Warden of Waves" />
+  <Cards CatID="66517" Quantity="1" Sideboard="false" Name="Aquatic Incursion" />
   <Cards CatID="28438" Quantity="1" Sideboard="true" Name="Sygg, River Guide" />
 </Deck>
