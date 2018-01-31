@@ -38,7 +38,7 @@
   <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
   <Cards CatID="65721" Quantity="1" Sideboard="false" Name="Kindred Charge" />
   <Cards CatID="65723" Quantity="1" Sideboard="false" Name="Kindred Dominance" />
-  <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="46405" Quantity="1" Sideboard="false" Name="Vandalblast" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
   <Cards CatID="60086" Quantity="1" Sideboard="false" Name="Avacyn's Judgment" />
   <Cards CatID="26746" Quantity="1" Sideboard="false" Name="Gibbering Descent" />
@@ -65,7 +65,6 @@
   <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
   <Cards CatID="46441" Quantity="1" Sideboard="false" Name="Rakdos Charm" />
   <Cards CatID="57068" Quantity="1" Sideboard="false" Name="Smash to Smithereens" />
-  <Cards CatID="54024" Quantity="1" Sideboard="false" Name="Shatter" />
   <Cards CatID="40537" Quantity="1" Sideboard="false" Name="Terminate" />
   <Cards CatID="66757" Quantity="1" Sideboard="false" Name="Angrath, the Flame-Chained" />
   <Cards CatID="32669" Quantity="1" Sideboard="false" Name="Liliana Vess" />
@@ -89,5 +88,6 @@
   <Cards CatID="53486" Quantity="4" Sideboard="false" Name="Swamp" />
   <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
   <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="39722" Quantity="1" Sideboard="false" Name="Life's Finale" />
   <Cards CatID="51743" Quantity="1" Sideboard="true" Name="Mogis, God of Slaughter" />
 </Deck>

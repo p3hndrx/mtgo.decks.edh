@@ -38,7 +38,6 @@
   <Cards CatID="12715" Quantity="1" Sideboard="false" Name="Viashino Heretic" />
   <Cards CatID="44033" Quantity="1" Sideboard="false" Name="Zealous Conscripts" />
   <Cards CatID="13577" Quantity="1" Sideboard="false" Name="Battle Rampart" />
-  <Cards CatID="21529" Quantity="1" Sideboard="false" Name="Desperate Ritual" />
   <Cards CatID="22807" Quantity="1" Sideboard="false" Name="Seething Song" />
   <Cards CatID="23865" Quantity="1" Sideboard="false" Name="Shattering Spree" />
   <Cards CatID="38365" Quantity="1" Sideboard="false" Name="Molten Psyche" />
@@ -70,9 +69,11 @@
   <Cards CatID="39557" Quantity="1" Sideboard="false" Name="Spine of Ish Sah" />
   <Cards CatID="53480" Quantity="12" Sideboard="false" Name="Mountain" />
   <Cards CatID="53370" Quantity="12" Sideboard="false" Name="Mountain" />
-  <Cards CatID="53300" Quantity="6" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53300" Quantity="5" Sideboard="false" Name="Mountain" />
   <Cards CatID="40684" Quantity="1" Sideboard="false" Name="Forgotten Cave" />
   <Cards CatID="20716" Quantity="1" Sideboard="false" Name="Staff of Domination" />
-  <Cards CatID="24823" Quantity="1" Sideboard="false" Name="Braid of Fire" />
+  <Cards CatID="15632" Quantity="1" Sideboard="false" Name="Jandor's Saddlebags" />
+  <Cards CatID="9961" Quantity="1" Sideboard="false" Name="Puppet Strings" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
   <Cards CatID="21809" Quantity="1" Sideboard="true" Name="Heartless Hidetsugu" />
 </Deck>
