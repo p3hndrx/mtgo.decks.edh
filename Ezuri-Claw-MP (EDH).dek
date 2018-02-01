@@ -57,7 +57,6 @@
   <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
   <Cards CatID="52677" Quantity="1" Sideboard="false" Name="Skyshroud Forest" />
   <Cards CatID="48378" Quantity="1" Sideboard="false" Name="Simic Guildgate" />
-  <Cards CatID="28707" Quantity="1" Sideboard="false" Name="Shelldock Isle" />
   <Cards CatID="60042" Quantity="1" Sideboard="false" Name="Woodland Stream" />
   <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
   <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
@@ -80,5 +79,6 @@
   <Cards CatID="39910" Quantity="1" Sideboard="false" Name="Tezzeret's Gambit" />
   <Cards CatID="38091" Quantity="1" Sideboard="false" Name="Inexorable Tide" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="66769" Quantity="1" Sideboard="false" Name="Hadana's Climb" />
   <Cards CatID="59143" Quantity="1" Sideboard="true" Name="Ezuri, Claw of Progress" />
 </Deck>

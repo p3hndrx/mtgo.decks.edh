@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="25637" Quantity="1" Sideboard="false" Name="Wheel of Fate" />
+  <Cards CatID="28343" Quantity="1" Sideboard="false" Name="Spinerock Knoll" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="64702" Quantity="1" Sideboard="false" Name="Wildfire Eternal" />
+  <Cards CatID="59673" Quantity="1" Sideboard="false" Name="Goblin Dark-Dwellers" />
+  <Cards CatID="65741" Quantity="1" Sideboard="false" Name="Izzet Chemister" />
+  <Cards CatID="66827" Quantity="1" Sideboard="false" Name="The Immortal Sun" />
+  <Cards CatID="63852" Quantity="1" Sideboard="false" Name="Combat Celebrant" />
+  <Cards CatID="53191" Quantity="1" Sideboard="false" Name="Scourge of the Throne" />
+  <Cards CatID="18101" Quantity="1" Sideboard="false" Name="Aggravated Assault" />
+  <Cards CatID="15790" Quantity="1" Sideboard="false" Name="Relentless Assault" />
+  <Cards CatID="16673" Quantity="1" Sideboard="false" Name="Seize the Day" />
+  <Cards CatID="66651" Quantity="1" Sideboard="false" Name="Dire Fleet Daredevil" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="39738" Quantity="1" Sideboard="false" Name="Urabrask the Hidden" />
+  <Cards CatID="45372" Quantity="1" Sideboard="false" Name="Fervor" />
+  <Cards CatID="50410" Quantity="1" Sideboard="false" Name="Hammer of Purphoros" />
+  <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
+  <Cards CatID="46405" Quantity="1" Sideboard="false" Name="Vandalblast" />
+  <Cards CatID="52977" Quantity="1" Sideboard="false" Name="Chaos Warp" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="31532" Quantity="1" Sideboard="false" Name="Mind Stone" />
+  <Cards CatID="41545" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="20652" Quantity="1" Sideboard="false" Name="Mana Geyser" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="64692" Quantity="1" Sideboard="false" Name="Neheb, the Eternal" />
+  <Cards CatID="61989" Quantity="1" Sideboard="false" Name="Combustible Gearhulk" />
+  <Cards CatID="50248" Quantity="1" Sideboard="false" Name="Burnished Hart" />
+  <Cards CatID="60831" Quantity="1" Sideboard="false" Name="Dualcaster Mage" />
+  <Cards CatID="65322" Quantity="1" Sideboard="false" Name="Otepec Huntmaster" />
+  <Cards CatID="47917" Quantity="1" Sideboard="false" Name="Molten Primordial" />
+  <Cards CatID="39587" Quantity="1" Sideboard="false" Name="Blightsteel Colossus" />
+  <Cards CatID="57206" Quantity="1" Sideboard="false" Name="Ulamog, the Infinite Gyre" />
+  <Cards CatID="44033" Quantity="1" Sideboard="false" Name="Zealous Conscripts" />
+  <Cards CatID="42545" Quantity="1" Sideboard="false" Name="Balefire Dragon" />
+  <Cards CatID="57200" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" />
+  <Cards CatID="58631" Quantity="1" Sideboard="false" Name="Void Winnower" />
+  <Cards CatID="44201" Quantity="1" Sideboard="false" Name="Lightning Mauler" />
+  <Cards CatID="43969" Quantity="1" Sideboard="false" Name="Malignus" />
+  <Cards CatID="34636" Quantity="1" Sideboard="false" Name="Obsidian Fireheart" />
+  <Cards CatID="46793" Quantity="1" Sideboard="false" Name="Utvara Hellkite" />
+  <Cards CatID="58301" Quantity="1" Sideboard="false" Name="Ulamog, the Ceaseless Hunger" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="207" Quantity="1" Sideboard="false" Name="Fork" />
+  <Cards CatID="45387" Quantity="1" Sideboard="false" Name="Reverberate" />
+  <Cards CatID="49129" Quantity="1" Sideboard="false" Name="Wild Ricochet" />
+  <Cards CatID="25941" Quantity="1" Sideboard="false" Name="Reiterate" />
+  <Cards CatID="18091" Quantity="1" Sideboard="false" Name="Insurrection" />
+  <Cards CatID="65695" Quantity="1" Sideboard="false" Name="Disrupt Decorum" />
+  <Cards CatID="46473" Quantity="1" Sideboard="false" Name="Mizzium Mortars" />
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="15518" Quantity="1" Sideboard="false" Name="Fire Diamond" />
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="38522" Quantity="1" Sideboard="false" Name="Gauntlet of Might" />
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="20289" Quantity="1" Sideboard="false" Name="Whispersilk Cloak" />
+  <Cards CatID="64854" Quantity="1" Sideboard="false" Name="Mirage Mirror" />
+  <Cards CatID="65524" Quantity="1" Sideboard="false" Name="Thaumatic Compass" />
+  <Cards CatID="40633" Quantity="1" Sideboard="false" Name="Champion's Helm" />
+  <Cards CatID="57738" Quantity="1" Sideboard="false" Name="Rogue's Passage" />
+  <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
+  <Cards CatID="35142" Quantity="1" Sideboard="false" Name="Valakut, the Molten Pinnacle" />
+  <Cards CatID="53480" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53370" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="20021" Quantity="1" Sideboard="false" Name="Great Furnace" />
+  <Cards CatID="35511" Quantity="1" Sideboard="false" Name="Smoldering Spires" />
+  <Cards CatID="12393" Quantity="1" Sideboard="false" Name="Smoldering Crater" />
+  <Cards CatID="53300" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="66653" Quantity="1" Sideboard="true" Name="Etali, Primal Storm" />
+</Deck>
