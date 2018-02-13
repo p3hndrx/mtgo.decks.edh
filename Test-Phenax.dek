@@ -31,7 +31,6 @@
   <Cards CatID="34774" Quantity="1" Sideboard="false" Name="Sadistic Sacrament" />
   <Cards CatID="40779" Quantity="1" Sideboard="false" Name="Sewer Nemesis" />
   <Cards CatID="61386" Quantity="1" Sideboard="false" Name="Tree of Perdition" />
-  <Cards CatID="19457" Quantity="1" Sideboard="false" Name="Diabolic Tutor" />
   <Cards CatID="47725" Quantity="1" Sideboard="false" Name="Grisly Spectacle" />
   <Cards CatID="52114" Quantity="1" Sideboard="false" Name="King Macar, the Gold-Cursed" />
   <Cards CatID="27480" Quantity="1" Sideboard="false" Name="Mortivore" />
@@ -80,5 +79,6 @@
   <Cards CatID="39503" Quantity="1" Sideboard="false" Name="Bonehoard" />
   <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
   <Cards CatID="36380" Quantity="1" Sideboard="false" Name="Keening Stone" />
+  <Cards CatID="55370" Quantity="1" Sideboard="false" Name="Ghastly Conscription" />
   <Cards CatID="51555" Quantity="1" Sideboard="true" Name="Phenax, God of Deception" />
 </Deck>

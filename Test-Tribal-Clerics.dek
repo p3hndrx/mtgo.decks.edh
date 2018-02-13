@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="52106" Quantity="1" Sideboard="false" Name="Athreos, God of Passage" />
+  <Cards CatID="50404" Quantity="1" Sideboard="false" Name="Spear of Heliod" />
+  <Cards CatID="52244" Quantity="1" Sideboard="false" Name="Dictate of Heliod" />
+  <Cards CatID="36674" Quantity="1" Sideboard="false" Name="Transcendent Master" />
+  <Cards CatID="42762" Quantity="1" Sideboard="false" Name="Mikaeus, the Lunarch" />
+  <Cards CatID="57940" Quantity="1" Sideboard="false" Name="Liliana, Heretical Healer" />
+  <Cards CatID="66629" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
+  <Cards CatID="65677" Quantity="1" Sideboard="false" Name="Alms Collector" />
+  <Cards CatID="59584" Quantity="1" Sideboard="false" Name="Ayli, Eternal Pilgrim" />
+  <Cards CatID="28960" Quantity="1" Sideboard="false" Name="Battletide Alchemist" />
+  <Cards CatID="65020" Quantity="1" Sideboard="false" Name="Bishop of Rebirth" />
+  <Cards CatID="60212" Quantity="1" Sideboard="false" Name="Bygone Bishop" />
+  <Cards CatID="62261" Quantity="1" Sideboard="false" Name="Custodi Soulbinders" />
+  <Cards CatID="18331" Quantity="1" Sideboard="false" Name="Doomed Necromancer" />
+  <Cards CatID="21001" Quantity="1" Sideboard="false" Name="Eight-and-a-Half-Tails" />
+  <Cards CatID="41387" Quantity="1" Sideboard="false" Name="Grand Abolisher" />
+  <Cards CatID="47765" Quantity="1" Sideboard="false" Name="High Priest of Penance" />
+  <Cards CatID="38451" Quantity="1" Sideboard="false" Name="Leonin Arbiter" />
+  <Cards CatID="57951" Quantity="1" Sideboard="false" Name="Priest of the Blood Rite" />
+  <Cards CatID="59810" Quantity="1" Sideboard="false" Name="Westvale Abbey" />
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="42566" Quantity="1" Sideboard="false" Name="Skirsdag High Priest" />
+  <Cards CatID="61302" Quantity="1" Sideboard="false" Name="Sanctifier of Souls" />
+  <Cards CatID="17969" Quantity="1" Sideboard="false" Name="Rotlung Reanimator" />
+  <Cards CatID="49569" Quantity="1" Sideboard="false" Name="Banisher Priest" />
+  <Cards CatID="51158" Quantity="1" Sideboard="false" Name="Disciple of Griselbrand" />
+  <Cards CatID="42368" Quantity="1" Sideboard="false" Name="Fiend Hunter" />
+  <Cards CatID="40519" Quantity="1" Sideboard="false" Name="Mother of Runes" />
+  <Cards CatID="10625" Quantity="1" Sideboard="false" Name="Soul Warden" />
+  <Cards CatID="36462" Quantity="1" Sideboard="false" Name="Soul's Attendant" />
+  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="61102" Quantity="1" Sideboard="false" Name="Selfless Spirit" />
+  <Cards CatID="66791" Quantity="1" Sideboard="false" Name="Profane Procession" />
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="50408" Quantity="1" Sideboard="false" Name="Whip of Erebos" />
+  <Cards CatID="59878" Quantity="1" Sideboard="false" Name="Declaration in Stone" />
+  <Cards CatID="43150" Quantity="1" Sideboard="false" Name="Dread Return" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="29966" Quantity="1" Sideboard="false" Name="Unmake" />
+  <Cards CatID="45256" Quantity="1" Sideboard="false" Name="Oblivion Ring" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="34390" Quantity="1" Sideboard="false" Name="Journey to Nowhere" />
+  <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
+  <Cards CatID="54188" Quantity="1" Sideboard="false" Name="Utter End" />
+  <Cards CatID="40752" Quantity="1" Sideboard="false" Name="Mortify" />
+  <Cards CatID="60817" Quantity="1" Sideboard="false" Name="Vindicate" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="36855" Quantity="1" Sideboard="false" Name="Land Tax" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="27288" Quantity="1" Sideboard="false" Name="Glorious Anthem" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="66489" Quantity="1" Sideboard="false" Name="Radiant Destiny" />
+  <Cards CatID="29188" Quantity="1" Sideboard="false" Name="Pack's Disdain" />
+  <Cards CatID="17765" Quantity="1" Sideboard="false" Name="Shared Triumph" />
+  <Cards CatID="65717" Quantity="1" Sideboard="false" Name="Kindred Boon" />
+  <Cards CatID="65723" Quantity="1" Sideboard="false" Name="Kindred Dominance" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="45224" Quantity="1" Sideboard="false" Name="Akroma's Memorial" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="50268" Quantity="1" Sideboard="false" Name="Temple of Silence" />
+  <Cards CatID="57668" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="61859" Quantity="1" Sideboard="false" Name="Concealed Courtyard" />
+  <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="42652" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" />
+  <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" />
+  <Cards CatID="28621" Quantity="1" Sideboard="false" Name="Windbrisk Heights" />
+  <Cards CatID="59750" Quantity="1" Sideboard="false" Name="Forsaken Sanctuary" />
+  <Cards CatID="53484" Quantity="12" Sideboard="false" Name="Plains" />
+  <Cards CatID="53486" Quantity="10" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53390" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="62327" Quantity="1" Sideboard="true" Name="Tymna the Weaver" />
+  <Cards CatID="62315" Quantity="1" Sideboard="true" Name="Ravos, Soultender" />
+</Deck>

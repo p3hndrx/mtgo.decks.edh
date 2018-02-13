@@ -66,7 +66,6 @@
   <Cards CatID="20289" Quantity="1" Sideboard="false" Name="Whispersilk Cloak" />
   <Cards CatID="64854" Quantity="1" Sideboard="false" Name="Mirage Mirror" />
   <Cards CatID="65524" Quantity="1" Sideboard="false" Name="Thaumatic Compass" />
-  <Cards CatID="40633" Quantity="1" Sideboard="false" Name="Champion's Helm" />
   <Cards CatID="57738" Quantity="1" Sideboard="false" Name="Rogue's Passage" />
   <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
   <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
@@ -78,5 +77,6 @@
   <Cards CatID="35511" Quantity="1" Sideboard="false" Name="Smoldering Spires" />
   <Cards CatID="12393" Quantity="1" Sideboard="false" Name="Smoldering Crater" />
   <Cards CatID="53300" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="58745" Quantity="1" Sideboard="false" Name="Rolling Thunder" />
   <Cards CatID="66653" Quantity="1" Sideboard="true" Name="Etali, Primal Storm" />
 </Deck>

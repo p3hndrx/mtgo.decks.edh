@@ -12,7 +12,6 @@
   <Cards CatID="31143" Quantity="1" Sideboard="false" Name="Deathgreeter" />
   <Cards CatID="48476" Quantity="1" Sideboard="false" Name="Tithe Drinker" />
   <Cards CatID="58401" Quantity="1" Sideboard="false" Name="Zulaport Cutthroat" />
-  <Cards CatID="39473" Quantity="1" Sideboard="false" Name="Flensermite" />
   <Cards CatID="61086" Quantity="1" Sideboard="false" Name="Lone Rider" />
   <Cards CatID="49403" Quantity="1" Sideboard="false" Name="Angelic Accord" />
   <Cards CatID="65014" Quantity="1" Sideboard="false" Name="Ashes of the Abhorrent" />
@@ -33,7 +32,6 @@
   <Cards CatID="54258" Quantity="1" Sideboard="false" Name="Sorin, Solemn Visitor" />
   <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
   <Cards CatID="51064" Quantity="1" Sideboard="false" Name="Survival Cache" />
-  <Cards CatID="21825" Quantity="1" Sideboard="false" Name="Terashi's Grasp" />
   <Cards CatID="37138" Quantity="1" Sideboard="false" Name="Ajani Goldmane" />
   <Cards CatID="36804" Quantity="1" Sideboard="false" Name="Consuming Vapors" />
   <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
@@ -83,5 +81,7 @@
   <Cards CatID="53484" Quantity="10" Sideboard="false" Name="Plains" />
   <Cards CatID="53486" Quantity="10" Sideboard="false" Name="Swamp" />
   <Cards CatID="44049" Quantity="1" Sideboard="false" Name="Exquisite Blood" />
+  <Cards CatID="29309" Quantity="1" Sideboard="false" Name="Resplendent Mentor" />
+  <Cards CatID="66469" Quantity="1" Sideboard="false" Name="Famished Paladin" />
   <Cards CatID="62037" Quantity="1" Sideboard="true" Name="Kambal, Consul of Allocation" />
 </Deck>
