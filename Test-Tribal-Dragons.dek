@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="55382" Quantity="1" Sideboard="false" Name="Crucible of the Spirit Dragon" />
+  <Cards CatID="55914" Quantity="1" Sideboard="false" Name="Haven of the Spirit Dragon" />
+  <Cards CatID="55986" Quantity="1" Sideboard="false" Name="Atarka Monument" />
+  <Cards CatID="38161" Quantity="1" Sideboard="false" Name="Steel Hellkite" />
+  <Cards CatID="21130" Quantity="1" Sideboard="false" Name="Tatsumasa, the Dragon's Fang" />
+  <Cards CatID="26339" Quantity="1" Sideboard="false" Name="Intet, the Dreamer" />
+  <Cards CatID="56192" Quantity="1" Sideboard="false" Name="Sarkhan Unbroken" />
+  <Cards CatID="61721" Quantity="1" Sideboard="false" Name="Skyship Stalker" />
+  <Cards CatID="57462" Quantity="1" Sideboard="false" Name="Niv-Mizzet, the Firemind" />
+  <Cards CatID="56424" Quantity="1" Sideboard="false" Name="Savage Ventmaw" />
+  <Cards CatID="56344" Quantity="1" Sideboard="false" Name="Harbinger of the Hunt" />
+  <Cards CatID="55976" Quantity="1" Sideboard="false" Name="Dragonlord Atarka" />
+  <Cards CatID="56398" Quantity="1" Sideboard="false" Name="Dragonlord's Prerogative" />
+  <Cards CatID="56202" Quantity="1" Sideboard="false" Name="Dragon Tempest" />
+  <Cards CatID="55996" Quantity="1" Sideboard="false" Name="Foe-Razer Regent" />
+  <Cards CatID="55416" Quantity="1" Sideboard="false" Name="Frontier Siege" />
+  <Cards CatID="55121" Quantity="1" Sideboard="false" Name="Tyrant's Familiar" />
+  <Cards CatID="55029" Quantity="1" Sideboard="false" Name="Warmonger Hellkite" />
+  <Cards CatID="53289" Quantity="1" Sideboard="false" Name="Crucible of Fire" />
+  <Cards CatID="48806" Quantity="1" Sideboard="false" Name="Sarkhan Vol" />
+  <Cards CatID="46793" Quantity="1" Sideboard="false" Name="Utvara Hellkite" />
+  <Cards CatID="47929" Quantity="1" Sideboard="false" Name="Hellkite Tyrant" />
+  <Cards CatID="53191" Quantity="1" Sideboard="false" Name="Scourge of the Throne" />
+  <Cards CatID="50522" Quantity="1" Sideboard="false" Name="Stormbreath Dragon" />
+  <Cards CatID="40635" Quantity="1" Sideboard="false" Name="Mana-Charged Dragon" />
+  <Cards CatID="41373" Quantity="1" Sideboard="false" Name="Furyborn Hellkite" />
+  <Cards CatID="43289" Quantity="1" Sideboard="false" Name="Moonveil Dragon" />
+  <Cards CatID="7455" Quantity="1" Sideboard="false" Name="Zirilan of the Claw" />
+  <Cards CatID="11782" Quantity="1" Sideboard="false" Name="Lightning Dragon" />
+  <Cards CatID="32553" Quantity="1" Sideboard="false" Name="Dragon Broodmother" />
+  <Cards CatID="55885" Quantity="1" Sideboard="false" Name="Dragonlord's Servant" />
+  <Cards CatID="18907" Quantity="1" Sideboard="false" Name="Dragonspeaker Shaman" />
+  <Cards CatID="41541" Quantity="1" Sideboard="false" Name="Quicksilver Amulet" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="42671" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="54132" Quantity="1" Sideboard="false" Name="Temur Charm" />
+  <Cards CatID="15636" Quantity="1" Sideboard="false" Name="Karplusan Forest" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="42586" Quantity="1" Sideboard="false" Name="Kessig Wolf Run" />
+  <Cards CatID="53835" Quantity="1" Sideboard="false" Name="Siege Dragon" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="50272" Quantity="1" Sideboard="false" Name="Temple of Mystery" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="22655" Quantity="1" Sideboard="false" Name="Shivan Reef" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="59894" Quantity="1" Sideboard="false" Name="Game Trail" />
+  <Cards CatID="61853" Quantity="1" Sideboard="false" Name="Botanical Sanctum" />
+  <Cards CatID="65725" Quantity="1" Sideboard="false" Name="Kindred Discovery" />
+  <Cards CatID="38301" Quantity="1" Sideboard="false" Name="Copperline Gorge" />
+  <Cards CatID="53478" Quantity="7" Sideboard="false" Name="Forest" />
+  <Cards CatID="53480" Quantity="6" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53482" Quantity="2" Sideboard="false" Name="Island" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="65751" Quantity="1" Sideboard="false" Name="Mirror of the Forebears" />
+  <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
+  <Cards CatID="64854" Quantity="1" Sideboard="false" Name="Mirage Mirror" />
+  <Cards CatID="56364" Quantity="1" Sideboard="false" Name="Mirror Mockery" />
+  <Cards CatID="61226" Quantity="1" Sideboard="false" Name="Mirrorwing Dragon" />
+  <Cards CatID="65506" Quantity="1" Sideboard="false" Name="Pillar of Origins" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="46783" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
+  <Cards CatID="65679" Quantity="1" Sideboard="false" Name="Path of Ancestry" />
+  <Cards CatID="42545" Quantity="1" Sideboard="false" Name="Balefire Dragon" />
+  <Cards CatID="49385" Quantity="1" Sideboard="false" Name="Scourge of Valkas" />
+  <Cards CatID="45414" Quantity="1" Sideboard="false" Name="Thundermaw Hellkite" />
+  <Cards CatID="55362" Quantity="1" Sideboard="false" Name="Atarka, World Render" />
+  <Cards CatID="25577" Quantity="1" Sideboard="false" Name="Bogardan Hellkite" />
+  <Cards CatID="6841" Quantity="1" Sideboard="false" Name="Canopy Dragon" />
+  <Cards CatID="18703" Quantity="1" Sideboard="false" Name="Dragon Mage" />
+  <Cards CatID="44900" Quantity="1" Sideboard="false" Name="Fires of Yavimaya" />
+  <Cards CatID="45372" Quantity="1" Sideboard="false" Name="Fervor" />
+  <Cards CatID="34538" Quantity="1" Sideboard="false" Name="Hellkite Charger" />
+  <Cards CatID="30811" Quantity="1" Sideboard="false" Name="Two-Headed Dragon" />
+  <Cards CatID="27180" Quantity="1" Sideboard="false" Name="Dragon Roost" />
+  <Cards CatID="32384" Quantity="1" Sideboard="false" Name="Spellbound Dragon" />
+  <Cards CatID="21127" Quantity="1" Sideboard="false" Name="Keiga, the Tide Star" />
+  <Cards CatID="54255" Quantity="1" Sideboard="true" Name="Surrak Dragonclaw" />
+</Deck>
