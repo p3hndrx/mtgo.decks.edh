@@ -38,7 +38,6 @@
   <Cards CatID="50910" Quantity="1" Sideboard="false" Name="Phyrexian Reclamation" />
   <Cards CatID="12585" Quantity="1" Sideboard="false" Name="Unearth" />
   <Cards CatID="43142" Quantity="1" Sideboard="false" Name="Animate Dead" />
-  <Cards CatID="38285" Quantity="1" Sideboard="false" Name="Nim Deathmantle" />
   <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
   <Cards CatID="53486" Quantity="10" Sideboard="false" Name="Swamp" />
   <Cards CatID="53396" Quantity="10" Sideboard="false" Name="Swamp" />
@@ -50,5 +49,6 @@
   <Cards CatID="62677" Quantity="1" Sideboard="false" Name="Secret Salvage" />
   <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
   <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="20272" Quantity="1" Sideboard="false" Name="Nightmare Lash" />
   <Cards CatID="20977" Quantity="1" Sideboard="true" Name="Marrow-Gnawer" />
 </Deck>
