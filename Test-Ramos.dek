@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="62275" Quantity="1" Sideboard="false" Name="Selvala, Heart of the Wilds" />
+  <Cards CatID="39910" Quantity="1" Sideboard="false" Name="Tezzeret's Gambit" />
+  <Cards CatID="54272" Quantity="1" Sideboard="false" Name="Abzan Falconer" />
+  <Cards CatID="62379" Quantity="1" Sideboard="false" Name="Orzhov Advokist" />
+  <Cards CatID="44231" Quantity="1" Sideboard="false" Name="Cathars' Crusade" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="52184" Quantity="1" Sideboard="false" Name="Sage of Hours" />
+  <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
+  <Cards CatID="29110" Quantity="1" Sideboard="false" Name="Sage of Fables" />
+  <Cards CatID="65130" Quantity="1" Sideboard="false" Name="Herald of Secret Streams" />
+  <Cards CatID="62361" Quantity="1" Sideboard="false" Name="Deepglow Skate" />
+  <Cards CatID="38091" Quantity="1" Sideboard="false" Name="Inexorable Tide" />
+  <Cards CatID="54406" Quantity="1" Sideboard="false" Name="Hardened Scales" />
+  <Cards CatID="47445" Quantity="1" Sideboard="false" Name="Gyre Sage" />
+  <Cards CatID="62803" Quantity="1" Sideboard="false" Name="Heroic Intervention" />
+  <Cards CatID="52262" Quantity="1" Sideboard="false" Name="Solidarity of Heroes" />
+  <Cards CatID="37350" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="55972" Quantity="1" Sideboard="false" Name="Inspiring Call" />
+  <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
+  <Cards CatID="58088" Quantity="1" Sideboard="false" Name="Managorger Hydra" />
+  <Cards CatID="54392" Quantity="1" Sideboard="false" Name="Tuskguard Captain" />
+  <Cards CatID="18806" Quantity="1" Sideboard="false" Name="Forgotten Ancient" />
+  <Cards CatID="31221" Quantity="1" Sideboard="false" Name="Brilliant Ultimatum" />
+  <Cards CatID="58775" Quantity="1" Sideboard="false" Name="Brilliant Spectrum" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="49349" Quantity="1" Sideboard="false" Name="Kalonian Hydra" />
+  <Cards CatID="62305" Quantity="1" Sideboard="false" Name="Ishai, Ojutai Dragonspeaker" />
+  <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" />
+  <Cards CatID="62823" Quantity="1" Sideboard="false" Name="Winding Constrictor" />
+  <Cards CatID="48328" Quantity="1" Sideboard="false" Name="Putrefy" />
+  <Cards CatID="62317" Quantity="1" Sideboard="false" Name="Reyhan, Last of the Abzan" />
+  <Cards CatID="46495" Quantity="1" Sideboard="false" Name="Corpsejack Menace" />
+  <Cards CatID="52134" Quantity="1" Sideboard="false" Name="Ajani, Mentor of Heroes" />
+  <Cards CatID="24607" Quantity="1" Sideboard="false" Name="Juniper Order Ranger" />
+  <Cards CatID="47577" Quantity="1" Sideboard="false" Name="Bioshift" />
+  <Cards CatID="48426" Quantity="1" Sideboard="false" Name="Bred for the Hunt" />
+  <Cards CatID="48276" Quantity="1" Sideboard="false" Name="Vorel of the Hull Clade" />
+  <Cards CatID="47771" Quantity="1" Sideboard="false" Name="Fathom Mage" />
+  <Cards CatID="47935" Quantity="1" Sideboard="false" Name="Master Biomancer" />
+  <Cards CatID="24196" Quantity="1" Sideboard="false" Name="Experiment Kraj" />
+  <Cards CatID="47767" Quantity="1" Sideboard="false" Name="Prime Speaker Zegana" />
+  <Cards CatID="59912" Quantity="1" Sideboard="false" Name="Altered Ego" />
+  <Cards CatID="53193" Quantity="1" Sideboard="false" Name="Marchesa, the Black Rose" />
+  <Cards CatID="32400" Quantity="1" Sideboard="false" Name="Mayael's Aria" />
+  <Cards CatID="60977" Quantity="1" Sideboard="false" Name="Maelstrom Wanderer" />
+  <Cards CatID="54426" Quantity="1" Sideboard="false" Name="Abzan Ascendancy" />
+  <Cards CatID="54126" Quantity="1" Sideboard="false" Name="Abzan Charm" />
+  <Cards CatID="23262" Quantity="1" Sideboard="false" Name="Farseek" />
+  <Cards CatID="40650" Quantity="1" Sideboard="false" Name="Ghave, Guru of Spores" />
+  <Cards CatID="54428" Quantity="1" Sideboard="false" Name="Duneblast" />
+  <Cards CatID="62331" Quantity="1" Sideboard="false" Name="Atraxa, Praetors' Voice" />
+  <Cards CatID="32266" Quantity="1" Sideboard="false" Name="Maelstrom Nexus" />
+  <Cards CatID="31747" Quantity="1" Sideboard="false" Name="Conflux" />
+  <Cards CatID="48818" Quantity="1" Sideboard="false" Name="Progenitus" />
+  <Cards CatID="31205" Quantity="1" Sideboard="false" Name="Arcane Sanctum" />
+  <Cards CatID="64142" Quantity="1" Sideboard="false" Name="Cascading Cataracts" />
+  <Cards CatID="62805" Quantity="1" Sideboard="false" Name="Rishkar's Expertise" />
+  <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="44850" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
+  <Cards CatID="53478" Quantity="8" Sideboard="false" Name="Forest" />
+  <Cards CatID="42572" Quantity="1" Sideboard="false" Name="Gavony Township" />
+  <Cards CatID="53482" Quantity="4" Sideboard="false" Name="Island" />
+  <Cards CatID="31131" Quantity="1" Sideboard="false" Name="Jungle Shrine" />
+  <Cards CatID="30867" Quantity="1" Sideboard="false" Name="Esper Charm" />
+  <Cards CatID="53480" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="54166" Quantity="1" Sideboard="false" Name="Nomad Outpost" />
+  <Cards CatID="51354" Quantity="1" Sideboard="false" Name="Opal Palace" />
+  <Cards CatID="54164" Quantity="1" Sideboard="false" Name="Opulent Palace" />
+  <Cards CatID="65679" Quantity="1" Sideboard="false" Name="Path of Ancestry" />
+  <Cards CatID="53484" Quantity="3" Sideboard="false" Name="Plains" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="54160" Quantity="1" Sideboard="false" Name="Sandsteppe Citadel" />
+  <Cards CatID="30945" Quantity="1" Sideboard="false" Name="Savage Lands" />
+  <Cards CatID="31015" Quantity="1" Sideboard="false" Name="Seaside Citadel" />
+  <Cards CatID="53486" Quantity="3" Sideboard="false" Name="Swamp" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="46783" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
+  <Cards CatID="55141" Quantity="1" Sideboard="false" Name="Commander's Sphere" />
+  <Cards CatID="49585" Quantity="1" Sideboard="false" Name="Darksteel Ingot" />
+  <Cards CatID="62343" Quantity="1" Sideboard="false" Name="Crystalline Crawler" />
+  <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
+  <Cards CatID="45483" Quantity="1" Sideboard="false" Name="Door to Nothingness" />
+  <Cards CatID="27252" Quantity="1" Sideboard="false" Name="Legacy Weapon" />
+  <Cards CatID="65671" Quantity="1" Sideboard="false" Name="Traverse the Outlands" />
+  <Cards CatID="65749" Quantity="1" Sideboard="true" Name="Ramos, Dragon Engine" />
+</Deck>

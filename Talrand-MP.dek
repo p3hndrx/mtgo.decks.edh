@@ -41,7 +41,6 @@
   <Cards CatID="53392" Quantity="13" Sideboard="false" Name="Island" />
   <Cards CatID="53368" Quantity="3" Sideboard="false" Name="Island" />
   <Cards CatID="20590" Quantity="1" Sideboard="false" Name="Spellbinder" />
-  <Cards CatID="43913" Quantity="1" Sideboard="false" Name="Deadeye Navigator" />
   <Cards CatID="60599" Quantity="1" Sideboard="false" Name="Oona's Grace" />
   <Cards CatID="59952" Quantity="1" Sideboard="false" Name="Nagging Thoughts" />
   <Cards CatID="45640" Quantity="1" Sideboard="false" Name="Spelltwine" />
@@ -58,7 +57,6 @@
   <Cards CatID="59824" Quantity="1" Sideboard="false" Name="Rise from the Tides" />
   <Cards CatID="57088" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
   <Cards CatID="37648" Quantity="1" Sideboard="false" Name="Isochron Scepter" />
-  <Cards CatID="28241" Quantity="1" Sideboard="false" Name="Pestermite" />
   <Cards CatID="44181" Quantity="1" Sideboard="false" Name="Arcane Melee" />
   <Cards CatID="39537" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" />
   <Cards CatID="14171" Quantity="1" Sideboard="false" Name="Rhystic Study" />
@@ -75,5 +73,7 @@
   <Cards CatID="50274" Quantity="1" Sideboard="false" Name="Nykthos, Shrine to Nyx" />
   <Cards CatID="10607" Quantity="1" Sideboard="false" Name="Mind Over Matter" />
   <Cards CatID="65510" Quantity="1" Sideboard="false" Name="Primal Amulet" />
+  <Cards CatID="61805" Quantity="1" Sideboard="false" Name="Aetherflux Reservoir" />
+  <Cards CatID="57922" Quantity="1" Sideboard="false" Name="Jace's Sanctum" />
   <Cards CatID="45567" Quantity="1" Sideboard="true" Name="Talrand, Sky Summoner" />
 </Deck>
