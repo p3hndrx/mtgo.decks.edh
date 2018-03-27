@@ -44,7 +44,6 @@
   <Cards CatID="50412" Quantity="1" Sideboard="false" Name="Bow of Nylea" />
   <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
   <Cards CatID="64722" Quantity="1" Sideboard="false" Name="Hope Tender" />
-  <Cards CatID="22551" Quantity="1" Sideboard="false" Name="Early Harvest" />
   <Cards CatID="27214" Quantity="1" Sideboard="false" Name="Overgrowth" />
   <Cards CatID="15952" Quantity="1" Sideboard="false" Name="Wild Growth" />
   <Cards CatID="61757" Quantity="1" Sideboard="false" Name="Wildest Dreams" />
@@ -55,7 +54,6 @@
   <Cards CatID="28463" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
   <Cards CatID="60320" Quantity="1" Sideboard="false" Name="Tireless Tracker" />
   <Cards CatID="53109" Quantity="1" Sideboard="false" Name="Sylvan Library" />
-  <Cards CatID="31532" Quantity="1" Sideboard="false" Name="Mind Stone" />
   <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
   <Cards CatID="58076" Quantity="1" Sideboard="false" Name="Nissa's Pilgrimage" />
   <Cards CatID="53478" Quantity="13" Sideboard="false" Name="Forest" />
@@ -70,5 +68,7 @@
   <Cards CatID="60577" Quantity="1" Sideboard="false" Name="Argothian Enchantress" />
   <Cards CatID="18187" Quantity="1" Sideboard="false" Name="Enchantress's Presence" />
   <Cards CatID="60947" Quantity="1" Sideboard="false" Name="Ancestral Mask" />
+  <Cards CatID="51352" Quantity="1" Sideboard="false" Name="Spawning Grounds" />
+  <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
   <Cards CatID="30680" Quantity="1" Sideboard="true" Name="Kaysa" />
 </Deck>
