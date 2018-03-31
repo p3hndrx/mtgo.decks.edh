@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="61597" Quantity="1" Sideboard="false" Name="Saheeli Rai" />
+  <Cards CatID="55115" Quantity="1" Sideboard="false" Name="Daretti, Scrap Savant" />
+  <Cards CatID="59433" Quantity="1" Sideboard="false" Name="Jori En, Ruin Diver" />
+  <Cards CatID="62559" Quantity="1" Sideboard="false" Name="Mechanized Production" />
+  <Cards CatID="57088" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
+  <Cards CatID="61919" Quantity="1" Sideboard="false" Name="Metallurgic Summonings" />
+  <Cards CatID="61983" Quantity="1" Sideboard="false" Name="Welding Sparks" />
+  <Cards CatID="47929" Quantity="1" Sideboard="false" Name="Hellkite Tyrant" />
+  <Cards CatID="53209" Quantity="1" Sideboard="false" Name="Muzzio, Visionary Architect" />
+  <Cards CatID="31187" Quantity="1" Sideboard="false" Name="Master of Etherium" />
+  <Cards CatID="62875" Quantity="1" Sideboard="false" Name="Merchant's Dockhand" />
+  <Cards CatID="38365" Quantity="1" Sideboard="false" Name="Molten Psyche" />
+  <Cards CatID="61923" Quantity="1" Sideboard="false" Name="Padeem, Consul of Innovation" />
+  <Cards CatID="66807" Quantity="1" Sideboard="false" Name="Storm the Vault" />
+  <Cards CatID="39519" Quantity="1" Sideboard="false" Name="Hellkite Igniter" />
+  <Cards CatID="39872" Quantity="1" Sideboard="false" Name="Unwinding Clock" />
+  <Cards CatID="49587" Quantity="1" Sideboard="false" Name="Darksteel Forge" />
+  <Cards CatID="61857" Quantity="1" Sideboard="false" Name="Inventors' Fair" />
+  <Cards CatID="38241" Quantity="1" Sideboard="false" Name="Darksteel Juggernaut" />
+  <Cards CatID="20794" Quantity="1" Sideboard="false" Name="Mycosynth Golem" />
+  <Cards CatID="61807" Quantity="1" Sideboard="false" Name="Metalwork Colossus" />
+  <Cards CatID="39587" Quantity="1" Sideboard="false" Name="Blightsteel Colossus" />
+  <Cards CatID="38435" Quantity="1" Sideboard="false" Name="Kuldotha Forgemaster" />
+  <Cards CatID="18103" Quantity="1" Sideboard="false" Name="Mana Echoes" />
+  <Cards CatID="57990" Quantity="1" Sideboard="false" Name="Pia and Kiran Nalaar" />
+  <Cards CatID="61719" Quantity="1" Sideboard="false" Name="Pia Nalaar" />
+  <Cards CatID="50938" Quantity="1" Sideboard="false" Name="Sharding Sphinx" />
+  <Cards CatID="57906" Quantity="1" Sideboard="false" Name="Thopter Spy Network" />
+  <Cards CatID="62643" Quantity="1" Sideboard="false" Name="Efficient Construction" />
+  <Cards CatID="58018" Quantity="1" Sideboard="false" Name="Thopter Engineer" />
+  <Cards CatID="57927" Quantity="1" Sideboard="false" Name="Whirler Rogue" />
+  <Cards CatID="58128" Quantity="1" Sideboard="false" Name="Hangarback Walker" />
+  <Cards CatID="62895" Quantity="1" Sideboard="false" Name="Hope of Ghirapur" />
+  <Cards CatID="56926" Quantity="1" Sideboard="false" Name="Thopter Squadron" />
+  <Cards CatID="58150" Quantity="1" Sideboard="false" Name="Foundry of the Consuls" />
+  <Cards CatID="60082" Quantity="1" Sideboard="false" Name="Tamiyo's Journal" />
+  <Cards CatID="60328" Quantity="1" Sideboard="false" Name="Confirm Suspicions" />
+  <Cards CatID="66531" Quantity="1" Sideboard="false" Name="Hornswoggle" />
+  <Cards CatID="66641" Quantity="1" Sideboard="false" Name="Brass's Bounty" />
+  <Cards CatID="65178" Quantity="1" Sideboard="false" Name="Spell Swindle" />
+  <Cards CatID="65288" Quantity="1" Sideboard="false" Name="Captain Lannery Storm" />
+  <Cards CatID="20153" Quantity="1" Sideboard="false" Name="Trash for Treasure" />
+  <Cards CatID="39363" Quantity="1" Sideboard="false" Name="Treasure Mage" />
+  <Cards CatID="66671" Quantity="1" Sideboard="false" Name="Pirate's Pillage" />
+  <Cards CatID="41586" Quantity="1" Sideboard="false" Name="Pentavus" />
+  <Cards CatID="20245" Quantity="1" Sideboard="false" Name="Nuisance Engine" />
+  <Cards CatID="62911" Quantity="1" Sideboard="false" Name="Paradox Engine" />
+  <Cards CatID="53602" Quantity="1" Sideboard="false" Name="Ensoul Artifact" />
+  <Cards CatID="65745" Quantity="1" Sideboard="false" Name="Curse of Opulence" />
+  <Cards CatID="55107" Quantity="1" Sideboard="false" Name="Feldon of the Third Path" />
+  <Cards CatID="25581" Quantity="1" Sideboard="false" Name="Greater Gargadon" />
+  <Cards CatID="20550" Quantity="1" Sideboard="false" Name="Reshape" />
+  <Cards CatID="19797" Quantity="1" Sideboard="false" Name="Atog" />
+  <Cards CatID="62731" Quantity="1" Sideboard="false" Name="Ravenous Intruder" />
+  <Cards CatID="60166" Quantity="1" Sideboard="false" Name="Press for Answers" />
+  <Cards CatID="62879" Quantity="1" Sideboard="false" Name="Treasure Keeper" />
+  <Cards CatID="65528" Quantity="1" Sideboard="false" Name="Treasure Map" />
+  <Cards CatID="66821" Quantity="1" Sideboard="false" Name="Gleaming Barrier" />
+  <Cards CatID="66557" Quantity="1" Sideboard="false" Name="Secrets of the Golden City" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="54843" Quantity="1" Sideboard="false" Name="Dreamstone Hedron" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="53163" Quantity="1" Sideboard="false" Name="Mishra's Workshop" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="19763" Quantity="1" Sideboard="false" Name="Lodestone Myr" />
+  <Cards CatID="62313" Quantity="1" Sideboard="true" Name="Ludevic, Necro-Alchemist" />
+  <Cards CatID="62309" Quantity="1" Sideboard="true" Name="Kraum, Ludevic's Opus" />
+</Deck>

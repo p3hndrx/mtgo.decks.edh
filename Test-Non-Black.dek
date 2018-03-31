@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="66653" Quantity="1" Sideboard="false" Name="Etali, Primal Storm" />
+  <Cards CatID="66741" Quantity="1" Sideboard="false" Name="Polyraptor" />
+  <Cards CatID="66683" Quantity="1" Sideboard="false" Name="Silverclad Ferocidons" />
+  <Cards CatID="65426" Quantity="1" Sideboard="false" Name="Ripjaw Raptor" />
+  <Cards CatID="63608" Quantity="1" Sideboard="false" Name="Anointer Priest" />
+  <Cards CatID="60126" Quantity="1" Sideboard="false" Name="Second Harvest" />
+  <Cards CatID="55107" Quantity="1" Sideboard="false" Name="Feldon of the Third Path" />
+  <Cards CatID="48852" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
+  <Cards CatID="47931" Quantity="1" Sideboard="false" Name="Giant Adephage" />
+  <Cards CatID="46553" Quantity="1" Sideboard="false" Name="Trostani, Selesnya's Voice" />
+  <Cards CatID="46641" Quantity="1" Sideboard="false" Name="Sundering Growth" />
+  <Cards CatID="40523" Quantity="1" Sideboard="false" Name="Spawnwrithe" />
+  <Cards CatID="24329" Quantity="1" Sideboard="false" Name="Sprouting Phytohydra" />
+  <Cards CatID="65721" Quantity="1" Sideboard="false" Name="Kindred Charge" />
+  <Cards CatID="29535" Quantity="1" Sideboard="false" Name="Rhys the Redeemed" />
+  <Cards CatID="17063" Quantity="1" Sideboard="false" Name="Parallel Evolution" />
+  <Cards CatID="62283" Quantity="1" Sideboard="false" Name="Splitting Slime" />
+  <Cards CatID="30146" Quantity="1" Sideboard="false" Name="Spitting Image" />
+  <Cards CatID="31693" Quantity="1" Sideboard="false" Name="Mirror-Sigil Sergeant" />
+  <Cards CatID="55924" Quantity="1" Sideboard="false" Name="Clone Legion" />
+  <Cards CatID="48208" Quantity="1" Sideboard="false" Name="Progenitor Mimic" />
+  <Cards CatID="62353" Quantity="1" Sideboard="false" Name="Faerie Artisans" />
+  <Cards CatID="56364" Quantity="1" Sideboard="false" Name="Mirror Mockery" />
+  <Cards CatID="47780" Quantity="1" Sideboard="false" Name="Stolen Identity" />
+  <Cards CatID="51330" Quantity="1" Sideboard="false" Name="Tempt with Reflections" />
+  <Cards CatID="40470" Quantity="1" Sideboard="false" Name="Pyrohemia" />
+  <Cards CatID="9429" Quantity="1" Sideboard="false" Name="Aether Flash" />
+  <Cards CatID="58491" Quantity="1" Sideboard="false" Name="Kiora, Master of the Depths" />
+  <Cards CatID="40576" Quantity="1" Sideboard="false" Name="Aura Shards" />
+  <Cards CatID="39766" Quantity="1" Sideboard="false" Name="Suture Priest" />
+  <Cards CatID="26119" Quantity="1" Sideboard="false" Name="Pandemonium" />
+  <Cards CatID="18103" Quantity="1" Sideboard="false" Name="Mana Echoes" />
+  <Cards CatID="54999" Quantity="1" Sideboard="false" Name="Cathars' Crusade" />
+  <Cards CatID="58741" Quantity="1" Sideboard="false" Name="Radiant Flames" />
+  <Cards CatID="40472" Quantity="1" Sideboard="false" Name="Savage Twister" />
+  <Cards CatID="42410" Quantity="1" Sideboard="false" Name="Blasphemous Act" />
+  <Cards CatID="50578" Quantity="1" Sideboard="false" Name="Anger of the Gods" />
+  <Cards CatID="61354" Quantity="1" Sideboard="false" Name="Identity Thief" />
+  <Cards CatID="34770" Quantity="1" Sideboard="false" Name="Rite of Replication" />
+  <Cards CatID="39497" Quantity="1" Sideboard="false" Name="Cryptoplasm" />
+  <Cards CatID="65681" Quantity="1" Sideboard="false" Name="Fractured Identity" />
+  <Cards CatID="51408" Quantity="1" Sideboard="false" Name="Primal Vigor" />
+  <Cards CatID="48848" Quantity="1" Sideboard="false" Name="Doubling Season" />
+  <Cards CatID="42790" Quantity="1" Sideboard="false" Name="Parallel Lives" />
+  <Cards CatID="63606" Quantity="1" Sideboard="false" Name="Anointed Procession" />
+  <Cards CatID="31333" Quantity="1" Sideboard="false" Name="Mycoloth" />
+  <Cards CatID="23833" Quantity="1" Sideboard="false" Name="Ulasht, the Hate Seed" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="64156" Quantity="1" Sideboard="false" Name="Scattered Groves" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="47475" Quantity="1" Sideboard="false" Name="Breeding Pool" />
+  <Cards CatID="42671" Quantity="1" Sideboard="false" Name="Hinterland Harbor" />
+  <Cards CatID="61853" Quantity="1" Sideboard="false" Name="Botanical Sanctum" />
+  <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
+  <Cards CatID="54064" Quantity="1" Sideboard="false" Name="Jeskai Banner" />
+  <Cards CatID="54168" Quantity="1" Sideboard="false" Name="Frontier Bivouac" />
+  <Cards CatID="54162" Quantity="1" Sideboard="false" Name="Mystic Monastery" />
+  <Cards CatID="53096" Quantity="1" Sideboard="false" Name="Tundra" />
+  <Cards CatID="53099" Quantity="1" Sideboard="false" Name="Volcanic Island" />
+  <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
+  <Cards CatID="57676" Quantity="1" Sideboard="false" Name="Yavimaya Coast" />
+  <Cards CatID="38301" Quantity="1" Sideboard="false" Name="Copperline Gorge" />
+  <Cards CatID="38299" Quantity="1" Sideboard="false" Name="Razorverge Thicket" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="53484" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="53482" Quantity="2" Sideboard="false" Name="Island" />
+  <Cards CatID="53480" Quantity="3" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53478" Quantity="6" Sideboard="false" Name="Forest" />
+  <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" />
+  <Cards CatID="31131" Quantity="1" Sideboard="false" Name="Jungle Shrine" />
+  <Cards CatID="31015" Quantity="1" Sideboard="false" Name="Seaside Citadel" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="37410" Quantity="1" Sideboard="false" Name="Mitotic Slime" />
+  <Cards CatID="20786" Quantity="1" Sideboard="false" Name="Blasting Station" />
+  <Cards CatID="62307" Quantity="1" Sideboard="true" Name="Thrasios, Triton Hero" />
+  <Cards CatID="62303" Quantity="1" Sideboard="true" Name="Bruse Tarl, Boorish Herder" />
+</Deck>
