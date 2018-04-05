@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="38496" Quantity="1" Sideboard="false" Name="Copy Artifact" />
+  <Cards CatID="39734" Quantity="1" Sideboard="false" Name="Phyrexian Metamorph" />
+  <Cards CatID="49592" Quantity="1" Sideboard="false" Name="Clone" />
+  <Cards CatID="59207" Quantity="1" Sideboard="false" Name="Gigantoplasm" />
+  <Cards CatID="62281" Quantity="1" Sideboard="false" Name="Stunt Double" />
+  <Cards CatID="54318" Quantity="1" Sideboard="false" Name="Clever Impersonator" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="63750" Quantity="1" Sideboard="false" Name="Vizier of Many Faces" />
+  <Cards CatID="22092" Quantity="1" Sideboard="false" Name="Sakashima the Impostor" />
+  <Cards CatID="34770" Quantity="1" Sideboard="false" Name="Rite of Replication" />
+  <Cards CatID="53664" Quantity="1" Sideboard="false" Name="Mercurial Pretender" />
+  <Cards CatID="25949" Quantity="1" Sideboard="false" Name="Vesuvan Shapeshifter" />
+  <Cards CatID="38183" Quantity="1" Sideboard="false" Name="Quicksilver Gargantuan" />
+  <Cards CatID="27837" Quantity="1" Sideboard="false" Name="Vesuvan Doppelganger" />
+  <Cards CatID="26351" Quantity="1" Sideboard="false" Name="Body Double" />
+  <Cards CatID="41369" Quantity="1" Sideboard="false" Name="Phantasmal Image" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="55934" Quantity="1" Sideboard="false" Name="Dragonlord Silumgar" />
+  <Cards CatID="65751" Quantity="1" Sideboard="false" Name="Mirror of the Forebears" />
+  <Cards CatID="20059" Quantity="1" Sideboard="false" Name="Sculpting Steel" />
+  <Cards CatID="42518" Quantity="1" Sideboard="false" Name="Evil Twin" />
+  <Cards CatID="39497" Quantity="1" Sideboard="false" Name="Cryptoplasm" />
+  <Cards CatID="23108" Quantity="1" Sideboard="false" Name="Dimir Doppelganger" />
+  <Cards CatID="61354" Quantity="1" Sideboard="false" Name="Identity Thief" />
+  <Cards CatID="47780" Quantity="1" Sideboard="false" Name="Stolen Identity" />
+  <Cards CatID="21127" Quantity="1" Sideboard="false" Name="Keiga, the Tide Star" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="51330" Quantity="1" Sideboard="false" Name="Tempt with Reflections" />
+  <Cards CatID="50310" Quantity="1" Sideboard="false" Name="Ashiok, Nightmare Weaver" />
+  <Cards CatID="14999" Quantity="1" Sideboard="false" Name="Empress Galina" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="49487" Quantity="1" Sideboard="false" Name="Dismiss into Dream" />
+  <Cards CatID="10347" Quantity="1" Sideboard="false" Name="Reins of Power" />
+  <Cards CatID="51052" Quantity="1" Sideboard="false" Name="Spinal Embrace" />
+  <Cards CatID="17835" Quantity="1" Sideboard="false" Name="Blatant Thievery" />
+  <Cards CatID="65122" Quantity="1" Sideboard="false" Name="Entrancing Melody" />
+  <Cards CatID="24203" Quantity="1" Sideboard="false" Name="Govern the Guildless" />
+  <Cards CatID="64562" Quantity="1" Sideboard="false" Name="Kefnet's Last Word" />
+  <Cards CatID="30716" Quantity="1" Sideboard="false" Name="Ritual of the Machine" />
+  <Cards CatID="57060" Quantity="1" Sideboard="false" Name="Puppeteer Clique" />
+  <Cards CatID="34536" Quantity="1" Sideboard="false" Name="Roil Elemental" />
+  <Cards CatID="57774" Quantity="1" Sideboard="false" Name="Willbreaker" />
+  <Cards CatID="13879" Quantity="1" Sideboard="false" Name="Dominate" />
+  <Cards CatID="10411" Quantity="1" Sideboard="false" Name="Thalakos Deceiver" />
+  <Cards CatID="28767" Quantity="1" Sideboard="false" Name="Sower of Temptation" />
+  <Cards CatID="47887" Quantity="1" Sideboard="false" Name="Simic Manipulator" />
+  <Cards CatID="28016" Quantity="1" Sideboard="false" Name="Seasinger" />
+  <Cards CatID="33474" Quantity="1" Sideboard="false" Name="Old Man of the Sea" />
+  <Cards CatID="17859" Quantity="1" Sideboard="false" Name="Callous Oppressor" />
+  <Cards CatID="43161" Quantity="1" Sideboard="false" Name="Beguiler of Wills" />
+  <Cards CatID="26453" Quantity="1" Sideboard="false" Name="Pongify" />
+  <Cards CatID="47809" Quantity="1" Sideboard="false" Name="Rapid Hybridization" />
+  <Cards CatID="40560" Quantity="1" Sideboard="false" Name="Doom Blade" />
+  <Cards CatID="39447" Quantity="1" Sideboard="false" Name="Go for the Throat" />
+  <Cards CatID="46603" Quantity="1" Sideboard="false" Name="Ultimate Price" />
+  <Cards CatID="50596" Quantity="1" Sideboard="false" Name="Hero's Downfall" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="64148" Quantity="1" Sideboard="false" Name="Fetid Pools" />
+  <Cards CatID="58659" Quantity="1" Sideboard="false" Name="Sunken Hollow" />
+  <Cards CatID="53097" Quantity="1" Sideboard="false" Name="Underground Sea" />
+  <Cards CatID="47471" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="53486" Quantity="5" Sideboard="false" Name="Swamp" />
+  <Cards CatID="59920" Quantity="1" Sideboard="false" Name="Choked Estuary" />
+  <Cards CatID="53482" Quantity="12" Sideboard="false" Name="Island" />
+  <Cards CatID="52603" Quantity="1" Sideboard="false" Name="Bad River" />
+  <Cards CatID="45314" Quantity="1" Sideboard="false" Name="Drowned Catacomb" />
+  <Cards CatID="31471" Quantity="1" Sideboard="false" Name="Cabal Coffers" />
+  <Cards CatID="53250" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="22623" Quantity="1" Sideboard="false" Name="Underground River" />
+  <Cards CatID="17323" Quantity="1" Sideboard="false" Name="Tainted Isle" />
+  <Cards CatID="19679" Quantity="1" Sideboard="false" Name="Talisman of Dominance" />
+  <Cards CatID="48462" Quantity="1" Sideboard="false" Name="Dimir Cluestone" />
+  <Cards CatID="57088" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
+  <Cards CatID="20762" Quantity="1" Sideboard="false" Name="Acquire" />
+  <Cards CatID="20143" Quantity="1" Sideboard="false" Name="Fabricate" />
+  <Cards CatID="63016" Quantity="1" Sideboard="false" Name="Submerged Boneyard" />
+  <Cards CatID="51250" Quantity="1" Sideboard="false" Name="Dimir Guildgate" />
+  <Cards CatID="50264" Quantity="1" Sideboard="false" Name="Temple of Deceit" />
+  <Cards CatID="55520" Quantity="1" Sideboard="false" Name="Dismal Backwater" />
+  <Cards CatID="47793" Quantity="1" Sideboard="true" Name="Lazav, Dimir Mastermind" />
+</Deck>

@@ -38,10 +38,8 @@
   <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
   <Cards CatID="58102" Quantity="1" Sideboard="false" Name="Thunderclap Wyvern" />
   <Cards CatID="44043" Quantity="1" Sideboard="false" Name="Favorable Winds" />
-  <Cards CatID="42810" Quantity="1" Sideboard="false" Name="One-Eyed Scarecrow" />
   <Cards CatID="59878" Quantity="1" Sideboard="false" Name="Declaration in Stone" />
   <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
-  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
   <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
   <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
   <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
@@ -61,5 +59,29 @@
   <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
   <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
   <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="50440" Quantity="1" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="63381" Quantity="1" Sideboard="false" Name="Sphinx's Revelation" />
+  <Cards CatID="32694" Quantity="1" Sideboard="false" Name="Mind Spring" />
+  <Cards CatID="205" Quantity="1" Sideboard="false" Name="Braingeyser" />
+  <Cards CatID="53117" Quantity="1" Sideboard="false" Name="Brainstorm" />
+  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="46503" Quantity="1" Sideboard="false" Name="Hallowed Fountain" />
+  <Cards CatID="64152" Quantity="1" Sideboard="false" Name="Irrigated Farmland" />
+  <Cards CatID="58623" Quantity="1" Sideboard="false" Name="Prairie Stream" />
+  <Cards CatID="53096" Quantity="1" Sideboard="false" Name="Tundra" />
+  <Cards CatID="59926" Quantity="1" Sideboard="false" Name="Port Town" />
+  <Cards CatID="52607" Quantity="1" Sideboard="false" Name="Flood Plain" />
+  <Cards CatID="24757" Quantity="10" Sideboard="false" Name="Snow-Covered Plains" />
+  <Cards CatID="41217" Quantity="1" Sideboard="false" Name="Glacial Fortress" />
+  <Cards CatID="24539" Quantity="10" Sideboard="false" Name="Snow-Covered Island" />
+  <Cards CatID="51248" Quantity="1" Sideboard="false" Name="Azorius Guildgate" />
+  <Cards CatID="24629" Quantity="1" Sideboard="false" Name="Boreal Shelf" />
+  <Cards CatID="19255" Quantity="1" Sideboard="false" Name="Coastal Tower" />
+  <Cards CatID="59409" Quantity="1" Sideboard="false" Name="Meandering River" />
+  <Cards CatID="38289" Quantity="1" Sideboard="false" Name="Seachrome Coast" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
   <Cards CatID="14347" Quantity="1" Sideboard="true" Name="Kangee, Aerie Keeper" />
 </Deck>

@@ -28,7 +28,6 @@
   <Cards CatID="60126" Quantity="1" Sideboard="false" Name="Second Harvest" />
   <Cards CatID="38423" Quantity="1" Sideboard="false" Name="Asceticism" />
   <Cards CatID="34818" Quantity="1" Sideboard="false" Name="Beastmaster Ascension" />
-  <Cards CatID="33812" Quantity="1" Sideboard="false" Name="Meng Huo, Barbarian King" />
   <Cards CatID="27735" Quantity="1" Sideboard="false" Name="Scion of the Wild" />
   <Cards CatID="7341" Quantity="1" Sideboard="false" Name="Superior Numbers" />
   <Cards CatID="41577" Quantity="1" Sideboard="false" Name="Adaptive Automaton" />
@@ -70,5 +69,6 @@
   <Cards CatID="60947" Quantity="1" Sideboard="false" Name="Ancestral Mask" />
   <Cards CatID="51352" Quantity="1" Sideboard="false" Name="Spawning Grounds" />
   <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
+  <Cards CatID="64136" Quantity="1" Sideboard="false" Name="Throne of the God-Pharaoh" />
   <Cards CatID="30680" Quantity="1" Sideboard="true" Name="Kaysa" />
 </Deck>
