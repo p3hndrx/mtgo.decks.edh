@@ -10,10 +10,9 @@
   <Cards CatID="58563" Quantity="1" Sideboard="false" Name="Expedition Envoy" />
   <Cards CatID="43935" Quantity="1" Sideboard="false" Name="Gisela, Blade of Goldnight" />
   <Cards CatID="34364" Quantity="1" Sideboard="false" Name="Kazandu Blademaster" />
-  <Cards CatID="40624" Quantity="1" Sideboard="false" Name="Crescendo of War" />
+  <Cards CatID="58419" Quantity="1" Sideboard="false" Name="Chasm Guide" />
   <Cards CatID="59591" Quantity="1" Sideboard="false" Name="Captain's Claws" />
   <Cards CatID="58569" Quantity="1" Sideboard="false" Name="Ally Encampment" />
-  <Cards CatID="35781" Quantity="1" Sideboard="false" Name="Akoum Battlesinger" />
   <Cards CatID="58561" Quantity="1" Sideboard="false" Name="Retreat to Emeria" />
   <Cards CatID="61228" Quantity="1" Sideboard="false" Name="Hanweir Battlements" />
   <Cards CatID="34686" Quantity="1" Sideboard="false" Name="Kazuul Warlord" />
@@ -39,13 +38,13 @@
   <Cards CatID="7243" Quantity="1" Sideboard="false" Name="Reflect Damage" />
   <Cards CatID="30240" Quantity="1" Sideboard="false" Name="Waves of Aggression" />
   <Cards CatID="58100" Quantity="1" Sideboard="false" Name="Iroas's Champion" />
-  <Cards CatID="62825" Quantity="1" Sideboard="false" Name="Renegade Wheelsmith" />
+  <Cards CatID="58575" Quantity="1" Sideboard="false" Name="Angelic Captain" />
   <Cards CatID="31487" Quantity="1" Sideboard="false" Name="Lightning Helix" />
   <Cards CatID="61474" Quantity="1" Sideboard="false" Name="Ride Down" />
   <Cards CatID="54454" Quantity="1" Sideboard="false" Name="Deflecting Palm" />
   <Cards CatID="47477" Quantity="1" Sideboard="false" Name="Boros Charm" />
   <Cards CatID="59878" Quantity="1" Sideboard="false" Name="Declaration in Stone" />
-  <Cards CatID="48027" Quantity="1" Sideboard="false" Name="Field of Souls" />
+  <Cards CatID="58483" Quantity="1" Sideboard="false" Name="Resolute Blademaster" />
   <Cards CatID="59273" Quantity="1" Sideboard="false" Name="Reckless Bushwhacker" />
   <Cards CatID="58417" Quantity="1" Sideboard="false" Name="Firemantle Mage" />
   <Cards CatID="35763" Quantity="1" Sideboard="false" Name="Hada Freeblade" />
@@ -81,5 +80,6 @@
   <Cards CatID="65346" Quantity="1" Sideboard="false" Name="Sunbird's Invocation" />
   <Cards CatID="52016" Quantity="1" Sideboard="false" Name="Iroas, God of Victory" />
   <Cards CatID="58425" Quantity="1" Sideboard="false" Name="Ondu Champion" />
+  <Cards CatID="35723" Quantity="1" Sideboard="false" Name="Talus Paladin" />
   <Cards CatID="58543" Quantity="1" Sideboard="true" Name="Munda, Ambush Leader" />
 </Deck>

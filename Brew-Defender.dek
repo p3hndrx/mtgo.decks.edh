@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="19383" Quantity="1" Sideboard="false" Name="Rolling Stones" />
+  <Cards CatID="36673" Quantity="1" Sideboard="false" Name="Warmonger's Chariot" />
+  <Cards CatID="27767" Quantity="1" Sideboard="false" Name="Animate Wall" />
+  <Cards CatID="56044" Quantity="1" Sideboard="false" Name="Assault Formation" />
+  <Cards CatID="24333" Quantity="1" Sideboard="false" Name="Wakestone Gargoyle" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="61386" Quantity="1" Sideboard="false" Name="Tree of Perdition" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="28711" Quantity="1" Sideboard="false" Name="Doran, the Siege Tower" />
+  <Cards CatID="62321" Quantity="1" Sideboard="false" Name="Sidar Kondo of Jamuraa" />
+  <Cards CatID="62319" Quantity="1" Sideboard="false" Name="Ikra Shidiqi, the Usurper" />
+  <Cards CatID="42772" Quantity="1" Sideboard="false" Name="Tree of Redemption" />
+  <Cards CatID="63175" Quantity="1" Sideboard="false" Name="Wall of Denial" />
+  <Cards CatID="60919" Quantity="1" Sideboard="false" Name="Glacial Wall" />
+  <Cards CatID="49153" Quantity="1" Sideboard="false" Name="Wall of Frost" />
+  <Cards CatID="10547" Quantity="1" Sideboard="false" Name="Wall of Nets" />
+  <Cards CatID="58703" Quantity="1" Sideboard="false" Name="Fortified Rampart" />
+  <Cards CatID="46671" Quantity="1" Sideboard="false" Name="Hover Barrier" />
+  <Cards CatID="16306" Quantity="1" Sideboard="false" Name="Jungle Barrier" />
+  <Cards CatID="38119" Quantity="1" Sideboard="false" Name="Wall of Tanglecord" />
+  <Cards CatID="48246" Quantity="1" Sideboard="false" Name="Murmuring Phantasm" />
+  <Cards CatID="35717" Quantity="1" Sideboard="false" Name="Perimeter Captain" />
+  <Cards CatID="16387" Quantity="1" Sideboard="false" Name="Angelic Wall" />
+  <Cards CatID="14789" Quantity="1" Sideboard="false" Name="Prison Barricade" />
+  <Cards CatID="59009" Quantity="1" Sideboard="false" Name="Wall of Omens" />
+  <Cards CatID="7425" Quantity="1" Sideboard="false" Name="Wall of Resistance" />
+  <Cards CatID="46575" Quantity="1" Sideboard="false" Name="Doorkeeper" />
+  <Cards CatID="45627" Quantity="1" Sideboard="false" Name="Fog Bank" />
+  <Cards CatID="56872" Quantity="1" Sideboard="false" Name="Wall of Souls" />
+  <Cards CatID="50120" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="36602" Quantity="1" Sideboard="false" Name="Overgrown Battlement" />
+  <Cards CatID="50026" Quantity="1" Sideboard="false" Name="Wall of Blossoms" />
+  <Cards CatID="53418" Quantity="1" Sideboard="false" Name="Wall of Mulch" />
+  <Cards CatID="24035" Quantity="1" Sideboard="false" Name="Walking Archive" />
+  <Cards CatID="26802" Quantity="1" Sideboard="false" Name="Bonded Fetch" />
+  <Cards CatID="34828" Quantity="1" Sideboard="false" Name="Gomazoa" />
+  <Cards CatID="36592" Quantity="1" Sideboard="false" Name="Guard Gomazoa" />
+  <Cards CatID="19433" Quantity="1" Sideboard="false" Name="Wall of Air" />
+  <Cards CatID="46625" Quantity="1" Sideboard="false" Name="Axebane Guardian" />
+  <Cards CatID="23436" Quantity="1" Sideboard="false" Name="Carven Caryatid" />
+  <Cards CatID="23863" Quantity="1" Sideboard="false" Name="Souls of the Faultless" />
+  <Cards CatID="62307" Quantity="1" Sideboard="true" Name="Thrasios, Triton Hero" />
+  <Cards CatID="62327" Quantity="1" Sideboard="true" Name="Tymna the Weaver" />
+</Deck>

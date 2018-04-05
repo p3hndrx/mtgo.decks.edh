@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="62305" Quantity="1" Sideboard="false" Name="Ishai, Ojutai Dragonspeaker" />
+  <Cards CatID="26932" Quantity="1" Sideboard="false" Name="Aven Mindcensor" />
+  <Cards CatID="24043" Quantity="1" Sideboard="false" Name="Pride of the Clouds" />
+  <Cards CatID="24217" Quantity="1" Sideboard="false" Name="Dovescape" />
+  <Cards CatID="18535" Quantity="1" Sideboard="false" Name="Celestial Gatekeeper" />
+  <Cards CatID="62355" Quantity="1" Sideboard="false" Name="Migratory Route" />
+  <Cards CatID="17428" Quantity="1" Sideboard="false" Name="Commander Eesha" />
+  <Cards CatID="17406" Quantity="1" Sideboard="false" Name="Phantom Flock" />
+  <Cards CatID="17103" Quantity="1" Sideboard="false" Name="Major Teroh" />
+  <Cards CatID="16983" Quantity="1" Sideboard="false" Name="Lieutenant Kirtar" />
+  <Cards CatID="62093" Quantity="1" Sideboard="false" Name="Aetherstorm Roc" />
+  <Cards CatID="34602" Quantity="1" Sideboard="false" Name="Emeria Angel" />
+  <Cards CatID="64564" Quantity="1" Sideboard="false" Name="Nimble Obstructionist" />
+  <Cards CatID="24707" Quantity="1" Sideboard="false" Name="Jotun Owl Keeper" />
+  <Cards CatID="46417" Quantity="1" Sideboard="false" Name="Judge's Familiar" />
+  <Cards CatID="49485" Quantity="1" Sideboard="false" Name="Warden of Evos Isle" />
+  <Cards CatID="38079" Quantity="1" Sideboard="false" Name="Thrummingbird" />
+  <Cards CatID="52995" Quantity="1" Sideboard="false" Name="Battle Screech" />
+  <Cards CatID="47523" Quantity="1" Sideboard="false" Name="Cloudfin Raptor" />
+  <Cards CatID="64498" Quantity="1" Sideboard="false" Name="Dauntless Aven" />
+  <Cards CatID="52266" Quantity="1" Sideboard="false" Name="Rise of Eagles" />
+  <Cards CatID="61927" Quantity="1" Sideboard="false" Name="Glint-Nest Crane" />
+  <Cards CatID="54745" Quantity="1" Sideboard="false" Name="Junk Diver" />
+  <Cards CatID="52022" Quantity="1" Sideboard="false" Name="Eagle of the Watch" />
+  <Cards CatID="62573" Quantity="1" Sideboard="false" Name="Ghirapur Osprey" />
+  <Cards CatID="53975" Quantity="1" Sideboard="false" Name="Jeskai Windscout" />
+  <Cards CatID="51294" Quantity="1" Sideboard="false" Name="Raven Familiar" />
+  <Cards CatID="61819" Quantity="1" Sideboard="false" Name="Dukhara Peafowl" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="58102" Quantity="1" Sideboard="false" Name="Thunderclap Wyvern" />
+  <Cards CatID="44043" Quantity="1" Sideboard="false" Name="Favorable Winds" />
+  <Cards CatID="42810" Quantity="1" Sideboard="false" Name="One-Eyed Scarecrow" />
+  <Cards CatID="59878" Quantity="1" Sideboard="false" Name="Declaration in Stone" />
+  <Cards CatID="60276" Quantity="1" Sideboard="false" Name="Always Watching" />
+  <Cards CatID="20215" Quantity="1" Sideboard="false" Name="Duplicant" />
+  <Cards CatID="38191" Quantity="1" Sideboard="false" Name="Mimic Vat" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="65767" Quantity="1" Sideboard="false" Name="Curse of Verbosity" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
+  <Cards CatID="66489" Quantity="1" Sideboard="false" Name="Radiant Destiny" />
+  <Cards CatID="62565" Quantity="1" Sideboard="false" Name="Metallic Mimic" />
+  <Cards CatID="61116" Quantity="1" Sideboard="false" Name="Imprisoned in the Moon" />
+  <Cards CatID="59590" Quantity="1" Sideboard="false" Name="Stoneforge Masterwork" />
+  <Cards CatID="53650" Quantity="1" Sideboard="false" Name="Obelisk of Urd" />
+  <Cards CatID="41577" Quantity="1" Sideboard="false" Name="Adaptive Automaton" />
+  <Cards CatID="65679" Quantity="1" Sideboard="false" Name="Path of Ancestry" />
+  <Cards CatID="65725" Quantity="1" Sideboard="false" Name="Kindred Discovery" />
+  <Cards CatID="65683" Quantity="1" Sideboard="false" Name="Heirloom Blade" />
+  <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="14347" Quantity="1" Sideboard="true" Name="Kangee, Aerie Keeper" />
+</Deck>
