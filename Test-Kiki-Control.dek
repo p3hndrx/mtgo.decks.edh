@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="62721" Quantity="1" Sideboard="false" Name="Wrangle" />
+  <Cards CatID="36750" Quantity="1" Sideboard="false" Name="Traitorous Instinct" />
+  <Cards CatID="30162" Quantity="1" Sideboard="false" Name="Unwilling Recruit" />
+  <Cards CatID="59816" Quantity="1" Sideboard="false" Name="Malevolent Whispers" />
+  <Cards CatID="50472" Quantity="1" Sideboard="false" Name="Portent of Betrayal" />
+  <Cards CatID="32851" Quantity="1" Sideboard="false" Name="Act of Treason" />
+  <Cards CatID="63882" Quantity="1" Sideboard="false" Name="Limits of Solidarity" />
+  <Cards CatID="56206" Quantity="1" Sideboard="false" Name="Lose Calm" />
+  <Cards CatID="42596" Quantity="1" Sideboard="false" Name="Traitorous Blood" />
+  <Cards CatID="34562" Quantity="1" Sideboard="false" Name="Mark of Mutiny" />
+  <Cards CatID="61705" Quantity="1" Sideboard="false" Name="Hijack" />
+  <Cards CatID="62919" Quantity="1" Sideboard="false" Name="Kari Zev's Expertise" />
+  <Cards CatID="59459" Quantity="1" Sideboard="false" Name="Press into Service" />
+  <Cards CatID="44033" Quantity="1" Sideboard="false" Name="Zealous Conscripts" />
+  <Cards CatID="53590" Quantity="1" Sideboard="false" Name="Might Makes Right" />
+  <Cards CatID="39936" Quantity="1" Sideboard="false" Name="Act of Aggression" />
+  <Cards CatID="19851" Quantity="1" Sideboard="false" Name="Grab the Reins" />
+  <Cards CatID="58593" Quantity="1" Sideboard="false" Name="Turn Against" />
+  <Cards CatID="58002" Quantity="1" Sideboard="false" Name="Enthralling Victor" />
+  <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="36418" Quantity="1" Sideboard="false" Name="Conquering Manticore" />
+  <Cards CatID="42712" Quantity="1" Sideboard="false" Name="Past in Flames" />
+  <Cards CatID="41483" Quantity="1" Sideboard="false" Name="Sundial of the Infinite" />
+  <Cards CatID="38522" Quantity="1" Sideboard="false" Name="Gauntlet of Might" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="50830" Quantity="1" Sideboard="false" Name="Goblin Bombardment" />
+  <Cards CatID="43455" Quantity="1" Sideboard="false" Name="Fling" />
+  <Cards CatID="14925" Quantity="1" Sideboard="false" Name="Shivan Harvest" />
+  <Cards CatID="23032" Quantity="1" Sideboard="false" Name="Fiery Conclusion" />
+  <Cards CatID="19285" Quantity="1" Sideboard="false" Name="Bloodshot Cyclops" />
+  <Cards CatID="45696" Quantity="1" Sideboard="false" Name="Trading Post" />
+  <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="9757" Quantity="1" Sideboard="false" Name="Helm of Possession" />
+  <Cards CatID="57244" Quantity="1" Sideboard="false" Name="Culling Dais" />
+  <Cards CatID="34712" Quantity="1" Sideboard="false" Name="Carnage Altar" />
+  <Cards CatID="60831" Quantity="1" Sideboard="false" Name="Dualcaster Mage" />
+  <Cards CatID="49129" Quantity="1" Sideboard="false" Name="Wild Ricochet" />
+  <Cards CatID="45387" Quantity="1" Sideboard="false" Name="Reverberate" />
+  <Cards CatID="25941" Quantity="1" Sideboard="false" Name="Reiterate" />
+  <Cards CatID="63878" Quantity="1" Sideboard="false" Name="Heart-Piercer Manticore" />
+  <Cards CatID="37652" Quantity="1" Sideboard="false" Name="Mirari" />
+  <Cards CatID="55288" Quantity="1" Sideboard="false" Name="Word of Seizing" />
+  <Cards CatID="47917" Quantity="1" Sideboard="false" Name="Molten Primordial" />
+  <Cards CatID="45088" Quantity="1" Sideboard="false" Name="Mass Mutiny" />
+  <Cards CatID="33752" Quantity="1" Sideboard="false" Name="Disharmony" />
+  <Cards CatID="21187" Quantity="1" Sideboard="false" Name="Blind with Anger" />
+  <Cards CatID="18065" Quantity="1" Sideboard="false" Name="Custody Battle" />
+  <Cards CatID="18091" Quantity="1" Sideboard="false" Name="Insurrection" />
+  <Cards CatID="18085" Quantity="1" Sideboard="false" Name="Risky Move" />
+  <Cards CatID="62293" Quantity="1" Sideboard="false" Name="Frenzied Fugue" />
+  <Cards CatID="55161" Quantity="1" Sideboard="false" Name="Assault Suit" />
+  <Cards CatID="38365" Quantity="1" Sideboard="false" Name="Molten Psyche" />
+  <Cards CatID="28950" Quantity="1" Sideboard="false" Name="Boldwyr Heavyweights" />
+  <Cards CatID="27939" Quantity="1" Sideboard="false" Name="Winds of Change" />
+  <Cards CatID="54456" Quantity="1" Sideboard="false" Name="Cranial Archive" />
+  <Cards CatID="9733" Quantity="1" Sideboard="false" Name="Jinxed Idol" />
+  <Cards CatID="50390" Quantity="1" Sideboard="false" Name="Akroan Horse" />
+  <Cards CatID="35580" Quantity="1" Sideboard="false" Name="Bazaar Trader" />
+  <Cards CatID="55414" Quantity="1" Sideboard="false" Name="Humble Defector" />
+  <Cards CatID="61406" Quantity="1" Sideboard="false" Name="Harmless Offering" />
+  <Cards CatID="41476" Quantity="1" Sideboard="false" Name="Scrambleverse" />
+  <Cards CatID="35142" Quantity="1" Sideboard="false" Name="Valakut, the Molten Pinnacle" />
+  <Cards CatID="29323" Quantity="1" Sideboard="false" Name="Madblind Mountain" />
+  <Cards CatID="40684" Quantity="1" Sideboard="false" Name="Forgotten Cave" />
+  <Cards CatID="20021" Quantity="1" Sideboard="false" Name="Great Furnace" />
+  <Cards CatID="12393" Quantity="1" Sideboard="false" Name="Smoldering Crater" />
+  <Cards CatID="53480" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53370" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="53300" Quantity="6" Sideboard="false" Name="Mountain" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="48852" Quantity="1" Sideboard="true" Name="Kiki-Jiki, Mirror Breaker" />
+</Deck>
