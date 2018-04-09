@@ -66,7 +66,6 @@
   <Cards CatID="40552" Quantity="1" Sideboard="false" Name="Sigil Captain" />
   <Cards CatID="21715" Quantity="1" Sideboard="false" Name="Kira, Great Glass-Spinner" />
   <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
-  <Cards CatID="65018" Quantity="1" Sideboard="false" Name="Bellowing Aegisaur" />
   <Cards CatID="40709" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
   <Cards CatID="30166" Quantity="1" Sideboard="false" Name="Murkfiend Liege" />
   <Cards CatID="34818" Quantity="1" Sideboard="false" Name="Beastmaster Ascension" />
@@ -90,5 +89,6 @@
   <Cards CatID="29659" Quantity="1" Sideboard="false" Name="Mirrorweave" />
   <Cards CatID="59912" Quantity="1" Sideboard="false" Name="Altered Ego" />
   <Cards CatID="24329" Quantity="1" Sideboard="false" Name="Sprouting Phytohydra" />
+  <Cards CatID="66747" Quantity="1" Sideboard="false" Name="Tendershoot Dryad" />
   <Cards CatID="14974" Quantity="1" Sideboard="true" Name="Treva, the Renewer" />
 </Deck>

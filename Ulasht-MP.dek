@@ -28,7 +28,6 @@
   <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" />
   <Cards CatID="39884" Quantity="1" Sideboard="false" Name="Beast Within" />
   <Cards CatID="44285" Quantity="1" Sideboard="false" Name="Champion of Lambholt" />
-  <Cards CatID="12473" Quantity="1" Sideboard="false" Name="Deranged Hermit" />
   <Cards CatID="50266" Quantity="1" Sideboard="false" Name="Temple of Abandon" />
   <Cards CatID="24329" Quantity="1" Sideboard="false" Name="Sprouting Phytohydra" />
   <Cards CatID="32677" Quantity="1" Sideboard="false" Name="Coat of Arms" />
@@ -84,5 +83,6 @@
   <Cards CatID="12579" Quantity="1" Sideboard="false" Name="Defense of the Heart" />
   <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
   <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
+  <Cards CatID="66747" Quantity="1" Sideboard="false" Name="Tendershoot Dryad" />
   <Cards CatID="23833" Quantity="1" Sideboard="true" Name="Ulasht, the Hate Seed" />
 </Deck>
