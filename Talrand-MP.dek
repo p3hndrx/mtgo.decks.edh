@@ -11,7 +11,7 @@
   <Cards CatID="33588" Quantity="1" Sideboard="false" Name="Reset" />
   <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
-  <Cards CatID="38279" Quantity="1" Sideboard="false" Name="Sword of Body and Mind" />
+  <Cards CatID="61919" Quantity="1" Sideboard="false" Name="Metallurgic Summonings" />
   <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" />
   <Cards CatID="62073" Quantity="1" Sideboard="false" Name="Dynavolt Tower" />
   <Cards CatID="39730" Quantity="1" Sideboard="false" Name="Sword of War and Peace" />
@@ -65,7 +65,6 @@
   <Cards CatID="38419" Quantity="1" Sideboard="false" Name="Venser's Journal" />
   <Cards CatID="47809" Quantity="1" Sideboard="false" Name="Rapid Hybridization" />
   <Cards CatID="53628" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
-  <Cards CatID="34770" Quantity="1" Sideboard="false" Name="Rite of Replication" />
   <Cards CatID="41321" Quantity="1" Sideboard="false" Name="Elixir of Immortality" />
   <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
   <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
@@ -75,5 +74,6 @@
   <Cards CatID="65510" Quantity="1" Sideboard="false" Name="Primal Amulet" />
   <Cards CatID="61805" Quantity="1" Sideboard="false" Name="Aetherflux Reservoir" />
   <Cards CatID="57922" Quantity="1" Sideboard="false" Name="Jace's Sanctum" />
+  <Cards CatID="36584" Quantity="1" Sideboard="false" Name="Sphinx-Bone Wand" />
   <Cards CatID="45567" Quantity="1" Sideboard="true" Name="Talrand, Sky Summoner" />
 </Deck>
