@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="46401" Quantity="1" Sideboard="false" Name="Guttersnipe" />
+  <Cards CatID="36668" Quantity="1" Sideboard="false" Name="Kiln Fiend" />
+  <Cards CatID="61470" Quantity="1" Sideboard="false" Name="Mercurial Geists" />
+  <Cards CatID="62073" Quantity="1" Sideboard="false" Name="Dynavolt Tower" />
+  <Cards CatID="65510" Quantity="1" Sideboard="false" Name="Primal Amulet" />
+  <Cards CatID="36584" Quantity="1" Sideboard="false" Name="Sphinx-Bone Wand" />
+  <Cards CatID="42510" Quantity="1" Sideboard="false" Name="Charmbreaker Devils" />
+  <Cards CatID="61132" Quantity="1" Sideboard="false" Name="Docent of Perfection" />
+  <Cards CatID="48366" Quantity="1" Sideboard="false" Name="Nivix Cyclops" />
+  <Cards CatID="59868" Quantity="1" Sideboard="false" Name="Thing in the Ice" />
+  <Cards CatID="23719" Quantity="1" Sideboard="false" Name="Wee Dragonauts" />
+  <Cards CatID="61204" Quantity="1" Sideboard="false" Name="Weaver of Lightning" />
+  <Cards CatID="61198" Quantity="1" Sideboard="false" Name="Thermo-Alchemist" />
+  <Cards CatID="23703" Quantity="1" Sideboard="false" Name="Gelectrode" />
+  <Cards CatID="61336" Quantity="1" Sideboard="false" Name="Niblis of Frost" />
+  <Cards CatID="49413" Quantity="1" Sideboard="false" Name="Young Pyromancer" />
+  <Cards CatID="57922" Quantity="1" Sideboard="false" Name="Jace's Sanctum" />
+  <Cards CatID="61919" Quantity="1" Sideboard="false" Name="Metallurgic Summonings" />
+  <Cards CatID="64584" Quantity="1" Sideboard="false" Name="Swarm Intelligence" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="58559" Quantity="1" Sideboard="false" Name="Zada, Hedron Grinder" />
+  <Cards CatID="61226" Quantity="1" Sideboard="false" Name="Mirrorwing Dragon" />
+  <Cards CatID="61224" Quantity="1" Sideboard="false" Name="Bedlam Reveler" />
+  <Cards CatID="54108" Quantity="1" Sideboard="false" Name="Monastery Swiftspear" />
+  <Cards CatID="59385" Quantity="1" Sideboard="false" Name="Umara Entangler" />
+  <Cards CatID="59453" Quantity="1" Sideboard="false" Name="Stormchaser Mage" />
+  <Cards CatID="64760" Quantity="1" Sideboard="false" Name="Bloodwater Entity" />
+  <Cards CatID="57910" Quantity="1" Sideboard="false" Name="Jhessian Thief" />
+  <Cards CatID="36442" Quantity="1" Sideboard="false" Name="World at War" />
+  <Cards CatID="36732" Quantity="1" Sideboard="false" Name="Distortion Strike" />
+  <Cards CatID="43403" Quantity="1" Sideboard="false" Name="Artful Dodge" />
+  <Cards CatID="42712" Quantity="1" Sideboard="false" Name="Past in Flames" />
+  <Cards CatID="16673" Quantity="1" Sideboard="false" Name="Seize the Day" />
+  <Cards CatID="16637" Quantity="1" Sideboard="false" Name="Recoup" />
+  <Cards CatID="43267" Quantity="1" Sideboard="false" Name="Faithless Looting" />
+  <Cards CatID="42534" Quantity="1" Sideboard="false" Name="Think Twice" />
+  <Cards CatID="66653" Quantity="1" Sideboard="false" Name="Etali, Primal Storm" />
+  <Cards CatID="25535" Quantity="1" Sideboard="false" Name="Empty the Warrens" />
+  <Cards CatID="52754" Quantity="1" Sideboard="false" Name="Mind's Desire" />
+  <Cards CatID="37997" Quantity="1" Sideboard="false" Name="Assault Strobe" />
+  <Cards CatID="59551" Quantity="1" Sideboard="false" Name="Brute Strength" />
+  <Cards CatID="55524" Quantity="1" Sideboard="false" Name="Temur Battle Rage" />
+  <Cards CatID="48614" Quantity="1" Sideboard="false" Name="Brute Force" />
+  <Cards CatID="50632" Quantity="1" Sideboard="false" Name="Titan's Strength" />
+  <Cards CatID="27580" Quantity="1" Sideboard="false" Name="Fists of the Anvil" />
+  <Cards CatID="62737" Quantity="1" Sideboard="false" Name="Invigorated Rampage" />
+  <Cards CatID="22747" Quantity="1" Sideboard="false" Name="Enrage" />
+  <Cards CatID="52184" Quantity="1" Sideboard="false" Name="Sage of Hours" />
+  <Cards CatID="53117" Quantity="1" Sideboard="false" Name="Brainstorm" />
+  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
+  <Cards CatID="37388" Quantity="1" Sideboard="false" Name="Preordain" />
+  <Cards CatID="59505" Quantity="1" Sideboard="false" Name="Slip Through Space" />
+  <Cards CatID="36280" Quantity="1" Sideboard="false" Name="Serum Visions" />
+  <Cards CatID="46733" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="59764" Quantity="1" Sideboard="false" Name="Fevered Visions" />
+  <Cards CatID="45284" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="46805" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="53099" Quantity="1" Sideboard="false" Name="Volcanic Island" />
+  <Cards CatID="22655" Quantity="1" Sideboard="false" Name="Shivan Reef" />
+  <Cards CatID="42668" Quantity="1" Sideboard="false" Name="Sulfur Falls" />
+  <Cards CatID="51966" Quantity="1" Sideboard="false" Name="Temple of Epiphany" />
+  <Cards CatID="59754" Quantity="1" Sideboard="false" Name="Highland Lake" />
+  <Cards CatID="48376" Quantity="1" Sideboard="false" Name="Izzet Guildgate" />
+  <Cards CatID="55532" Quantity="1" Sideboard="false" Name="Swiftwater Cliffs" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="57466" Quantity="1" Sideboard="false" Name="Izzet Boilerworks" />
+  <Cards CatID="65108" Quantity="1" Sideboard="false" Name="Chart a Course" />
+  <Cards CatID="61699" Quantity="1" Sideboard="false" Name="Cathartic Reunion" />
+  <Cards CatID="55918" Quantity="1" Sideboard="false" Name="Tormenting Voice" />
+  <Cards CatID="53294" Quantity="1" Sideboard="false" Name="Divination" />
+  <Cards CatID="12615" Quantity="1" Sideboard="false" Name="Frantic Search" />
+  <Cards CatID="46799" Quantity="1" Sideboard="false" Name="Epic Experiment" />
+  <Cards CatID="37392" Quantity="1" Sideboard="false" Name="Time Reversal" />
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" />
+  <Cards CatID="53482" Quantity="12" Sideboard="false" Name="Island" />
+  <Cards CatID="53480" Quantity="12" Sideboard="false" Name="Mountain" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="48269" Quantity="1" Sideboard="true" Name="Melek, Izzet Paragon" />
+</Deck>
