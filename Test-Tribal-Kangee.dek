@@ -25,11 +25,9 @@
   <Cards CatID="52266" Quantity="1" Sideboard="false" Name="Rise of Eagles" />
   <Cards CatID="61927" Quantity="1" Sideboard="false" Name="Glint-Nest Crane" />
   <Cards CatID="54745" Quantity="1" Sideboard="false" Name="Junk Diver" />
-  <Cards CatID="52022" Quantity="1" Sideboard="false" Name="Eagle of the Watch" />
   <Cards CatID="62573" Quantity="1" Sideboard="false" Name="Ghirapur Osprey" />
   <Cards CatID="53975" Quantity="1" Sideboard="false" Name="Jeskai Windscout" />
   <Cards CatID="51294" Quantity="1" Sideboard="false" Name="Raven Familiar" />
-  <Cards CatID="61819" Quantity="1" Sideboard="false" Name="Dukhara Peafowl" />
   <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
   <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
@@ -44,7 +42,6 @@
   <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
   <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
   <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
-  <Cards CatID="65767" Quantity="1" Sideboard="false" Name="Curse of Verbosity" />
   <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
   <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
   <Cards CatID="66489" Quantity="1" Sideboard="false" Name="Radiant Destiny" />
@@ -59,11 +56,9 @@
   <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
   <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
   <Cards CatID="31963" Quantity="1" Sideboard="false" Name="Door of Destinies" />
-  <Cards CatID="50440" Quantity="1" Sideboard="false" Name="Swan Song" />
   <Cards CatID="63381" Quantity="1" Sideboard="false" Name="Sphinx's Revelation" />
   <Cards CatID="32694" Quantity="1" Sideboard="false" Name="Mind Spring" />
   <Cards CatID="205" Quantity="1" Sideboard="false" Name="Braingeyser" />
-  <Cards CatID="53117" Quantity="1" Sideboard="false" Name="Brainstorm" />
   <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" />
   <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
   <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
@@ -83,5 +78,10 @@
   <Cards CatID="38289" Quantity="1" Sideboard="false" Name="Seachrome Coast" />
   <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="40699" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="17811" Quantity="1" Sideboard="false" Name="Airborne Aid" />
+  <Cards CatID="17416" Quantity="1" Sideboard="false" Name="Soulcatchers' Aerie" />
+  <Cards CatID="36406" Quantity="1" Sideboard="false" Name="Gravitational Shift" />
+  <Cards CatID="19187" Quantity="1" Sideboard="false" Name="Coastal Piracy" />
+  <Cards CatID="50406" Quantity="1" Sideboard="false" Name="Bident of Thassa" />
   <Cards CatID="14347" Quantity="1" Sideboard="true" Name="Kangee, Aerie Keeper" />
 </Deck>
