@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="51096" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="65729" Quantity="1" Sideboard="false" Name="Licia, Sanguine Tribune" />
+  <Cards CatID="37138" Quantity="1" Sideboard="false" Name="Ajani Goldmane" />
+  <Cards CatID="62319" Quantity="1" Sideboard="false" Name="Ikra Shidiqi, the Usurper" />
+  <Cards CatID="45562" Quantity="1" Sideboard="false" Name="Rhox Faithmender" />
+  <Cards CatID="54180" Quantity="1" Sideboard="false" Name="Siege Rhino" />
+  <Cards CatID="36412" Quantity="1" Sideboard="false" Name="Jaddi Lifestrider" />
+  <Cards CatID="24689" Quantity="1" Sideboard="false" Name="Wall of Shards" />
+  <Cards CatID="50308" Quantity="1" Sideboard="false" Name="Erebos, God of the Dead" />
+  <Cards CatID="48342" Quantity="1" Sideboard="false" Name="Pontiff of Blight" />
+  <Cards CatID="65456" Quantity="1" Sideboard="false" Name="Belligerent Brontodon" />
+  <Cards CatID="27739" Quantity="1" Sideboard="false" Name="Condemn" />
+  <Cards CatID="56044" Quantity="1" Sideboard="false" Name="Assault Formation" />
+  <Cards CatID="28711" Quantity="1" Sideboard="false" Name="Doran, the Siege Tower" />
+  <Cards CatID="30218" Quantity="1" Sideboard="false" Name="Sapling of Colfenor" />
+  <Cards CatID="40470" Quantity="1" Sideboard="false" Name="Pyrohemia" />
+  <Cards CatID="24329" Quantity="1" Sideboard="false" Name="Sprouting Phytohydra" />
+  <Cards CatID="66741" Quantity="1" Sideboard="false" Name="Polyraptor" />
+  <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
+  <Cards CatID="53256" Quantity="1" Sideboard="false" Name="Wall of Essence" />
+  <Cards CatID="65326" Quantity="1" Sideboard="false" Name="Raptor Hatchling" />
+  <Cards CatID="15338" Quantity="1" Sideboard="false" Name="Aether Flash" />
+  <Cards CatID="62321" Quantity="1" Sideboard="false" Name="Sidar Kondo of Jamuraa" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="24333" Quantity="1" Sideboard="false" Name="Wakestone Gargoyle" />
+  <Cards CatID="61386" Quantity="1" Sideboard="false" Name="Tree of Perdition" />
+  <Cards CatID="42772" Quantity="1" Sideboard="false" Name="Tree of Redemption" />
+  <Cards CatID="19583" Quantity="1" Sideboard="false" Name="Wall of Stone" />
+  <Cards CatID="26281" Quantity="1" Sideboard="false" Name="Essence Warden" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="21373" Quantity="1" Sideboard="false" Name="Nature's Will" />
+  <Cards CatID="36462" Quantity="1" Sideboard="false" Name="Soul's Attendant" />
+  <Cards CatID="36192" Quantity="1" Sideboard="false" Name="Murderous Redcap" />
+  <Cards CatID="24607" Quantity="1" Sideboard="false" Name="Juniper Order Ranger" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
+  <Cards CatID="47645" Quantity="1" Sideboard="false" Name="Tower Defense" />
+  <Cards CatID="19742" Quantity="1" Sideboard="false" Name="Slagwurm Armor" />
+  <Cards CatID="36706" Quantity="1" Sideboard="false" Name="Eland Umbra" />
+  <Cards CatID="54430" Quantity="1" Sideboard="false" Name="Mardu Ascendancy" />
+  <Cards CatID="40615" Quantity="1" Sideboard="false" Name="Archangel of Strife" />
+  <Cards CatID="45694" Quantity="1" Sideboard="false" Name="Stuffy Doll" />
+  <Cards CatID="23069" Quantity="1" Sideboard="false" Name="Pariah's Shield" />
+  <Cards CatID="27298" Quantity="1" Sideboard="false" Name="Pariah" />
+  <Cards CatID="18898" Quantity="1" Sideboard="false" Name="Guilty Conscience" />
+  <Cards CatID="64496" Quantity="1" Sideboard="false" Name="Crested Sunmare" />
+  <Cards CatID="51376" Quantity="1" Sideboard="false" Name="Darksteel Mutation" />
+  <Cards CatID="50262" Quantity="1" Sideboard="false" Name="Fleecemane Lion" />
+  <Cards CatID="20329" Quantity="1" Sideboard="false" Name="Darksteel Colossus" />
+  <Cards CatID="39587" Quantity="1" Sideboard="false" Name="Blightsteel Colossus" />
+  <Cards CatID="38225" Quantity="1" Sideboard="false" Name="Darksteel Myr" />
+  <Cards CatID="63644" Quantity="1" Sideboard="false" Name="Oketra the True" />
+  <Cards CatID="66513" Quantity="1" Sideboard="false" Name="Zetalpa, Primal Dawn" />
+  <Cards CatID="27114" Quantity="1" Sideboard="false" Name="Squee, Goblin Nabob" />
+  <Cards CatID="62333" Quantity="1" Sideboard="true" Name="Saskia the Unyielding" />
+</Deck>

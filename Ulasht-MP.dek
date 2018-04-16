@@ -49,7 +49,6 @@
   <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
   <Cards CatID="15143" Quantity="1" Sideboard="false" Name="Horned Kavu" />
   <Cards CatID="31117" Quantity="1" Sideboard="false" Name="Vicious Shadows" />
-  <Cards CatID="18195" Quantity="1" Sideboard="false" Name="Kamahl, Fist of Krosa" />
   <Cards CatID="58779" Quantity="1" Sideboard="false" Name="Omnath, Locus of Rage" />
   <Cards CatID="44900" Quantity="1" Sideboard="false" Name="Fires of Yavimaya" />
   <Cards CatID="32881" Quantity="1" Sideboard="false" Name="Lurking Predators" />
@@ -84,5 +83,6 @@
   <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
   <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
   <Cards CatID="66747" Quantity="1" Sideboard="false" Name="Tendershoot Dryad" />
+  <Cards CatID="65326" Quantity="1" Sideboard="false" Name="Raptor Hatchling" />
   <Cards CatID="23833" Quantity="1" Sideboard="true" Name="Ulasht, the Hate Seed" />
 </Deck>

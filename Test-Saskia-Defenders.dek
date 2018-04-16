@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="51096" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="36436" Quantity="1" Sideboard="false" Name="Vent Sentinel" />
+  <Cards CatID="62277" Quantity="1" Sideboard="false" Name="Daretti, Ingenious Iconoclast" />
+  <Cards CatID="62319" Quantity="1" Sideboard="false" Name="Ikra Shidiqi, the Usurper" />
+  <Cards CatID="45562" Quantity="1" Sideboard="false" Name="Rhox Faithmender" />
+  <Cards CatID="12275" Quantity="1" Sideboard="false" Name="Wall of Junk" />
+  <Cards CatID="36412" Quantity="1" Sideboard="false" Name="Jaddi Lifestrider" />
+  <Cards CatID="24689" Quantity="1" Sideboard="false" Name="Wall of Shards" />
+  <Cards CatID="46625" Quantity="1" Sideboard="false" Name="Axebane Guardian" />
+  <Cards CatID="48342" Quantity="1" Sideboard="false" Name="Pontiff of Blight" />
+  <Cards CatID="65456" Quantity="1" Sideboard="false" Name="Belligerent Brontodon" />
+  <Cards CatID="55645" Quantity="1" Sideboard="false" Name="Grim Contest" />
+  <Cards CatID="56044" Quantity="1" Sideboard="false" Name="Assault Formation" />
+  <Cards CatID="28711" Quantity="1" Sideboard="false" Name="Doran, the Siege Tower" />
+  <Cards CatID="30218" Quantity="1" Sideboard="false" Name="Sapling of Colfenor" />
+  <Cards CatID="40470" Quantity="1" Sideboard="false" Name="Pyrohemia" />
+  <Cards CatID="24329" Quantity="1" Sideboard="false" Name="Sprouting Phytohydra" />
+  <Cards CatID="50120" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" />
+  <Cards CatID="53698" Quantity="1" Sideboard="false" Name="Hornet Nest" />
+  <Cards CatID="53256" Quantity="1" Sideboard="false" Name="Wall of Essence" />
+  <Cards CatID="13603" Quantity="1" Sideboard="false" Name="Crenellated Wall" />
+  <Cards CatID="15338" Quantity="1" Sideboard="false" Name="Aether Flash" />
+  <Cards CatID="62321" Quantity="1" Sideboard="false" Name="Sidar Kondo of Jamuraa" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
+  <Cards CatID="7445" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="6947" Quantity="1" Sideboard="false" Name="Enlightened Tutor" />
+  <Cards CatID="29132" Quantity="1" Sideboard="false" Name="Idyllic Tutor" />
+  <Cards CatID="24333" Quantity="1" Sideboard="false" Name="Wakestone Gargoyle" />
+  <Cards CatID="61386" Quantity="1" Sideboard="false" Name="Tree of Perdition" />
+  <Cards CatID="42772" Quantity="1" Sideboard="false" Name="Tree of Redemption" />
+  <Cards CatID="19583" Quantity="1" Sideboard="false" Name="Wall of Stone" />
+  <Cards CatID="23436" Quantity="1" Sideboard="false" Name="Carven Caryatid" />
+  <Cards CatID="28057" Quantity="1" Sideboard="false" Name="Nature's Lore" />
+  <Cards CatID="21373" Quantity="1" Sideboard="false" Name="Nature's Will" />
+  <Cards CatID="36462" Quantity="1" Sideboard="false" Name="Soul's Attendant" />
+  <Cards CatID="36602" Quantity="1" Sideboard="false" Name="Overgrown Battlement" />
+  <Cards CatID="53418" Quantity="1" Sideboard="false" Name="Wall of Mulch" />
+  <Cards CatID="33842" Quantity="1" Sideboard="false" Name="Three Visits" />
+  <Cards CatID="13797" Quantity="1" Sideboard="false" Name="Skyshroud Claim" />
+  <Cards CatID="47645" Quantity="1" Sideboard="false" Name="Tower Defense" />
+  <Cards CatID="19742" Quantity="1" Sideboard="false" Name="Slagwurm Armor" />
+  <Cards CatID="36706" Quantity="1" Sideboard="false" Name="Eland Umbra" />
+  <Cards CatID="50394" Quantity="1" Sideboard="false" Name="Colossus of Akros" />
+  <Cards CatID="40615" Quantity="1" Sideboard="false" Name="Archangel of Strife" />
+  <Cards CatID="24697" Quantity="1" Sideboard="false" Name="Woolly Razorback" />
+  <Cards CatID="16503" Quantity="1" Sideboard="false" Name="Decimate" />
+  <Cards CatID="50026" Quantity="1" Sideboard="false" Name="Wall of Blossoms" />
+  <Cards CatID="7025" Quantity="1" Sideboard="false" Name="Grim Feast" />
+  <Cards CatID="38119" Quantity="1" Sideboard="false" Name="Wall of Tanglecord" />
+  <Cards CatID="36804" Quantity="1" Sideboard="false" Name="Consuming Vapors" />
+  <Cards CatID="32777" Quantity="1" Sideboard="false" Name="Wall of Faith" />
+  <Cards CatID="50594" Quantity="1" Sideboard="false" Name="Guardians of Meletis" />
+  <Cards CatID="50996" Quantity="1" Sideboard="false" Name="Wall of Reverence" />
+  <Cards CatID="10547" Quantity="1" Sideboard="false" Name="Wall of Nets" />
+  <Cards CatID="36498" Quantity="1" Sideboard="false" Name="Stalwart Shield-Bearers" />
+  <Cards CatID="32881" Quantity="1" Sideboard="false" Name="Lurking Predators" />
+  <Cards CatID="36673" Quantity="1" Sideboard="false" Name="Warmonger's Chariot" />
+  <Cards CatID="19383" Quantity="1" Sideboard="false" Name="Rolling Stones" />
+  <Cards CatID="32389" Quantity="1" Sideboard="false" Name="Maelstrom Pulse" />
+  <Cards CatID="46443" Quantity="1" Sideboard="false" Name="Dreadbore" />
+  <Cards CatID="40752" Quantity="1" Sideboard="false" Name="Mortify" />
+  <Cards CatID="58671" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" />
+  <Cards CatID="64156" Quantity="1" Sideboard="false" Name="Scattered Groves" />
+  <Cards CatID="46501" Quantity="1" Sideboard="false" Name="Temple Garden" />
+  <Cards CatID="58691" Quantity="1" Sideboard="false" Name="Cinder Glade" />
+  <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
+  <Cards CatID="23592" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="59842" Quantity="1" Sideboard="false" Name="Fortified Village" />
+  <Cards CatID="59894" Quantity="1" Sideboard="false" Name="Game Trail" />
+  <Cards CatID="45320" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="45312" Quantity="1" Sideboard="false" Name="Rootbound Crag" />
+  <Cards CatID="42660" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="27757" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" />
+  <Cards CatID="53316" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="31311" Quantity="1" Sideboard="false" Name="Naya Panorama" />
+  <Cards CatID="31313" Quantity="1" Sideboard="false" Name="Jund Panorama" />
+  <Cards CatID="53478" Quantity="7" Sideboard="false" Name="Forest" />
+  <Cards CatID="53486" Quantity="3" Sideboard="false" Name="Swamp" />
+  <Cards CatID="53484" Quantity="5" Sideboard="false" Name="Plains" />
+  <Cards CatID="53480" Quantity="3" Sideboard="false" Name="Mountain" />
+  <Cards CatID="62333" Quantity="1" Sideboard="true" Name="Saskia the Unyielding" />
+</Deck>

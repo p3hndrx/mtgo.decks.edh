@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="22705" Quantity="1" Sideboard="false" Name="Weathered Wayfarer" />
+  <Cards CatID="19549" Quantity="1" Sideboard="false" Name="Savannah Lions" />
+  <Cards CatID="19277" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
+  <Cards CatID="15528" Quantity="1" Sideboard="false" Name="Fog" />
+  <Cards CatID="15652" Quantity="1" Sideboard="false" Name="Llanowar Elves" />
+  <Cards CatID="15408" Quantity="1" Sideboard="false" Name="Charcoal Diamond" />
+  <Cards CatID="15518" Quantity="1" Sideboard="false" Name="Fire Diamond" />
+  <Cards CatID="15672" Quantity="1" Sideboard="false" Name="Marble Diamond" />
+  <Cards CatID="15696" Quantity="1" Sideboard="false" Name="Moss Diamond" />
+  <Cards CatID="22955" Quantity="1" Sideboard="false" Name="Gift of Estates" />
+  <Cards CatID="15732" Quantity="1" Sideboard="false" Name="Pacifism" />
+  <Cards CatID="22307" Quantity="1" Sideboard="false" Name="Serra's Blessing" />
+  <Cards CatID="15918" Quantity="1" Sideboard="false" Name="Thorn Elemental" />
+  <Cards CatID="19211" Quantity="1" Sideboard="false" Name="Rhox" />
+  <Cards CatID="15654" Quantity="1" Sideboard="false" Name="Lone Wolf" />
+  <Cards CatID="15760" Quantity="1" Sideboard="false" Name="Pride of Lions" />
+  <Cards CatID="19203" Quantity="1" Sideboard="false" Name="Blinding Angel" />
+  <Cards CatID="22335" Quantity="1" Sideboard="false" Name="Marble Titan" />
+  <Cards CatID="22965" Quantity="1" Sideboard="false" Name="Hell's Caretaker" />
+  <Cards CatID="22753" Quantity="1" Sideboard="false" Name="Final Punishment" />
+  <Cards CatID="15512" Quantity="1" Sideboard="false" Name="Fervor" />
+  <Cards CatID="15790" Quantity="1" Sideboard="false" Name="Relentless Assault" />
+  <Cards CatID="15956" Quantity="1" Sideboard="false" Name="Verduran Enchantress" />
+  <Cards CatID="15398" Quantity="1" Sideboard="false" Name="Brushland" />
+  <Cards CatID="15636" Quantity="1" Sideboard="false" Name="Karplusan Forest" />
+  <Cards CatID="22613" Quantity="1" Sideboard="false" Name="Sulfurous Springs" />
+  <Cards CatID="22813" Quantity="1" Sideboard="false" Name="Loxodon Warhammer" />
+  <Cards CatID="22567" Quantity="1" Sideboard="false" Name="Howling Mine" />
+  <Cards CatID="22461" Quantity="1" Sideboard="false" Name="Storage Matrix" />
+  <Cards CatID="19417" Quantity="1" Sideboard="false" Name="Teferi's Puzzle Box" />
+  <Cards CatID="15742" Quantity="1" Sideboard="false" Name="Phyrexian Colossus" />
+  <Cards CatID="15640" Quantity="1" Sideboard="false" Name="Knighthood" />
+  <Cards CatID="15494" Quantity="1" Sideboard="false" Name="Engineered Plague" />
+  <Cards CatID="19353" Quantity="1" Sideboard="false" Name="Megrim" />
+  <Cards CatID="15504" Quantity="1" Sideboard="false" Name="Familiar Ground" />
+  <Cards CatID="15576" Quantity="1" Sideboard="false" Name="Goblin War Drums" />
+  <Cards CatID="19093" Quantity="1" Sideboard="false" Name="Fecundity" />
+  <Cards CatID="15978" Quantity="1" Sideboard="false" Name="Untamed Wilds" />
+  <Cards CatID="22803" Quantity="1" Sideboard="false" Name="Viridian Shaman" />
+  <Cards CatID="15838" Quantity="1" Sideboard="false" Name="Breath of Life" />
+  <Cards CatID="18961" Quantity="1" Sideboard="false" Name="Nekrataal" />
+  <Cards CatID="19457" Quantity="1" Sideboard="false" Name="Diabolic Tutor" />
+  <Cards CatID="22395" Quantity="1" Sideboard="false" Name="Boiling Seas" />
+  <Cards CatID="22311" Quantity="1" Sideboard="false" Name="Rootbreaker Wurm" />
+  <Cards CatID="15840" Quantity="1" Sideboard="false" Name="Sisay's Ring" />
+  <Cards CatID="22935" Quantity="1" Sideboard="false" Name="Fellwar Stone" />
+  <Cards CatID="15856" Quantity="1" Sideboard="false" Name="Spellbook" />
+  <Cards CatID="22329" Quantity="1" Sideboard="false" Name="Verdant Force" />
+  <Cards CatID="15366" Quantity="1" Sideboard="false" Name="Beast of Burden" />
+  <Cards CatID="22587" Quantity="1" Sideboard="false" Name="Razortooth Rats" />
+  <Cards CatID="19523" Quantity="1" Sideboard="false" Name="Gluttonous Zombie" />
+  <Cards CatID="19513" Quantity="1" Sideboard="false" Name="Severed Legion" />
+  <Cards CatID="22305" Quantity="1" Sideboard="false" Name="Thundermare" />
+  <Cards CatID="22507" Quantity="1" Sideboard="false" Name="Whip Sergeant" />
+  <Cards CatID="22769" Quantity="1" Sideboard="false" Name="Underworld Dreams" />
+  <Cards CatID="22695" Quantity="1" Sideboard="false" Name="Suntail Hawk" />
+  <Cards CatID="19003" Quantity="1" Sideboard="false" Name="Canyon Wildcat" />
+  <Cards CatID="22521" Quantity="1" Sideboard="false" Name="Utopia Tree" />
+  <Cards CatID="19165" Quantity="1" Sideboard="false" Name="Rushwood Dryad" />
+  <Cards CatID="15400" Quantity="1" Sideboard="false" Name="Bull Hippo" />
+  <Cards CatID="19289" Quantity="1" Sideboard="false" Name="Bog Wraith" />
+  <Cards CatID="22439" Quantity="1" Sideboard="false" Name="Plague Beetle" />
+  <Cards CatID="22585" Quantity="1" Sideboard="false" Name="Raise Dead" />
+  <Cards CatID="19095" Quantity="1" Sideboard="false" Name="Fertile Ground" />
+  <Cards CatID="19635" Quantity="1" Sideboard="false" Name="Naturalize" />
+  <Cards CatID="16008" Quantity="1" Sideboard="false" Name="Rampant Growth" />
+  <Cards CatID="15900" Quantity="6" Sideboard="false" Name="Swamp" />
+  <Cards CatID="15704" Quantity="6" Sideboard="false" Name="Mountain" />
+  <Cards CatID="15752" Quantity="8" Sideboard="false" Name="Plains" />
+  <Cards CatID="15538" Quantity="10" Sideboard="false" Name="Forest" />
+  <Cards CatID="15536" Quantity="2" Sideboard="false" Name="Forest" />
+  <Cards CatID="19455" Quantity="1" Sideboard="false" Name="Star Compass" />
+  <Cards CatID="62333" Quantity="1" Sideboard="true" Name="Saskia the Unyielding" />
+</Deck>
