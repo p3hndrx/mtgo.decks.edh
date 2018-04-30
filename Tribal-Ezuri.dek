@@ -61,7 +61,6 @@
   <Cards CatID="37361" Quantity="1" Sideboard="false" Name="Overwhelming Stampede" />
   <Cards CatID="65731" Quantity="1" Sideboard="false" Name="Herald's Horn" />
   <Cards CatID="19540" Quantity="1" Sideboard="false" Name="Elvish Champion" />
-  <Cards CatID="58074" Quantity="1" Sideboard="false" Name="Dwynen's Elite" />
   <Cards CatID="35773" Quantity="1" Sideboard="false" Name="Arbor Elf" />
   <Cards CatID="18667" Quantity="1" Sideboard="false" Name="Alpha Status" />
   <Cards CatID="56959" Quantity="1" Sideboard="false" Name="Coat of Arms" />
@@ -83,5 +82,6 @@
   <Cards CatID="53394" Quantity="10" Sideboard="false" Name="Forest" />
   <Cards CatID="43921" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" />
   <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="67809" Quantity="1" Sideboard="false" Name="Marwyn, the Nurturer" />
   <Cards CatID="54875" Quantity="1" Sideboard="true" Name="Ezuri, Renegade Leader" />
 </Deck>

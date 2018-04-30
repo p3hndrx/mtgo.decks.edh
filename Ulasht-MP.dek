@@ -55,7 +55,6 @@
   <Cards CatID="20786" Quantity="1" Sideboard="false" Name="Blasting Station" />
   <Cards CatID="18103" Quantity="1" Sideboard="false" Name="Mana Echoes" />
   <Cards CatID="26119" Quantity="1" Sideboard="false" Name="Pandemonium" />
-  <Cards CatID="17063" Quantity="1" Sideboard="false" Name="Parallel Evolution" />
   <Cards CatID="51396" Quantity="1" Sideboard="false" Name="Tempt with Discovery" />
   <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
   <Cards CatID="40470" Quantity="1" Sideboard="false" Name="Pyrohemia" />
@@ -84,5 +83,6 @@
   <Cards CatID="65400" Quantity="1" Sideboard="false" Name="Growing Rites of Itlimoc" />
   <Cards CatID="66747" Quantity="1" Sideboard="false" Name="Tendershoot Dryad" />
   <Cards CatID="65326" Quantity="1" Sideboard="false" Name="Raptor Hatchling" />
+  <Cards CatID="67855" Quantity="1" Sideboard="false" Name="Grand Warlord Radha" />
   <Cards CatID="23833" Quantity="1" Sideboard="true" Name="Ulasht, the Hate Seed" />
 </Deck>

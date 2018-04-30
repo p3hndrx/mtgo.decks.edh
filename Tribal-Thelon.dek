@@ -41,7 +41,6 @@
   <Cards CatID="14975" Quantity="1" Sideboard="false" Name="Saproling Symbiosis" />
   <Cards CatID="25377" Quantity="1" Sideboard="false" Name="Savage Thallid" />
   <Cards CatID="38351" Quantity="1" Sideboard="false" Name="Contagion Engine" />
-  <Cards CatID="30364" Quantity="1" Sideboard="false" Name="Spore Cloud" />
   <Cards CatID="30366" Quantity="1" Sideboard="false" Name="Spore Flower" />
   <Cards CatID="59792" Quantity="1" Sideboard="false" Name="Cryptolith Rite" />
   <Cards CatID="49507" Quantity="1" Sideboard="false" Name="Sporemound" />
@@ -69,9 +68,7 @@
   <Cards CatID="42660" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
   <Cards CatID="38974" Quantity="1" Sideboard="false" Name="Sylvan Tutor" />
   <Cards CatID="34818" Quantity="1" Sideboard="false" Name="Beastmaster Ascension" />
-  <Cards CatID="58056" Quantity="1" Sideboard="false" Name="Nissa, Vastwood Seer" />
   <Cards CatID="60126" Quantity="1" Sideboard="false" Name="Second Harvest" />
-  <Cards CatID="39361" Quantity="1" Sideboard="false" Name="Plaguemaw Beast" />
   <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
   <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" />
@@ -82,5 +79,8 @@
   <Cards CatID="63964" Quantity="1" Sideboard="false" Name="Quarry Hauler" />
   <Cards CatID="51128" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
   <Cards CatID="38701" Quantity="1" Sideboard="false" Name="Ashnod's Altar" />
+  <Cards CatID="67827" Quantity="1" Sideboard="false" Name="Sporecrown Thallid" />
+  <Cards CatID="67785" Quantity="1" Sideboard="false" Name="Fungal Plots" />
+  <Cards CatID="67875" Quantity="1" Sideboard="false" Name="Slimefoot, the Stowaway" />
   <Cards CatID="25755" Quantity="1" Sideboard="true" Name="Thelon of Havenwood" />
 </Deck>

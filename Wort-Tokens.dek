@@ -72,10 +72,10 @@
   <Cards CatID="29497" Quantity="1" Sideboard="false" Name="Mana Reflection" />
   <Cards CatID="15790" Quantity="1" Sideboard="false" Name="Relentless Assault" />
   <Cards CatID="50316" Quantity="1" Sideboard="false" Name="Xenagos, the Reveler" />
-  <Cards CatID="23833" Quantity="1" Sideboard="false" Name="Ulasht, the Hate Seed" />
   <Cards CatID="25941" Quantity="1" Sideboard="false" Name="Reiterate" />
   <Cards CatID="64158" Quantity="1" Sideboard="false" Name="Sheltered Thicket" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
   <Cards CatID="58559" Quantity="1" Sideboard="false" Name="Zada, Hedron Grinder" />
+  <Cards CatID="67855" Quantity="1" Sideboard="false" Name="Grand Warlord Radha" />
   <Cards CatID="29529" Quantity="1" Sideboard="true" Name="Wort, the Raidmother" />
 </Deck>

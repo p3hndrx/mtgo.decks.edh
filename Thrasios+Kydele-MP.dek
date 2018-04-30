@@ -15,7 +15,6 @@
   <Cards CatID="22741" Quantity="1" Sideboard="false" Name="Seedborn Muse" />
   <Cards CatID="57200" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" />
   <Cards CatID="47689" Quantity="1" Sideboard="false" Name="Unexpected Results" />
-  <Cards CatID="42560" Quantity="1" Sideboard="false" Name="Laboratory Maniac" />
   <Cards CatID="52975" Quantity="1" Sideboard="false" Name="Edric, Spymaster of Trest" />
   <Cards CatID="30120" Quantity="1" Sideboard="false" Name="Cold-Eyed Selkie" />
   <Cards CatID="62275" Quantity="1" Sideboard="false" Name="Selvala, Heart of the Wilds" />
@@ -82,6 +81,7 @@
   <Cards CatID="40606" Quantity="1" Sideboard="false" Name="Cultivate" />
   <Cards CatID="21003" Quantity="1" Sideboard="false" Name="Kodama's Reach" />
   <Cards CatID="65480" Quantity="1" Sideboard="false" Name="Tishana, Voice of Thunder" />
+  <Cards CatID="67877" Quantity="1" Sideboard="false" Name="Tatyova, Benthic Druid" />
   <Cards CatID="62307" Quantity="1" Sideboard="true" Name="Thrasios, Triton Hero" />
   <Cards CatID="62311" Quantity="1" Sideboard="true" Name="Kydele, Chosen of Kruphix" />
 </Deck>

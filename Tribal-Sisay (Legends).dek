@@ -6,7 +6,7 @@
   <Cards CatID="21759" Quantity="1" Sideboard="false" Name="Iwamori of the Open Fist" />
   <Cards CatID="56146" Quantity="1" Sideboard="false" Name="Surrak, the Hunt Caller" />
   <Cards CatID="47926" Quantity="1" Sideboard="false" Name="Illusionist's Bracers" />
-  <Cards CatID="16132" Quantity="1" Sideboard="false" Name="Gerrard Capashen" />
+  <Cards CatID="65701" Quantity="1" Sideboard="false" Name="Teferi's Protection" />
   <Cards CatID="59944" Quantity="1" Sideboard="false" Name="Odric, Lunarch Marshal" />
   <Cards CatID="45564" Quantity="1" Sideboard="false" Name="Odric, Master Tactician" />
   <Cards CatID="61308" Quantity="1" Sideboard="false" Name="Thalia, Heretic Cathar" />
@@ -45,7 +45,6 @@
   <Cards CatID="29230" Quantity="1" Sideboard="false" Name="Cream of the Crop" />
   <Cards CatID="39792" Quantity="1" Sideboard="false" Name="Vorinclex, Voice of Hunger" />
   <Cards CatID="45580" Quantity="1" Sideboard="false" Name="Yeva, Nature's Herald" />
-  <Cards CatID="40519" Quantity="1" Sideboard="false" Name="Mother of Runes" />
   <Cards CatID="61100" Quantity="1" Sideboard="false" Name="Gisela, the Broken Blade" />
   <Cards CatID="33614" Quantity="1" Sideboard="false" Name="Torsten Von Ursus" />
   <Cards CatID="61310" Quantity="1" Sideboard="false" Name="Thalia's Lancers" />
@@ -76,7 +75,8 @@
   <Cards CatID="51747" Quantity="1" Sideboard="false" Name="Karametra, God of Harvests" />
   <Cards CatID="28327" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
   <Cards CatID="65707" Quantity="1" Sideboard="false" Name="Mirri, Weatherlight Duelist" />
-  <Cards CatID="65771" Quantity="1" Sideboard="false" Name="Nazahn, Revered Bladesmith" />
   <Cards CatID="65669" Quantity="1" Sideboard="false" Name="Hammer of Nazahn" />
+  <Cards CatID="67797" Quantity="1" Sideboard="false" Name="Kamahl's Druidic Vow" />
+  <Cards CatID="67543" Quantity="1" Sideboard="false" Name="Urza's Ruinous Blast" />
   <Cards CatID="42238" Quantity="1" Sideboard="true" Name="Captain Sisay" />
 </Deck>

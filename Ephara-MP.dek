@@ -11,7 +11,6 @@
   <Cards CatID="10625" Quantity="1" Sideboard="false" Name="Soul Warden" />
   <Cards CatID="43913" Quantity="1" Sideboard="false" Name="Deadeye Navigator" />
   <Cards CatID="46423" Quantity="1" Sideboard="false" Name="Detention Sphere" />
-  <Cards CatID="25587" Quantity="1" Sideboard="false" Name="Draining Whelk" />
   <Cards CatID="26543" Quantity="1" Sideboard="false" Name="Dust Elemental" />
   <Cards CatID="60282" Quantity="1" Sideboard="false" Name="Eerie Interlude" />
   <Cards CatID="34624" Quantity="1" Sideboard="false" Name="Emeria, the Sky Ruin" />
@@ -84,5 +83,6 @@
   <Cards CatID="52118" Quantity="1" Sideboard="false" Name="Dictate of Kruphix" />
   <Cards CatID="64564" Quantity="1" Sideboard="false" Name="Nimble Obstructionist" />
   <Cards CatID="29547" Quantity="1" Sideboard="false" Name="Thistledown Liege" />
+  <Cards CatID="67557" Quantity="1" Sideboard="false" Name="Blink of an Eye" />
   <Cards CatID="51549" Quantity="1" Sideboard="true" Name="Ephara, God of the Polis" />
 </Deck>

@@ -73,7 +73,6 @@
   <Cards CatID="54999" Quantity="1" Sideboard="false" Name="Cathars' Crusade" />
   <Cards CatID="53663" Quantity="1" Sideboard="false" Name="Resolute Archangel" />
   <Cards CatID="26594" Quantity="1" Sideboard="false" Name="Venser, Shaper Savant" />
-  <Cards CatID="25587" Quantity="1" Sideboard="false" Name="Draining Whelk" />
   <Cards CatID="52791" Quantity="1" Sideboard="false" Name="Palinchron" />
   <Cards CatID="28463" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
   <Cards CatID="45582" Quantity="1" Sideboard="false" Name="Thragtusk" />
@@ -89,5 +88,6 @@
   <Cards CatID="61801" Quantity="1" Sideboard="false" Name="Panharmonicon" />
   <Cards CatID="53203" Quantity="1" Sideboard="false" Name="Brago, King Eternal" />
   <Cards CatID="66761" Quantity="1" Sideboard="false" Name="Azor, the Lawbringer" />
+  <Cards CatID="67557" Quantity="1" Sideboard="false" Name="Blink of an Eye" />
   <Cards CatID="51416" Quantity="1" Sideboard="true" Name="Roon of the Hidden Realm" />
 </Deck>

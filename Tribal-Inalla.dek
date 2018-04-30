@@ -84,11 +84,11 @@
   <Cards CatID="62313" Quantity="1" Sideboard="false" Name="Ludevic, Necro-Alchemist" />
   <Cards CatID="50152" Quantity="1" Sideboard="false" Name="Omenspeaker" />
   <Cards CatID="57343" Quantity="1" Sideboard="false" Name="Shadowmage Infiltrator" />
-  <Cards CatID="59453" Quantity="1" Sideboard="false" Name="Stormchaser Mage" />
   <Cards CatID="25367" Quantity="1" Sideboard="false" Name="Teferi, Mage of Zhalfir" />
   <Cards CatID="59433" Quantity="1" Sideboard="false" Name="Jori En, Ruin Diver" />
   <Cards CatID="28372" Quantity="1" Sideboard="false" Name="Fallowsage" />
   <Cards CatID="36661" Quantity="1" Sideboard="false" Name="Enclave Cryptologist" />
   <Cards CatID="20331" Quantity="1" Sideboard="false" Name="Memnarch" />
+  <Cards CatID="67581" Quantity="1" Sideboard="false" Name="Naban, Dean of Iteration" />
   <Cards CatID="65737" Quantity="1" Sideboard="true" Name="Inalla, Archmage Ritualist" />
 </Deck>

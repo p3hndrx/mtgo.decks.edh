@@ -26,7 +26,6 @@
   <Cards CatID="21940" Quantity="1" Sideboard="false" Name="Michiko Konda, Truth Seeker" />
   <Cards CatID="39964" Quantity="1" Sideboard="false" Name="Norn's Annex" />
   <Cards CatID="39878" Quantity="1" Sideboard="false" Name="Chancellor of the Annex" />
-  <Cards CatID="21859" Quantity="1" Sideboard="false" Name="Patron of the Kitsune" />
   <Cards CatID="40670" Quantity="1" Sideboard="false" Name="Righteous Cause" />
   <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" />
   <Cards CatID="10209" Quantity="1" Sideboard="false" Name="Ensnaring Bridge" />
@@ -77,5 +76,6 @@
   <Cards CatID="53384" Quantity="2" Sideboard="false" Name="Plains" />
   <Cards CatID="23430" Quantity="1" Sideboard="false" Name="Ghosts of the Innocent" />
   <Cards CatID="64526" Quantity="1" Sideboard="false" Name="Saving Grace" />
+  <Cards CatID="67473" Quantity="1" Sideboard="false" Name="Baird, Steward of Argive" />
   <Cards CatID="27186" Quantity="1" Sideboard="true" Name="Cho-Manno, Revolutionary" />
 </Deck>

@@ -7,7 +7,6 @@
   <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
   <Cards CatID="64702" Quantity="1" Sideboard="false" Name="Wildfire Eternal" />
   <Cards CatID="59673" Quantity="1" Sideboard="false" Name="Goblin Dark-Dwellers" />
-  <Cards CatID="65741" Quantity="1" Sideboard="false" Name="Izzet Chemister" />
   <Cards CatID="66827" Quantity="1" Sideboard="false" Name="The Immortal Sun" />
   <Cards CatID="63852" Quantity="1" Sideboard="false" Name="Combat Celebrant" />
   <Cards CatID="53191" Quantity="1" Sideboard="false" Name="Scourge of the Throne" />
@@ -78,5 +77,6 @@
   <Cards CatID="12393" Quantity="1" Sideboard="false" Name="Smoldering Crater" />
   <Cards CatID="53300" Quantity="2" Sideboard="false" Name="Mountain" />
   <Cards CatID="58745" Quantity="1" Sideboard="false" Name="Rolling Thunder" />
+  <Cards CatID="67899" Quantity="1" Sideboard="false" Name="Helm of the Host" />
   <Cards CatID="66653" Quantity="1" Sideboard="true" Name="Etali, Primal Storm" />
 </Deck>

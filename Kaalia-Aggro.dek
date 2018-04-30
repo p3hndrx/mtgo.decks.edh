@@ -46,7 +46,6 @@
   <Cards CatID="47453" Quantity="1" Sideboard="false" Name="Godless Shrine" />
   <Cards CatID="22935" Quantity="1" Sideboard="false" Name="Fellwar Stone" />
   <Cards CatID="41385" Quantity="1" Sideboard="false" Name="Rune-Scarred Demon" />
-  <Cards CatID="43267" Quantity="1" Sideboard="false" Name="Faithless Looting" />
   <Cards CatID="64140" Quantity="1" Sideboard="false" Name="Canyon Slough" />
   <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
   <Cards CatID="40656" Quantity="1" Sideboard="false" Name="Command Tower" />
@@ -97,5 +96,6 @@
   <Cards CatID="45414" Quantity="1" Sideboard="false" Name="Thundermaw Hellkite" />
   <Cards CatID="43935" Quantity="1" Sideboard="false" Name="Gisela, Blade of Goldnight" />
   <Cards CatID="37574" Quantity="1" Sideboard="false" Name="Baneslayer Angel" />
+  <Cards CatID="67637" Quantity="1" Sideboard="false" Name="Demonlord Belzenlok" />
   <Cards CatID="40640" Quantity="1" Sideboard="true" Name="Kaalia of the Vast" />
 </Deck>
