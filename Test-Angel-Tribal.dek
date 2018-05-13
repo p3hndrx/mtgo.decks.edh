@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="12739" Quantity="1" Sideboard="false" Name="Radiant, Archangel" />
+  <Cards CatID="27106" Quantity="1" Sideboard="false" Name="Reya Dawnbringer" />
+  <Cards CatID="67517" Quantity="1" Sideboard="false" Name="Lyra Dawnbringer" />
+  <Cards CatID="57158" Quantity="1" Sideboard="false" Name="Iona, Shield of Emeria" />
+  <Cards CatID="61100" Quantity="1" Sideboard="false" Name="Gisela, the Broken Blade" />
+  <Cards CatID="61098" Quantity="1" Sideboard="false" Name="Bruna, the Fading Light" />
+  <Cards CatID="53578" Quantity="1" Sideboard="false" Name="Avacyn, Guardian Angel" />
+  <Cards CatID="43823" Quantity="1" Sideboard="false" Name="Avacyn, Angel of Hope" />
+  <Cards CatID="26183" Quantity="1" Sideboard="false" Name="Akroma, Angel of Wrath" />
+  <Cards CatID="24643" Quantity="1" Sideboard="false" Name="Adarkar Valkyrie" />
+  <Cards CatID="59475" Quantity="1" Sideboard="false" Name="Linvala, the Preserver" />
+  <Cards CatID="53147" Quantity="1" Sideboard="false" Name="Decree of Justice" />
+  <Cards CatID="49403" Quantity="1" Sideboard="false" Name="Angelic Accord" />
+  <Cards CatID="34816" Quantity="1" Sideboard="false" Name="Luminarch Ascension" />
+  <Cards CatID="12223" Quantity="1" Sideboard="false" Name="Opal Archangel" />
+  <Cards CatID="67913" Quantity="1" Sideboard="false" Name="Mox Amber" />
+  <Cards CatID="65506" Quantity="1" Sideboard="false" Name="Pillar of Origins" />
+  <Cards CatID="65546" Quantity="1" Sideboard="false" Name="Unclaimed Territory" />
+  <Cards CatID="45706" Quantity="1" Sideboard="false" Name="Gilded Lotus" />
+  <Cards CatID="39702" Quantity="1" Sideboard="false" Name="Caged Sun" />
+  <Cards CatID="25895" Quantity="1" Sideboard="false" Name="Gauntlet of Power" />
+  <Cards CatID="58511" Quantity="1" Sideboard="false" Name="Hedron Archive" />
+  <Cards CatID="54711" Quantity="1" Sideboard="false" Name="Worn Powerstone" />
+  <Cards CatID="53161" Quantity="1" Sideboard="false" Name="Mana Vault" />
+  <Cards CatID="20442" Quantity="1" Sideboard="false" Name="Ur-Golem's Eye" />
+  <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="58981" Quantity="1" Sideboard="false" Name="Thran Dynamo" />
+  <Cards CatID="59103" Quantity="1" Sideboard="false" Name="Temple of the False God" />
+  <Cards CatID="65532" Quantity="1" Sideboard="false" Name="Vanquisher's Banner" />
+  <Cards CatID="13031" Quantity="1" Sideboard="false" Name="Urza's Incubator" />
+  <Cards CatID="17765" Quantity="1" Sideboard="false" Name="Shared Triumph" />
+  <Cards CatID="66489" Quantity="1" Sideboard="false" Name="Radiant Destiny" />
+  <Cards CatID="30222" Quantity="1" Sideboard="false" Name="Endless Horizons" />
+  <Cards CatID="36855" Quantity="1" Sideboard="false" Name="Land Tax" />
+  <Cards CatID="27540" Quantity="1" Sideboard="false" Name="Windborn Muse" />
+  <Cards CatID="50302" Quantity="1" Sideboard="false" Name="Heliod, God of the Sun" />
+  <Cards CatID="61102" Quantity="1" Sideboard="false" Name="Selfless Spirit" />
+  <Cards CatID="63618" Quantity="1" Sideboard="false" Name="Cast Out" />
+  <Cards CatID="31067" Quantity="1" Sideboard="false" Name="Angelsong" />
+  <Cards CatID="23619" Quantity="1" Sideboard="false" Name="To Arms!" />
+  <Cards CatID="26744" Quantity="1" Sideboard="false" Name="Marshaling Cry" />
+  <Cards CatID="66827" Quantity="1" Sideboard="false" Name="The Immortal Sun" />
+  <Cards CatID="9761" Quantity="1" Sideboard="false" Name="Pearl Medallion" />
+  <Cards CatID="64128" Quantity="1" Sideboard="false" Name="Oketra's Monument" />
+  <Cards CatID="40544" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="59878" Quantity="1" Sideboard="false" Name="Declaration in Stone" />
+  <Cards CatID="49395" Quantity="1" Sideboard="false" Name="Archangel of Thune" />
+  <Cards CatID="57792" Quantity="1" Sideboard="false" Name="Archangel of Tithes" />
+  <Cards CatID="37574" Quantity="1" Sideboard="false" Name="Baneslayer Angel" />
+  <Cards CatID="62611" Quantity="1" Sideboard="false" Name="Exquisite Archangel" />
+  <Cards CatID="53901" Quantity="1" Sideboard="false" Name="Aegis Angel" />
+  <Cards CatID="64490" Quantity="1" Sideboard="false" Name="Angel of Condemnation" />
+  <Cards CatID="44031" Quantity="1" Sideboard="false" Name="Angel of Jubilation" />
+  <Cards CatID="40615" Quantity="1" Sideboard="false" Name="Archangel of Strife" />
+  <Cards CatID="19203" Quantity="1" Sideboard="false" Name="Blinding Angel" />
+  <Cards CatID="39878" Quantity="1" Sideboard="false" Name="Chancellor of the Annex" />
+  <Cards CatID="58663" Quantity="1" Sideboard="false" Name="Emeria Shepherd" />
+  <Cards CatID="12601" Quantity="1" Sideboard="false" Name="Karmic Guide" />
+  <Cards CatID="53663" Quantity="1" Sideboard="false" Name="Resolute Archangel" />
+  <Cards CatID="38443" Quantity="1" Sideboard="false" Name="Sunblast Angel" />
+  <Cards CatID="49541" Quantity="1" Sideboard="false" Name="Seraph of the Sword" />
+  <Cards CatID="59182" Quantity="1" Sideboard="false" Name="Herald of the Host" />
+  <Cards CatID="56650" Quantity="1" Sideboard="false" Name="Avenging Angel" />
+  <Cards CatID="61076" Quantity="1" Sideboard="false" Name="Subjugator Angel" />
+  <Cards CatID="34624" Quantity="1" Sideboard="false" Name="Emeria, the Sky Ruin" />
+  <Cards CatID="29361" Quantity="1" Sideboard="false" Name="Mistveil Plains" />
+  <Cards CatID="53051" Quantity="1" Sideboard="false" Name="Secluded Steppe" />
+  <Cards CatID="64872" Quantity="1" Sideboard="false" Name="Desert of the True" />
+  <Cards CatID="53484" Quantity="12" Sideboard="false" Name="Plains" />
+  <Cards CatID="53390" Quantity="13" Sideboard="false" Name="Plains" />
+  <Cards CatID="53384" Quantity="5" Sideboard="false" Name="Plains" />
+  <Cards CatID="36656" Quantity="1" Sideboard="true" Name="Linvala, Keeper of Silence" />
+</Deck>
