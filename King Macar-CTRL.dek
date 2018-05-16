@@ -9,7 +9,6 @@
   <Cards CatID="51172" Quantity="2" Sideboard="false" Name="Swamp" />
   <Cards CatID="42566" Quantity="1" Sideboard="false" Name="Skirsdag High Priest" />
   <Cards CatID="9961" Quantity="1" Sideboard="false" Name="Puppet Strings" />
-  <Cards CatID="41183" Quantity="1" Sideboard="false" Name="Cemetery Reaper" />
   <Cards CatID="52631" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
   <Cards CatID="49475" Quantity="1" Sideboard="false" Name="Strionic Resonator" />
   <Cards CatID="19859" Quantity="1" Sideboard="false" Name="Promise of Power" />
@@ -78,7 +77,6 @@
   <Cards CatID="61384" Quantity="1" Sideboard="false" Name="Distended Mindbender" />
   <Cards CatID="57200" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" />
   <Cards CatID="36362" Quantity="1" Sideboard="false" Name="Artisan of Kozilek" />
-  <Cards CatID="45572" Quantity="1" Sideboard="false" Name="Nefarox, Overlord of Grixis" />
   <Cards CatID="43873" Quantity="1" Sideboard="false" Name="Harvester of Souls" />
   <Cards CatID="58399" Quantity="1" Sideboard="false" Name="Ob Nixilis Reignited" />
   <Cards CatID="40086" Quantity="1" Sideboard="false" Name="Sheoldred, Whispering One" />
@@ -86,5 +84,7 @@
   <Cards CatID="41263" Quantity="1" Sideboard="false" Name="Sorin Markov" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
   <Cards CatID="65250" Quantity="1" Sideboard="false" Name="Revel in Riches" />
+  <Cards CatID="67941" Quantity="1" Sideboard="false" Name="Cabal Stronghold" />
+  <Cards CatID="20824" Quantity="1" Sideboard="false" Name="Cranial Plating" />
   <Cards CatID="52114" Quantity="1" Sideboard="true" Name="King Macar, the Gold-Cursed" />
 </Deck>

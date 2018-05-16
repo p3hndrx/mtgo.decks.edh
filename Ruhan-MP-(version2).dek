@@ -17,7 +17,6 @@
   <Cards CatID="21426" Quantity="1" Sideboard="false" Name="Tenza, Godo's Maul" />
   <Cards CatID="10117" Quantity="1" Sideboard="false" Name="Propaganda" />
   <Cards CatID="43935" Quantity="1" Sideboard="false" Name="Gisela, Blade of Goldnight" />
-  <Cards CatID="41387" Quantity="1" Sideboard="false" Name="Grand Abolisher" />
   <Cards CatID="39886" Quantity="1" Sideboard="false" Name="Puresteel Paladin" />
   <Cards CatID="52016" Quantity="1" Sideboard="false" Name="Iroas, God of Victory" />
   <Cards CatID="40775" Quantity="1" Sideboard="false" Name="Return to Dust" />
@@ -87,5 +86,6 @@
   <Cards CatID="43979" Quantity="1" Sideboard="false" Name="Tamiyo, the Moon Sage" />
   <Cards CatID="57088" Quantity="1" Sideboard="false" Name="Tezzeret the Seeker" />
   <Cards CatID="59019" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="67489" Quantity="1" Sideboard="false" Name="Danitha Capashen, Paragon" />
   <Cards CatID="40641" Quantity="1" Sideboard="true" Name="Ruhan of the Fomori" />
 </Deck>
